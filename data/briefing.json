@@ -1,6 +1,6 @@
 {
   "date": "2026-07-18",
-  "updatedAt": "2026-07-18T10:18:55.650Z",
+  "updatedAt": "2026-07-18T10:33:26.878Z",
   "stories": [
     {
       "category": "טכנולוגיה",
@@ -349,9 +349,27 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "אזעקות בירדן ובכווית בשל שיגורים מאיראן",
+      "title": "''ויקראם-1'', הטיל המסלולי הראשון אי פעם של חברה פרטית הודית, שוגר בהצלחה והציב את מטעניו במסלול סביב כדור הארץ",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957166.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957165.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "צה''ל: שוגר מיירט לעבר מטרת שווא בדרום לבנון",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957160.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "השחקנית שושיק שני הלכה לעולמה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957156.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -367,18 +385,9 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "''ויקראם-1'', הטיל המסלולי הראשון אי פעם של חברה פרטית הודית, שוגר בהצלחה והציב את מטעניו במסלול סביב כדור הארץ",
+      "title": "אזעקות בירדן ובכווית בשל שיגורים מאיראן",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957165.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "צה''ל מאשר: מטוסי התדלוק של צבא ארה''ב יחנו בבסיסי חיל האוויר",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957163.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957166.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -403,9 +412,9 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "צה''ל: שוגר מיירט לעבר מטרת שווא בדרום לבנון",
+      "title": "צה''ל מאשר: מטוסי התדלוק של צבא ארה''ב יחנו בבסיסי חיל האוויר",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957160.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957163.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -487,15 +496,6 @@
       "title": "משמרות המהפכה: מדינות המארחות כוחות אמריקניים צריכות לצפות ל''תגובות תואמות'' אם שטחן ישמש לתקיפות על איראן",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957152.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "השחקנית שושיק שני הלכה לעולמה",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957156.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
