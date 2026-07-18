@@ -1,6 +1,6 @@
 {
   "date": "2026-07-18",
-  "updatedAt": "2026-07-18T11:49:24.719Z",
+  "updatedAt": "2026-07-18T12:29:39.623Z",
   "stories": [
     {
       "category": "טכנולוגיה",
@@ -806,15 +806,6 @@
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "טילים שוגרו לירדן; ארה\"ב: \"לשקול מחדש נסיעות למזה\"ת\"",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-71935",
-      "image": "https://cdn.i24news.tv/uploads/c0/73/ee/8f/c8/37/2c/2f/a2/9a/37/c0/ce/28/3d/e4/c073ee8fc8372c2fa29a37c0ce283de4.jpg?width=350",
-      "publishedAt": ""
-    },
-    {
-      "category": "ישראל",
-      "source": "i24NEWS",
       "title": "אוחנה: \"ראבילו נבחר כחוק, מבחינתי הדלת של משרד המבקר פתוחה בפניו\" | ריאיון",
       "summary": "",
       "url": "https://www.i24news.tv/he/news/news/politics/artc-71956",
@@ -833,10 +824,10 @@
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "לאחר ויכוח: בן 90 דרס נער ואישה בחווה בגוש עציון - ונעצר קרא עוד..",
-      "summary": "לאחר ויכוח: בן 90 דרס נער ואישה בחווה בגוש עציון - ונעצר",
-      "url": "https://www.i24news.tv/he/news/news/local/artc-bba74333",
-      "image": "https://cdn.i24news.tv/uploads/5b/cb/84/f1/0d/88/4c/cf/24/51/3a/5b/d4/e1/cb/65/5bcb84f10d884ccf24513a5bd4e1cb65.jpg?width=750",
+      "title": "השיגורים לירדן נמשכים: אזעקות הופעלו במדינה בעקבות ארבעה כטב\"מים | עדכונים שוטפים",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-71935",
+      "image": "",
       "publishedAt": ""
     },
     {
@@ -865,9 +856,27 @@
       "url": "https://www.sport5.co.il/articles.aspx?FolderID=8166&docID=552244",
       "image": "",
       "publishedAt": ""
+    },
+    {
+      "category": "דני אבדיה",
+      "source": "חדשות דני אבדיה",
+      "title": "בארצות הברית חלוקים: פורטלנד פגעה בדני אבדיה הקיץ?",
+      "summary": "בארצות הברית חלוקים: פורטלנד פגעה בדני אבדיה הקיץ? &nbsp;&nbsp; ספורט 1",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TUWNwZkpSY3oxbEdqdnQxX1dIdlE5ejEyVV84bDVUTnFSWGsxVjRGMkZjRTlfUXZ4TU5Ndm5PNXBxZmcxX1Z1OWYwT21UV0ZoemUtMFZqRG1OWXJuRExvR0xDR1BPQUZXbnBkVk5DM3NTRDA?oc=5",
+      "image": "",
+      "publishedAt": "Sat, 18 Jul 2026 12:24:08 GMT"
     }
   ],
   "flashes": [
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "מונדיאל 2026-המשחק על המקום השלישי: צרפת - אנגליה (00:00)",
+      "summary": "",
+      "url": "https://rotter.net/forum/scoops1/957174.shtml",
+      "image": "",
+      "publishedAt": ""
+    },
     {
       "category": "מבזקים",
       "source": "רוטר",
@@ -880,72 +889,18 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "יש שופטים בלונדון: התביעה נגד לוחם המילואים קרסה - והארגון הפרו-פלסטיני ישלם",
+      "title": "ירדן - דיווחים על טילים איראניים שפגעו ישירות בבסיס האמריקני בירדן",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957167.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957173.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "כווית: תקיפה איראנית חדשה הבוקר על מתקן התפלת מים ותחנת כח. שריפה פרצה בחלקים של תחנת הכח",
+      "title": "תקיפות רחפנים אוקראיניות על בתי הזיקוק ברוסיה כבר משפיעות על עליית המחיר לצרכן בארה''ב",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957157.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "ממדאני נמצא בדיונים כדי להביא למעצר נתניהו בעצרת האו''ם בספטמבר",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957169.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "אזעקות בירדן ובכווית בשל שיגורים מאיראן",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957166.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "איראן - שיקום מנהרות Shahid Mirzaei שנפגעו ע''י האמריקאים ( תמונת המנהרות שעכשיו נחשפות לציבור)",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957172.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "גרמניה בדריכות שיא - ומכריזה על שינוי בכוננות: ''להיערך לפיגועים בכל עת''",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957168.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "מוסקווה - מרכז עיבוד ההזמנות ענקי בגודלו ברוסיה. נהרס כליל בעקבות מתקפה אוקראית שגרמה שריפה ענקית והשמדתו.",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957161.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "התקופה הקשה של חנן גולדבלט. אשתו סועדת אותו במסירות",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957149.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957177.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -961,9 +916,27 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "השחקנית שושיק שני הלכה לעולמה",
+      "title": "ממדאני נמצא בדיונים כדי להביא למעצר נתניהו בעצרת האו''ם בספטמבר",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957156.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957169.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "אזעקה בבחרין מתקיפה איראנית",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957175.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "טרו קריים אמריקני:רצח גרג סמארט:כשמורה בת 22 למדיה ווידאו בתיכון משכנעת תלמיד בן 15 לרצוח בשבילה את בעלה.",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957176.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -979,9 +952,18 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "צפון קפריסין (שטח הכיבוש הטורקי באי קפריסין): מטוסי קרב טורקיים נוספים הגיעו לאי. הם ביצעו יעפים מעל העיר קירניה",
+      "title": "גרמניה בדריכות שיא - ומכריזה על שינוי בכוננות: ''להיערך לפיגועים בכל עת''",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957162.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957168.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "אזעקות בירדן ובכווית בשל שיגורים מאיראן",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957166.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -991,6 +973,69 @@
       "title": "ביקורת חריפה בשב''כ נגד זיני. מתכחש לטרור היהודי",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957129.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "כווית: תקיפה איראנית חדשה הבוקר על מתקן התפלת מים ותחנת כח. שריפה פרצה בחלקים של תחנת הכח",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957157.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "איראן - שיקום מנהרות Shahid Mirzaei שנפגעו ע''י האמריקאים ( תמונת המנהרות שעכשיו נחשפות לציבור)",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957172.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "התקופה הקשה של חנן גולדבלט. אשתו סועדת אותו במסירות",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957149.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "יש שופטים בלונדון: התביעה נגד לוחם המילואים קרסה - והארגון הפרו-פלסטיני ישלם",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957167.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "מוסקווה - מרכז עיבוד ההזמנות ענקי בגודלו ברוסיה. נהרס כליל בעקבות מתקפה אוקראית שגרמה שריפה ענקית והשמדתו.",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957161.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "השחקנית שושיק שני הלכה לעולמה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957156.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "צפון קפריסין (שטח הכיבוש הטורקי באי קפריסין): מטוסי קרב טורקיים נוספים הגיעו לאי. הם ביצעו יעפים מעל העיר קירניה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957162.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
