@@ -17,7 +17,7 @@ const sources = [
 const rotter = { name: "רוטר", category: "מבזקים", feeds: ["https://rotter.net/mobile/news.php", "https://rotter.net/news/news.php"] };
 
 const clean = (value = "") => String(value).replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1").replace(/<[^>]+>/g, " ").replace(/&nbsp;|&#160;/gi, " ").replace(/&amp;/gi, "&").replace(/&quot;/gi, '"').replace(/&#39;|&apos;/gi, "'").replace(/&lt;/gi, "<").replace(/&gt;/gi, ">").replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(Number(n))).replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
-const absolute = (value, base) => { try { return new URL(clean(value), base).href; } catch { return ""; } };
+const absolute = (value, base) => { if (!value) return ""; try { return new URL(clean(value), base).href; } catch { return ""; } };
 const tag = (block, names) => { for (const name of names) { const match = block.match(new RegExp(`<${name}[^>]*>([\\s\\S]*?)<\\/${name}>`, "i")); if (match) return clean(match[1]); } return ""; };
 const israelDate = () => new Intl.DateTimeFormat("en-CA", { timeZone: "Asia/Jerusalem", year: "numeric", month: "2-digit", day: "2-digit" }).format(new Date());
 
@@ -34,7 +34,7 @@ async function fetchText(url, fallbackCharset = "utf-8") {
 
 function parseRss(body, source, base) {
   return [...body.matchAll(/<(?:item|entry)\b[^>]*>([\s\S]*?)<\/(?:item|entry)>/gi)].slice(0, 8).map(([, block]) => ({
-    category: source.category, source: source.name, title: tag(block, ["title"]),
+    category: source.category, source: source.name, title: source.name.startsWith("חדשות ") ? tag(block, ["title"]).replace(/\s+-\s+[^-]{2,45}$/, "") : tag(block, ["title"]),
     summary: tag(block, ["description", "summary", "content:encoded"]).slice(0, 300),
     url: absolute(block.match(/<link[^>]+href=["']([^"']+)/i)?.[1] || tag(block, ["link"]), base),
     image: absolute(block.match(/<(?:media:content|media:thumbnail|enclosure)[^>]+url=["']([^"']+)/i)?.[1], base),
@@ -93,8 +93,9 @@ const previous = JSON.parse(await readFile(briefingPath, "utf8"));
 const results = await Promise.all(sources.map(source => readSource(source)));
 const newFlashes = unique(await readSource(rotter, true));
 const newStories = unique(results.flatMap(items => items.slice(0, 6)));
-const stories = newStories.length ? newStories : (previous.stories || []);
-const flashes = newFlashes.length ? newFlashes : (previous.flashes || []);
+const sameDay = previous.date === israelDate();
+const stories = newStories.length ? unique([...(sameDay ? previous.stories || [] : []), ...newStories]) : (previous.stories || []);
+const flashes = newFlashes.length ? unique([...newFlashes, ...(sameDay ? previous.flashes || [] : [])]).slice(0, 80) : (previous.flashes || []);
 const token = await dropboxToken();
 const data = {
   date: israelDate(), updatedAt: new Date().toISOString(), stories, flashes,
