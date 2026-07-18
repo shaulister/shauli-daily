@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+    <meta name="theme-color" content="#071b36" />
+    <meta name="description" content="עיתון הבוקר האישי של שאולי" />
+    <link rel="manifest" href="manifest.webmanifest" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>שאולי דיילי</title>
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="#top" aria-label="ראש העמוד">
+        <span class="brand-mark">ש</span>
+        <span>שאולי דיילי</span>
+      </a>
+      <button id="themeButton" class="icon-button" type="button" aria-label="החלפת מצב תצוגה">☾</button>
+    </header>
+
+    <main id="top">
+      <section class="hero">
+        <p class="eyebrow">עיתון הבוקר האישי שלך</p>
+        <h1>בוקר טוב, שאולי</h1>
+        <p id="today" class="date"></p>
+        <div class="hero-meta">
+          <span><i class="live-dot"></i>עודכן הבוקר</span>
+          <span>זמן קריאה: 6 דקות</span>
+        </div>
+      </section>
+
+      <nav class="topics" aria-label="נושאים">
+        <a href="#headlines">ראשי</a><a href="#ai">בינה מלאכותית</a><a href="#israel">ישראל</a><a href="#tech">טכנולוגיה</a><a href="#sport">ספורט</a>
+      </nav>
+
+      <section id="headlines" class="lead card">
+        <div class="visual visual-main" role="img" aria-label="מרכז נתונים מתקדם בשעת זריחה">
+          <span class="tag urgent">הכותרת הראשית</span>
+          <div class="visual-grid"></div>
+        </div>
+        <div class="story-body">
+          <p class="section-label">בינה מלאכותית</p>
+          <h2>המרוץ לבניית תשתיות הבינה המלאכותית נכנס לשלב חדש</h2>
+          <p>חברות הטכנולוגיה מגדילות את ההשקעה בשבבים, מרכזי נתונים ואנרגיה. המאבק כבר אינו רק על המודל הטוב ביותר, אלא על היכולת להפעיל אותו במהירות ובקנה מידה עולמי.</p>
+          <aside><strong>למה זה חשוב?</strong> התשתית שייבנו היום תקבע אילו חברות ומדינות יובילו את התחום בשנים הקרובות.</aside>
+          <div class="source"><span>תקציר הדגמה</span><span>★★★★★</span></div>
+        </div>
+      </section>
+
+      <section class="section-heading" id="ai"><p>הנושאים החשובים</p><h2>מה כדאי לדעת הבוקר</h2></section>
+      <section id="feed" class="feed" aria-live="polite"></section>
+
+      <section class="watchlist">
+        <p class="eyebrow">מבט קדימה</p>
+        <h2>מה לעקוב היום</h2>
+        <ul><li>הכרזות חדשות בתחום הבינה המלאכותית</li><li>התפתחויות ביטחוניות ומדיניות בישראל</li><li>השקות מוצרים ועדכוני תוכנה</li><li>אירועי הספורט המרכזיים</li></ul>
+      </section>
+    </main>
+
+    <footer><strong>שאולי דיילי</strong><span>נבנה לקריאה נוחה בעברית, בכל מסך.</span></footer>
+    <script src="app.js" defer></script>
+  </body>
+</html>
