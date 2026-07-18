@@ -20,6 +20,9 @@
 .story.compact .story-body h2{font-size:1.28rem;margin-bottom:6px}
 .story.compact .story-body p{margin:5px 0}
 .story.compact .source{margin-top:12px;padding-top:10px}
+.story,.story-body,.story-body h2,.story-body p,.source{direction:rtl;text-align:right}
+.source{align-items:center;gap:12px;flex-wrap:wrap}
+.source a{margin-right:auto;font-size:.76rem;white-space:nowrap}
 
 @media(max-width:760px){
   .lead .visual{min-height:280px}

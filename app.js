@@ -10,7 +10,7 @@ function fallbackImage(category) {
   const palettes = { "טכנולוגיה": ["#0b315d", "#13a0a0"], "אפל": ["#20242c", "#8c96a8"], "רכב חשמלי": ["#123b2c", "#54b985"], "ישראל": ["#164e88", "#79b8ee"], "ספורט": ["#4f1c6d", "#d15f91"], "רונאלדיניו": ["#07563d", "#e8b83e"], "מסי": ["#1c5d91", "#8ed0e9"], "דני אבדיה": ["#16325c", "#d9485f"] };
   const [from, to] = palettes[category] || ["#153b62", "#d7765e"];
   const label = escapeHtml(category);
-  return `data:image/svg+xml;charset=UTF-8,${encodeURIComponent(`<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600"><defs><linearGradient id="g"><stop stop-color="${from}"/><stop offset="1" stop-color="${to}"/></linearGradient></defs><rect width="1200" height="600" fill="url(#g)"/><circle cx="190" cy="120" r="170" fill="#fff" opacity=".12"/><circle cx="970" cy="520" r="230" fill="#fff" opacity=".1"/><text x="1080" y="500" text-anchor="end" fill="white" font-family="Arial" font-size="82" font-weight="700">${label}</text></svg>`)}`;
+  return `data:image/svg+xml;charset=UTF-8,${encodeURIComponent(`<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600"><defs><linearGradient id="g"><stop stop-color="${from}"/><stop offset="1" stop-color="${to}"/></linearGradient></defs><rect width="1200" height="600" fill="url(#g)"/><circle cx="190" cy="120" r="170" fill="#fff" opacity=".12"/><circle cx="970" cy="520" r="230" fill="#fff" opacity=".1"/><text x="1080" y="395" text-anchor="end" direction="rtl" fill="white" font-family="Arial" font-size="76" font-weight="700">${label}</text></svg>`)}`;
 }
 
 function safeSummary(value = "") {
@@ -21,13 +21,19 @@ function safeTitle(value = "") {
   return String(value).replace(/\s+-\s+(?:ynet\.co\.il|וואלה!?|מעריב|ישראל היום|חדשות 12|ערוץ הספורט)\s*$/i, "").trim();
 }
 
+function safeUrl(value = "") {
+  try { const url = new URL(value); return /^https?:$/.test(url.protocol) ? url.href : ""; } catch { return ""; }
+}
+
 function storyCard(story) {
   const summary = safeSummary(story.summary);
   const fallback = fallbackImage(story.category);
   const sourceImage = story.image && !/\.mp4(?:$|\?)/i.test(story.image) ? story.image : fallback;
   const compact = summary.length < 100;
+  const articleUrl = safeUrl(story.url);
   const image = `<img src="${escapeHtml(sourceImage)}" data-fallback="${escapeHtml(fallback)}" alt="תמונה עבור ${escapeHtml(story.category)}" loading="lazy" referrerpolicy="no-referrer">`;
-  return `<article class="story ${compact ? "compact" : "detailed"}" data-category="${escapeHtml(story.category)}"><div class="visual">${image}<span class="tag">${escapeHtml(story.category)}</span></div><div class="story-body"><p class="section-label">${escapeHtml(story.source)}</p><h2>${escapeHtml(safeTitle(story.title))}</h2>${summary ? `<p>${escapeHtml(summary)}</p>` : ""}<div class="source"><span>מקור: ${escapeHtml(story.source)}</span></div></div></article>`;
+  const articleLink = articleUrl ? `<a href="${escapeHtml(articleUrl)}" target="_blank" rel="noopener noreferrer">לכתבה המקורית ↗</a>` : "";
+  return `<article class="story ${compact ? "compact" : "detailed"}" data-category="${escapeHtml(story.category)}" dir="rtl"><div class="visual">${image}<span class="tag">${escapeHtml(story.category)}</span></div><div class="story-body"><p class="section-label">${escapeHtml(story.source)}</p><h2>${escapeHtml(safeTitle(story.title))}</h2>${summary ? `<p>${escapeHtml(summary)}</p>` : ""}<div class="source"><span>מקור: ${escapeHtml(story.source)}</span>${articleLink}</div></div></article>`;
 }
 
 function render(filter = "הכול") {
