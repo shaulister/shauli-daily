@@ -18,11 +18,11 @@ const absolute = (value, base) => { try { return new URL(clean(value), base).hre
 const tag = (block, names) => { for (const name of names) { const match = block.match(new RegExp(`<${name}[^>]*>([\\s\\S]*?)<\\/${name}>`, "i")); if (match) return clean(match[1]); } return ""; };
 const israelDate = () => new Intl.DateTimeFormat("en-CA", { timeZone: "Asia/Jerusalem", year: "numeric", month: "2-digit", day: "2-digit" }).format(new Date());
 
-async function fetchText(url) {
+async function fetchText(url, fallbackCharset = "utf-8") {
   const response = await fetch(url, { headers: { "User-Agent": UA, Accept: "application/rss+xml, application/xml, text/html;q=0.9, */*;q=0.8" }, signal: AbortSignal.timeout(18000) });
   if (!response.ok) throw new Error(`${response.status}`);
   const bytes = await response.arrayBuffer();
-  const charset = /charset=([^;]+)/i.exec(response.headers.get("content-type") || "")?.[1]?.trim() || "utf-8";
+  const charset = /charset=([^;]+)/i.exec(response.headers.get("content-type") || "")?.[1]?.trim() || fallbackCharset;
   try { return new TextDecoder(charset).decode(bytes); } catch { return new TextDecoder().decode(bytes); }
 }
 
@@ -61,7 +61,7 @@ function parseRotter(body, base) {
 async function readSource(source, isRotter = false) {
   for (const url of source.feeds) {
     try {
-      const body = await fetchText(url);
+      const body = await fetchText(url, isRotter ? "windows-1255" : "utf-8");
       const items = isRotter ? parseRotter(body, url) : /<(rss|feed)\b/i.test(body) ? parseRss(body, source, url) : parseHtml(body, source, url);
       if (items.length) return items;
     } catch (error) { console.warn(`${source.name}: ${url} (${error.message})`); }
