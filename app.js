@@ -7,7 +7,7 @@ const escapeHtml = value => String(value || "").replace(/[&<>"']/g, char => ({ "
 let briefing = { stories: [], flashes: [] };
 
 function fallbackImage(category) {
-  const palettes = { "טכנולוגיה": ["#0b315d", "#13a0a0"], "אפל": ["#20242c", "#8c96a8"], "רכב חשמלי": ["#123b2c", "#54b985"], "ישראל": ["#164e88", "#79b8ee"], "ספורט": ["#4f1c6d", "#d15f91"], "רונאלדיניו": ["#07563d", "#e8b83e"], "מסי": ["#1c5d91", "#8ed0e9"], "דני אבדיה": ["#16325c", "#d9485f"], "ארלינג האלנד": ["#5b1831", "#6cabdd"] };
+  const palettes = { "טכנולוגיה": ["#0b315d", "#13a0a0"], "A.I": ["#36146f", "#25b7d3"], "אפל": ["#20242c", "#8c96a8"], "רכב חשמלי": ["#123b2c", "#54b985"], "ישראל": ["#164e88", "#79b8ee"], "ספורט": ["#4f1c6d", "#d15f91"], "רונאלדיניו": ["#07563d", "#e8b83e"], "מסי": ["#1c5d91", "#8ed0e9"], "דני אבדיה": ["#16325c", "#d9485f"], "ארלינג האלנד": ["#5b1831", "#6cabdd"] };
   const [from, to] = palettes[category] || ["#153b62", "#d7765e"];
   const label = escapeHtml(category);
   return `data:image/svg+xml;charset=UTF-8,${encodeURIComponent(`<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600"><defs><linearGradient id="g"><stop stop-color="${from}"/><stop offset="1" stop-color="${to}"/></linearGradient></defs><rect width="1200" height="600" fill="url(#g)"/><circle cx="190" cy="120" r="170" fill="#fff" opacity=".12"/><circle cx="970" cy="520" r="230" fill="#fff" opacity=".1"/><text x="600" y="310" text-anchor="middle" dominant-baseline="middle" fill="white" font-family="Arial, sans-serif" font-size="72" font-weight="700">${label}</text></svg>`)}`;
