@@ -1,6 +1,6 @@
 {
   "date": "2026-07-18",
-  "updatedAt": "2026-07-18T11:26:54.669Z",
+  "updatedAt": "2026-07-18T11:30:38.956Z",
   "stories": [
     {
       "category": "טכנולוגיה",
@@ -484,6 +484,33 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
+      "title": "צפון קפריסין (שטח הכיבוש הטורקי באי קפריסין): מטוסי קרב טורקיים נוספים הגיעו לאי. הם ביצעו יעפים מעל העיר קירניה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957162.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "מוסקווה - מרכז עיבוד ההזמנות ענקי בגודלו ברוסיה. נהרס כליל בעקבות מתקפה אוקראית שגרמה שריפה ענקית והשמדתו.",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957161.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "עלות אבטחת משפחת נתניהו 4.5 מיליון שקלים בשנה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957171.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
       "title": "ביקורת חריפה בשב''כ נגד זיני. מתכחש לטרור היהודי",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957129.shtml?utm_source=rotter.net&utm_medium=mivzakside",
@@ -556,15 +583,6 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "צפון קפריסין (שטח הכיבוש הטורקי באי קפריסין): מטוסי קרב טורקיים נוספים הגיעו לאי. הם ביצעו יעפים מעל העיר קירניה",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957162.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "גרמניה בדריכות שיא - ומכריזה על שינוי בכוננות: ''להיערך לפיגועים בכל עת''",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957168.shtml?utm_source=rotter.net&utm_medium=mivzakside",
@@ -586,15 +604,6 @@
       "title": "אזעקות בירדן ובכווית בשל שיגורים מאיראן",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957166.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "מוסקווה - מרכז עיבוד ההזמנות ענקי בגודלו ברוסיה. נהרס כליל בעקבות מתקפה אוקראית שגרמה שריפה ענקית והשמדתו.",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957161.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -724,6 +733,12 @@
       "status": "ok"
     },
     {
+      "name": "Let's AI",
+      "category": "A.I",
+      "url": "https://letsai.co.il/articles/news-and-innovations/",
+      "status": "unavailable"
+    },
+    {
       "name": "AppleInsider",
       "category": "אפל",
       "url": "https://appleinsider.com/",
@@ -739,7 +754,7 @@
       "name": "גיקטיים",
       "category": "טכנולוגיה",
       "url": "https://www.geektime.co.il/",
-      "status": "ok"
+      "status": "unavailable"
     },
     {
       "name": "מגזין רכב חשמלי",
