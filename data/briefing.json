@@ -1,6 +1,6 @@
 {
   "date": "2026-07-18",
-  "updatedAt": "2026-07-18T12:29:39.623Z",
+  "updatedAt": "2026-07-18T14:00:09.537Z",
   "stories": [
     {
       "category": "טכנולוגיה",
@@ -678,6 +678,15 @@
       "publishedAt": "Sat, 18 Jul 2026 11:31:18 +0000"
     },
     {
+      "category": "דני אבדיה",
+      "source": "חדשות דני אבדיה",
+      "title": "בארצות הברית חלוקים: פורטלנד פגעה בדני אבדיה הקיץ?",
+      "summary": "בארצות הברית חלוקים: פורטלנד פגעה בדני אבדיה הקיץ? &nbsp;&nbsp; ספורט 1",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TUWNwZkpSY3oxbEdqdnQxX1dIdlE5ejEyVV84bDVUTnFSWGsxVjRGMkZjRTlfUXZ4TU5Ndm5PNXBxZmcxX1Z1OWYwT21UV0ZoemUtMFZqRG1OWXJuRExvR0xDR1BPQUZXbnBkVk5DM3NTRDA?oc=5",
+      "image": "",
+      "publishedAt": "Sat, 18 Jul 2026 12:24:08 GMT"
+    },
+    {
       "category": "אפל",
       "source": "גאדג׳טי — אפל",
       "title": "אפל תציג השנה iPad mini עם מסך OLED ושדרוג משמעותי ראשון מזה חצי עשור (דיווח)",
@@ -788,19 +797,28 @@
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "הלילה השביעי ברציפות: הצבא האמריקני החל בגל תקיפות נוסף באיראן",
+      "title": "השריפה בשומרון בעיצומה: יותר מ-10 בתים נפגעו בחוות גלעד, משאית כיבוי עלתה באש",
       "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-1a2805b1-88",
+      "url": "https://www.i24news.tv/he/news/news/local/artc-988d4866",
       "image": "",
       "publishedAt": ""
     },
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "הכנסת ה-25 נעלה את שעריה - והשלימה כהונה מלאה לראשונה מזה כ-40 שנה",
+      "title": "\"קבינט שישי\": התוכנית המלאה לצפייה, 17.07.26",
       "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/politics/artc-d3c246db",
-      "image": "https://cdn.i24news.tv/uploads/d7/bd/e0/b1/80/3f/aa/37/f5/0a/af/1f/03/d8/e0/65/d7bde0b1803faa37f50aaf1f03d8e065.jpg?width=350",
+      "url": "https://www.i24news.tv/he/news/news/local/artc-60a32a07",
+      "image": "https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66987696187.jpg?width=350",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "איראן משעה רשמית את מזכר ההבנות: \"ארה\"ב פתחה במלחמה\"",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-79b83416",
+      "image": "",
       "publishedAt": ""
     },
     {
@@ -815,19 +833,19 @@
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "\"קבינט שישי\": התוכנית המלאה לצפייה, 17.07.26",
+      "title": "השיגורים לירדן נמשכים: אזעקות הופעלו במדינה בעקבות ארבעה כטב\"מים | עדכונים שוטפים",
       "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/local/artc-60a32a07",
+      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-71935",
       "image": "",
       "publishedAt": ""
     },
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "השיגורים לירדן נמשכים: אזעקות הופעלו במדינה בעקבות ארבעה כטב\"מים | עדכונים שוטפים",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-71935",
-      "image": "",
+      "title": "הלילה השביעי ברציפות: הצבא האמריקני החל בגל תקיפות נוסף באיראן קרא עוד..",
+      "summary": "הלילה השביעי ברציפות: הצבא האמריקני החל בגל תקיפות נוסף באיראן",
+      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-1a2805b1-88",
+      "image": "https://cdn.i24news.tv/uploads/91/2c/9e/8d/d2/c4/31/6c/c8/ce/a0/7a/6f/fe/9f/6a/912c9e8dd2c4316cc8cea07a6ffe9f6a.jpg?width=750",
       "publishedAt": ""
     },
     {
@@ -858,22 +876,85 @@
       "publishedAt": ""
     },
     {
+      "category": "מסי",
+      "source": "חדשות מסי",
+      "title": "ואולי לא היו הדברים, וליונל מסי באמת הגדול בכל הזמנים",
+      "summary": "ואולי לא היו הדברים, וליונל מסי באמת הגדול בכל הזמנים &nbsp;&nbsp; Sport5",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BVmR0ejBGR0lDSnBQN1dHNFRjQ3YySWJPdzUyeVVOWGdka3lFazlYZmFhTTF3NEhZNXNTR1ljRlYxZVRJYlpiendicGQ2RkJCSXZPcTRLdDkteThEMlpiMTdXUzdVTW5aNFpZbXNFRlJ6T1U?oc=5",
+      "image": "",
+      "publishedAt": "Wed, 15 Jul 2026 12:28:00 GMT"
+    },
+    {
+      "category": "מסי",
+      "source": "חדשות מסי",
+      "title": "\"רעדתי מפחד\": הווידויים והתמונות של כוכבי נבחרת ספרד עם מסי נחשפו",
+      "summary": "\"רעדתי מפחד\": הווידויים והתמונות של כוכבי נבחרת ספרד עם מסי נחשפו &nbsp;&nbsp; ספורט 1",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16SXRoWUlNbWo4MGRZa0JJd05YSEFPWG9WdXVneG1tcVRGbHhyczFMV1hLVXRKX2VtR3p5bmJvZjJlWFdIQlhKdjBuUVNHTlpRNi1sby1GaEhPSTlkNjhvSGp0V2dva21p?oc=5",
+      "image": "",
+      "publishedAt": "Sat, 18 Jul 2026 13:38:09 GMT"
+    },
+    {
       "category": "דני אבדיה",
       "source": "חדשות דני אבדיה",
-      "title": "בארצות הברית חלוקים: פורטלנד פגעה בדני אבדיה הקיץ?",
-      "summary": "בארצות הברית חלוקים: פורטלנד פגעה בדני אבדיה הקיץ? &nbsp;&nbsp; ספורט 1",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TUWNwZkpSY3oxbEdqdnQxX1dIdlE5ejEyVV84bDVUTnFSWGsxVjRGMkZjRTlfUXZ4TU5Ndm5PNXBxZmcxX1Z1OWYwT21UV0ZoemUtMFZqRG1OWXJuRExvR0xDR1BPQUZXbnBkVk5DM3NTRDA?oc=5",
+      "title": "יככב לצד האקסים של הפועל תל אביב? חברו של דני אבדיה בדרך ליורוליג",
+      "summary": "יככב לצד האקסים של הפועל תל אביב? חברו של דני אבדיה בדרך ליורוליג &nbsp;&nbsp; היום",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hd0tWc0psZWxPWjloWmt5cmtTQXRRa3RvNFJhUE5UYjM1LXZxeVA1dHVWLWdIQktIRF9NaFBUa1ppSXRlYUVGTllhWUstay1ZZ2Q3QVNqQ3gzN1A2akZlNUlhci1kbG9mZGdSaUt1OThYbTA1WEY1edIBgAFBVV95cUxNaWZYN1BkX1Z1cDVoaTk4RkhpcnVwdG5LR3FvSjU4b0xtOHR4ZFVROXBYRjBZT1o2ZV8yNHd3U3Ntc1JqSUVyOC1IU0NJbjh6LTJJdFZUR0c3YWFlWjZrTk9wXzBWeFVWWXBybVNmcFk0bjN0djB1YVVRR1FzLUllSw?oc=5",
       "image": "",
-      "publishedAt": "Sat, 18 Jul 2026 12:24:08 GMT"
+      "publishedAt": "Sat, 18 Jul 2026 12:37:33 GMT"
     }
   ],
   "flashes": [
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "מונדיאל 2026-המשחק על המקום השלישי: צרפת - אנגליה (00:00)",
+      "title": "שריפה בחוות גלעד | האש נכנסה לקו הבתים, מספר בתים עולים באש",
       "summary": "",
-      "url": "https://rotter.net/forum/scoops1/957174.shtml",
+      "url": "http://rotter.net/forum/scoops1/957180.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "צה''ל מאשר: מטוסי התדלוק של צבא ארה''ב יחנו בבסיסי חיל האוויר",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957163.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "שמשית שריפת חורש מספר מוקדים. סיוע אווירי",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957178.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "״קומיקאית״ אמריקאית הביאה למשרדו של הסנאטור לינדזי גרהאם עוגה שלועגת למותו, וכתבה לאחותו: ״אחיך נשרף בגיהינום״.",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957179.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "מוסקווה - מרכז עיבוד ההזמנות ענקי בגודלו ברוסיה. נהרס כליל בעקבות מתקפה אוקראית שגרמה שריפה ענקית והשמדתו.",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957161.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ממדאני נמצא בדיונים כדי להביא למעצר נתניהו בעצרת האו''ם בספטמבר",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957169.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -889,9 +970,36 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
+      "title": "מונדיאל 2026-המשחק על המקום השלישי: צרפת - אנגליה (00:00)",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957174.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
       "title": "ירדן - דיווחים על טילים איראניים שפגעו ישירות בבסיס האמריקני בירדן",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957173.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "מתקפת כטב''מים איראנית כנגד כוחות כורדים בעירק, פגיעה במפקדות ובתחמושת",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957125.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "כווית (שבת) - כבאים נפצעו במהלך מאמצי כיבוי שריפות לאחר שתקיפות איראניות פגעו בשני אתרים שונים",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957170.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -907,18 +1015,90 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "משמרות המהפכה: מדינות המארחות כוחות אמריקניים צריכות לצפות ל''תגובות תואמות'' אם שטחן ישמש לתקיפות על איראן",
+      "title": "יש שופטים בלונדון: התביעה נגד לוחם המילואים קרסה - והארגון הפרו-פלסטיני ישלם",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957152.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957167.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "ממדאני נמצא בדיונים כדי להביא למעצר נתניהו בעצרת האו''ם בספטמבר",
+      "title": "התקופה הקשה של חנן גולדבלט. אשתו סועדת אותו במסירות",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957169.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957149.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ברק אברמוב: ''אין לי הסבר למה קורות ההתקפות על ג'אפניקה. אם אני חשוד במשהו, מבקש מהמשטרה לעצור אותי''",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957126.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "גדי אייזנקוט: השבוע הזה צריך להיות תמרור אזהרה לכולנו (כולל גם התייחסות ליוסף חדאד)",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957114.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "גרמניה בדריכות שיא - ומכריזה על שינוי בכוננות: ''להיערך לפיגועים בכל עת''",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957168.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ביקורת חריפה בשב''כ נגד זיני. מתכחש לטרור היהודי",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957129.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "איפא''ק הפסיקה העברת תרומות לדמוקרטים שהצביעו נגד סיוע לישראל",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957150.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "כך הוחמצה הנורמליזציה עם סעודיה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957115.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "מונדיאל 2026-המשחק על המקום השלישי: צרפת - אנגליה (00:00)",
+      "summary": "",
+      "url": "https://rotter.net/forum/scoops1/957174.shtml",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "משמרות המהפכה: מדינות המארחות כוחות אמריקניים צריכות לצפות ל''תגובות תואמות'' אם שטחן ישמש לתקיפות על איראן",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957152.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -952,27 +1132,9 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "גרמניה בדריכות שיא - ומכריזה על שינוי בכוננות: ''להיערך לפיגועים בכל עת''",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957168.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "אזעקות בירדן ובכווית בשל שיגורים מאיראן",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957166.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "ביקורת חריפה בשב''כ נגד זיני. מתכחש לטרור היהודי",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957129.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -997,33 +1159,6 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "התקופה הקשה של חנן גולדבלט. אשתו סועדת אותו במסירות",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957149.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "יש שופטים בלונדון: התביעה נגד לוחם המילואים קרסה - והארגון הפרו-פלסטיני ישלם",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957167.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "מוסקווה - מרכז עיבוד ההזמנות ענקי בגודלו ברוסיה. נהרס כליל בעקבות מתקפה אוקראית שגרמה שריפה ענקית והשמדתו.",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957161.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "השחקנית שושיק שני הלכה לעולמה",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957156.shtml?utm_source=rotter.net&utm_medium=mivzakside",
@@ -1036,33 +1171,6 @@
       "title": "צפון קפריסין (שטח הכיבוש הטורקי באי קפריסין): מטוסי קרב טורקיים נוספים הגיעו לאי. הם ביצעו יעפים מעל העיר קירניה",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957162.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "איפא''ק הפסיקה העברת תרומות לדמוקרטים שהצביעו נגד סיוע לישראל",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957150.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "ברק אברמוב: ''אין לי הסבר למה קורות ההתקפות על ג'אפניקה. אם אני חשוד במשהו, מבקש מהמשטרה לעצור אותי''",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957126.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "מתקפת כטב''מים איראנית כנגד כוחות כורדים בעירק, פגיעה במפקדות ובתחמושת",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957125.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1087,27 +1195,9 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "כווית (שבת) - כבאים נפצעו במהלך מאמצי כיבוי שריפות לאחר שתקיפות איראניות פגעו בשני אתרים שונים",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957170.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "צה''ל: שוגר מיירט לעבר מטרת שווא בדרום לבנון",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957160.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "צה''ל מאשר: מטוסי התדלוק של צבא ארה''ב יחנו בבסיסי חיל האוויר",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957163.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
