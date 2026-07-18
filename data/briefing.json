@@ -1,6 +1,6 @@
 {
   "date": "2026-07-18",
-  "updatedAt": "2026-07-18T16:28:09.861Z",
+  "updatedAt": "2026-07-18T17:34:44.829Z",
   "stories": [
     {
       "category": "טכנולוגיה",
@@ -833,7 +833,25 @@
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "שריפת ענק בשומרון: 13 בתים עלו באש בחוות גלעד; שליטה בשריפות בצפון",
+      "title": "צבא ארה\"ב: שני חיילים אמריקנים נהרגו במתקפת הטילים האיראנית בירדן, חייל נוסף נעדר",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-71935",
+      "image": "https://cdn.i24news.tv/uploads/f2/16/7d/5f/eb/37/98/68/a9/13/a3/ec/6c/52/38/4a/f2167d5feb379868a913a3ec6c52384a.jpg?width=350",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "חשד: בדל סיגריה שהושלך מרכב הצית את השריפה בשומרון",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/local/artc-db574af3",
+      "image": "https://cdn.i24news.tv/uploads/6f/2a/fa/f1/a0/e8/96/5d/ae/89/08/88/16/b7/63/6c/6f2afaf1a0e8965dae89088816b7636c.jpeg?width=350",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "שריפת ענק בשומרון: 13 בתים עלו באש בחוות גלעד",
       "summary": "",
       "url": "https://www.i24news.tv/he/news/news/local/artc-988d4866",
       "image": "https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66994193506.jpg?width=350",
@@ -851,10 +869,10 @@
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "איראן משעה את מזכר ההבנות: \"ארה\"ב פתחה במלחמה\"",
+      "title": "איראן משעה רשמית את מזכר ההבנות: \"ארה\"ב פתחה במלחמה\"",
       "summary": "",
       "url": "https://www.i24news.tv/he/news/news/defense-news/artc-79b83416",
-      "image": "https://cdn.i24news.tv/uploads/18/ac/63/ca/cf/b1/93/f1/64/cd/31/1f/a7/74/58/b0/18ac63cacfb193f164cd311fa77458b0.jpg?width=350",
+      "image": "",
       "publishedAt": ""
     },
     {
@@ -867,22 +885,13 @@
       "publishedAt": ""
     },
     {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "\"קבינט שישי\": התוכנית המלאה לצפייה, 17.07.26",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/local/artc-60a32a07",
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "כנס הפיתוח הגדול של גיקטיים ועוד אירועים מומלצים",
+      "summary": "ההייטק הישראלי לא עוצר: הנה המיטאפים, הכנסים והרצאות הטכנולוגיה המסקרנים שצפויים בקרוב. בפיזי או ברשת – אלו אירועי ההייטק המומלצים שאתם רוצים לשריין להם מקום ביומן. מארגנים אירוע או שמעתם על אירוע לקהילה הטכנולוגית בישראל? מוזמנים לעדכן אותנו כאן ולפרסם אותו בחינם בלוח האירועים שלנו. Frontendistim C",
+      "url": "https://www.geektime.co.il/geek-events-190726/",
       "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "השיגורים לירדן נמשכים: אזעקות הופעלו במדינה בעקבות ארבעה כטב\"מים | עדכונים שוטפים",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-71935",
-      "image": "",
-      "publishedAt": ""
+      "publishedAt": "Sat, 18 Jul 2026 16:52:52 +0000"
     },
     {
       "category": "ספורט",
@@ -916,54 +925,27 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "גורם צבאי באיראן: אם ארה''ב תתקוף הלילה - יש לפנות שדות תעופה בדובאי ואבו דאבי",
+      "title": "בישראל דנים בימים אלה באפשרות לאסור באופן מוחלט הטסת רחפנים בשמי הארץ מחשש לשינוי תוואי הפעולה האיראנית",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957183.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957194.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "העזתיים מתלוננים: הקו הצהוב מתקדם היום מערבה גם בשכונת זיתון במזרח העיר עזה וגם באזור ואדי סלקא במרכז הרצועה.עשרות משפחות נאלצו לפנות",
+      "title": "צבא ארצות הברית מודיע - שני חיילים אמריקנים נהרגו במתקפת טילים איראנית על בסיס בירדן",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957190.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957196.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "שני מקרים - בתוך כשעה: גבר ואישה טבעו בים בבת ים ובחדרה, מצבם אנוש",
+      "title": "אבידור ליברמן: מעריך שנתניהו ישתמש בשב״כ בבחירות הקרובות כדי לפעול נגד יריבים פוליטיים",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957186.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "איראן משהה את סיכום מזכר ההבנות עם ארה''ב",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957184.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "סגן ראש הסגל של הבית הלבן, דן סקאבינו, מצייץ הבוקר תיעוד של מפציץ B-2.",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957189.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "עלות אבטחת משפחת נתניהו 4.5 מיליון שקלים בשנה",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957171.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957192.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -979,15 +961,6 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "איפא''ק הפסיקה העברת תרומות לדמוקרטים שהצביעו נגד סיוע לישראל",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957150.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "כווית (שבת) - כבאים נפצעו במהלך מאמצי כיבוי שריפות לאחר שתקיפות איראניות פגעו בשני אתרים שונים",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957170.shtml?utm_source=rotter.net&utm_medium=mivzakside",
@@ -997,9 +970,162 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
+      "title": "העזתיים מתלוננים: הקו הצהוב מתקדם היום מערבה גם בשכונת זיתון במזרח העיר עזה וגם באזור ואדי סלקא במרכז הרצועה.עשרות משפחות נאלצו לפנות",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957190.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
       "title": "״קומיקאית״ אמריקאית הביאה למשרדו של הסנאטור לינדזי גרהאם עוגה שלועגת למותו, וכתבה לאחותו: ״אחיך נשרף בגיהינום״.",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957179.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "שני מקרים - בתוך כשעה: גבר ואישה טבעו בים בבת ים ובחדרה, מצבם אנוש",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957186.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ישראל נלחמת בריגול האיראני במגזר החרדי באמצעות רבנים ומשפיעני רשת",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957195.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "שריפה בחוות גלעד | האש נכנסה לקו הבתים, מספר בתים עולים באש",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957180.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ירדן - דיווחים על טילים איראניים שפגעו ישירות בבסיס האמריקני בירדן",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957173.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "מוג'תבא ח'אמנאי: ''חתימתו של נשיא ארצות הברית היא חסרת ערך וחסרת אמינות, לעם האיראני יש לקחים בלתי נשכחים עבור האויב האמריקני''",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957191.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "טרו קריים,טקסס:הרוצח של בברלי ברונו נעצר באיחור של 45 שנה בזכות ההתפתחות בטכנולוגית ה DNA. המניע לרצח: ויכוח על כסף וביטוח חיים",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957153.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "טרו קריים אמריקני:רצח גרג סמארט:כשמורה בת 22 למדיה ווידאו בתיכון משכנעת תלמיד בן 15 לרצוח בשבילה את בעלה.",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957176.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "13 חיילים אמריקאים נפצעו במהלך השבוע האחרון מתקיפות איראניות",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957193.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "יש שופטים בלונדון: התביעה נגד לוחם המילואים קרסה - והארגון הפרו-פלסטיני ישלם",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957167.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "סגן ראש הסגל של הבית הלבן, דן סקאבינו, מצייץ הבוקר תיעוד של מפציץ B-2.",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957189.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "גורם צבאי באיראן: אם ארה''ב תתקוף הלילה - יש לפנות שדות תעופה בדובאי ואבו דאבי",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957183.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "השחקנית שושיק שני הלכה לעולמה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957156.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "תקיפות רחפנים אוקראיניות על בתי הזיקוק ברוסיה כבר משפיעות על עליית המחיר לצרכן בארה''ב",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957177.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "איראן משהה את סיכום מזכר ההבנות עם ארה''ב",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957184.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "עלות אבטחת משפחת נתניהו 4.5 מיליון שקלים בשנה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957171.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "איפא''ק הפסיקה העברת תרומות לדמוקרטים שהצביעו נגד סיוע לישראל",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957150.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1060,27 +1186,9 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "ירדן - דיווחים על טילים איראניים שפגעו ישירות בבסיס האמריקני בירדן",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957173.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "סנטקום: הטענה של משמרות המהפכה, לפיה שתי מכליות נפט התפוצצו לאחר שפגעו במוקשים במצר הורמוז - אינה נכונה",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957146.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "תקיפות רחפנים אוקראיניות על בתי הזיקוק ברוסיה כבר משפיעות על עליית המחיר לצרכן בארה''ב",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957177.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1108,24 +1216,6 @@
       "title": "איראן - שיקום מנהרות Shahid Mirzaei שנפגעו ע''י האמריקאים ( תמונת המנהרות שעכשיו נחשפות לציבור)",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957172.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "שריפה בחוות גלעד | האש נכנסה לקו הבתים, מספר בתים עולים באש",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957180.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "יש שופטים בלונדון: התביעה נגד לוחם המילואים קרסה - והארגון הפרו-פלסטיני ישלם",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957167.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1231,15 +1321,6 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "טרו קריים אמריקני:רצח גרג סמארט:כשמורה בת 22 למדיה ווידאו בתיכון משכנעת תלמיד בן 15 לרצוח בשבילה את בעלה.",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957176.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "חדשות 13 ממשיכה להפסיד לכלל המהדורות: רייטינג",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957164.shtml?utm_source=rotter.net&utm_medium=mivzakside",
@@ -1267,15 +1348,6 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "השחקנית שושיק שני הלכה לעולמה",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957156.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "צפון קפריסין (שטח הכיבוש הטורקי באי קפריסין): מטוסי קרב טורקיים נוספים הגיעו לאי. הם ביצעו יעפים מעל העיר קירניה",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957162.shtml?utm_source=rotter.net&utm_medium=mivzakside",
@@ -1297,15 +1369,6 @@
       "title": "צה''ל: שוגר מיירט לעבר מטרת שווא בדרום לבנון",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957160.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "טרו קריים,טקסס:הרוצח של בברלי ברונו נעצר באיחור של 45 שנה בזכות ההתפתחות בטכנולוגית ה DNA. המניע לרצח: ויכוח על כסף וביטוח חיים",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957153.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
