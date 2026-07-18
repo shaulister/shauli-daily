@@ -1,6 +1,6 @@
 {
   "date": "2026-07-18",
-  "updatedAt": "2026-07-18T11:25:07.600Z",
+  "updatedAt": "2026-07-18T11:26:54.669Z",
   "stories": [
     {
       "category": "טכנולוגיה",
@@ -390,6 +390,15 @@
       "publishedAt": "Sun, 05 Jul 2026 07:00:00 GMT"
     },
     {
+      "category": "טכנולוגיה",
+      "source": "The Verifier",
+      "title": "פרסום ראשון: אפל מייקרת את שירות Apple Music בישראל",
+      "summary": "נכתב על ידי אלדד מטמון מאתר The Verifier אפל מעדכנת תעריפים בעקבות זינוק בעלויות הרישוי, ומוחקת לחלוטין את היתרון שהיה לה מול המתחרים",
+      "url": "https://theverifier.co.il/80096/apple-music-price-increase-in-israel/",
+      "image": "https://theverifier.co.il/wp-content/uploads/2026/07/IMG_9202-150x150.webp",
+      "publishedAt": "Sat, 18 Jul 2026 09:16:00 +0000"
+    },
+    {
       "category": "ישראל",
       "source": "i24NEWS",
       "title": "הלילה השביעי ברציפות: הצבא האמריקני החל בגל תקיפות נוסף באיראן",
@@ -472,6 +481,24 @@
     }
   ],
   "flashes": [
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ביקורת חריפה בשב''כ נגד זיני. מתכחש לטרור היהודי",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957129.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "איפא''ק הפסיקה העברת תרומות לדמוקרטים שהצביעו נגד סיוע לישראל",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957150.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
     {
       "category": "מבזקים",
       "source": "רוטר",
@@ -619,15 +646,6 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "ביקורת חריפה בשב''כ נגד זיני. מתכחש לטרור היהודי",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957129.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "צה''ל מאשר: מטוסי התדלוק של צבא ארה''ב יחנו בבסיסי חיל האוויר",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957163.shtml?utm_source=rotter.net&utm_medium=mivzakside",
@@ -649,15 +667,6 @@
       "title": "טלטלה בשוק הנדל''ן: ירידה של אחוז שלם במחירים - תוך חודש",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957142.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "איפא''ק הפסיקה העברת תרומות לדמוקרטים שהצביעו נגד סיוע לישראל",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957150.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
