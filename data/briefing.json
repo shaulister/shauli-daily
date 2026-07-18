@@ -1,6 +1,6 @@
 {
   "date": "2026-07-18",
-  "updatedAt": "2026-07-18T15:06:51.747Z",
+  "updatedAt": "2026-07-18T16:28:09.861Z",
   "stories": [
     {
       "category": "טכנולוגיה",
@@ -714,6 +714,15 @@
       "publishedAt": "Sat, 18 Jul 2026 12:37:33 GMT"
     },
     {
+      "category": "מסי",
+      "source": "חדשות מסי",
+      "title": "\"250 מיליון יורו על מסי\": ההצעה המטורפת שכמעט שינתה את ההיסטוריה",
+      "summary": "\"250 מיליון יורו על מסי\": ההצעה המטורפת שכמעט שינתה את ההיסטוריה &nbsp;&nbsp; ספורט 1",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Tcjd3NllUZUtWNjZ6a2tQT0RjY2lRNTlrdlBjUEp6WXlIZTJkMFQ5QkJyRHUwdS1HYlU0ejhqWXBxb0c4alJ2YUJnZkQxbnFRRlRvakJDNS1ndU81bzZFZXRwT25sOW5Y?oc=5",
+      "image": "",
+      "publishedAt": "Sat, 18 Jul 2026 14:08:38 GMT"
+    },
+    {
       "category": "אפל",
       "source": "גאדג׳טי — אפל",
       "title": "אפל תציג השנה iPad mini עם מסך OLED ושדרוג משמעותי ראשון מזה חצי עשור (דיווח)",
@@ -824,10 +833,19 @@
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "השריפה בשומרון בעיצומה: יותר מ-10 בתים נפגעו בחוות גלעד, משאית כיבוי עלתה באש",
+      "title": "שריפת ענק בשומרון: 13 בתים עלו באש בחוות גלעד; שליטה בשריפות בצפון",
       "summary": "",
       "url": "https://www.i24news.tv/he/news/news/local/artc-988d4866",
-      "image": "",
+      "image": "https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66994193506.jpg?width=350",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "גבר מת בטביעה בחדרה, אישה במצב אנוש בבת ים",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/local/artc-2f2e48c6",
+      "image": "https://cdn.i24news.tv/uploads/8d/fe/d5/72/b5/f7/91/33/88/16/4b/40/e3/74/ed/48/8dfed572b5f7913388164b40e374ed48.jpeg?width=350",
       "publishedAt": ""
     },
     {
@@ -842,18 +860,18 @@
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "\"קבינט שישי\": התוכנית המלאה לצפייה, 17.07.26",
+      "title": "אוחנה: \"ראבילו נבחר כחוק, מבחינתי הדלת של משרד המבקר פתוחה בפניו\" | ריאיון",
       "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/local/artc-60a32a07",
-      "image": "https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66987696187.jpg?width=350",
+      "url": "https://www.i24news.tv/he/news/news/politics/artc-71956",
+      "image": "",
       "publishedAt": ""
     },
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "אוחנה: \"ראבילו נבחר כחוק, מבחינתי הדלת של משרד המבקר פתוחה בפניו\" | ריאיון",
+      "title": "\"קבינט שישי\": התוכנית המלאה לצפייה, 17.07.26",
       "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/politics/artc-71956",
+      "url": "https://www.i24news.tv/he/news/news/local/artc-60a32a07",
       "image": "",
       "publishedAt": ""
     },
@@ -864,15 +882,6 @@
       "summary": "",
       "url": "https://www.i24news.tv/he/news/news/defense-news/artc-71935",
       "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "הלילה השביעי ברציפות: הצבא האמריקני החל בגל תקיפות נוסף באיראן קרא עוד..",
-      "summary": "הלילה השביעי ברציפות: הצבא האמריקני החל בגל תקיפות נוסף באיראן",
-      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-1a2805b1-88",
-      "image": "https://cdn.i24news.tv/uploads/91/2c/9e/8d/d2/c4/31/6c/c8/ce/a0/7a/6f/fe/9f/6a/912c9e8dd2c4316cc8cea07a6ffe9f6a.jpg?width=750",
       "publishedAt": ""
     },
     {
@@ -901,27 +910,9 @@
       "url": "https://www.sport5.co.il/articles.aspx?FolderID=8166&docID=552244",
       "image": "",
       "publishedAt": ""
-    },
-    {
-      "category": "מסי",
-      "source": "חדשות מסי",
-      "title": "\"250 מיליון יורו על מסי\": ההצעה המטורפת שכמעט שינתה את ההיסטוריה",
-      "summary": "\"250 מיליון יורו על מסי\": ההצעה המטורפת שכמעט שינתה את ההיסטוריה &nbsp;&nbsp; ספורט 1",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Tcjd3NllUZUtWNjZ6a2tQT0RjY2lRNTlrdlBjUEp6WXlIZTJkMFQ5QkJyRHUwdS1HYlU0ejhqWXBxb0c4alJ2YUJnZkQxbnFRRlRvakJDNS1ndU81bzZFZXRwT25sOW5Y?oc=5",
-      "image": "",
-      "publishedAt": "Sat, 18 Jul 2026 14:08:38 GMT"
     }
   ],
   "flashes": [
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "תקיפות רחפנים אוקראיניות על בתי הזיקוק ברוסיה כבר משפיעות על עליית המחיר לצרכן בארה''ב",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957177.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
     {
       "category": "מבזקים",
       "source": "רוטר",
@@ -934,27 +925,18 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "מונדיאל 2026-המשחק על המקום השלישי: צרפת - אנגליה (00:00)",
+      "title": "העזתיים מתלוננים: הקו הצהוב מתקדם היום מערבה גם בשכונת זיתון במזרח העיר עזה וגם באזור ואדי סלקא במרכז הרצועה.עשרות משפחות נאלצו לפנות",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957174.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957190.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "עלות אבטחת משפחת נתניהו 4.5 מיליון שקלים בשנה",
+      "title": "שני מקרים - בתוך כשעה: גבר ואישה טבעו בים בבת ים ובחדרה, מצבם אנוש",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957171.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "צה''ל מאשר: מטוסי התדלוק של צבא ארה''ב יחנו בבסיסי חיל האוויר",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957163.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957186.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -970,9 +952,45 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "ירדן - דיווחים על טילים איראניים שפגעו ישירות בבסיס האמריקני בירדן",
+      "title": "סגן ראש הסגל של הבית הלבן, דן סקאבינו, מצייץ הבוקר תיעוד של מפציץ B-2.",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957173.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957189.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "עלות אבטחת משפחת נתניהו 4.5 מיליון שקלים בשנה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957171.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "משה (בוגי) יעלון: יצאנו למלחמה עם איראן עם שלוש מטרות - להפיל את המשטר, לחסל את הגרעין ולפגוע בפרויקט הטילים. אף אחת מהן לא הושגה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957188.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "איפא''ק הפסיקה העברת תרומות לדמוקרטים שהצביעו נגד סיוע לישראל",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957150.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "כווית (שבת) - כבאים נפצעו במהלך מאמצי כיבוי שריפות לאחר שתקיפות איראניות פגעו בשני אתרים שונים",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957170.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -988,18 +1006,27 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "ממדאני נמצא בדיונים כדי להביא למעצר נתניהו בעצרת האו''ם בספטמבר",
+      "title": "טלטלה בשוק הנדל''ן: ירידה של אחוז שלם במחירים - תוך חודש",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957169.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957142.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "איראן - שיקום מנהרות Shahid Mirzaei שנפגעו ע''י האמריקאים ( תמונת המנהרות שעכשיו נחשפות לציבור)",
+      "title": "חשיפה + וידיאו: משטרת הולנד מפרטת 700 חיילים בארגון הפשיעה של האנאלייזר הישראלי אהוד טננבאום - מבקשת לזהותם בשמם הנכון...",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957172.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957185.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "צה''ל מאשר: מטוסי התדלוק של צבא ארה''ב יחנו בבסיסי חיל האוויר",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957163.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1009,6 +1036,78 @@
       "title": "שמשית שריפת חורש מספר מוקדים. סיוע אווירי",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957178.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ממדאני נמצא בדיונים כדי להביא למעצר נתניהו בעצרת האו''ם בספטמבר",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957169.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ממשל טראמפ הפעיל לראשונה הליך חשאי לגירוש מהיר של ״טרוריסטים זרים״ ובני משפחותיהם",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957187.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ירדן - דיווחים על טילים איראניים שפגעו ישירות בבסיס האמריקני בירדן",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957173.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "סנטקום: הטענה של משמרות המהפכה, לפיה שתי מכליות נפט התפוצצו לאחר שפגעו במוקשים במצר הורמוז - אינה נכונה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957146.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "תקיפות רחפנים אוקראיניות על בתי הזיקוק ברוסיה כבר משפיעות על עליית המחיר לצרכן בארה''ב",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957177.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "כתבה על חוק מח''ש החדש.",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957147.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "מונדיאל 2026-המשחק על המקום השלישי: צרפת - אנגליה (00:00)",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957174.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "איראן - שיקום מנהרות Shahid Mirzaei שנפגעו ע''י האמריקאים ( תמונת המנהרות שעכשיו נחשפות לציבור)",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957172.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1045,15 +1144,6 @@
       "title": "מתקפת כטב''מים איראנית כנגד כוחות כורדים בעירק, פגיעה במפקדות ובתחמושת",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957125.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "כווית (שבת) - כבאים נפצעו במהלך מאמצי כיבוי שריפות לאחר שתקיפות איראניות פגעו בשני אתרים שונים",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957170.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1099,15 +1189,6 @@
       "title": "ביקורת חריפה בשב''כ נגד זיני. מתכחש לטרור היהודי",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957129.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "איפא''ק הפסיקה העברת תרומות לדמוקרטים שהצביעו נגד סיוע לישראל",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957150.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1204,15 +1285,6 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "כתבה על חוק מח''ש החדש.",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957147.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "''ויקראם-1'', הטיל המסלולי הראשון אי פעם של חברה פרטית הודית, שוגר בהצלחה והציב את מטעניו במסלול סביב כדור הארץ",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957165.shtml?utm_source=rotter.net&utm_medium=mivzakside",
@@ -1234,15 +1306,6 @@
       "title": "טרו קריים,טקסס:הרוצח של בברלי ברונו נעצר באיחור של 45 שנה בזכות ההתפתחות בטכנולוגית ה DNA. המניע לרצח: ויכוח על כסף וביטוח חיים",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957153.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "טלטלה בשוק הנדל''ן: ירידה של אחוז שלם במחירים - תוך חודש",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957142.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
