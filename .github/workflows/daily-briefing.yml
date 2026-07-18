@@ -1,0 +1,24 @@
+name: עדכון תדריך יומי
+on:
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: יצירת תדריך
+        run: node scripts/update-briefing.mjs
+        env:
+          DROPBOX_REFRESH_TOKEN: ${{ secrets.DROPBOX_REFRESH_TOKEN }}
+          DROPBOX_APP_SECRET: ${{ secrets.DROPBOX_APP_SECRET }}
+      - name: שמירת העדכון
+        run: |
+          git config user.name "Shauli Daily"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/briefing.json
+          git diff --cached --quiet || git commit -m "עדכון תדריך יומי"
+          git push
