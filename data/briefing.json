@@ -1,6 +1,6 @@
 {
   "date": "2026-07-18",
-  "updatedAt": "2026-07-18T10:15:35.557Z",
+  "updatedAt": "2026-07-18T10:16:56.169Z",
   "stories": [
     {
       "category": "טכנולוגיה",
@@ -55,24 +55,6 @@
       "url": "https://theverifier.co.il/80030/windows-11-search-update/",
       "image": "https://theverifier.co.il/wp-content/uploads/2026/07/windows-search-box-1-150x150.webp",
       "publishedAt": "Tue, 14 Jul 2026 08:26:18 +0000"
-    },
-    {
-      "category": "טכנולוגיה",
-      "source": "The Verifier",
-      "title": "ווייז מפסיקה לחפור ומעדכנת את מודל הניווט",
-      "summary": "נכתב על ידי אבי דוד מאתר The Verifier העדכון החדש של אפליקציית הניווט מנסה לפתור את העומס הקולי, לומד את המסלולים המועדפים עליכם ומשלב את מנוע הבינה המלאכותית ג'מיני.",
-      "url": "https://theverifier.co.il/80024/waze-update-less-chatty-mode-gemini-ai/",
-      "image": "https://theverifier.co.il/wp-content/uploads/2026/07/Motorcycle_hero_2_english.mp4",
-      "publishedAt": "Mon, 13 Jul 2026 20:00:29 +0000"
-    },
-    {
-      "category": "טכנולוגיה",
-      "source": "The Verifier",
-      "title": "דיווח: דיסני בוחנת אפשרות להציע מסלול צפייה חינמי בדיסני פלוס",
-      "summary": "נכתב על ידי אלדד מטמון מאתר The Verifier דיווח חדש חושף כי החברה מחפשת דרכים להתמודד עם מעבר של צופים צעירים לפלטפורמות כמו יוטיוב.",
-      "url": "https://theverifier.co.il/80021/disney-plus-free-ad-tier/",
-      "image": "https://theverifier.co.il/wp-content/uploads/2024/10/thibault-penin-hitikwrSIVQ-unsplash-150x150.webp",
-      "publishedAt": "Sun, 12 Jul 2026 15:59:42 +0000"
     },
     {
       "category": "ישראל",
@@ -138,24 +120,6 @@
       "publishedAt": "Thu, 16 Jul 2026 11:46:30 +0000"
     },
     {
-      "category": "טכנולוגיה",
-      "source": "גיקטיים",
-      "title": "הגאדג'ט הראשון של OpenAI הוא… מקלדת למפתחים",
-      "summary": "כולם חיכו לראות איזה גאדג'ט מסתורי יוליד שיתוף הפעולה בין סם אלטמן למעצב ג'וני אייב. אבל בזמן שהשמועות חוגגות, ענקית ה-AI הפתיעה וחשפה את מוצר החומרה הראשון שלה אי פעם, והוא ממש לא מה שחשבתם. מקלדת לשליטה בסוכנים במקום רמקול חכם או גאדג'ט לביש שיחליף את האייפון, החברה השיקה מקלדת עזר קטנה בשם Codex ",
-      "url": "https://www.geektime.co.il/openai-launches-codex-micro/",
-      "image": "https://www.geektime.co.il/feed/",
-      "publishedAt": "Thu, 16 Jul 2026 09:06:57 +0000"
-    },
-    {
-      "category": "טכנולוגיה",
-      "source": "גיקטיים",
-      "title": "המדינה פותחת את הארנק: אושרה תוכנית סיוע של 1.2 מיליארד שקל להייטק הישראלי",
-      "summary": "גם בתקופה הלא פשוטה של השנים האחרונות, החודשים האחרונים היו מאתגרים במיוחד לתעשיית ההייטק הישראלית. משבר גלובלי, מהפכת ה-AI' מצב ביטחוני מורכב והתחזקות חריגה של השקל יצרו סערה מושלמת שאיימה לשרוף לחברות את הראנוויי בקצב מדאיג. עכשיו נראה שהמדינה סוף-סוף החליטה להתעורר ולהכניס את היד עמוק לכיס, כדי ל",
-      "url": "https://www.geektime.co.il/1-2b-nis-support-plan-for-israeli-tech/",
-      "image": "https://www.geektime.co.il/feed/",
-      "publishedAt": "Thu, 16 Jul 2026 07:22:57 +0000"
-    },
-    {
       "category": "רכב חשמלי",
       "source": "מגזין רכב חשמלי",
       "title": "BYD אטו 3 מגיע בגרסה משודרגת ובמחיר משתלם",
@@ -210,24 +174,6 @@
       "publishedAt": "Wed, 29 Apr 2026 04:29:35 +0000"
     },
     {
-      "category": "רכב חשמלי",
-      "source": "מגזין רכב חשמלי",
-      "title": "אאודי Q4 משתדרגת: תא נוסעים מעודכן ותמיכה ב-V2L",
-      "summary": "רכב הפנאי החשמלי של אאודי מקבל עדכון נוסף עם שיפורים בתא הנוסעים, מערך מסכים חדש ותמיכה בטעינה דו-כיוונית, לצד שינויים מתונים יותר בטווח הנסיעה ובקצבי הטעינה. The post אאודי Q4 משתדרגת: תא נוסעים מעודכן ותמיכה ב-V2L appeared first on EV Magazine | מגזין רכב חשמלי .",
-      "url": "https://www.evm.co.il/audi-q4-update-interior-v2l/",
-      "image": "https://www.evm.co.il/israel/feed/",
-      "publishedAt": "Mon, 27 Apr 2026 17:27:47 +0000"
-    },
-    {
-      "category": "רכב חשמלי",
-      "source": "מגזין רכב חשמלי",
-      "title": "עם 7 מקומות וטווח של 620 ק״מ: יונדאי איוניק 9 בישראל",
-      "summary": "יונדאי איוניק 9 נוחתת בישראל, בתצורת 6 או 7 מושבים, טווח נסיעה של עד 620 ק״מ ואבזור עשיר מאוד. הנה כל מה שאתם צריכים לדעת על הדגם החדש. The post עם 7 מקומות וטווח של 620 ק״מ: יונדאי איוניק 9 בישראל appeared first on EV Magazine | מגזין רכב חשמלי .",
-      "url": "https://www.evm.co.il/hyundai-ioniq-9-in-israel/",
-      "image": "https://www.evm.co.il/israel/feed/",
-      "publishedAt": "Fri, 24 Apr 2026 12:39:17 +0000"
-    },
-    {
       "category": "ספורט",
       "source": "ערוץ הספורט",
       "title": "כל מה שזז בספורט בשיתוף פריסבי",
@@ -239,7 +185,7 @@
     {
       "category": "רונאלדיניו",
       "source": "חדשות רונאלדיניו",
-      "title": "בגיל 46: רונאלדיניו חוזר לשחק כדורגל - זו קבוצתו החדשה - ynet",
+      "title": "בגיל 46: רונאלדיניו חוזר לשחק כדורגל - זו קבוצתו החדשה - ynet.co.il",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE96REowalRBc0x6ZkM0YW9wN25HekpGcXdyNlM5cWVtaW5PRWFReWk5UWlDcXZlUEJsemdJOXlnTmN5am1feGxuSTdvQUNMblZVdXNDNi1hRDRpaUtCUmtmSFlEMDA1S3U1OUJZ?oc=5\" target=\"_blank\">בגיל 46: רונאלדיניו חוזר לשחק כדורגל - זו קבוצתו החדשה</a>&nbsp;&nbsp;<font color=\"",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96REowalRBc0x6ZkM0YW9wN25HekpGcXdyNlM5cWVtaW5PRWFReWk5UWlDcXZlUEJsemdJOXlnTmN5am1feGxuSTdvQUNMblZVdXNDNi1hRDRpaUtCUmtmSFlEMDA1S3U1OUJZ?oc=5",
       "image": "https://news.google.com/rss/search?q=%D7%A8%D7%95%D7%A0%D7%90%D7%9C%D7%93%D7%99%D7%A0%D7%99%D7%95&hl=he&gl=IL&ceid=IL:he",
@@ -291,24 +237,6 @@
       "publishedAt": "Sat, 20 Jun 2026 07:00:00 GMT"
     },
     {
-      "category": "רונאלדיניו",
-      "source": "חדשות רונאלדיניו",
-      "title": "בגיל 46: רונאלדיניו חתם בקבוצה מהליגה השלישית באיטליה - היום",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9nS1lzblJDSWtwV3FOdUhLVmg4MmxxcVlXamRnVExEVTA2R25DM1BEa1lOMk1Zd0pRc2hwSWNIR1lqc2FHekJOc1FsN0gyc05qYnVOZ0RDUkFsd2JWVF9tdDhGLW1SZlhSY2lWYXk4WVR6OVHSAXtBVV95cUxQNG8yNi1YMVRjZE1fLVQzSERlUHBqeHZSYnozU0J2V2NxeGdFSDl1bGVmbi1YX2hIVnE5Rk9oSFB4QmxiaE",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9nS1lzblJDSWtwV3FOdUhLVmg4MmxxcVlXamRnVExEVTA2R25DM1BEa1lOMk1Zd0pRc2hwSWNIR1lqc2FHekJOc1FsN0gyc05qYnVOZ0RDUkFsd2JWVF9tdDhGLW1SZlhSY2lWYXk4WVR6OVHSAXtBVV95cUxQNG8yNi1YMVRjZE1fLVQzSERlUHBqeHZSYnozU0J2V2NxeGdFSDl1bGVmbi1YX2hIVnE5Rk9oSFB4QmxiaEhscHRYeTBFQVd4TUljY3RsZ2lVUHNYUFJiYzRZenpqaEdwTUdzd3lfcEtsU0lBd1dYUVBoU2c?oc=5",
-      "image": "https://news.google.com/rss/search?q=%D7%A8%D7%95%D7%A0%D7%90%D7%9C%D7%93%D7%99%D7%A0%D7%99%D7%95&hl=he&gl=IL&ceid=IL:he",
-      "publishedAt": "Sat, 20 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "category": "רונאלדיניו",
-      "source": "חדשות רונאלדיניו",
-      "title": "החיוך עדיין מהפנט, אבל הסדרה על רונאלדיניו לא מחדשת דבר - הארץ",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQcUpSZXN5VERtZThlSDU5LWhKMU5yajhER0NaYS1aTHlLaUMyb3AxYmtpWmlQRWp5SlNDcHE1X1BSUG1wT0lLSHB2YUNTek5pQ0JXdWRVRDJXU0lqOGhwZ3NtTGtyNFlUQTR1bDFJLWRRaEJLVmpDS2NDSTVnYVIzYVhEWW5ianVteXFBVUk4clFxTU00cGlvWGpieTVFS0RkajdlNGU3SWdVMVlXMUVwd0dkWjhHVVBUR0",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcUpSZXN5VERtZThlSDU5LWhKMU5yajhER0NaYS1aTHlLaUMyb3AxYmtpWmlQRWp5SlNDcHE1X1BSUG1wT0lLSHB2YUNTek5pQ0JXdWRVRDJXU0lqOGhwZ3NtTGtyNFlUQTR1bDFJLWRRaEJLVmpDS2NDSTVnYVIzYVhEWW5ianVteXFBVUk4clFxTU00cGlvWGpieTVFS0RkajdlNGU3SWdVMVlXMUVwd0dkWjhHVVBUR0c4b3NB?oc=5",
-      "image": "https://news.google.com/rss/search?q=%D7%A8%D7%95%D7%A0%D7%90%D7%9C%D7%93%D7%99%D7%A0%D7%99%D7%95&hl=he&gl=IL&ceid=IL:he",
-      "publishedAt": "Fri, 24 Apr 2026 07:00:00 GMT"
-    },
-    {
       "category": "מסי",
       "source": "חדשות מסי",
       "title": "\"זה אפילו לא קרוב\": ההצהרה הענקית על ליאו מסי לפני גמר המונדיאל - ספורט 1",
@@ -351,7 +279,7 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE10VXluakRZbFlCZ3BRS1ZsTExtNXQzQzFkWlFlV1BhdllUY2F3bjNHREJhY3Nnekw0VDdUc0xfeGh2ODU3VV9ScEVnWTJFUQ?oc=5\" target=\"_blank\">בפעם השנייה ברציפות: מסי וארגנטינה בגמר המונדיאל, ספרד מחכה</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">C14</font>",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE10VXluakRZbFlCZ3BRS1ZsTExtNXQzQzFkWlFlV1BhdllUY2F3bjNHREJhY3Nnekw0VDdUc0xfeGh2ODU3VV9ScEVnWTJFUQ?oc=5",
       "image": "https://news.google.com/rss/search?q=%D7%9C%D7%99%D7%90%D7%95%D7%A0%D7%9C+%D7%9E%D7%A1%D7%99&hl=he&gl=IL&ceid=IL:he",
-      "publishedAt": "Wed, 15 Jul 2026 21:06:23 GMT"
+      "publishedAt": "Wed, 15 Jul 2026 21:03:03 GMT"
     },
     {
       "category": "מסי",
@@ -361,24 +289,6 @@
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9oMzNvdU1CRTZneXlZQlUyRjZrcTh2UmFWMW8xMnZjbE9mMzhXMTlDVnVHa2Njek5rUXB0Mk9XZW9STE1TOF9mUDQyY1RCZ1Rr?oc=5",
       "image": "https://news.google.com/rss/search?q=%D7%9C%D7%99%D7%90%D7%95%D7%A0%D7%9C+%D7%9E%D7%A1%D7%99&hl=he&gl=IL&ceid=IL:he",
       "publishedAt": "Sat, 18 Jul 2026 05:04:00 GMT"
-    },
-    {
-      "category": "מסי",
-      "source": "חדשות מסי",
-      "title": "המשקה שליאו מסי לא מוותר עליו ומסייע בשריפת שומן ושיפור ביצועים - וואלה בריאות",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nWXotb0I3Zmg1dzBVUGpFdkt4Z1JyRXpWSjJlNWdxWVB5VV9GY19ITU9JSWd5Q1hDUzlmY2VMTktQNXR3MTRIX0ZycFhndGVZSmc?oc=5\" target=\"_blank\">המשקה שליאו מסי לא מוותר עליו ומסייע בשריפת שומן ושיפור ביצועים</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">וואלה בריאות</f",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nWXotb0I3Zmg1dzBVUGpFdkt4Z1JyRXpWSjJlNWdxWVB5VV9GY19ITU9JSWd5Q1hDUzlmY2VMTktQNXR3MTRIX0ZycFhndGVZSmc?oc=5",
-      "image": "https://news.google.com/rss/search?q=%D7%9C%D7%99%D7%90%D7%95%D7%A0%D7%9C+%D7%9E%D7%A1%D7%99&hl=he&gl=IL&ceid=IL:he",
-      "publishedAt": "Thu, 16 Jul 2026 09:37:00 GMT"
-    },
-    {
-      "category": "מסי",
-      "source": "חדשות מסי",
-      "title": "\"פיקה ופברגאס התקשרו אליו כל הזמן\": כך מסי כמעט שיחק בנבחרת ספרד - ספורט 1",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GS2xZbjc5ZjVOTG9NazVtTDBfbU5ra1Y1X2NrN21WZjlFT1ZTM2ZfTloyLVJKN0ZfUGdjX2NuQURNTkgydjBkNHRtT01yMlA0bjdOX28za3hmSUNoa0xST3E3dWRkaDVt?oc=5\" target=\"_blank\">\"פיקה ופברגאס התקשרו אליו כל הזמן\": כך מסי כמעט שיחק בנבחרת ספרד</a>&nbsp;&nbsp;<font c",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GS2xZbjc5ZjVOTG9NazVtTDBfbU5ra1Y1X2NrN21WZjlFT1ZTM2ZfTloyLVJKN0ZfUGdjX2NuQURNTkgydjBkNHRtT01yMlA0bjdOX28za3hmSUNoa0xST3E3dWRkaDVt?oc=5",
-      "image": "https://news.google.com/rss/search?q=%D7%9C%D7%99%D7%90%D7%95%D7%A0%D7%9C+%D7%9E%D7%A1%D7%99&hl=he&gl=IL&ceid=IL:he",
-      "publishedAt": "Fri, 17 Jul 2026 08:01:37 GMT"
     },
     {
       "category": "דני אבדיה",
@@ -439,15 +349,6 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "''ויקראם-1'', הטיל המסלולי הראשון אי פעם של חברה פרטית הודית, שוגר בהצלחה והציב את מטעניו במסלול סביב כדור הארץ",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957165.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "אזעקות בירדן ובכווית בשל שיגורים מאיראן",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957166.shtml?utm_source=rotter.net&utm_medium=mivzakside",
@@ -457,18 +358,27 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "צה''ל מאשר: מטוסי התדלוק של צבא ארה''ב יחנו בבסיסי חיל האוויר",
+      "title": "התקופה הקשה של חנן גולדבלט. אשתו סועדת אותו במסירות",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957163.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957149.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "התקופה הקשה של חנן גולדבלט. אשתו סועדת אותו במסירות",
+      "title": "''ויקראם-1'', הטיל המסלולי הראשון אי פעם של חברה פרטית הודית, שוגר בהצלחה והציב את מטעניו במסלול סביב כדור הארץ",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957149.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957165.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "צה''ל מאשר: מטוסי התדלוק של צבא ארה''ב יחנו בבסיסי חיל האוויר",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957163.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
