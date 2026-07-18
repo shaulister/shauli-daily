@@ -24,31 +24,20 @@
         <h1>בוקר טוב, שאולי</h1>
         <p id="today" class="date"></p>
         <div class="hero-meta">
-          <span><i class="live-dot"></i>עודכן הבוקר</span>
+          <span><i class="live-dot"></i>עודכן בשעה <b id="updatedAt">--:--</b></span>
           <span>זמן קריאה: 6 דקות</span>
         </div>
       </section>
 
       <nav class="topics" aria-label="נושאים">
-        <a href="#headlines">ראשי</a><a href="#ai">בינה מלאכותית</a><a href="#israel">ישראל</a><a href="#tech">טכנולוגיה</a><a href="#sport">ספורט</a>
+        <a href="#flashes-section">מבזקים</a><a href="#feed-section">כל החדשות</a><a href="#feed-section">אפל</a><a href="#feed-section">ישראל</a><a href="#feed-section">טכנולוגיה</a><a href="#feed-section">רכב חשמלי</a><a href="#feed-section">ספורט</a>
       </nav>
 
-      <section id="headlines" class="lead card">
-        <div class="visual visual-main" role="img" aria-label="מרכז נתונים מתקדם בשעת זריחה">
-          <span class="tag urgent">הכותרת הראשית</span>
-          <div class="visual-grid"></div>
-        </div>
-        <div class="story-body">
-          <p class="section-label">בינה מלאכותית</p>
-          <h2>המרוץ לבניית תשתיות הבינה המלאכותית נכנס לשלב חדש</h2>
-          <p>חברות הטכנולוגיה מגדילות את ההשקעה בשבבים, מרכזי נתונים ואנרגיה. המאבק כבר אינו רק על המודל הטוב ביותר, אלא על היכולת להפעיל אותו במהירות ובקנה מידה עולמי.</p>
-          <aside><strong>למה זה חשוב?</strong> התשתית שייבנו היום תקבע אילו חברות ומדינות יובילו את התחום בשנים הקרובות.</aside>
-          <div class="source"><span>תקציר הדגמה</span><span>★★★★★</span></div>
-        </div>
-      </section>
+      <section class="section-heading" id="flashes-section"><p>עדכונים בזמן אמת</p><h2>מבזקים</h2></section>
+      <section class="flashes-card card"><ul id="flashes" class="flashes" aria-live="polite"><li>טוען מבזקים…</li></ul><a class="all-flashes" href="https://rotter.net/news/news.php" target="_blank" rel="noopener noreferrer">לכל המבזקים ברוטר</a></section>
 
-      <section class="section-heading" id="ai"><p>הנושאים החשובים</p><h2>מה כדאי לדעת הבוקר</h2></section>
-      <section id="feed" class="feed" aria-live="polite"></section>
+      <section class="section-heading" id="feed-section"><p>המקורות שבחרת</p><h2>החדשות החשובות</h2></section>
+      <section id="feed" class="feed" aria-live="polite"><p class="empty-state">טוען את חדשות הבוקר…</p></section>
 
       <section class="watchlist">
         <p class="eyebrow">מבט קדימה</p>
