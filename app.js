@@ -68,6 +68,12 @@ fetch(`./data/briefing.json?v=${Date.now()}`, { cache: "no-store" }).then(respon
 
 document.querySelector("#today").textContent = new Intl.DateTimeFormat("he-IL", { weekday: "long", day: "numeric", month: "long", year: "numeric" }).format(new Date());
 const root = document.documentElement, themeButton = document.querySelector("#themeButton");
+const refreshButton = document.querySelector("#refreshButton");
+refreshButton.addEventListener("click", () => {
+  refreshButton.classList.add("refreshing");
+  refreshButton.disabled = true;
+  window.location.reload();
+});
 if (localStorage.getItem("shauli-theme") === "dark") { root.classList.add("dark"); themeButton.textContent = "☀"; }
 themeButton.addEventListener("click", () => { root.classList.toggle("dark"); const dark = root.classList.contains("dark"); themeButton.textContent = dark ? "☀" : "☾"; localStorage.setItem("shauli-theme", dark ? "dark" : "light"); });
 if ("serviceWorker" in navigator) window.addEventListener("load", () => navigator.serviceWorker.register("./sw.js"));
