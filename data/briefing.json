@@ -1,6 +1,6 @@
 {
   "date": "2026-07-18",
-  "updatedAt": "2026-07-18T11:30:38.956Z",
+  "updatedAt": "2026-07-18T11:32:25.041Z",
   "stories": [
     {
       "category": "טכנולוגיה",
@@ -399,6 +399,276 @@
       "publishedAt": "Sat, 18 Jul 2026 09:16:00 +0000"
     },
     {
+      "category": "A.I",
+      "source": "Let's AI",
+      "title": "בוט, סוכן ואסיסטנט: מה באמת ההבדל, ולמה זה משנה?",
+      "summary": "",
+      "url": "https://letsai.co.il/bot-agent-assistant-difference/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "A.I",
+      "source": "Let's AI",
+      "title": "בית חולים בניו יורק פיטר 12 אחיות והחליף אותן בתוכנה",
+      "summary": "",
+      "url": "https://letsai.co.il/nurses-replaced-by-ai/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "A.I",
+      "source": "Let's AI",
+      "title": "מה קורה כשכולנו הופכים למנהלים של סוכני AI?",
+      "summary": "",
+      "url": "https://letsai.co.il/ai-layoffs-agents-workforce/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "A.I",
+      "source": "Let's AI",
+      "title": "לנווט עם הבינה – Waze משלבת את Gemini באפליקציה",
+      "summary": "",
+      "url": "https://letsai.co.il/waze-gemini-update/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "A.I",
+      "source": "Let's AI",
+      "title": "השדרוגים ב-AI Mode של Google Chrome – האם פרפלקסיטי צריכים לפחד?",
+      "summary": "",
+      "url": "https://letsai.co.il/google-ai-mode-chrome/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "A.I",
+      "source": "Let's AI",
+      "title": "הפיצ׳ר שמטא הייתה מעדיפה שתשכחו: הושק, עורר סערה ונגנז",
+      "summary": "",
+      "url": "https://letsai.co.il/meta-muse-image-contradiction/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "A.I",
+      "source": "Let's AI",
+      "title": "ארבע אוטומציות שאפשר לבנות בקליק ב-Google Workspace Studio",
+      "summary": "",
+      "url": "https://letsai.co.il/workspace-studio-automations/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "A.I",
+      "source": "Let's AI",
+      "title": "סוכן ה- AI שגייס לעצמו 100 מיליון דולר",
+      "summary": "",
+      "url": "https://letsai.co.il/lyzr-ai-agent-fundraise/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "A.I",
+      "source": "Let's AI",
+      "title": "איך ואיפה שומרים מפתחות API?",
+      "summary": "",
+      "url": "https://letsai.co.il/api-keys-storage-guide/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "A.I",
+      "source": "Let's AI",
+      "title": "OpenAI השיקה את ChatGPT Work, ומצטרפת לזירה של מיקרוסופט ואנטרופיק",
+      "summary": "",
+      "url": "https://letsai.co.il/chatgpt-work-openai/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "A.I",
+      "source": "Let's AI",
+      "title": "רוטינות בקלוד קוד: האוטומציות שעובדות בשבילכם",
+      "summary": "",
+      "url": "https://letsai.co.il/claude-code-routines/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "A.I",
+      "source": "Let's AI",
+      "title": "אפל תובעת את OpenAI: הברית שהפכה לשדה קרב משפטי",
+      "summary": "",
+      "url": "https://letsai.co.il/apple-openai-lawsuit/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "A.I",
+      "source": "Let's AI",
+      "title": "האם GPT-5.6 Sol נותן פייט ל-Fabel של אנטרופיק?",
+      "summary": "",
+      "url": "https://letsai.co.il/gpt5-6/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "A.I",
+      "source": "Let's AI",
+      "title": "שיחה רציפה: GPT-Live מאפשר ל-ChatGPT להקשיב תוך כדי דיבור",
+      "summary": "",
+      "url": "https://letsai.co.il/openai-gpt-live-voice/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "A.I",
+      "source": "Let's AI",
+      "title": "מאגרי סקילים, פלאגינים וחיבורי MCP: איפה מוצאים אותם ואיך נשארים בטוחים בדרך",
+      "summary": "",
+      "url": "https://letsai.co.il/ai-skills-directories/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "A.I",
+      "source": "Let's AI",
+      "title": "כך תקחו את Claude Code לקצה!",
+      "summary": "",
+      "url": "https://letsai.co.il/claude-code-cowork-tips/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "A.I",
+      "source": "Let's AI",
+      "title": "110,000 עובדים קיבלו מייל שמבהיר מה SAP באמת חושבת על העתיד שלהם",
+      "summary": "",
+      "url": "https://letsai.co.il/sap-hiring-freeze-ai/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "A.I",
+      "source": "Let's AI",
+      "title": "מה החשיבות של תשתית בינה מלאכותית ריבונית ועצמאית",
+      "summary": "",
+      "url": "https://letsai.co.il/sovereign-ai-infrastructure/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "A.I",
+      "source": "Let's AI",
+      "title": "למה OpenAI שוקלת להעביר 5% לממשל האמריקאי",
+      "summary": "",
+      "url": "https://letsai.co.il/openai-us-government-stake/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "A.I",
+      "source": "Let's AI",
+      "title": "אמזון מוכרת לרשתות את עוזר הקניות שלה – קייט ספייד ראשונה בתור",
+      "summary": "",
+      "url": "https://letsai.co.il/amazon-shopping-assistant-retailers/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "A.I",
+      "source": "Let's AI",
+      "title": "תפריט האפליקציות החדש של Copilot Chat ותזמון הודעות",
+      "summary": "",
+      "url": "https://letsai.co.il/copilot-apps-menu/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "A.I",
+      "source": "Let's AI",
+      "title": "NotebookLM יודע להפוך מקורות לסרטון קצר",
+      "summary": "",
+      "url": "https://letsai.co.il/notebooklm-short-videos/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "A.I",
+      "source": "Let's AI",
+      "title": "גוגל משתמשת ב-AI כדי לזהות איזה גגות מחממים את העיר",
+      "summary": "",
+      "url": "https://letsai.co.il/google-heat-resilience/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "A.I",
+      "source": "Let's AI",
+      "title": "כשמורה בונה משחקי מחשב בעזרת AI, הכיתה מקבלת מרחב משחקים משלה",
+      "summary": "",
+      "url": "https://letsai.co.il/ai-educational-games/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "A.I",
+      "source": "Let's AI",
+      "title": "מה צוותי מוצר באמת צריכים בעידן שבו AI מטשטש תפקידים",
+      "summary": "",
+      "url": "https://letsai.co.il/product-ai-archetypes/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "A.I",
+      "source": "Let's AI",
+      "title": "Claude Fable 5 שוחרר שוב לאוויר העולם עם מגבלות חדשות",
+      "summary": "",
+      "url": "https://letsai.co.il/fable-5-redeployment/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "A.I",
+      "source": "Let's AI",
+      "title": "אנטרופיק משיקה את Claude Sonnet 5",
+      "summary": "",
+      "url": "https://letsai.co.il/claude-sonnet-5/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "A.I",
+      "source": "Let's AI",
+      "title": "אלמנטור מפטרת 100 עובדים ומחשבת מסלול מחדש בעידן ה-AI",
+      "summary": "",
+      "url": "https://letsai.co.il/elementor-ai-layoffs/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "A.I",
+      "source": "Let's AI",
+      "title": "Base44 של Wix משיקה מודל שפה משלה ומפסיקה להישען על OpenAI ואנטרופיק",
+      "summary": "",
+      "url": "https://letsai.co.il/base44-own-llm-launch/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "A.I",
+      "source": "Let's AI",
+      "title": "גוגל רוצה להפוך את Gemini למחברת לימוד אישית",
+      "summary": "",
+      "url": "https://letsai.co.il/gemini-study-notebooks/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
       "category": "ישראל",
       "source": "i24NEWS",
       "title": "הלילה השביעי ברציפות: הצבא האמריקני החל בגל תקיפות נוסף באיראן",
@@ -453,6 +723,15 @@
       "publishedAt": ""
     },
     {
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "בגלל באג: ישראלי קיבל עכשיו חשבון AWS של 105 מיליארד דולר",
+      "summary": "דוד פסטיצקי התעורר אתמול (ו') עם קבלת התראת שימוש חריגה בתקציב שירותי הענן של אמזון. ההתראה הפתיעה אותו במיוחד כי החשבון הקטן שהוא מנהל ב-AWS מוגדר מראש עם תקציב צנוע של 20 דולר בחודש. אבל כשהוא פתח את ההתראה הוא כמעט התעלף כשגילה שהחיוב החריג עומד על למעלה מ-105 מיליארד דולר (105,827,994,172.05 דול",
+      "url": "https://www.geektime.co.il/aws-bug-israeli-105b-charge/",
+      "image": "",
+      "publishedAt": "Sat, 18 Jul 2026 11:31:18 +0000"
+    },
+    {
       "category": "ספורט",
       "source": "ערוץ הספורט — ישראלים ב־NBA",
       "title": "2 נקודות לבן שרף ו-4 לדני וולף, הנטס הובסו ולא עלו לחצי הגמר",
@@ -484,6 +763,33 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
+      "title": "עלות אבטחת משפחת נתניהו 4.5 מיליון שקלים בשנה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957171.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "איראן - שיקום מנהרות Shahid Mirzaei שנפגעו ע''י האמריקאים ( תמונת המנהרות שעכשיו נחשפות לציבור)",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957172.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "גרמניה בדריכות שיא - ומכריזה על שינוי בכוננות: ''להיערך לפיגועים בכל עת''",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957168.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
       "title": "צפון קפריסין (שטח הכיבוש הטורקי באי קפריסין): מטוסי קרב טורקיים נוספים הגיעו לאי. הם ביצעו יעפים מעל העיר קירניה",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957162.shtml?utm_source=rotter.net&utm_medium=mivzakside",
@@ -496,15 +802,6 @@
       "title": "מוסקווה - מרכז עיבוד ההזמנות ענקי בגודלו ברוסיה. נהרס כליל בעקבות מתקפה אוקראית שגרמה שריפה ענקית והשמדתו.",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957161.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "עלות אבטחת משפחת נתניהו 4.5 מיליון שקלים בשנה",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957171.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -577,15 +874,6 @@
       "title": "מתקפת כטב''מים איראנית כנגד כוחות כורדים בעירק, פגיעה במפקדות ובתחמושת",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957125.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "גרמניה בדריכות שיא - ומכריזה על שינוי בכוננות: ''להיערך לפיגועים בכל עת''",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957168.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -736,7 +1024,7 @@
       "name": "Let's AI",
       "category": "A.I",
       "url": "https://letsai.co.il/articles/news-and-innovations/",
-      "status": "unavailable"
+      "status": "ok"
     },
     {
       "name": "AppleInsider",
@@ -754,7 +1042,7 @@
       "name": "גיקטיים",
       "category": "טכנולוגיה",
       "url": "https://www.geektime.co.il/",
-      "status": "unavailable"
+      "status": "ok"
     },
     {
       "name": "מגזין רכב חשמלי",
