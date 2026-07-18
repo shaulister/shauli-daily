@@ -1,13 +1,21 @@
-name: עדכון תדריך יומי
+name: עדכון Shauli Daily
 on:
   schedule:
-    - cron: "0 5-20 * * *"
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 permissions:
   contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: shauli-daily-refresh
+  cancel-in-progress: false
 jobs:
   update:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
       - name: יצירת תדריך
@@ -22,3 +30,12 @@ jobs:
           git add data/briefing.json
           git diff --cached --quiet || git commit -m "עדכון תדריך יומי"
           git push
+      - name: הכנת האתר לפרסום
+        uses: actions/configure-pages@v5
+      - name: אריזת האתר
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "."
+      - name: פרסום האתר
+        id: deployment
+        uses: actions/deploy-pages@v4
