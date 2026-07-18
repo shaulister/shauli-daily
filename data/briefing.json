@@ -1,6 +1,6 @@
 {
   "date": "2026-07-18",
-  "updatedAt": "2026-07-18T10:53:25.769Z",
+  "updatedAt": "2026-07-18T11:07:28.586Z",
   "stories": [
     {
       "category": "טכנולוגיה",
@@ -55,15 +55,6 @@
       "url": "https://theverifier.co.il/80030/windows-11-search-update/",
       "image": "https://theverifier.co.il/wp-content/uploads/2026/07/windows-search-box-1-150x150.webp",
       "publishedAt": "Tue, 14 Jul 2026 08:26:18 +0000"
-    },
-    {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "תוכניות הטלוויזיה של i24NEWS",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/shows",
-      "image": "",
-      "publishedAt": ""
     },
     {
       "category": "טכנולוגיה",
@@ -343,24 +334,69 @@
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HZEpOX09CMWRQY0dGTE90aXpIa0w5MGdEVG9Ebk90djg1dzNXcjN1MmlnR1ZKb3d0eWhDSm41TGRQYnNrNWlzdEN3MDBmNlNY?oc=5",
       "image": "https://news.google.com/rss/search?q=%D7%93%D7%A0%D7%99+%D7%90%D7%91%D7%93%D7%99%D7%94&hl=he&gl=IL&ceid=IL:he",
       "publishedAt": "Fri, 17 Jul 2026 13:23:00 GMT"
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "הלילה השביעי ברציפות: הצבא האמריקני החל בגל תקיפות נוסף באיראן",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-1a2805b1-88",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "המועמדת שספגה אש בשכונת התקווה פותחת חזית מול יאיר גולן: מפגש קצוות עם חן אריאלי",
+      "summary": "1 דקות",
+      "url": "https://www.i24news.tv/he/news/news/politics/artc-bda16052",
+      "image": "https://cdn.i24news.tv/uploads/5b/b1/61/c3/41/5b/58/bd/f2/62/64/85/d0/e7/b6/7a/5bb161c3415b58bdf2626485d0e7b67a.jpg?width=350",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "טילים שוגרו לירדן; ארה\"ב: \"לשקול מחדש נסיעות למזה\"ת\"",
+      "summary": "1 דקות",
+      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-71935",
+      "image": "https://cdn.i24news.tv/uploads/c0/73/ee/8f/c8/37/2c/2f/a2/9a/37/c0/ce/28/3d/e4/c073ee8fc8372c2fa29a37c0ce283de4.jpg?width=350",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "אוחנה: \"ראבילו נבחר כחוק, מבחינתי הדלת של משרד המבקר פתוחה בפניו\" | ריאיון",
+      "summary": "2 דקות",
+      "url": "https://www.i24news.tv/he/news/news/politics/artc-71956",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "\"קבינט שישי\": התוכנית המלאה לצפייה, 17.07.26",
+      "summary": "2 דקות",
+      "url": "https://www.i24news.tv/he/news/news/local/artc-60a32a07",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "הכנסת ה-25 נעלה את שעריה - והשלימה כהונה מלאה לראשונה מזה כ-40 שנה",
+      "summary": "1 דקות",
+      "url": "https://www.i24news.tv/he/news/news/politics/artc-d3c246db",
+      "image": "",
+      "publishedAt": ""
     }
   ],
   "flashes": [
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "אזעקות בירדן ובכווית בשל שיגורים מאיראן",
+      "title": "ממדאני נמצא בדיונים כדי להביא למעצר נתניהו בעצרת האו''ם בספטמבר",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957166.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "יש שופטים בלונדון: התביעה נגד לוחם המילואים קרסה - והארגון הפרו-פלסטיני ישלם",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957167.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957169.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -376,36 +412,18 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "צפון קפריסין (שטח הכיבוש הטורקי באי קפריסין): מטוסי קרב טורקיים נוספים הגיעו לאי. הם ביצעו יעפים מעל העיר קירניה",
+      "title": "אזעקות בירדן ובכווית בשל שיגורים מאיראן",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957162.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957166.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "חדשות 13 ממשיכה להפסיד לכלל המהדורות: רייטינג",
+      "title": "השחקנית שושיק שני הלכה לעולמה",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957164.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "גרמניה בדריכות שיא - ומכריזה על שינוי בכוננות: ''להיערך לפיגועים בכל עת''",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957168.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "צה''ל: שוגר מיירט לעבר מטרת שווא בדרום לבנון",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957160.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957156.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -421,9 +439,63 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "השחקנית שושיק שני הלכה לעולמה",
+      "title": "גרמניה בדריכות שיא - ומכריזה על שינוי בכוננות: ''להיערך לפיגועים בכל עת''",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957156.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957168.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "כתבה על חוק מח''ש החדש.",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957147.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "כווית (שבת) - כבאים נפצעו במהלך מאמצי כיבוי שריפות לאחר שתקיפות איראניות פגעו בשני אתרים שונים",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957170.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "צפון קפריסין (שטח הכיבוש הטורקי באי קפריסין): מטוסי קרב טורקיים נוספים הגיעו לאי. הם ביצעו יעפים מעל העיר קירניה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957162.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "יש שופטים בלונדון: התביעה נגד לוחם המילואים קרסה - והארגון הפרו-פלסטיני ישלם",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957167.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "חדשות 13 ממשיכה להפסיד לכלל המהדורות: רייטינג",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957164.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "צה''ל: שוגר מיירט לעבר מטרת שווא בדרום לבנון",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957160.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
