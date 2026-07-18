@@ -6,7 +6,7 @@
     <meta name="theme-color" content="#071b36" />
     <meta name="description" content="עיתון הבוקר האישי של שאולי" />
     <link rel="manifest" href="manifest.webmanifest" />
-    <link rel="stylesheet" href="styles.css?v=2" />
+    <link rel="stylesheet" href="styles.css?v=3" />
     <title>שאולי דיילי</title>
   </head>
   <body>
@@ -15,7 +15,10 @@
         <span class="brand-mark">ש</span>
         <span>שאולי דיילי</span>
       </a>
-      <button id="themeButton" class="icon-button" type="button" aria-label="החלפת מצב תצוגה">☾</button>
+      <div class="header-actions">
+        <button id="refreshButton" class="icon-button" type="button" aria-label="רענון החדשות" title="רענון החדשות">↻</button>
+        <button id="themeButton" class="icon-button" type="button" aria-label="החלפת מצב תצוגה">☾</button>
+      </div>
     </header>
 
     <main id="top">
@@ -58,6 +61,6 @@
     </main>
 
     <footer><strong>שאולי דיילי</strong><span>נבנה לקריאה נוחה בעברית, בכל מסך.</span></footer>
-    <script src="app.js?v=3" defer></script>
+    <script src="app.js?v=4" defer></script>
   </body>
 </html>
