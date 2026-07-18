@@ -1,6 +1,6 @@
 {
   "date": "2026-07-19",
-  "updatedAt": "2026-07-18T22:25:41.333Z",
+  "updatedAt": "2026-07-18T23:28:09.007Z",
   "stories": [
     {
       "category": "טכנולוגיה",
@@ -779,19 +779,19 @@
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "הושגה שליטה על השריפה בשומרון, שנגרמה מסיגריה",
+      "title": "בלעדי: העימות בין בניהו רזי ז\"ל לבת זוגו החשודה ברצח",
       "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/local/artc-db574af3",
-      "image": "https://cdn.i24news.tv/uploads/6f/2a/fa/f1/a0/e8/96/5d/ae/89/08/88/16/b7/63/6c/6f2afaf1a0e8965dae89088816b7636c.jpeg?width=350",
+      "url": "https://www.i24news.tv/he/news/news/criminal/artc-82544d7f",
+      "image": "https://cdn.i24news.tv/uploads/d4/e7/26/62/19/7f/6c/e8/be/1d/ee/1b/2b/9e/88/b2/d4e72662197f6ce8be1dee1b2b9e88b2.jpg?width=350",
       "publishedAt": ""
     },
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "בלעדי: העימות בין בניהו רזי ז\"ל לבת זוגו החשודה ברצח",
+      "title": "הושגה שליטה על השריפה בשומרון, שנגרמה מסיגריה",
       "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/criminal/artc-82544d7f",
-      "image": "https://cdn.i24news.tv/uploads/d4/e7/26/62/19/7f/6c/e8/be/1d/ee/1b/2b/9e/88/b2/d4e72662197f6ce8be1dee1b2b9e88b2.jpg?width=350",
+      "url": "https://www.i24news.tv/he/news/news/local/artc-db574af3",
+      "image": "https://cdn.i24news.tv/uploads/6f/2a/fa/f1/a0/e8/96/5d/ae/89/08/88/16/b7/63/6c/6f2afaf1a0e8965dae89088816b7636c.jpeg?width=350",
       "publishedAt": ""
     },
     {
@@ -838,9 +838,27 @@
       "url": "https://www.sport5.co.il/articles.aspx?FolderID=8166&docID=552244",
       "image": "",
       "publishedAt": ""
+    },
+    {
+      "category": "מסי",
+      "source": "חדשות מסי",
+      "title": "\"זה אפילו לא קרוב\": ההצהרה הענקית על ליאו מסי לפני גמר המונדיאל",
+      "summary": "\"זה אפילו לא קרוב\": ההצהרה הענקית על ליאו מסי לפני גמר המונדיאל &nbsp;&nbsp; ספורט 1",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mcFo5NDJEMk4xUWhJaDNBVXphT2xsTG10UEppOGg5MFB4STZwSXo4aW9jZ1lnUDNjNHNQMFdQN2hiQ2puMlNNVEF4QVJ5SVAyTnZOQkJGbTBNYlhkX0R4VERTRVpFWTdk?oc=5",
+      "image": "",
+      "publishedAt": "Fri, 17 Jul 2026 14:34:03 GMT"
     }
   ],
   "flashes": [
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "סימנים מעידים, אך לא ודאיים, לכך שהמלחמה עשויה לחזור כבר בימים הקרובים, כולל לישראל",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957236.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
     {
       "category": "מבזקים",
       "source": "רוטר",
@@ -853,18 +871,9 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "איש תקשורת מוכר הסתבך: כתב אישום חמור הוגש נגדו - ''בעט בקורבן''",
+      "title": "התעוררות במפלגה הדמוקרטית נגד התחזקות ארגון הסוציאליסטים הדמוקרטיים של אמריקה: ״איום על המפלגה ועל המדינה״",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957232.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "בתוך כמה שעות גויסו שניים ורבע מליון שקלים לישוב חוות גלעד",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957223.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957235.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -880,27 +889,9 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "4-0 במחצית לאנגליה על צרפת מי אמר שהמשחק על מקום 3 לא מעניין?!",
+      "title": "על פי דיווח של רשת CBS, בהתבסס על גורם צבאי: ההתקפות שיתבצעו הערב יחלו בעוד מספר רגעים ויהיו בעלות היקף רחב יותר",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957228.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "מונדיאל 2026-המשחק על המקום השלישי: צרפת - אנגליה (00:00)",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957174.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "דיווחים על תקיפות איראניות באירביל שבעיראק",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957230.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957206.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -916,9 +907,36 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "מירב בן ארי (יש עתיד) בביקורת על התקשורת: '''לא משמיעים את הקול של האופוזיציה''",
+      "title": "איש תקשורת מוכר הסתבך: כתב אישום חמור הוגש נגדו - ''בעט בקורבן''",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957199.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957232.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "תיעוד הפגיעה בבסיס חיל האוויר מוואפק סלטי בירדן",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957200.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "מונדיאל 2026: אנגליה מנצחת 6-4 את צרפת ומסיימת במקום השלישי",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957174.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "בתוך כמה שעות גויסו שניים ורבע מליון שקלים לישוב חוות גלעד",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957223.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -934,9 +952,36 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "על פי דיווח של רשת CBS, בהתבסס על גורם צבאי: ההתקפות שיתבצעו הערב יחלו בעוד מספר רגעים ויהיו בעלות היקף רחב יותר",
+      "title": "4-0 במחצית לאנגליה על צרפת מי אמר שהמשחק על מקום 3 לא מעניין?!",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957206.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957228.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "הסכסוך בצמרת באוקראינה: הפגנות נגד הרמטכ''ל ששר ההגנה המודח יצא נגדו",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957229.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "דיווחים על תקיפות איראניות באירביל שבעיראק",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957230.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "מירב בן ארי (יש עתיד) בביקורת על התקשורת: '''לא משמיעים את הקול של האופוזיציה''",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957199.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1006,15 +1051,6 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "הסכסוך בצמרת באוקראינה: הפגנות נגד הרמטכ''ל ששר ההגנה המודח יצא נגדו",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957229.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "נתניה רחוב קרל פופר זריקת רימון הלם; ללא נפגעים",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957226.shtml?utm_source=rotter.net&utm_medium=mivzakside",
@@ -1036,15 +1072,6 @@
       "title": "גורמים אמריקאים לניו יורק טיימס: המתקפה האיראנית בירדן גרמה נזק למספר מסוקים",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957217.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "תיעוד הפגיעה בבסיס חיל האוויר מוואפק סלטי בירדן",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957200.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
