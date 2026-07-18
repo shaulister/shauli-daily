@@ -86,7 +86,11 @@ function parseSport5(body, source, base) {
     seen.add(url);
     items.push({ category: source.category, source: source.name, title, summary: "", url, image, publishedAt: "" });
   }
-  return items.slice(0, 8);
+  if (base.includes("FolderID=410")) {
+    const worldItems = items.filter(item => /[?&]FolderID=41(?:0|1)(?:&|$)/i.test(item.url));
+    return (worldItems.length ? worldItems : items).slice(0, 8);
+  }
+  return items.filter(item => !/[?&]FolderID=41(?:0|1)(?:&|$)/i.test(item.url)).slice(0, 8);
 }
 
 function parseRotter(body, base) {
