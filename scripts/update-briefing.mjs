@@ -92,7 +92,7 @@ async function upload(token, path, body) {
 const previous = JSON.parse(await readFile(briefingPath, "utf8"));
 const results = await Promise.all(sources.map(source => readSource(source)));
 const newFlashes = unique(await readSource(rotter, true));
-const newStories = unique(results.flat()).slice(0, 48);
+const newStories = unique(results.flatMap(items => items.slice(0, 6)));
 const stories = newStories.length ? newStories : (previous.stories || []);
 const flashes = newFlashes.length ? newFlashes : (previous.flashes || []);
 const token = await dropboxToken();
