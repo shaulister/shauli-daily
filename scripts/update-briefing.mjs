@@ -32,7 +32,8 @@ async function getDropboxAccessToken() {
   });
 
   if (!response.ok) {
-    throw new Error(`Dropbox token refresh failed (${response.status})`);
+    const details = (await response.text()).slice(0, 300);
+    throw new Error(`Dropbox token refresh failed (${response.status}): ${details}`);
   }
 
   const result = await response.json();
