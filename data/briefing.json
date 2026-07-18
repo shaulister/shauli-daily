@@ -1,6 +1,6 @@
 {
   "date": "2026-07-18",
-  "updatedAt": "2026-07-18T11:07:28.586Z",
+  "updatedAt": "2026-07-18T11:08:39.775Z",
   "stories": [
     {
       "category": "טכנולוגיה",
@@ -388,9 +388,27 @@
       "url": "https://www.i24news.tv/he/news/news/politics/artc-d3c246db",
       "image": "",
       "publishedAt": ""
+    },
+    {
+      "category": "רונאלדיניו",
+      "source": "חדשות רונאלדיניו",
+      "title": "\"אמבפה תיזהר, הכנסנו את רונאלדיניו לכלא\"",
+      "summary": "\"אמבפה תיזהר, הכנסנו את רונאלדיניו לכלא\" &nbsp;&nbsp; Sport5",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91TXNLMHRhYmR2OTh6bXktbWMxa2x1ck1VYkhQbVNkMTFRbkR0bmxIaEVfWmw4dy1vQjV4ZEFkVUVxN0tWS1BvNkxtQVVybGNwTXFxSEF2SG5iRTZHcUVnYWt3UE5MLWdkVnozS2xjT1pEa28?oc=5",
+      "image": "",
+      "publishedAt": "Wed, 08 Jul 2026 07:00:00 GMT"
     }
   ],
   "flashes": [
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "''ויקראם-1'', הטיל המסלולי הראשון אי פעם של חברה פרטית הודית, שוגר בהצלחה והציב את מטעניו במסלול סביב כדור הארץ",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957165.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
     {
       "category": "מבזקים",
       "source": "רוטר",
@@ -424,15 +442,6 @@
       "title": "השחקנית שושיק שני הלכה לעולמה",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957156.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "''ויקראם-1'', הטיל המסלולי הראשון אי פעם של חברה פרטית הודית, שוגר בהצלחה והציב את מטעניו במסלול סביב כדור הארץ",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957165.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
