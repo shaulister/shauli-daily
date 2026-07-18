@@ -1,8 +1,466 @@
 {
   "date": "2026-07-18",
-  "status": "demo",
-  "note": "התדריך נשמר באתר ובארכיון Dropbox.",
-  "stories": [],
-  "updatedAt": "2026-07-18T09:47:49.831Z",
+  "updatedAt": "2026-07-18T10:04:01.519Z",
+  "stories": [
+    {
+      "category": "טכנולוגיה",
+      "source": "The Verifier",
+      "title": "אחרי \"הייטקס\": הסדרה שגרמה להייטק הישראלי לצחוק על עצמו",
+      "summary": "נכתב על ידי אלדד מטמון מאתר The Verifier איך הפכה סדרת רשת שהתחילה בלינקדאין לויראלית בעולם ההייטק",
+      "url": "https://theverifier.co.il/80073/open-space-series-interview-adam-levi/",
+      "image": "https://theverifier.co.il/wp-content/uploads/2026/07/Screenshot-2026-07-15-at-22.20.54-150x150.webp",
+      "publishedAt": "Thu, 16 Jul 2026 05:26:28 +0000"
+    },
+    {
+      "category": "טכנולוגיה",
+      "source": "The Verifier",
+      "title": "ספוטיפיי תאפשר לכם להוסיף שירים של באד באני באמצעות פקודה קולית",
+      "summary": "נכתב על ידי אלדד מטמון מאתר The Verifier הפיצ'ר החדש זמין בגרסת בטא למנויי פרימיום מעל גיל 18 ומאפשר חיפוש טבעי של מוזיקה ופודקאסטים.",
+      "url": "https://theverifier.co.il/80066/spotify-ai-voice-assistant/",
+      "image": "https://theverifier.co.il/wp-content/uploads/2026/07/You-can-now-talk-to-Spotify_demo-smaller-37492387492734.mp4",
+      "publishedAt": "Tue, 14 Jul 2026 19:15:32 +0000"
+    },
+    {
+      "category": "טכנולוגיה",
+      "source": "The Verifier",
+      "title": "תשכחו מהחינם: סמסונג צפויה לשנות את הטבת ההשקה שניתנה ברכישת מכשירים",
+      "summary": "נכתב על ידי אלדד מטמון מאתר The Verifier דיווח בקוריאה חושף כי החברה תדרוש תשלום של 50 אחוז מהפרש המחיר בעקבות משבר האחסון העולמי.",
+      "url": "https://theverifier.co.il/80071/samsung-fold-8-storage-fee/",
+      "image": "https://theverifier.co.il/wp-content/uploads/2026/06/HKyaAZZawAA2ZHB-150x150.webp",
+      "publishedAt": "Tue, 14 Jul 2026 19:11:11 +0000"
+    },
+    {
+      "category": "טכנולוגיה",
+      "source": "The Verifier",
+      "title": "תבלע את המתחרה הקטנה? פלאפון בדרך לצירוף 300 אלף מלקוחות Wecom",
+      "summary": "נכתב על ידי אלדד מטמון מאתר The Verifier העסקה כפופה כעת לבדיקות נאותות ואישורים מחמירים של רשות התחרות ומשרד התקשורת.",
+      "url": "https://theverifier.co.il/80042/pelephone-wecom-mou-signed/",
+      "image": "https://theverifier.co.il/wp-content/uploads/2024/04/pelephone-%D7%A4%D7%9C%D7%90%D7%A4%D7%95%D7%9F-Eldad-Matmon-The-Verifier-4-150x150.jpg",
+      "publishedAt": "Tue, 14 Jul 2026 16:36:26 +0000"
+    },
+    {
+      "category": "טכנולוגיה",
+      "source": "The Verifier",
+      "title": "דיווח: אפל נערכת לאפשר החלפת סוללות בדגמי ה-Apple Pencil הבאים",
+      "summary": "נכתב על ידי אלדד מטמון מאתר The Verifier לפי בלומברג, החברה מפתחת שני דגמים חדשים שיושקו ב-2027 כדי לעמוד בתקנות האיחוד האירופי",
+      "url": "https://theverifier.co.il/80031/apple-pencil-replaceable-battery/",
+      "image": "https://theverifier.co.il/wp-content/uploads/2026/07/Apple-Pencil-USB-C-sliding-cap-150x150.webp",
+      "publishedAt": "Tue, 14 Jul 2026 09:36:00 +0000"
+    },
+    {
+      "category": "טכנולוגיה",
+      "source": "The Verifier",
+      "title": "מיקרוסופט משדרגת את שורת החיפוש בווינדוס 11: פחות עומס ויזואלי ובלי תוכן ממומן",
+      "summary": "נכתב על ידי אלדד מטמון מאתר The Verifier העדכון החדש, שזמין מהיום לנסיינים, מאפשר לסנן תוצאות מהרשת ומהחנות ומשפר את איתור הקבצים במחשב.",
+      "url": "https://theverifier.co.il/80030/windows-11-search-update/",
+      "image": "https://theverifier.co.il/wp-content/uploads/2026/07/windows-search-box-1-150x150.webp",
+      "publishedAt": "Tue, 14 Jul 2026 08:26:18 +0000"
+    },
+    {
+      "category": "טכנולוגיה",
+      "source": "The Verifier",
+      "title": "ווייז מפסיקה לחפור ומעדכנת את מודל הניווט",
+      "summary": "נכתב על ידי אבי דוד מאתר The Verifier העדכון החדש של אפליקציית הניווט מנסה לפתור את העומס הקולי, לומד את המסלולים המועדפים עליכם ומשלב את מנוע הבינה המלאכותית ג'מיני.",
+      "url": "https://theverifier.co.il/80024/waze-update-less-chatty-mode-gemini-ai/",
+      "image": "https://theverifier.co.il/wp-content/uploads/2026/07/Motorcycle_hero_2_english.mp4",
+      "publishedAt": "Mon, 13 Jul 2026 20:00:29 +0000"
+    },
+    {
+      "category": "טכנולוגיה",
+      "source": "The Verifier",
+      "title": "דיווח: דיסני בוחנת אפשרות להציע מסלול צפייה חינמי בדיסני פלוס",
+      "summary": "נכתב על ידי אלדד מטמון מאתר The Verifier דיווח חדש חושף כי החברה מחפשת דרכים להתמודד עם מעבר של צופים צעירים לפלטפורמות כמו יוטיוב.",
+      "url": "https://theverifier.co.il/80021/disney-plus-free-ad-tier/",
+      "image": "https://theverifier.co.il/wp-content/uploads/2024/10/thibault-penin-hitikwrSIVQ-unsplash-150x150.webp",
+      "publishedAt": "Sun, 12 Jul 2026 15:59:42 +0000"
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "תוכניות הטלוויזיה של i24NEWS",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/shows",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "הטריק הסודי של אפל שגורם למכשירים שלכם לא להשתגע באירועים שלה",
+      "summary": "אם אתם עוקבים אחרי פודקאסטים וסרטונים שעוסקים באפל או Siri למשל, אולי שמתם לב לתופעה קצת משונה, כשהמגישים בדרך כלל מתנצלים מיד אחרי שהם אומרים \"סירי\", כיוון שהם יודעים שיכול להיות שהם הפעילו בטעות מכשירים של משתמשים עם ה-Wake Word שבאמצעותה משתמשים יכולים לזמן את העוזרת הקולית. אבל רבים מאלו שצפו בא",
+      "url": "https://www.geektime.co.il/apple-trick-to-not-trigger-your-device-with-hey-siri/",
+      "image": "https://www.geektime.co.il/feed/",
+      "publishedAt": "Sat, 18 Jul 2026 08:02:55 +0000"
+    },
+    {
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "הרדמויות, קנסות ומתנות מסריחות: החיים הסודיים במושב האחורי של המוניות האוטונומיות",
+      "summary": "כשהייתי עיתונאי מתחיל ב-ynet, עשיתי, כמו רבים וטובים, לא מעט משמרות לילה. למזלי, מקום העבודה שלי גם סיפק לי מונית הביתה אחרי 8 שעות ערות בלילה, שבהן שמחתי מאוד להתרסק במושב האחורי של המונית במקום לנהוג אחרי לילה בלי שינה. לא פעם התעוררתי מטפיחות וקריאות מצד הנהג, שרק רצה שאצא לו מהרכב, כדי שיוכל לקח",
+      "url": "https://www.geektime.co.il/robotaxi-sleepers-and-spills/",
+      "image": "https://www.geektime.co.il/feed/",
+      "publishedAt": "Fri, 17 Jul 2026 12:02:56 +0000"
+    },
+    {
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "לדייסון יש גאדג'ט חדש שיקרר אתכם עם רוח של 88 קמ\"ש",
+      "summary": "אני לא יודע אם יצאתם החוצה בשבועות האחרונים, אבל באופן לא מפתיע – חם כמו בגיהנום. אולם לא רק בישראל חם; באירופה ובארצות הברית סובלים מגלי חום קיצוניים, ולהם אפילו אין תמיד את המודעות שיש לישראלים בכל הנוגע להתמודדות עם החום ובעיקר למיזוג אוויר. בתזמון מושלם, מתברר שהטרנד הלוהט של הקיץ הוא מאווררים נ",
+      "url": "https://www.geektime.co.il/dyson-hushjet-mini-cool-is-a-hot-product-for-a-hot-summer/",
+      "image": "https://www.geektime.co.il/feed/",
+      "publishedAt": "Fri, 17 Jul 2026 07:52:03 +0000"
+    },
+    {
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "סטארטאפ של ישראלים בני 20 גייס מיליונים כדי להחליף את הברוקרים",
+      "summary": "אם אני מספר לכם עכשיו על סטארטאפ חדש שיצא מ-Stealth עם גיוס, אתם כנראה כבר תשלימו לבד בראש את ההרכב של המייסדים והעובדים הראשונים, נכון? בדרך כלל יוצאי 8200 או 81, אולי Second Timers, או כאלה שעבדו באיזה סטארטאפ גדול או קורפורייט לכמה שנים ואז החליטו לצאת לדרך עצמאית. אבל זה לא הסיפור של Horizon.tra",
+      "url": "https://www.geektime.co.il/horizon-trade-comes-out-of-stealth/",
+      "image": "https://www.geektime.co.il/feed/",
+      "publishedAt": "Thu, 16 Jul 2026 16:00:04 +0000"
+    },
+    {
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "זוכרים את \"האנלייזר\"? ההאקר הישראלי המיתולוגי נעצר עכשיו שוב",
+      "summary": "בשנות התשעים המאוחרות, השם אהוד טננבאום, או בכינוי הרשת שלו \"האנלייזר\", עשה לא מעט רעש בישראל. בימים התמימים ההם, שבהם רק התחלנו להכיר את הסכנות ברשת וכל הקונספט של אבטחה וסייבר, ההאקר הישראלי הצליח לחדור למערכות של הפנטגון, נאס\"א וצבא ארה\"ב, והפך לסמל ולסלב. עכשיו, כמעט 30 שנה אחרי, הוא שוב חוזר לכ",
+      "url": "https://www.geektime.co.il/ehud-tenenbaum-analyzer-cyber-fraud-arrest/",
+      "image": "https://www.geektime.co.il/feed/",
+      "publishedAt": "Thu, 16 Jul 2026 14:31:58 +0000"
+    },
+    {
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "דוח חדש מגלה איך השפיע ה-AI על השכר בהייטק הישראלי",
+      "summary": "מאת שירי וקס, מנכ\"לית Gotfriends דוח שכר חדש, שמסכם את החצי הראשון של 2026, מצביע על מגמה ברורה: שוק ההייטק הישראלי עובר שינוי מבני – חברות מגייסות אחרת, מתגמלות אחרת ובוחנות טאלנטים דרך פריזמה חדשה לגמרי. מבט מעמיק בנתונים מגלה שינוי רציני ביחס של השוק ל-AI: אם עד שנה שעברה הייתם מגיעים רחוק רק בזכ",
+      "url": "https://www.geektime.co.il/israel-tech-salary-report-q1-2026/",
+      "image": "https://www.geektime.co.il/feed/",
+      "publishedAt": "Thu, 16 Jul 2026 11:46:30 +0000"
+    },
+    {
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "הגאדג'ט הראשון של OpenAI הוא… מקלדת למפתחים",
+      "summary": "כולם חיכו לראות איזה גאדג'ט מסתורי יוליד שיתוף הפעולה בין סם אלטמן למעצב ג'וני אייב. אבל בזמן שהשמועות חוגגות, ענקית ה-AI הפתיעה וחשפה את מוצר החומרה הראשון שלה אי פעם, והוא ממש לא מה שחשבתם. מקלדת לשליטה בסוכנים במקום רמקול חכם או גאדג'ט לביש שיחליף את האייפון, החברה השיקה מקלדת עזר קטנה בשם Codex ",
+      "url": "https://www.geektime.co.il/openai-launches-codex-micro/",
+      "image": "https://www.geektime.co.il/feed/",
+      "publishedAt": "Thu, 16 Jul 2026 09:06:57 +0000"
+    },
+    {
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "המדינה פותחת את הארנק: אושרה תוכנית סיוע של 1.2 מיליארד שקל להייטק הישראלי",
+      "summary": "גם בתקופה הלא פשוטה של השנים האחרונות, החודשים האחרונים היו מאתגרים במיוחד לתעשיית ההייטק הישראלית. משבר גלובלי, מהפכת ה-AI' מצב ביטחוני מורכב והתחזקות חריגה של השקל יצרו סערה מושלמת שאיימה לשרוף לחברות את הראנוויי בקצב מדאיג. עכשיו נראה שהמדינה סוף-סוף החליטה להתעורר ולהכניס את היד עמוק לכיס, כדי ל",
+      "url": "https://www.geektime.co.il/1-2b-nis-support-plan-for-israeli-tech/",
+      "image": "https://www.geektime.co.il/feed/",
+      "publishedAt": "Thu, 16 Jul 2026 07:22:57 +0000"
+    },
+    {
+      "category": "רכב חשמלי",
+      "source": "מגזין רכב חשמלי",
+      "title": "BYD אטו 3 מגיע בגרסה משודרגת ובמחיר משתלם",
+      "summary": "גרסת 2026 של BYD אטו 3 מגיעה לישראל עם מערכת הנעה משודרגת, טווח נסיעה גבוה יותר ועוד מספר שדרוגים ששמים אותו שוב על המפה, וכל זה במחיר התחלתי של 154,990 שקלים בלבד. הנה כל מה שצריך לדעת על הדגם המשודרג. The post BYD אטו 3 מגיע בגרסה משודרגת ובמחיר משתלם appeared first on EV Magazine | מגזין רכב חשמל",
+      "url": "https://www.evm.co.il/byd-atto-3-evo-2026-in-israel/",
+      "image": "https://www.evm.co.il/israel/feed/",
+      "publishedAt": "Thu, 04 Jun 2026 16:14:56 +0000"
+    },
+    {
+      "category": "רכב חשמלי",
+      "source": "מגזין רכב חשמלי",
+      "title": "בלי V12 ועם 1,000 כוחות סוס: פרארי נכנסת לעידן החשמלי",
+      "summary": "עם 1,050 כ״ס, ארבעה מנועים ומהירות מרבית של 310 קמ״ש, פרארי לוצ׳ה מסמנת את הכניסה הרשמית של היצרנית האיטלקית לעידן החשמלי. The post בלי V12 ועם 1,000 כוחות סוס: פרארי נכנסת לעידן החשמלי appeared first on EV Magazine | מגזין רכב חשמלי .",
+      "url": "https://www.evm.co.il/ferrari-luce-electric-era/",
+      "image": "https://www.evm.co.il/israel/feed/",
+      "publishedAt": "Tue, 26 May 2026 13:14:59 +0000"
+    },
+    {
+      "category": "רכב חשמלי",
+      "source": "מגזין רכב חשמלי",
+      "title": "7 מקומות במחירים משתלמים: עד 40 אלף שקל הנחה על דגמי מקסוס מיפה",
+      "summary": "אוטו חן, יבואנית מותג מקסוס מקיימת ימי מכירות עם הנחות של 20 עד 40 אלף שקלים על דגמי ה-7 מקומות החשמליים של המותג, במחיר התחלתי של 192,491 ש״ח. The post 7 מקומות במחירים משתלמים: עד 40 אלף שקל הנחה על דגמי מקסוס מיפה appeared first on EV Magazine | מגזין רכב חשמלי .",
+      "url": "https://www.evm.co.il/maxus-mifa-may-2026-deals/",
+      "image": "https://www.evm.co.il/israel/feed/",
+      "publishedAt": "Fri, 08 May 2026 14:47:44 +0000"
+    },
+    {
+      "category": "רכב חשמלי",
+      "source": "מגזין רכב חשמלי",
+      "title": "רכב חשמלי חדש ב-135 אלף ש״ח: לובינסקי חוגגת 90 שנים עם הטבות",
+      "summary": "ימי המכירות, שיתקיימו עד ה-8 בחודש, כוללים גם רכבי פנאי חשמליים במחיר התחלתי של כ-140 אלף ש״ח, ואת מותג הפרימיום IM במחיר התחלתי של כ-196 אלף ש״ח. The post רכב חשמלי חדש ב-135 אלף ש״ח: לובינסקי חוגגת 90 שנים עם הטבות appeared first on EV Magazine | מגזין רכב חשמלי .",
+      "url": "https://www.evm.co.il/lubinski-may-2026-offers/",
+      "image": "https://www.evm.co.il/israel/feed/",
+      "publishedAt": "Mon, 04 May 2026 17:55:13 +0000"
+    },
+    {
+      "category": "רכב חשמלי",
+      "source": "מגזין רכב חשמלי",
+      "title": "פחות מ-25 אלף אירו: פולקסווגן ID פולו החשמלית נחשפת",
+      "summary": "הגרסה החשמלית הראשונה של פולקסווגן פולו מגיעה עם תג מחיר נמוך באירופה, אך עם פשרות בטווח בגרסת הבסיס, ומציגה את שפת העיצוב החדשה של פולקסווגן. The post פחות מ-25 אלף אירו: פולקסווגן ID פולו החשמלית נחשפת appeared first on EV Magazine | מגזין רכב חשמלי .",
+      "url": "https://www.evm.co.il/volkswagen-id-polo-electric-revealed/",
+      "image": "https://www.evm.co.il/israel/feed/",
+      "publishedAt": "Thu, 30 Apr 2026 13:25:38 +0000"
+    },
+    {
+      "category": "רכב חשמלי",
+      "source": "מגזין רכב חשמלי",
+      "title": "עד ה-1 למאי: מבצעים והטבות ברכישת דגמי זיקר",
+      "summary": "מותג הרכבים החשמלים זיקר יוצא לימי מכירות עם מגוון הטבות הכוללות מימון מלא ללא ריבית, טרייד אין במחירון לזיקר X והצעות ליסינג. The post עד ה-1 למאי: מבצעים והטבות ברכישת דגמי זיקר appeared first on EV Magazine | מגזין רכב חשמלי .",
+      "url": "https://www.evm.co.il/zeekr-offers-april-deals-2026/",
+      "image": "https://www.evm.co.il/israel/feed/",
+      "publishedAt": "Wed, 29 Apr 2026 04:29:35 +0000"
+    },
+    {
+      "category": "רכב חשמלי",
+      "source": "מגזין רכב חשמלי",
+      "title": "אאודי Q4 משתדרגת: תא נוסעים מעודכן ותמיכה ב-V2L",
+      "summary": "רכב הפנאי החשמלי של אאודי מקבל עדכון נוסף עם שיפורים בתא הנוסעים, מערך מסכים חדש ותמיכה בטעינה דו-כיוונית, לצד שינויים מתונים יותר בטווח הנסיעה ובקצבי הטעינה. The post אאודי Q4 משתדרגת: תא נוסעים מעודכן ותמיכה ב-V2L appeared first on EV Magazine | מגזין רכב חשמלי .",
+      "url": "https://www.evm.co.il/audi-q4-update-interior-v2l/",
+      "image": "https://www.evm.co.il/israel/feed/",
+      "publishedAt": "Mon, 27 Apr 2026 17:27:47 +0000"
+    },
+    {
+      "category": "רכב חשמלי",
+      "source": "מגזין רכב חשמלי",
+      "title": "עם 7 מקומות וטווח של 620 ק״מ: יונדאי איוניק 9 בישראל",
+      "summary": "יונדאי איוניק 9 נוחתת בישראל, בתצורת 6 או 7 מושבים, טווח נסיעה של עד 620 ק״מ ואבזור עשיר מאוד. הנה כל מה שאתם צריכים לדעת על הדגם החדש. The post עם 7 מקומות וטווח של 620 ק״מ: יונדאי איוניק 9 בישראל appeared first on EV Magazine | מגזין רכב חשמלי .",
+      "url": "https://www.evm.co.il/hyundai-ioniq-9-in-israel/",
+      "image": "https://www.evm.co.il/israel/feed/",
+      "publishedAt": "Fri, 24 Apr 2026 12:39:17 +0000"
+    },
+    {
+      "category": "ספורט",
+      "source": "ערוץ הספורט",
+      "title": "כל מה שזז בספורט בשיתוף פריסבי",
+      "summary": "",
+      "url": "https://www.sport5.co.il/liga.aspx?FolderID=12170",
+      "image": "",
+      "publishedAt": ""
+    }
+  ],
+  "flashes": [
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "''������-1'', ���� ������� ������ �� ��� �� ���� ����� �����, ���� ������ ����� �� ������ ������ ���� ���� ����",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957165.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "������ ����� ���''� ��� ����. ����� ����� ������",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957129.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "����� 13 ������ ������ ���� ��������: �������",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957164.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "��''�: ���� ����� ���� ���� ���� ����� �����",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957160.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "��''� ����: ����� ������ �� ��� ���''� ���� ������ ��� ������",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957163.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "���� ������� (��� ������ ������ ��� �������): ����� ��� ������� ������ ����� ���. �� ����� ����� ��� ���� ������",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957162.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "��� �����,����:����� �� ����� ����� ���� ������ �� 45 ��� ����� �������� ���������� � DNA. ����� ����: ����� �� ��� ������ ����",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957153.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "������� - ���� ����� ������� ���� ������ ������. ���� ���� ������ ����� ������� ����� ����� ����� �������.",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957161.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "����� ���� ����''�: ����� �� ���� ��� ������� - ��� ����",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957142.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "������ ���� �� ��� �������. ���� ����� ���� �������",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957149.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "����''� ������ ����� ������ ��������� ������� ��� ���� ������",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957150.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "���� ���� ����: ������� �������� ���� �� �������� ����� ����",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957078.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "������� �������:����� ��������� - ������� ���� ������� ������ ����� ������ ������ ����''� ���� ������� ��� ������...",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957140.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "������ ��� ����� ������ ������ ������ ���''���. ����� ����� ��� ������� ���������. ������ �� ������ ��� ��� �����.",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957158.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "������ ������: ������ ������� ����� ��������� ������ ����� �''������ ������'' �� ���� ���� ������� �� �����",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957152.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "������� ����� ��� ���� ������",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957156.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "����� ���''��� ������� ���� ����� ������ �����, ����� ������� ��������",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957125.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "�����: ����� ������� ���� ����� �� ���� ����� ��� ����� ��. ����� ���� ������ �� ���� ���",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957157.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "CBS: ���� ������ �������� ����� ����� ������� �������� ��� ������ �����, �� ��� ������.",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957144.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "������: ����� �� ������ ������, ���� ��� ������ ��� ������� ���� ����� ������� ���� ������ - ���� �����",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957146.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Verifier",
+      "category": "טכנולוגיה",
+      "url": "https://theverifier.co.il/",
+      "status": "ok"
+    },
+    {
+      "name": "AppleInsider",
+      "category": "אפל",
+      "url": "https://appleinsider.com/",
+      "status": "unavailable"
+    },
+    {
+      "name": "i24NEWS",
+      "category": "ישראל",
+      "url": "https://www.i24news.tv/he",
+      "status": "ok"
+    },
+    {
+      "name": "גיקטיים",
+      "category": "טכנולוגיה",
+      "url": "https://www.geektime.co.il/",
+      "status": "ok"
+    },
+    {
+      "name": "מגזין רכב חשמלי",
+      "category": "רכב חשמלי",
+      "url": "https://www.evm.co.il/israel/",
+      "status": "ok"
+    },
+    {
+      "name": "ערוץ הספורט",
+      "category": "ספורט",
+      "url": "https://www.sport5.co.il/world.aspx?FolderID=4453",
+      "status": "ok"
+    }
+  ],
+  "breakingSource": {
+    "name": "רוטר",
+    "url": "https://rotter.net/news/news.php",
+    "status": "ok"
+  },
   "backup": "dropbox"
 }
