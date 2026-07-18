@@ -97,12 +97,11 @@ function parseSport5(body, source, base) {
 function parseLetsAI(body, source, base) {
   const seen = new Set(), items = [];
   for (const match of body.matchAll(/<a\b([^>]*href=["'][^"']+["'][^>]*)>([\s\S]*?)<\/a>/gi)) {
-    const heading = match[2].match(/<h[2-4]\b[^>]*>([\s\S]*?)<\/h[2-4]>/i)?.[1];
-    if (!heading) continue;
-    const title = clean(heading);
+    const title = clean(match[2]);
     const href = /href=["']([^"']+)/i.exec(match[1])?.[1];
     const url = absolute(href, base);
-    if (!url.startsWith("https://letsai.co.il/") || title.length < 24 || title.length > 190 || seen.has(url)) continue;
+    const pathname = (() => { try { return new URL(url).pathname; } catch { return ""; } })();
+    if (!url.startsWith("https://letsai.co.il/") || !/^\/[a-z0-9][a-z0-9-]+\/$/i.test(pathname) || /^(?:articles|news-and-innovations|courses|events|about|contact|tools)$/i.test(pathname.replaceAll("/", "")) || title.length < 24 || title.length > 190 || seen.has(url)) continue;
     const image = absolute(match[2].match(/<img\b[^>]*(?:src|data-src)=["']([^"']+)/i)?.[1], base);
     seen.add(url);
     items.push({ category: source.category, source: source.name, title, summary: "", url, image, publishedAt: "" });
