@@ -6,7 +6,7 @@ const UA = "ShauliDaily/1.0 (+https://shaulister.github.io/shauli-daily/)";
 const sources = [
   { name: "The Verifier", category: "טכנולוגיה", feeds: ["https://theverifier.co.il/feed/", "https://theverifier.co.il/"] },
   { name: "Let's AI", category: "A.I", feeds: ["https://letsai.co.il/articles/news-and-innovations/"], limit: 30 },
-  { name: "AppleInsider", category: "אפל", feeds: ["https://appleinsider.com/rss", "https://appleinsider.com/"] },
+  { name: "גאדג׳טי — אפל", category: "אפל", feeds: ["https://www.gadgety.co.il/tag/apple/"], limit: 12 },
   { name: "i24NEWS", category: "ישראל", feeds: ["https://www.i24news.tv/he"] },
   { name: "גיקטיים", category: "טכנולוגיה", feeds: ["https://www.geektime.co.il/feed/", "https://www.geektime.co.il/"] },
   { name: "מגזין רכב חשמלי", category: "רכב חשמלי", feeds: ["https://www.evm.co.il/israel/feed/", "https://www.evm.co.il/feed/", "https://www.evm.co.il/israel/"] },
@@ -109,6 +109,20 @@ function parseLetsAI(body, source, base) {
   return items.slice(0, source.limit || 30);
 }
 
+function parseGadgety(body, source, base) {
+  const seen = new Set(), items = [];
+  for (const match of body.matchAll(/<a\b([^>]*href=["'][^"']+["'][^>]*)>([\s\S]*?)<\/a>/gi)) {
+    const href = /href=["']([^"']+)/i.exec(match[1])?.[1];
+    const url = absolute(href, base);
+    const title = clean(match[2]);
+    if (!/^https:\/\/www\.gadgety\.co\.il\/\d{4,}\/[^/]+\/?(?:[?#].*)?$/i.test(url) || title.length < 24 || title.length > 190 || seen.has(url)) continue;
+    const image = absolute(match[2].match(/<img\b[^>]*(?:src|data-src)=["']([^"']+)/i)?.[1], base);
+    seen.add(url);
+    items.push({ category: source.category, source: source.name, title, summary: "", url, image, publishedAt: "" });
+  }
+  return items.slice(0, source.limit || 12);
+}
+
 function parseRotter(body, base) {
   const seen = new Set();
   return [...body.matchAll(/<a\b[^>]*href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi)].map(match => {
@@ -123,7 +137,7 @@ async function readSource(source, isRotter = false) {
   for (const url of source.feeds) {
     try {
       const body = await fetchText(url, isRotter ? "windows-1255" : "utf-8");
-      const items = isRotter ? parseRotter(body, url) : source.name === "i24NEWS" ? parseI24(body, source, url) : source.name === "Let's AI" ? parseLetsAI(body, source, url) : source.name.startsWith("ערוץ הספורט") ? parseSport5(body, source, url) : /<(rss|feed)\b/i.test(body) ? parseRss(body, source, url) : parseHtml(body, source, url);
+      const items = isRotter ? parseRotter(body, url) : source.name === "i24NEWS" ? parseI24(body, source, url) : source.name === "Let's AI" ? parseLetsAI(body, source, url) : source.name === "גאדג׳טי — אפל" ? parseGadgety(body, source, url) : source.name.startsWith("ערוץ הספורט") ? parseSport5(body, source, url) : /<(rss|feed)\b/i.test(body) ? parseRss(body, source, url) : parseHtml(body, source, url);
       if (items.length) return items;
     } catch (error) { console.warn(`${source.name}: ${url} (${error.message})`); }
   }
@@ -151,9 +165,12 @@ const newStories = unique(results.flatMap((items, index) => items.slice(0, sourc
 const sameDay = previous.date === israelDate();
 const hasFreshI24 = newStories.some(story => story.source === "i24NEWS");
 const hasFreshSport = newStories.some(story => story.category === "ספורט");
+const hasFreshApple = newStories.some(story => story.category === "אפל");
 const previousStories = (sameDay ? previous.stories || [] : []).filter(story => {
+  if (story.source === "AppleInsider") return false;
   if (story.source === "i24NEWS") return !hasFreshI24 && /\/artc-/.test(story.url || "");
   if (story.category === "ספורט") return !hasFreshSport;
+  if (story.category === "אפל") return !hasFreshApple;
   return true;
 });
 const stories = newStories.length ? unique([...previousStories, ...newStories]) : (previous.stories || []);
