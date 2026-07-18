@@ -74,6 +74,21 @@ function parseI24(body, source, base) {
   return items.slice(0, 8);
 }
 
+function parseSport5(body, source, base) {
+  const seen = new Set(), items = [];
+  for (const match of body.matchAll(/<a\b([^>]*href=["'][^"']+["'][^>]*)>([\s\S]*?)<\/a>/gi)) {
+    const href = /href=["']([^"']+)/i.exec(match[1])?.[1];
+    const url = absolute(href, base);
+    if (!/(?:^|\.)sport5\.co\.il\/(?:articles\.aspx|\?Vc=)|vod\.sport5\.co\.il\/\?/i.test(url) || !/(?:docID|Vi)=\d+/i.test(url) || seen.has(url)) continue;
+    const title = clean(match[2]);
+    if (title.length < 20 || title.length > 190 || /מערכת אתר ערוץ הספורט/.test(title)) continue;
+    const image = absolute(match[2].match(/<img\b[^>]*(?:src|data-src)=["']([^"']+)/i)?.[1], base);
+    seen.add(url);
+    items.push({ category: source.category, source: source.name, title, summary: "", url, image, publishedAt: "" });
+  }
+  return items.slice(0, 8);
+}
+
 function parseRotter(body, base) {
   const seen = new Set();
   return [...body.matchAll(/<a\b[^>]*href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi)].map(match => {
@@ -88,7 +103,7 @@ async function readSource(source, isRotter = false) {
   for (const url of source.feeds) {
     try {
       const body = await fetchText(url, isRotter ? "windows-1255" : "utf-8");
-      const items = isRotter ? parseRotter(body, url) : source.name === "i24NEWS" ? parseI24(body, source, url) : /<(rss|feed)\b/i.test(body) ? parseRss(body, source, url) : parseHtml(body, source, url);
+      const items = isRotter ? parseRotter(body, url) : source.name === "i24NEWS" ? parseI24(body, source, url) : source.name.startsWith("ערוץ הספורט") ? parseSport5(body, source, url) : /<(rss|feed)\b/i.test(body) ? parseRss(body, source, url) : parseHtml(body, source, url);
       if (items.length) return items;
     } catch (error) { console.warn(`${source.name}: ${url} (${error.message})`); }
   }
