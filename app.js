@@ -14,7 +14,11 @@ function fallbackImage(category) {
 }
 
 function safeSummary(value = "") {
-  return String(value).replace(/<[^>]*>/g, " ").replace(/&(?:nbsp|amp|quot|lt|gt);/gi, " ").replace(/https?:\/\/\S+/g, " ").replace(/\s+/g, " ").trim().slice(0, 420);
+  return String(value).replace(/<[^>]*>/g, " ").replace(/&(?:nbsp|amp|quot|lt|gt);/gi, " ").replace(/https?:\/\/\S+/g, " ").replace(/The post[\s\S]*?appeared first on[\s\S]*$/i, " ").replace(/(?:target=|_blank|font color|&nbsp;|a>)/gi, " ").replace(/\s+/g, " ").trim().slice(0, 420);
+}
+
+function safeTitle(value = "") {
+  return String(value).replace(/\s+-\s+(?:ynet\.co\.il|וואלה!?|מעריב|ישראל היום|חדשות 12|ערוץ הספורט)\s*$/i, "").trim();
 }
 
 function storyCard(story) {
@@ -23,7 +27,7 @@ function storyCard(story) {
   const sourceImage = story.image && !/\.mp4(?:$|\?)/i.test(story.image) ? story.image : fallback;
   const compact = summary.length < 100;
   const image = `<img src="${escapeHtml(sourceImage)}" data-fallback="${escapeHtml(fallback)}" alt="תמונה עבור ${escapeHtml(story.category)}" loading="lazy" referrerpolicy="no-referrer">`;
-  return `<article class="story ${compact ? "compact" : "detailed"}" data-category="${escapeHtml(story.category)}"><div class="visual">${image}<span class="tag">${escapeHtml(story.category)}</span></div><div class="story-body"><p class="section-label">${escapeHtml(story.source)}</p><h2>${escapeHtml(story.title)}</h2>${summary ? `<p>${escapeHtml(summary)}</p>` : ""}<div class="source"><span>מקור: ${escapeHtml(story.source)}</span></div></div></article>`;
+  return `<article class="story ${compact ? "compact" : "detailed"}" data-category="${escapeHtml(story.category)}"><div class="visual">${image}<span class="tag">${escapeHtml(story.category)}</span></div><div class="story-body"><p class="section-label">${escapeHtml(story.source)}</p><h2>${escapeHtml(safeTitle(story.title))}</h2>${summary ? `<p>${escapeHtml(summary)}</p>` : ""}<div class="source"><span>מקור: ${escapeHtml(story.source)}</span></div></div></article>`;
 }
 
 function render(filter = "הכול") {
@@ -35,7 +39,12 @@ function render(filter = "הכול") {
   feedSection.hidden = !showStories; feed.hidden = !showStories;
   const visibleStories = filter === "הכול" ? stories : stories.filter(story => story.category === filter);
   feed.innerHTML = visibleStories.length ? visibleStories.map(storyCard).join("") : `<p class="empty-state">אין כרגע ידיעות חדשות בקטגוריה הזאת. החיפוש יתבצע שוב בעדכון הבא.</p>`;
-  feed.querySelectorAll("img[data-fallback]").forEach(image => image.addEventListener("error", () => { if (image.src !== image.dataset.fallback) image.src = image.dataset.fallback; }, { once: true }));
+  feed.querySelectorAll("img[data-fallback]").forEach(image => {
+    const applyFallback = () => { if (!image.src.startsWith("data:image/svg+xml")) image.src = image.dataset.fallback; };
+    image.addEventListener("error", applyFallback, { once: true });
+    if (image.complete && image.naturalWidth === 0) applyFallback();
+    window.setTimeout(() => { if (!image.complete || image.naturalWidth === 0) applyFallback(); }, 1200);
+  });
   flashes.innerHTML = breaking.length ? breaking.map(item => `<li><strong>${escapeHtml(item.title)}</strong><span>מקור: ${escapeHtml(item.source)}</span></li>`).join("") : `<li class="empty-state">אין מבזקים זמינים כרגע.</li>`;
 }
 
