@@ -1,6 +1,6 @@
 {
   "date": "2026-07-18",
-  "updatedAt": "2026-07-18T17:34:44.829Z",
+  "updatedAt": "2026-07-18T19:10:17.848Z",
   "stories": [
     {
       "category": "טכנולוגיה",
@@ -723,6 +723,15 @@
       "publishedAt": "Sat, 18 Jul 2026 14:08:38 GMT"
     },
     {
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "כנס הפיתוח הגדול של גיקטיים ועוד אירועים מומלצים",
+      "summary": "ההייטק הישראלי לא עוצר: הנה המיטאפים, הכנסים והרצאות הטכנולוגיה המסקרנים שצפויים בקרוב. בפיזי או ברשת – אלו אירועי ההייטק המומלצים שאתם רוצים לשריין להם מקום ביומן. מארגנים אירוע או שמעתם על אירוע לקהילה הטכנולוגית בישראל? מוזמנים לעדכן אותנו כאן ולפרסם אותו בחינם בלוח האירועים שלנו. Frontendistim C",
+      "url": "https://www.geektime.co.il/geek-events-190726/",
+      "image": "",
+      "publishedAt": "Sat, 18 Jul 2026 16:52:52 +0000"
+    },
+    {
       "category": "אפל",
       "source": "גאדג׳טי — אפל",
       "title": "אפל תציג השנה iPad mini עם מסך OLED ושדרוג משמעותי ראשון מזה חצי עשור (דיווח)",
@@ -842,7 +851,7 @@
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "חשד: בדל סיגריה שהושלך מרכב הצית את השריפה בשומרון",
+      "title": "הושגה שליטה על השריפה בשומרון, שנגרמה מסיגריה",
       "summary": "",
       "url": "https://www.i24news.tv/he/news/news/local/artc-db574af3",
       "image": "https://cdn.i24news.tv/uploads/6f/2a/fa/f1/a0/e8/96/5d/ae/89/08/88/16/b7/63/6c/6f2afaf1a0e8965dae89088816b7636c.jpeg?width=350",
@@ -851,47 +860,38 @@
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "שריפת ענק בשומרון: 13 בתים עלו באש בחוות גלעד",
+      "title": "בלעדי: העימות בין בניהו רזי ז\"ל לבת זוגו החשודה ברצח",
       "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/local/artc-988d4866",
-      "image": "https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_66994193506.jpg?width=350",
+      "url": "https://www.i24news.tv/he/news/news/criminal/artc-82544d7f",
+      "image": "https://cdn.i24news.tv/uploads/d4/e7/26/62/19/7f/6c/e8/be/1d/ee/1b/2b/9e/88/b2/d4e72662197f6ce8be1dee1b2b9e88b2.jpg?width=350",
       "publishedAt": ""
     },
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "גבר מת בטביעה בחדרה, אישה במצב אנוש בבת ים",
+      "title": "חקירת מלחמות הרימונים בג'פניקה הופכת לבין-לאומית",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/criminal/artc-f3e35a5f",
+      "image": "https://cdn.i24news.tv/uploads/64/b3/3b/1f/0c/94/4e/f5/12/4e/f6/0c/2a/20/59/ee/64b33b1f0c944ef5124ef60c2a2059ee.jpg?width=350",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "הסיפור שלא סופר: שנה עם מפקד כוח מגלן ששרד את אסון חאן יונס",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-41b3448e",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "שני מקרים בתוך כשעה: גבר מת בטביעה בחדרה, אישה במצב אנוש בבת ים",
       "summary": "",
       "url": "https://www.i24news.tv/he/news/news/local/artc-2f2e48c6",
-      "image": "https://cdn.i24news.tv/uploads/8d/fe/d5/72/b5/f7/91/33/88/16/4b/40/e3/74/ed/48/8dfed572b5f7913388164b40e374ed48.jpeg?width=350",
-      "publishedAt": ""
-    },
-    {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "איראן משעה רשמית את מזכר ההבנות: \"ארה\"ב פתחה במלחמה\"",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-79b83416",
       "image": "",
       "publishedAt": ""
-    },
-    {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "אוחנה: \"ראבילו נבחר כחוק, מבחינתי הדלת של משרד המבקר פתוחה בפניו\" | ריאיון",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/politics/artc-71956",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "טכנולוגיה",
-      "source": "גיקטיים",
-      "title": "כנס הפיתוח הגדול של גיקטיים ועוד אירועים מומלצים",
-      "summary": "ההייטק הישראלי לא עוצר: הנה המיטאפים, הכנסים והרצאות הטכנולוגיה המסקרנים שצפויים בקרוב. בפיזי או ברשת – אלו אירועי ההייטק המומלצים שאתם רוצים לשריין להם מקום ביומן. מארגנים אירוע או שמעתם על אירוע לקהילה הטכנולוגית בישראל? מוזמנים לעדכן אותנו כאן ולפרסם אותו בחינם בלוח האירועים שלנו. Frontendistim C",
-      "url": "https://www.geektime.co.il/geek-events-190726/",
-      "image": "",
-      "publishedAt": "Sat, 18 Jul 2026 16:52:52 +0000"
     },
     {
       "category": "ספורט",
@@ -925,6 +925,186 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
+      "title": "תיעוד הפגיעה בבסיס חיל האוויר מוואפק סלטי בירדן",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957200.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "דיווח על פיצוצים בבנדר עבאס באיראן",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957204.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ארצות הברית פרסמה אזהרת מסע מחודשת לכל העולם, בשל ההתפתחויות במזרח התיכון",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957205.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ממשל טראמפ הפעיל לראשונה הליך חשאי לגירוש מהיר של ״טרוריסטים זרים״ ובני משפחותיהם",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957187.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "״קומיקאית״ אמריקאית הביאה למשרדו של הסנאטור לינדזי גרהאם עוגה שלועגת למותו, וכתבה לאחותו: ״אחיך נשרף בגיהינום״.",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957179.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ישראל נלחמת בריגול האיראני במגזר החרדי באמצעות רבנים ומשפיעני רשת",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957195.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "מוג'תבא ח'אמנאי: ''חתימתו של נשיא ארצות הברית היא חסרת ערך וחסרת אמינות, לעם האיראני יש לקחים בלתי נשכחים עבור האויב האמריקני''",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957191.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "משה (בוגי) יעלון: יצאנו למלחמה עם איראן עם שלוש מטרות - להפיל את המשטר, לחסל את הגרעין ולפגוע בפרויקט הטילים. אף אחת מהן לא הושגה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957188.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "סנטקום: הטענה של משמרות המהפכה, לפיה שתי מכליות נפט התפוצצו לאחר שפגעו במוקשים במצר הורמוז - אינה נכונה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957146.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "שר המלחמה הגסת' על החיילים ההרוגים: מותם רק מחזק את נחישותינו",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957203.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "המנטליסט אביב דורה מנסה לחזות באופן חריג את כל מהלך גמר המונדיאל",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957202.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "שריפה בחוות גלעד | האש נכנסה לקו הבתים, מספר בתים עולים באש",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957180.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "מירב בן ארי (יש עתיד) בביקורת על התקשורת: '''לא משמיעים את הקול של האופוזיציה''",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957199.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "אבידור ליברמן: מעריך שנתניהו ישתמש בשב״כ בבחירות הקרובות כדי לפעול נגד יריבים פוליטיים",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957192.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ביקורת חריפה בשב''כ נגד זיני. מתכחש לטרור היהודי",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957129.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ממדאני נמצא בדיונים כדי להביא למעצר נתניהו בעצרת האו''ם בספטמבר",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957169.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "בישראל מאשרים: ארה''ב נערכת להרחבת המערכה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957201.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "עלות אבטחת משפחת נתניהו 4.5 מיליון שקלים בשנה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957171.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "העזתיים מתלוננים: הקו הצהוב מתקדם היום מערבה גם בשכונת זיתון במזרח העיר עזה וגם באזור ואדי סלקא במרכז הרצועה.עשרות משפחות נאלצו לפנות",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957190.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "שגרירות ארצות הברית מחדשת את אזהרת המסע לישראל",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957139.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
       "title": "בישראל דנים בימים אלה באפשרות לאסור באופן מוחלט הטסת רחפנים בשמי הארץ מחשש לשינוי תוואי הפעולה האיראנית",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957194.shtml?utm_source=rotter.net&utm_medium=mivzakside",
@@ -943,45 +1123,9 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "אבידור ליברמן: מעריך שנתניהו ישתמש בשב״כ בבחירות הקרובות כדי לפעול נגד יריבים פוליטיים",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957192.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "משה (בוגי) יעלון: יצאנו למלחמה עם איראן עם שלוש מטרות - להפיל את המשטר, לחסל את הגרעין ולפגוע בפרויקט הטילים. אף אחת מהן לא הושגה",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957188.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "כווית (שבת) - כבאים נפצעו במהלך מאמצי כיבוי שריפות לאחר שתקיפות איראניות פגעו בשני אתרים שונים",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957170.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "העזתיים מתלוננים: הקו הצהוב מתקדם היום מערבה גם בשכונת זיתון במזרח העיר עזה וגם באזור ואדי סלקא במרכז הרצועה.עשרות משפחות נאלצו לפנות",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957190.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "״קומיקאית״ אמריקאית הביאה למשרדו של הסנאטור לינדזי גרהאם עוגה שלועגת למותו, וכתבה לאחותו: ״אחיך נשרף בגיהינום״.",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957179.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -997,36 +1141,9 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "ישראל נלחמת בריגול האיראני במגזר החרדי באמצעות רבנים ומשפיעני רשת",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957195.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "שריפה בחוות גלעד | האש נכנסה לקו הבתים, מספר בתים עולים באש",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957180.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "ירדן - דיווחים על טילים איראניים שפגעו ישירות בבסיס האמריקני בירדן",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957173.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "מוג'תבא ח'אמנאי: ''חתימתו של נשיא ארצות הברית היא חסרת ערך וחסרת אמינות, לעם האיראני יש לקחים בלתי נשכחים עבור האויב האמריקני''",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957191.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1114,15 +1231,6 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "עלות אבטחת משפחת נתניהו 4.5 מיליון שקלים בשנה",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957171.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "איפא''ק הפסיקה העברת תרומות לדמוקרטים שהצביעו נגד סיוע לישראל",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957150.shtml?utm_source=rotter.net&utm_medium=mivzakside",
@@ -1162,33 +1270,6 @@
       "title": "שמשית שריפת חורש מספר מוקדים. סיוע אווירי",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957178.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "ממדאני נמצא בדיונים כדי להביא למעצר נתניהו בעצרת האו''ם בספטמבר",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957169.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "ממשל טראמפ הפעיל לראשונה הליך חשאי לגירוש מהיר של ״טרוריסטים זרים״ ובני משפחותיהם",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957187.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "סנטקום: הטענה של משמרות המהפכה, לפיה שתי מכליות נפט התפוצצו לאחר שפגעו במוקשים במצר הורמוז - אינה נכונה",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957146.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1270,15 +1351,6 @@
       "title": "גרמניה בדריכות שיא - ומכריזה על שינוי בכוננות: ''להיערך לפיגועים בכל עת''",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957168.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "ביקורת חריפה בשב''כ נגד זיני. מתכחש לטרור היהודי",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957129.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
