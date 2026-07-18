@@ -1,6 +1,6 @@
 {
   "date": "2026-07-18",
-  "updatedAt": "2026-07-18T11:22:38.166Z",
+  "updatedAt": "2026-07-18T11:25:07.600Z",
   "stories": [
     {
       "category": "טכנולוגיה",
@@ -336,69 +336,6 @@
       "publishedAt": "Wed, 08 Jul 2026 07:00:00 GMT"
     },
     {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "הלילה השביעי ברציפות: הצבא האמריקני החל בגל תקיפות נוסף באיראן",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-1a2805b1-88",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "המועמדת שספגה אש בשכונת התקווה פותחת חזית מול יאיר גולן: מפגש קצוות עם חן אריאלי",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/politics/artc-bda16052",
-      "image": "https://cdn.i24news.tv/uploads/5b/b1/61/c3/41/5b/58/bd/f2/62/64/85/d0/e7/b6/7a/5bb161c3415b58bdf2626485d0e7b67a.jpg?width=350",
-      "publishedAt": ""
-    },
-    {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "טילים שוגרו לירדן; ארה\"ב: \"לשקול מחדש נסיעות למזה\"ת\"",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-71935",
-      "image": "https://cdn.i24news.tv/uploads/c0/73/ee/8f/c8/37/2c/2f/a2/9a/37/c0/ce/28/3d/e4/c073ee8fc8372c2fa29a37c0ce283de4.jpg?width=350",
-      "publishedAt": ""
-    },
-    {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "אוחנה: \"ראבילו נבחר כחוק, מבחינתי הדלת של משרד המבקר פתוחה בפניו\" | ריאיון",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/politics/artc-71956",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "\"קבינט שישי\": התוכנית המלאה לצפייה, 17.07.26",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/local/artc-60a32a07",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "לאחר ויכוח: בן 90 דרס נער ואישה בחווה בגוש עציון - ונעצר קרא עוד..",
-      "summary": "לאחר ויכוח: בן 90 דרס נער ואישה בחווה בגוש עציון - ונעצר",
-      "url": "https://www.i24news.tv/he/news/news/local/artc-bba74333",
-      "image": "https://cdn.i24news.tv/uploads/5b/cb/84/f1/0d/88/4c/cf/24/51/3a/5b/d4/e1/cb/65/5bcb84f10d884ccf24513a5bd4e1cb65.jpg?width=750",
-      "publishedAt": ""
-    },
-    {
-      "category": "ספורט",
-      "source": "ערוץ הספורט — ישראלים ב־NBA",
-      "title": "כל מה שזז בספורט בשיתוף פריסבי",
-      "summary": "",
-      "url": "https://www.sport5.co.il/liga.aspx?FolderID=12170",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
       "category": "ארלינג האלנד",
       "source": "חדשות ארלינג האלנד",
       "title": "ארלינג האלנד לא לבד: אחותו גנבה את ההצגה במונדיאל",
@@ -451,15 +388,132 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQblFQczN4SlFFd29mSUppTjhUaHlWb3ZDUFpIdGxicFBkZ0RCTzlmOXd6N2JxWVV4QzNaY3cwMnkzQjB1bmRrU3NaT2xxWFhzN1p5WU9KQ1pnUkdzVWRnMno0aG1NdmpUSk1VeWx6VU50aWJCWjJWWndIYlRGTm5lOHVqWEpsX1FRZ0ZaVHpsVEg4MVRFQ2V5SFhCQWNaTDJyRXE1akNkTTUtaXJpb0E?oc=5",
       "image": "",
       "publishedAt": "Sun, 05 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "הלילה השביעי ברציפות: הצבא האמריקני החל בגל תקיפות נוסף באיראן",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-1a2805b1-88",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "הכנסת ה-25 נעלה את שעריה - והשלימה כהונה מלאה לראשונה מזה כ-40 שנה",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/politics/artc-d3c246db",
+      "image": "https://cdn.i24news.tv/uploads/d7/bd/e0/b1/80/3f/aa/37/f5/0a/af/1f/03/d8/e0/65/d7bde0b1803faa37f50aaf1f03d8e065.jpg?width=350",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "טילים שוגרו לירדן; ארה\"ב: \"לשקול מחדש נסיעות למזה\"ת\"",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-71935",
+      "image": "https://cdn.i24news.tv/uploads/c0/73/ee/8f/c8/37/2c/2f/a2/9a/37/c0/ce/28/3d/e4/c073ee8fc8372c2fa29a37c0ce283de4.jpg?width=350",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "אוחנה: \"ראבילו נבחר כחוק, מבחינתי הדלת של משרד המבקר פתוחה בפניו\" | ריאיון",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/politics/artc-71956",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "\"קבינט שישי\": התוכנית המלאה לצפייה, 17.07.26",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/local/artc-60a32a07",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "לאחר ויכוח: בן 90 דרס נער ואישה בחווה בגוש עציון - ונעצר קרא עוד..",
+      "summary": "לאחר ויכוח: בן 90 דרס נער ואישה בחווה בגוש עציון - ונעצר",
+      "url": "https://www.i24news.tv/he/news/news/local/artc-bba74333",
+      "image": "https://cdn.i24news.tv/uploads/5b/cb/84/f1/0d/88/4c/cf/24/51/3a/5b/d4/e1/cb/65/5bcb84f10d884ccf24513a5bd4e1cb65.jpg?width=750",
+      "publishedAt": ""
+    },
+    {
+      "category": "ספורט",
+      "source": "ערוץ הספורט — ישראלים ב־NBA",
+      "title": "2 נקודות לבן שרף ו-4 לדני וולף, הנטס הובסו ולא עלו לחצי הגמר",
+      "summary": "",
+      "url": "https://nba.sport5.co.il/articles.aspx?FolderID=403&docID=552486",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "ספורט",
+      "source": "ערוץ הספורט — ישראלים ב־NBA",
+      "title": "סוף הדרך: דני אבדיה ופורטלנד הודחו ע\"י סן אנטוניו",
+      "summary": "",
+      "url": "https://vod.sport5.co.il/?Vc=12190&Vi=542697",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "ספורט",
+      "source": "ערוץ הספורט — ישראלים ב־NBA",
+      "title": "על שחקן 2.16 מטר: צפו בפוסטר של דני וולף",
+      "summary": "",
+      "url": "https://www.sport5.co.il/articles.aspx?FolderID=8166&docID=552244",
+      "image": "",
+      "publishedAt": ""
     }
   ],
   "flashes": [
     {
       "category": "מבזקים",
       "source": "רוטר",
+      "title": "התקופה הקשה של חנן גולדבלט. אשתו סועדת אותו במסירות",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957149.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
       "title": "ממדאני נמצא בדיונים כדי להביא למעצר נתניהו בעצרת האו''ם בספטמבר",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957169.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "יש שופטים בלונדון: התביעה נגד לוחם המילואים קרסה - והארגון הפרו-פלסטיני ישלם",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957167.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "משמרות המהפכה: מדינות המארחות כוחות אמריקניים צריכות לצפות ל''תגובות תואמות'' אם שטחן ישמש לתקיפות על איראן",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957152.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ברק אברמוב: ''אין לי הסבר למה קורות ההתקפות על ג'אפניקה. אם אני חשוד במשהו, מבקש מהמשטרה לעצור אותי''",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957126.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -511,36 +565,9 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "משמרות המהפכה: מדינות המארחות כוחות אמריקניים צריכות לצפות ל''תגובות תואמות'' אם שטחן ישמש לתקיפות על איראן",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957152.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "התקופה הקשה של חנן גולדבלט. אשתו סועדת אותו במסירות",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957149.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "מוסקווה - מרכז עיבוד ההזמנות ענקי בגודלו ברוסיה. נהרס כליל בעקבות מתקפה אוקראית שגרמה שריפה ענקית והשמדתו.",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957161.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "יש שופטים בלונדון: התביעה נגד לוחם המילואים קרסה - והארגון הפרו-פלסטיני ישלם",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957167.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
