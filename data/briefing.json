@@ -1,6 +1,6 @@
 {
   "date": "2026-07-18",
-  "updatedAt": "2026-07-18T11:32:25.041Z",
+  "updatedAt": "2026-07-18T11:49:24.719Z",
   "stories": [
     {
       "category": "טכנולוגיה",
@@ -669,6 +669,123 @@
       "publishedAt": ""
     },
     {
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "בגלל באג: ישראלי קיבל עכשיו חשבון AWS של 105 מיליארד דולר",
+      "summary": "דוד פסטיצקי התעורר אתמול (ו') עם קבלת התראת שימוש חריגה בתקציב שירותי הענן של אמזון. ההתראה הפתיעה אותו במיוחד כי החשבון הקטן שהוא מנהל ב-AWS מוגדר מראש עם תקציב צנוע של 20 דולר בחודש. אבל כשהוא פתח את ההתראה הוא כמעט התעלף כשגילה שהחיוב החריג עומד על למעלה מ-105 מיליארד דולר (105,827,994,172.05 דול",
+      "url": "https://www.geektime.co.il/aws-bug-israeli-105b-charge/",
+      "image": "",
+      "publishedAt": "Sat, 18 Jul 2026 11:31:18 +0000"
+    },
+    {
+      "category": "אפל",
+      "source": "גאדג׳טי — אפל",
+      "title": "אפל תציג השנה iPad mini עם מסך OLED ושדרוג משמעותי ראשון מזה חצי עשור (דיווח)",
+      "summary": "",
+      "url": "https://www.gadgety.co.il/365811/apple-2026-ipad-refresh-leak/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "אפל",
+      "source": "גאדג׳טי — אפל",
+      "title": "אפל תשיק שרתי AI מבוססי M7 Ultra ומשנה את מפת הדרכים לשנת 2028 (דיווח)",
+      "summary": "",
+      "url": "https://www.gadgety.co.il/365597/apple-m7-ultra-ai-servers/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "אפל",
+      "source": "גאדג׳טי — אפל",
+      "title": "אפל משיקה את הבטא הציבורית של iOS 27 ומערכות הפעלה נוספות",
+      "summary": "",
+      "url": "https://www.gadgety.co.il/365624/ios-27-public-beta/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "אפל",
+      "source": "גאדג׳טי — אפל",
+      "title": "אפל תובעת את OpenAI: מאשימה אותה בגניבת סודות מסחריים לפיתוח מכשיר AI",
+      "summary": "",
+      "url": "https://www.gadgety.co.il/365484/apple-sues-openai-over-hardware/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "אפל",
+      "source": "גאדג׳טי — אפל",
+      "title": "אפל דורשת מנוי iCloud+ של 2TB ומעלה בשביל פיצ'רי AI ב-Home App",
+      "summary": "",
+      "url": "https://www.gadgety.co.il/365263/apple-home-ai-is-expensive/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "אפל",
+      "source": "גאדג׳טי — אפל",
+      "title": "מלאי ה-iPhone Ultra המתקפל של אפל צפוי להיות מוגבל במיוחד במהלך 2026 (דיווח)",
+      "summary": "",
+      "url": "https://www.gadgety.co.il/365197/iphone-ultra-limited-supply/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "אפל",
+      "source": "גאדג׳טי — אפל",
+      "title": "הכרזות טכנולוגיה מהשבוע החולף: גוגל מפסידה מיליארדים, אפל נלחמת על שבבים ומיקרוסופט מחסלת את דגמי ה-Go",
+      "summary": "",
+      "url": "https://www.gadgety.co.il/365124/weekly-tech-update-jul3-2026/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "אפל",
+      "source": "גאדג׳טי — אפל",
+      "title": "אפל מתכננת שדרוג נרחב לסדרת ה-iPad Pro ועיצוב מחדש ל-MacBook Pro ב-2027 (דיווח)",
+      "summary": "",
+      "url": "https://www.gadgety.co.il/365080/ipad-pro-update-coming/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "אפל",
+      "source": "גאדג׳טי — אפל",
+      "title": "אפל מעדכנת את חבילת האפליקציות Apple Creator Studio עם כלי AI חדשים",
+      "summary": "",
+      "url": "https://www.gadgety.co.il/365041/apple-creator-studio-gets-ai/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "אפל",
+      "source": "גאדג׳טי — אפל",
+      "title": "אפל תדלג על שבבי ה-M6 Pro וה-M6 Max לטובת סדרת M7 ממוקדת AI (דיווח)",
+      "summary": "",
+      "url": "https://www.gadgety.co.il/364673/apple-to-skip-m6-pro-for-m7/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "אפל",
+      "source": "גאדג׳טי — אפל",
+      "title": "אפל מעלה את מחירי המק, האייפד ו-Vision Pro בעולם בעקבות מחסור בשבבים",
+      "summary": "",
+      "url": "https://www.gadgety.co.il/364614/apple-price-hikes/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "אפל",
+      "source": "גאדג׳טי — אפל",
+      "title": "דיווח: סמסונג קיבלה אישור מאפל להתחיל בייצור המוני של מסכי ה-iPhone Ultra המתקפל",
+      "summary": "",
+      "url": "https://www.gadgety.co.il/364441/samsung-iphone-ultra-display/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
       "category": "ישראל",
       "source": "i24NEWS",
       "title": "הלילה השביעי ברציפות: הצבא האמריקני החל בגל תקיפות נוסף באיראן",
@@ -723,15 +840,6 @@
       "publishedAt": ""
     },
     {
-      "category": "טכנולוגיה",
-      "source": "גיקטיים",
-      "title": "בגלל באג: ישראלי קיבל עכשיו חשבון AWS של 105 מיליארד דולר",
-      "summary": "דוד פסטיצקי התעורר אתמול (ו') עם קבלת התראת שימוש חריגה בתקציב שירותי הענן של אמזון. ההתראה הפתיעה אותו במיוחד כי החשבון הקטן שהוא מנהל ב-AWS מוגדר מראש עם תקציב צנוע של 20 דולר בחודש. אבל כשהוא פתח את ההתראה הוא כמעט התעלף כשגילה שהחיוב החריג עומד על למעלה מ-105 מיליארד דולר (105,827,994,172.05 דול",
-      "url": "https://www.geektime.co.il/aws-bug-israeli-105b-charge/",
-      "image": "",
-      "publishedAt": "Sat, 18 Jul 2026 11:31:18 +0000"
-    },
-    {
       "category": "ספורט",
       "source": "ערוץ הספורט — ישראלים ב־NBA",
       "title": "2 נקודות לבן שרף ו-4 לדני וולף, הנטס הובסו ולא עלו לחצי הגמר",
@@ -772,6 +880,42 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
+      "title": "יש שופטים בלונדון: התביעה נגד לוחם המילואים קרסה - והארגון הפרו-פלסטיני ישלם",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957167.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "כווית: תקיפה איראנית חדשה הבוקר על מתקן התפלת מים ותחנת כח. שריפה פרצה בחלקים של תחנת הכח",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957157.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ממדאני נמצא בדיונים כדי להביא למעצר נתניהו בעצרת האו''ם בספטמבר",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957169.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "אזעקות בירדן ובכווית בשל שיגורים מאיראן",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957166.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
       "title": "איראן - שיקום מנהרות Shahid Mirzaei שנפגעו ע''י האמריקאים ( תמונת המנהרות שעכשיו נחשפות לציבור)",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957172.shtml?utm_source=rotter.net&utm_medium=mivzakside",
@@ -790,18 +934,54 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "צפון קפריסין (שטח הכיבוש הטורקי באי קפריסין): מטוסי קרב טורקיים נוספים הגיעו לאי. הם ביצעו יעפים מעל העיר קירניה",
+      "title": "מוסקווה - מרכז עיבוד ההזמנות ענקי בגודלו ברוסיה. נהרס כליל בעקבות מתקפה אוקראית שגרמה שריפה ענקית והשמדתו.",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957162.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957161.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "מוסקווה - מרכז עיבוד ההזמנות ענקי בגודלו ברוסיה. נהרס כליל בעקבות מתקפה אוקראית שגרמה שריפה ענקית והשמדתו.",
+      "title": "התקופה הקשה של חנן גולדבלט. אשתו סועדת אותו במסירות",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957161.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957149.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "משמרות המהפכה: מדינות המארחות כוחות אמריקניים צריכות לצפות ל''תגובות תואמות'' אם שטחן ישמש לתקיפות על איראן",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957152.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "השחקנית שושיק שני הלכה לעולמה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957156.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "חדשות 13 ממשיכה להפסיד לכלל המהדורות: רייטינג",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957164.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "צפון קפריסין (שטח הכיבוש הטורקי באי קפריסין): מטוסי קרב טורקיים נוספים הגיעו לאי. הם ביצעו יעפים מעל העיר קירניה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957162.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -826,42 +1006,6 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "התקופה הקשה של חנן גולדבלט. אשתו סועדת אותו במסירות",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957149.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "ממדאני נמצא בדיונים כדי להביא למעצר נתניהו בעצרת האו''ם בספטמבר",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957169.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "יש שופטים בלונדון: התביעה נגד לוחם המילואים קרסה - והארגון הפרו-פלסטיני ישלם",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957167.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "משמרות המהפכה: מדינות המארחות כוחות אמריקניים צריכות לצפות ל''תגובות תואמות'' אם שטחן ישמש לתקיפות על איראן",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957152.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "ברק אברמוב: ''אין לי הסבר למה קורות ההתקפות על ג'אפניקה. אם אני חשוד במשהו, מבקש מהמשטרה לעצור אותי''",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957126.shtml?utm_source=rotter.net&utm_medium=mivzakside",
@@ -880,24 +1024,6 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "חדשות 13 ממשיכה להפסיד לכלל המהדורות: רייטינג",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957164.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "אזעקות בירדן ובכווית בשל שיגורים מאיראן",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957166.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "כתבה על חוק מח''ש החדש.",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957147.shtml?utm_source=rotter.net&utm_medium=mivzakside",
@@ -910,15 +1036,6 @@
       "title": "''ויקראם-1'', הטיל המסלולי הראשון אי פעם של חברה פרטית הודית, שוגר בהצלחה והציב את מטעניו במסלול סביב כדור הארץ",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957165.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "השחקנית שושיק שני הלכה לעולמה",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957156.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -997,15 +1114,6 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "כווית: תקיפה איראנית חדשה הבוקר על מתקן התפלת מים ותחנת כח. שריפה פרצה בחלקים של תחנת הכח",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957157.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "CBS: מספר חיילים אמריקאים נפצעו השבוע בתקיפות איראניות נגד בסיסים בירדן, כך לפי מקורות.",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957144.shtml?utm_source=rotter.net&utm_medium=mivzakside",
@@ -1027,10 +1135,10 @@
       "status": "ok"
     },
     {
-      "name": "AppleInsider",
+      "name": "גאדג׳טי — אפל",
       "category": "אפל",
-      "url": "https://appleinsider.com/",
-      "status": "unavailable"
+      "url": "https://www.gadgety.co.il/tag/apple/",
+      "status": "ok"
     },
     {
       "name": "i24NEWS",
