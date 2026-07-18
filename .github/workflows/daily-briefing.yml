@@ -1,7 +1,7 @@
 name: עדכון תדריך יומי
 on:
   schedule:
-    - cron: "0 5 * * *"
+    - cron: "0 5-20 * * *"
   workflow_dispatch:
 permissions:
   contents: write
