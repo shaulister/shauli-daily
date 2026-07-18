@@ -62,7 +62,8 @@ function parseI24(body, source, base) {
     const heading = match[2].match(/<h[1-6]\b[^>]*>([\s\S]*?)<\/h[1-6]>/i)?.[1]
       || match[2].match(/<(?:strong|b)\b[^>]*>([\s\S]*?)<\/(?:strong|b)>/i)?.[1];
     const title = clean(heading || match[2]).replace(/^\d+\s+דקות?\s+/, "").replace(/\s+זמן קריאה:[\s\S]*$/, "");
-    const summary = clean(match[2].match(/<p\b[^>]*>([\s\S]*?)<\/p>/i)?.[1] || "").slice(0, 300);
+    const rawSummary = clean(match[2].match(/<p\b[^>]*>([\s\S]*?)<\/p>/i)?.[1] || "");
+    const summary = /^\d+\s+דקות?$/.test(rawSummary) ? "" : rawSummary.slice(0, 300);
     const image = absolute(match[2].match(/<img\b[^>]*(?:src|data-src)=["']([^"']+)/i)?.[1], base);
     if (!title || title.length < 28 || title.length > 190 || seen.has(url)) continue;
     seen.add(url);
