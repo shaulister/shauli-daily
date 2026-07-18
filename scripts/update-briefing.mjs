@@ -9,10 +9,12 @@ const sources = [
   { name: "i24NEWS", category: "ישראל", feeds: ["https://www.i24news.tv/he"] },
   { name: "גיקטיים", category: "טכנולוגיה", feeds: ["https://www.geektime.co.il/feed/", "https://www.geektime.co.il/"] },
   { name: "מגזין רכב חשמלי", category: "רכב חשמלי", feeds: ["https://www.evm.co.il/israel/feed/", "https://www.evm.co.il/feed/", "https://www.evm.co.il/israel/"] },
-  { name: "ערוץ הספורט", category: "ספורט", feeds: ["https://www.sport5.co.il/world.aspx?FolderID=4453"] },
+  { name: "ערוץ הספורט — ישראלים ב־NBA", category: "ספורט", feeds: ["https://www.sport5.co.il/liga.aspx?FolderID=5991"] },
+  { name: "ערוץ הספורט — כדורגל עולמי", category: "ספורט", feeds: ["https://www.sport5.co.il/liga.aspx?FolderID=410"] },
   { name: "חדשות רונאלדיניו", category: "רונאלדיניו", feeds: ["https://news.google.com/rss/search?q=%D7%A8%D7%95%D7%A0%D7%90%D7%9C%D7%93%D7%99%D7%A0%D7%99%D7%95&hl=he&gl=IL&ceid=IL:he"] },
   { name: "חדשות מסי", category: "מסי", feeds: ["https://news.google.com/rss/search?q=%D7%9C%D7%99%D7%90%D7%95%D7%A0%D7%9C+%D7%9E%D7%A1%D7%99&hl=he&gl=IL&ceid=IL:he"] },
   { name: "חדשות דני אבדיה", category: "דני אבדיה", feeds: ["https://news.google.com/rss/search?q=%D7%93%D7%A0%D7%99+%D7%90%D7%91%D7%93%D7%99%D7%94&hl=he&gl=IL&ceid=IL:he"] },
+  { name: "חדשות ארלינג האלנד", category: "ארלינג האלנד", feeds: ["https://news.google.com/rss/search?q=%D7%90%D7%A8%D7%9C%D7%99%D7%A0%D7%92+%D7%94%D7%90%D7%9C%D7%A0%D7%93&hl=he&gl=IL&ceid=IL:he"] },
 ];
 const rotter = { name: "רוטר", category: "מבזקים", feeds: ["https://rotter.net/mobile/news.php", "https://rotter.net/news/news.php"] };
 
@@ -113,7 +115,12 @@ const newFlashes = unique(await readSource(rotter, true));
 const newStories = unique(results.flatMap(items => items.slice(0, 6)));
 const sameDay = previous.date === israelDate();
 const hasFreshI24 = newStories.some(story => story.source === "i24NEWS");
-const previousStories = (sameDay ? previous.stories || [] : []).filter(story => story.source !== "i24NEWS" || (!hasFreshI24 && /\/artc-/.test(story.url || "")));
+const hasFreshSport = newStories.some(story => story.category === "ספורט");
+const previousStories = (sameDay ? previous.stories || [] : []).filter(story => {
+  if (story.source === "i24NEWS") return !hasFreshI24 && /\/artc-/.test(story.url || "");
+  if (story.category === "ספורט") return !hasFreshSport;
+  return true;
+});
 const stories = newStories.length ? unique([...previousStories, ...newStories]) : (previous.stories || []);
 const flashes = newFlashes.length ? unique([...newFlashes, ...(sameDay ? previous.flashes || [] : [])]).slice(0, 80) : (previous.flashes || []);
 const token = await dropboxToken();
