@@ -10,6 +10,9 @@ const sources = [
   { name: "גיקטיים", category: "טכנולוגיה", feeds: ["https://www.geektime.co.il/feed/", "https://www.geektime.co.il/"] },
   { name: "מגזין רכב חשמלי", category: "רכב חשמלי", feeds: ["https://www.evm.co.il/israel/feed/", "https://www.evm.co.il/feed/", "https://www.evm.co.il/israel/"] },
   { name: "ערוץ הספורט", category: "ספורט", feeds: ["https://www.sport5.co.il/world.aspx?FolderID=4453"] },
+  { name: "חדשות רונאלדיניו", category: "רונאלדיניו", feeds: ["https://news.google.com/rss/search?q=%D7%A8%D7%95%D7%A0%D7%90%D7%9C%D7%93%D7%99%D7%A0%D7%99%D7%95&hl=he&gl=IL&ceid=IL:he"] },
+  { name: "חדשות מסי", category: "מסי", feeds: ["https://news.google.com/rss/search?q=%D7%9C%D7%99%D7%90%D7%95%D7%A0%D7%9C+%D7%9E%D7%A1%D7%99&hl=he&gl=IL&ceid=IL:he"] },
+  { name: "חדשות דני אבדיה", category: "דני אבדיה", feeds: ["https://news.google.com/rss/search?q=%D7%93%D7%A0%D7%99+%D7%90%D7%91%D7%93%D7%99%D7%94&hl=he&gl=IL&ceid=IL:he"] },
 ];
 const rotter = { name: "רוטר", category: "מבזקים", feeds: ["https://rotter.net/mobile/news.php", "https://rotter.net/news/news.php"] };
 
@@ -22,8 +25,11 @@ async function fetchText(url, fallbackCharset = "utf-8") {
   const response = await fetch(url, { headers: { "User-Agent": UA, Accept: "application/rss+xml, application/xml, text/html;q=0.9, */*;q=0.8" }, signal: AbortSignal.timeout(18000) });
   if (!response.ok) throw new Error(`${response.status}`);
   const bytes = await response.arrayBuffer();
-  const charset = /charset=([^;]+)/i.exec(response.headers.get("content-type") || "")?.[1]?.trim() || fallbackCharset;
-  try { return new TextDecoder(charset).decode(bytes); } catch { return new TextDecoder().decode(bytes); }
+  const declared = /charset=([^;]+)/i.exec(response.headers.get("content-type") || "")?.[1]?.trim();
+  let text;
+  try { text = new TextDecoder(declared || fallbackCharset).decode(bytes); } catch { text = new TextDecoder().decode(bytes); }
+  if (text.includes("�")) text = new TextDecoder("windows-1255").decode(bytes);
+  return text;
 }
 
 function parseRss(body, source, base) {
@@ -86,7 +92,7 @@ async function upload(token, path, body) {
 const previous = JSON.parse(await readFile(briefingPath, "utf8"));
 const results = await Promise.all(sources.map(source => readSource(source)));
 const newFlashes = unique(await readSource(rotter, true));
-const newStories = unique(results.flat()).slice(0, 30);
+const newStories = unique(results.flat()).slice(0, 48);
 const stories = newStories.length ? newStories : (previous.stories || []);
 const flashes = newFlashes.length ? newFlashes : (previous.flashes || []);
 const token = await dropboxToken();
