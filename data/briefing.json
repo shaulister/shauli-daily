@@ -1,6 +1,6 @@
 {
   "date": "2026-07-19",
-  "updatedAt": "2026-07-18T23:28:09.007Z",
+  "updatedAt": "2026-07-19T01:04:42.581Z",
   "stories": [
     {
       "category": "טכנולוגיה",
@@ -651,6 +651,15 @@
       "publishedAt": "Tue, 14 Jul 2026 06:09:32 GMT"
     },
     {
+      "category": "מסי",
+      "source": "חדשות מסי",
+      "title": "\"זה אפילו לא קרוב\": ההצהרה הענקית על ליאו מסי לפני גמר המונדיאל",
+      "summary": "\"זה אפילו לא קרוב\": ההצהרה הענקית על ליאו מסי לפני גמר המונדיאל &nbsp;&nbsp; ספורט 1",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mcFo5NDJEMk4xUWhJaDNBVXphT2xsTG10UEppOGg5MFB4STZwSXo4aW9jZ1lnUDNjNHNQMFdQN2hiQ2puMlNNVEF4QVJ5SVAyTnZOQkJGbTBNYlhkX0R4VERTRVpFWTdk?oc=5",
+      "image": "",
+      "publishedAt": "Fri, 17 Jul 2026 14:34:03 GMT"
+    },
+    {
       "category": "אפל",
       "source": "גאדג׳טי — אפל",
       "title": "אפל תציג השנה iPad mini עם מסך OLED ושדרוג משמעותי ראשון מזה חצי עשור (דיווח)",
@@ -797,18 +806,18 @@
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "הסיפור שלא סופר: שנה עם מפקד כוח מגלן ששרד את אסון חאן יונס",
+      "title": "\"שדדו אותי בתוך שתי שניות\": עיתונאי כאן חדשות הותקף בחוות גלעד",
       "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-41b3448e",
+      "url": "https://www.i24news.tv/he/news/news/local/artc-c1dd48c4",
       "image": "",
       "publishedAt": ""
     },
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "שני מקרים בתוך כשעה: גבר מת בטביעה בחדרה, אישה במצב אנוש בבת ים",
+      "title": "הסיפור שלא סופר: שנה עם מפקד כוח מגלן ששרד את אסון חאן יונס",
       "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/local/artc-2f2e48c6",
+      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-41b3448e",
       "image": "",
       "publishedAt": ""
     },
@@ -838,24 +847,60 @@
       "url": "https://www.sport5.co.il/articles.aspx?FolderID=8166&docID=552244",
       "image": "",
       "publishedAt": ""
-    },
-    {
-      "category": "מסי",
-      "source": "חדשות מסי",
-      "title": "\"זה אפילו לא קרוב\": ההצהרה הענקית על ליאו מסי לפני גמר המונדיאל",
-      "summary": "\"זה אפילו לא קרוב\": ההצהרה הענקית על ליאו מסי לפני גמר המונדיאל &nbsp;&nbsp; ספורט 1",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mcFo5NDJEMk4xUWhJaDNBVXphT2xsTG10UEppOGg5MFB4STZwSXo4aW9jZ1lnUDNjNHNQMFdQN2hiQ2puMlNNVEF4QVJ5SVAyTnZOQkJGbTBNYlhkX0R4VERTRVpFWTdk?oc=5",
-      "image": "",
-      "publishedAt": "Fri, 17 Jul 2026 14:34:03 GMT"
     }
   ],
   "flashes": [
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "סימנים מעידים, אך לא ודאיים, לכך שהמלחמה עשויה לחזור כבר בימים הקרובים, כולל לישראל",
+      "title": "תיעוד הפגיעה בבסיס חיל האוויר מוואפק סלטי בירדן",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957236.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957200.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "טראמפ על הודעת איראן כי לא תכבד עוד את מזכר ההבנות: “I couldn’t care less” (לא אכפת לי)",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957237.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "גונן בן יצחק: משה רדמן הקים חברה פרטית במהלך המחאה. בעלי הון הזרימו לחברה הזו סכומים גבוהים מאוד של כסף כ''תרומה''.",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957212.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "גורמים אמריקנים: איראן התאימה את עצמה למערכות ההגנה של ארה״ב, ומשגרת טילים הטסים במהירויות גבוהות במיוחד ומסוגלים לתמרן בדרכם אל הקרקע",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957210.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "פרשת הרימונים וג'פניקה: נעצר בכיר בארגון של ג'רושי (חאלד חמאדה)",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957208.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "הסכסוך בצמרת באוקראינה: הפגנות נגד הרמטכ''ל ששר ההגנה המודח יצא נגדו",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957229.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -880,60 +925,6 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "איראן הציבה משגר טעון בטיל בליסטי צמוד לבי''ח",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957231.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "על פי דיווח של רשת CBS, בהתבסס על גורם צבאי: ההתקפות שיתבצעו הערב יחלו בעוד מספר רגעים ויהיו בעלות היקף רחב יותר",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957206.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "בתכנית הבוקר של פוקס ניוז (זו שטראמפ צופה בה), המגישים לא אהבו את ההשתלחות של סגן הנשיא ואנס בישראל",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957214.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "איש תקשורת מוכר הסתבך: כתב אישום חמור הוגש נגדו - ''בעט בקורבן''",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957232.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "תיעוד הפגיעה בבסיס חיל האוויר מוואפק סלטי בירדן",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957200.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "מונדיאל 2026: אנגליה מנצחת 6-4 את צרפת ומסיימת במקום השלישי",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957174.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "בתוך כמה שעות גויסו שניים ורבע מליון שקלים לישוב חוות גלעד",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957223.shtml?utm_source=rotter.net&utm_medium=mivzakside",
@@ -952,6 +943,42 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
+      "title": "איראן הציבה משגר טעון בטיל בליסטי צמוד לבי''ח",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957231.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "עלות אבטחת משפחת נתניהו 4.5 מיליון שקלים בשנה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957171.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "בישראל מאשרים: ארה''ב נערכת להרחבת המערכה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957201.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "בתכנית הבוקר של פוקס ניוז (זו שטראמפ צופה בה), המגישים לא אהבו את ההשתלחות של סגן הנשיא ואנס בישראל",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957214.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
       "title": "4-0 במחצית לאנגליה על צרפת מי אמר שהמשחק על מקום 3 לא מעניין?!",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957228.shtml?utm_source=rotter.net&utm_medium=mivzakside",
@@ -961,9 +988,36 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "הסכסוך בצמרת באוקראינה: הפגנות נגד הרמטכ''ל ששר ההגנה המודח יצא נגדו",
+      "title": "סימנים מעידים, אך לא ודאיים, לכך שהמלחמה עשויה לחזור כבר בימים הקרובים, כולל לישראל",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957229.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957236.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "על פי דיווח של רשת CBS, בהתבסס על גורם צבאי: ההתקפות שיתבצעו הערב יחלו בעוד מספר רגעים ויהיו בעלות היקף רחב יותר",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957206.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "איש תקשורת מוכר הסתבך: כתב אישום חמור הוגש נגדו - ''בעט בקורבן''",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957232.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "מונדיאל 2026: אנגליה מנצחת 6-4 את צרפת ומסיימת במקום השלישי",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957174.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -982,15 +1036,6 @@
       "title": "מירב בן ארי (יש עתיד) בביקורת על התקשורת: '''לא משמיעים את הקול של האופוזיציה''",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957199.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "פרשת הרימונים וג'פניקה: נעצר בכיר בארגון של ג'רושי (חאלד חמאדה)",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957208.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1135,24 +1180,6 @@
       "title": "סמוטריץ':אני מצפה מהשב״כ וממשטרת ישראל לחקור עד תום את נסיבות האירוע(גל השריפות היום בשומרון) ולהביא את האחראים לדין.",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957213.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "גורמים אמריקנים: איראן התאימה את עצמה למערכות ההגנה של ארה״ב, ומשגרת טילים הטסים במהירויות גבוהות במיוחד ומסוגלים לתמרן בדרכם אל הקרקע",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957210.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "גונן בן יצחק: משה רדמן הקים חברה פרטית במהלך המחאה. בעלי הון הזרימו לחברה הזו סכומים גבוהים מאוד של כסף כ''תרומה''.",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957212.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     }
