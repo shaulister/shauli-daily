@@ -1,6 +1,6 @@
 {
   "date": "2026-07-19",
-  "updatedAt": "2026-07-19T07:29:10.398Z",
+  "updatedAt": "2026-07-19T09:30:01.478Z",
   "stories": [
     {
       "category": "טכנולוגיה",
@@ -678,6 +678,33 @@
       "publishedAt": ""
     },
     {
+      "category": "מסי",
+      "source": "חדשות מסי",
+      "title": "\"לא רק התארים\": הפוסט המרגש של מסי לפני גמר המונדיאל",
+      "summary": "\"לא רק התארים\": הפוסט המרגש של מסי לפני גמר המונדיאל &nbsp;&nbsp; וואלה ספורט",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWbkVhOGlmUG1rdDFMUV9FNk5YQ3pObFFNTTBfYWFxd0xzTXlDcTNneENPbkx5UUlzbVVjMjhRa0lZX2NJc2pvRUNLcDJUV1Ji?oc=5",
+      "image": "",
+      "publishedAt": "Sun, 19 Jul 2026 04:22:00 GMT"
+    },
+    {
+      "category": "ארלינג האלנד",
+      "source": "חדשות ארלינג האלנד",
+      "title": "עליה של כ-5000% בחיפושים בגוגל: טירוף מוחלט סביב השדר הישראלי במונדיאל",
+      "summary": "עליה של כ-5000% בחיפושים בגוגל: טירוף מוחלט סביב השדר הישראלי במונדיאל &nbsp;&nbsp; ספורט 1",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95am1Lb2N4VDlLRXJiYjdlZFlZYkZsMUJPNTVRZ2FDd2d4QVZhaGJlSW1pM19kR2tYVXdDRUZrY0IwVTY2WXdhdjRycl91TnJybl80VXd6amVqbnJXdUtaeExNSTVWOFJm?oc=5",
+      "image": "",
+      "publishedAt": "Sun, 19 Jul 2026 07:06:42 GMT"
+    },
+    {
+      "category": "אפל",
+      "source": "גאדג׳טי — אפל",
+      "title": "אפל מייקרת את מחירי השירותים בעולם - בישראל עדיין ללא שינוי",
+      "summary": "",
+      "url": "https://www.gadgety.co.il/365850/apple-services-price-update-july-2026/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
       "category": "אפל",
       "source": "גאדג׳טי — אפל",
       "title": "אפל תציג השנה iPad mini עם מסך OLED ושדרוג משמעותי ראשון מזה חצי עשור (דיווח)",
@@ -777,27 +804,9 @@
       "publishedAt": ""
     },
     {
-      "category": "אפל",
-      "source": "גאדג׳טי — אפל",
-      "title": "דיווח: סמסונג קיבלה אישור מאפל להתחיל בייצור המוני של מסכי ה-iPhone Ultra המתקפל",
-      "summary": "",
-      "url": "https://www.gadgety.co.il/364441/samsung-iphone-ultra-display/",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "פרסום ראשון: כתב אישום נגד הצעיר שהתחזה לעשרות ישראלים באמצעות AI - וגנב מאות אלפי שקלים",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/criminal/artc-92a74977",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "בג\"ץ הוציא צו על תנאי שמקפיא חלקים מחוק התקשורת, קרעי תקף: \"פורעי חוק\"",
+      "title": "בג\"ץ הוציא צו על תנאי שמקפיא חלקים מחוק התקשורת",
       "summary": "",
       "url": "https://www.i24news.tv/he/news/news/law/artc-e1f8505f",
       "image": "https://cdn.i24news.tv/uploads/77/19/53/92/8a/69/bd/98/91/4a/85/b1/66/67/44/49/771953928a69bd98914a85b166674449.jpg?width=350",
@@ -806,19 +815,19 @@
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "בגלל צעדת ימין: צה\"ל הכריז על שטח צבאי סגור בעוטף עזה",
+      "title": "20 שנות מאסר לאב שהורשע באונס בתו הפעוטה וגרושתו",
       "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/local/artc-e8de530d",
-      "image": "https://cdn.i24news.tv/uploads/ff/54/67/1b/81/6e/b7/9e/01/5b/9a/1a/20/c8/39/77/ff54671b816eb79e015b9a1a20c83977.jpeg?width=350",
+      "url": "https://www.i24news.tv/he/news/news/criminal/artc-556e4a4d",
+      "image": "https://cdn.i24news.tv/uploads/af/cb/fd/96/6c/d8/d9/5f/35/33/bd/2c/83/69/1d/d0/afcbfd966cd8d95f3533bd2c83691dd0.jpg?width=350",
       "publishedAt": ""
     },
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "אשת התקשורת שביתה נשרף: \"אין לי מה לומר - ואין לי בית\"",
+      "title": "\"תחושת נתק בין הציבור להנהגה הוותיקה\": סיעה חרדית חדשה שואפת לרוץ בבחירות",
       "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/local/artc-1143424d",
-      "image": "https://cdn.i24news.tv/uploads/49/3f/b4/bb/95/19/16/e2/ea/f3/15/ae/20/dc/83/10/493fb4bb951916e2eaf315ae20dc8310.jpeg?width=350",
+      "url": "https://www.i24news.tv/he/news/news/politics/artc-72040",
+      "image": "",
       "publishedAt": ""
     },
     {
@@ -833,11 +842,47 @@
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "\"אין בית שאין בו סיכון\": אחד מכל שני בני נוער נחשף לאלימות",
+      "title": "אשת התקשורת שיתפה שביתה נשרף: \"אין לי מה לומר - ואין לי בית\"",
       "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/local/artc-e949418a",
+      "url": "https://www.i24news.tv/he/news/news/local/artc-1143424d",
       "image": "",
       "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "פרסום ראשון: אישום נגד הצעיר שהתחזה באמצעות AI - ועקץ מאות אלפים",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/criminal/artc-92a74977",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "7 טעויות שהייטקיסטים עושים עם כסף – ואיך להימנע מהן",
+      "summary": "מאת ליאור שקורי, שותף מייסד ו-COO ב-Cover מרוויחים יפה? מעולה. אבל בין האופציות שאף אחד לא הסביר לכם עליהן, קרן ההשתלמות ששכחתם מקיומה ופנסיה שנפתחה ביום הראשון בעבודה ומאז לא נגעתם בה – קל מאוד לאבד כסף בלי לשים לב. אלה 7 הטעויות הנפוצות ביותר שהייטקיסטים עושים, ואיך אפשר לתקן אותן בזמן. 1. שמים את",
+      "url": "https://www.geektime.co.il/tech-workers-financial-pitfalls-guide/",
+      "image": "",
+      "publishedAt": "Sun, 19 Jul 2026 08:42:31 +0000"
+    },
+    {
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "רגע ה-DeepSeek חוזר? מודל AI סיני בקוד פתוח עוקף את Opus ו-GPT 5.6",
+      "summary": "בתחילת 2025 הופתעו חברות הטכנולוגיה וה-AI האמריקאיות, כשהסטארטאפ הסיני DeepSeek שחרר מודל שנלחם ראש בראש במודלי הדגל של ענקיות ה-AI – רק בקוד פתוח ובעלות נמוכה במיוחד. המהלך הזה הכניס את התעשייה למצב חירום ולחשיבה מחדש, אבל אחרי סוף השבוע האחרון, נראה שאנחנו בדרך לסיבוב שני. כבר במקום הראשון ב-Front",
+      "url": "https://www.geektime.co.il/moonshot-announces-kimi-k3-and-it-might-be-deepseek-moment-all-over-again/",
+      "image": "",
+      "publishedAt": "Sun, 19 Jul 2026 08:02:19 +0000"
+    },
+    {
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "אחרי התביעה: עורכי הדין של אפל פונים לעשרות עובדי OpenAI",
+      "summary": "התביעה המפתיעה של אפל נגד OpenAI פתחה צוהר מרתק לקרב יצרי ויקר על טאלנטים, ולניסיון של ענקיות הטכנולוגיה להקדים את המתחרות בתחום החומרה. כעת, שולחת אפל את צי עורכי הדין שלה אל עובדי OpenAI בהווה, ועובדיה לשעבר. עורכי הדין מחפשים מידע דיווח חדש חושף כי עורכי הדין של אפל החלו לפעול באופן אקטיבי כדי לד",
+      "url": "https://www.geektime.co.il/apple-lawyers-hound-former-employees/",
+      "image": "",
+      "publishedAt": "Sun, 19 Jul 2026 07:32:34 +0000"
     },
     {
       "category": "ספורט",
@@ -867,49 +912,22 @@
       "publishedAt": ""
     },
     {
-      "category": "מסי",
-      "source": "חדשות מסי",
-      "title": "\"לא רק התארים\": הפוסט המרגש של מסי לפני גמר המונדיאל",
-      "summary": "\"לא רק התארים\": הפוסט המרגש של מסי לפני גמר המונדיאל &nbsp;&nbsp; וואלה ספורט",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWbkVhOGlmUG1rdDFMUV9FNk5YQ3pObFFNTTBfYWFxd0xzTXlDcTNneENPbkx5UUlzbVVjMjhRa0lZX2NJc2pvRUNLcDJUV1Ji?oc=5",
-      "image": "",
-      "publishedAt": "Sun, 19 Jul 2026 04:22:00 GMT"
-    },
-    {
       "category": "ארלינג האלנד",
       "source": "חדשות ארלינג האלנד",
-      "title": "עליה של כ-5000% בחיפושים בגוגל: טירוף מוחלט סביב השדר הישראלי במונדיאל",
-      "summary": "עליה של כ-5000% בחיפושים בגוגל: טירוף מוחלט סביב השדר הישראלי במונדיאל &nbsp;&nbsp; ספורט 1",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95am1Lb2N4VDlLRXJiYjdlZFlZYkZsMUJPNTVRZ2FDd2d4QVZhaGJlSW1pM19kR2tYVXdDRUZrY0IwVTY2WXdhdjRycl91TnJybl80VXd6amVqbnJXdUtaeExNSTVWOFJm?oc=5",
+      "title": "מונדיאל 2026 בגוגל: השחקנים, הרגעים והשאלות הכי מחופשים בישראל",
+      "summary": "מונדיאל 2026 בגוגל: השחקנים, הרגעים והשאלות הכי מחופשים בישראל &nbsp;&nbsp; i24NEWS",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxMkRtRmtMelhzWDc4YXFRYkJqQThhZEEya3JLb1FlSDdjTlZKa1AxQ1RLUkRzeC1Vcl93dmhJQXk5alJSYWlWUHNqVHVVeWQwcEktdEdqdzllQWFTVUJiOWgyWjJQN2dDNzZialI5UlRhN1BHc1E?oc=5",
       "image": "",
-      "publishedAt": "Sun, 19 Jul 2026 07:06:42 GMT"
+      "publishedAt": "Sun, 19 Jul 2026 08:30:50 GMT"
     }
   ],
   "flashes": [
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "לשכת שר הביטחון על ההמרדה של עמרי רונן מ''הדמוקרטים'' נגד שירות בצה''ל: השר יפנה לצה''ל בדרישה לטפל ברונן משמעתית",
+      "title": "מקורות בחיל האוויר מסרו כי ארצות הברית תציב ברחבי המדינה - בנתב''ג ובבסיסי חיל האוויר, כמאה מתדלקים",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957253.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "20 שנות מאסר לאב שאנס את אשתו בעת שישנה - ואת בתו הפעוטה",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957252.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "פרשת הרימונים וג'פניקה: נעצר בכיר בארגון של ג'רושי (חאלד חמאדה)",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957208.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957266.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -925,9 +943,180 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "בתים נשרפו כליל ביישוב חוות גלעד | החקירה העלתה: זו הסיבה לשריפה",
+      "title": "קצת מחוץ לכותרות אבל ה''אירוע'' מתעצם מול העיניים: שפל של 50 שנה: הולנד הכריזה על מצב חירום עקב מחסור במים",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957259.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "בן גביר בהודעה חריפה על החלטת בג״ץ בחוק התקשורת: התשובה לצווים של בג''ץ יהיו בצו השעה של ממשלת הימין הבאה - ניקוי אורוות במערכת המשפט",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957264.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "הערכת גורמי הבטחון - השריפה בחוות גלעד אינה כתוצאה מהצתה מכוונת על רקע לאומני. השב''כ יצא מהחקירה.",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957265.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "כלי תקשורת באיראן: תמונות לוויין מראות פגיעות מדוייקות והרס של האנגר של מטוסי קרב בבסיס מוופק א-סלטי בירדן, שם מוצבים כוחות אמריקנים",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957263.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "פרופסור אשר כהן (בר אילן): 77 אחוז מהגברים היהודים לא עשו שום מילואים , בתקופת שיא הגיוס. בניכוי החרדים, מדובר ב63 אחוז מהגברים היהודים.",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957258.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "''מבקשים את הקול שלנו ואז נותנים אותו לחרדים. לא ניתן להם להשכיח את זה''",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957262.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "הרשת סוערת: בנט שוב נתפס משקר?",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957255.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "''תופעה שלא הכרנו בהיקפים כאלה'': הדוח שצריך להטריד כל ישראלי שטס לחו''ל (45 דיווחים של ישראלים שנפגעו מאירועים אנטישמיים בשנה האחרונה)",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957247.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "התגרשת באריאל? תחתימי קצין - או שלא יכירו בגט שקיבלת",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957261.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "כמה מפתיע: שופט בג''ץ גרוסקופף מוציא צו על תנאי על כמה מסעיפים חוק התקשורת הבוקר",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957244.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "בתים נשרפו כליל ביישוב חוות גלעד | החקירה העלתה: הסיבה לשריפה בדל סיגריה...",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957251.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "תקלה בפייסבוק האתר לא עולה.",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957256.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "עלות אבטחת משפחת נתניהו 4.5 מיליון שקלים בשנה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957171.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "20 שנות מאסר לאב שאנס את אשתו בעת שישנה - ואת בתו הפעוטה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957252.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "פועל בן 30 נהרג מפגיעת חפץ כבד באתר בנייה סמוך לקרית מלאכי",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957257.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "דובר צה''ל: הוחלט על הטלת צו שטח צבאי סגור למרחב הנגב הערבי עד ליום שני ב 8:00",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957241.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "איש תקשורת מוכר הסתבך: כתב אישום חמור הוגש נגדו - ''בעט בקורבן''",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957232.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "בחריין: דיווחים על אזעקה בבחריין",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957260.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "לשכת שר הביטחון על ההמרדה של עמרי רונן מ''הדמוקרטים'' נגד שירות בצה''ל: השר יפנה לצה''ל בדרישה לטפל ברונן משמעתית",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957253.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "פרשת הרימונים וג'פניקה: נעצר בכיר בארגון של ג'רושי (חאלד חמאדה)",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957208.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -961,27 +1150,9 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "כמה מפתיע: שופט בג''ץ גרוסקופף מוציא צו על תנאי על כמה מסעיפים חוק התקשורת הבוקר",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957244.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "ישראל נלחמת בריגול האיראני במגזר החרדי באמצעות רבנים ומשפיעני רשת",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957195.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "''תופעה שלא הכרנו בהיקפים כאלה'': הדוח שצריך להטריד כל ישראלי שטס לחו''ל (45 דיווחים של ישראלים שנפגעו מאירועים אנטישמיים בשנה האחרונה)",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957247.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1024,15 +1195,6 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "דובר צה''ל: הוחלט על הטלת צו שטח צבאי סגור למרחב הנגב הערבי עד ליום שני ב 8:00",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957241.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "תחזית מזג האוויר גל חום כבד וממושך צפוי באזורנו",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957240.shtml?utm_source=rotter.net&utm_medium=mivzakside",
@@ -1045,15 +1207,6 @@
       "title": "וול סטריט ג'ורנל: ישראל השקיעה 50 מיליון דולר בקמפיין השפעה בארה''ב שכולל מיליוני מסרונים שנכתבו על ידי AI",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957239.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "עלות אבטחת משפחת נתניהו 4.5 מיליון שקלים בשנה",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957171.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1117,15 +1270,6 @@
       "title": "משה (בוגי) יעלון: יצאנו למלחמה עם איראן עם שלוש מטרות - להפיל את המשטר, לחסל את הגרעין ולפגוע בפרויקט הטילים. אף אחת מהן לא הושגה",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957188.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "איש תקשורת מוכר הסתבך: כתב אישום חמור הוגש נגדו - ''בעט בקורבן''",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957232.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
