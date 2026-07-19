@@ -1,6 +1,6 @@
 {
   "date": "2026-07-19",
-  "updatedAt": "2026-07-19T04:50:20.156Z",
+  "updatedAt": "2026-07-19T07:29:10.398Z",
   "stories": [
     {
       "category": "טכנולוגיה",
@@ -660,29 +660,20 @@
       "publishedAt": "Fri, 17 Jul 2026 14:34:03 GMT"
     },
     {
-      "category": "ספורט",
-      "source": "ערוץ הספורט — ישראלים ב־NBA",
-      "title": "2 נקודות לבן שרף ו-4 לדני וולף, הנטס הובסו ולא עלו לחצי הגמר",
+      "category": "A.I",
+      "source": "Let's AI",
+      "title": "Cowork בתוך קופיילוט: העובד הדיגיטלי שמסדר לכם את התיקיות",
       "summary": "",
-      "url": "https://nba.sport5.co.il/articles.aspx?FolderID=403&docID=552486",
+      "url": "https://letsai.co.il/cowork-inside-copilot/",
       "image": "",
       "publishedAt": ""
     },
     {
-      "category": "ספורט",
-      "source": "ערוץ הספורט — ישראלים ב־NBA",
-      "title": "סוף הדרך: דני אבדיה ופורטלנד הודחו ע\"י סן אנטוניו",
+      "category": "A.I",
+      "source": "Let's AI",
+      "title": "איך קרה ש- xAI תובעת משתמש של Grok?",
       "summary": "",
-      "url": "https://vod.sport5.co.il/?Vc=12190&Vi=542697",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "ספורט",
-      "source": "ערוץ הספורט — ישראלים ב־NBA",
-      "title": "על שחקן 2.16 מטר: צפו בפוסטר של דני וולף",
-      "summary": "",
-      "url": "https://www.sport5.co.il/articles.aspx?FolderID=8166&docID=552244",
+      "url": "https://letsai.co.il/xai-sues-grok-user-csam/",
       "image": "",
       "publishedAt": ""
     },
@@ -797,19 +788,46 @@
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "הוארך מעצרו של המקורב לג׳רושי, החשד: השלכת רימונים ברחבי הארץ",
+      "title": "פרסום ראשון: כתב אישום נגד הצעיר שהתחזה לעשרות ישראלים באמצעות AI - וגנב מאות אלפי שקלים",
       "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/criminal/artc-f3e35a5f",
+      "url": "https://www.i24news.tv/he/news/news/criminal/artc-92a74977",
       "image": "",
       "publishedAt": ""
     },
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "הסיפור שלא סופר: שנה עם מפקד כוח מגלן ששרד את אסון חאן יונס",
+      "title": "בג\"ץ הוציא צו על תנאי שמקפיא חלקים מחוק התקשורת, קרעי תקף: \"פורעי חוק\"",
       "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-41b3448e",
-      "image": "https://i24israel.vod.immergo.tv/i24israel/api-uploaded/WILDMOKA_67001490241.jpg?width=350",
+      "url": "https://www.i24news.tv/he/news/news/law/artc-e1f8505f",
+      "image": "https://cdn.i24news.tv/uploads/77/19/53/92/8a/69/bd/98/91/4a/85/b1/66/67/44/49/771953928a69bd98914a85b166674449.jpg?width=350",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "בגלל צעדת ימין: צה\"ל הכריז על שטח צבאי סגור בעוטף עזה",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/local/artc-e8de530d",
+      "image": "https://cdn.i24news.tv/uploads/ff/54/67/1b/81/6e/b7/9e/01/5b/9a/1a/20/c8/39/77/ff54671b816eb79e015b9a1a20c83977.jpeg?width=350",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "אשת התקשורת שביתה נשרף: \"אין לי מה לומר - ואין לי בית\"",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/local/artc-1143424d",
+      "image": "https://cdn.i24news.tv/uploads/49/3f/b4/bb/95/19/16/e2/ea/f3/15/ae/20/dc/83/10/493fb4bb951916e2eaf315ae20dc8310.jpeg?width=350",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "בעיירה פלסטינית ליד חברון: פורעים הציתו רכב והשחיתו מסגד",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-35a65180",
+      "image": "",
       "publishedAt": ""
     },
     {
@@ -818,44 +836,125 @@
       "title": "\"אין בית שאין בו סיכון\": אחד מכל שני בני נוער נחשף לאלימות",
       "summary": "",
       "url": "https://www.i24news.tv/he/news/news/local/artc-e949418a",
-      "image": "https://cdn.i24news.tv/uploads/93/9d/ae/22/5b/16/7a/41/71/11/78/92/e3/81/02/18/939dae225b167a4171117892e3810218.jpeg?width=350",
-      "publishedAt": ""
-    },
-    {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "\"שדדו אותי בתוך שתי שניות\": עיתונאי כאן חדשות הותקף בחוות גלעד",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/local/artc-c1dd48c4",
       "image": "",
       "publishedAt": ""
     },
     {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "תיעוד בלעדי: העימות בין בניהו רזי ז\"ל לבת זוגו החשודה ברצח | לי עייש",
+      "category": "ספורט",
+      "source": "ערוץ הספורט — ישראלים ב־NBA",
+      "title": "2 נקודות לבן שרף ו-4 לדני וולף, הנטס הובסו ולא עלו לחצי הגמר",
       "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/criminal/artc-82544d7f",
+      "url": "https://nba.sport5.co.il/articles.aspx?FolderID=403&docID=552486",
       "image": "",
       "publishedAt": ""
     },
     {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "דיווחים על פיצוצים בבנדר עבאס; שר ההגנה הגסת': \"מותם של הנופלים רק מחזק את נחישותנו\" קרא עוד..",
-      "summary": "דיווחים על פיצוצים בבנדר עבאס; שר ההגנה הגסת': \"מותם של הנופלים רק מחזק את נחישותנו\"",
-      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-71935",
-      "image": "https://cdn.i24news.tv/uploads/f2/16/7d/5f/eb/37/98/68/a9/13/a3/ec/6c/52/38/4a/f2167d5feb379868a913a3ec6c52384a.jpg?width=750",
+      "category": "ספורט",
+      "source": "ערוץ הספורט — ישראלים ב־NBA",
+      "title": "סוף הדרך: דני אבדיה ופורטלנד הודחו ע\"י סן אנטוניו",
+      "summary": "",
+      "url": "https://vod.sport5.co.il/?Vc=12190&Vi=542697",
+      "image": "",
       "publishedAt": ""
+    },
+    {
+      "category": "ספורט",
+      "source": "ערוץ הספורט — ישראלים ב־NBA",
+      "title": "על שחקן 2.16 מטר: צפו בפוסטר של דני וולף",
+      "summary": "",
+      "url": "https://www.sport5.co.il/articles.aspx?FolderID=8166&docID=552244",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מסי",
+      "source": "חדשות מסי",
+      "title": "\"לא רק התארים\": הפוסט המרגש של מסי לפני גמר המונדיאל",
+      "summary": "\"לא רק התארים\": הפוסט המרגש של מסי לפני גמר המונדיאל &nbsp;&nbsp; וואלה ספורט",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWbkVhOGlmUG1rdDFMUV9FNk5YQ3pObFFNTTBfYWFxd0xzTXlDcTNneENPbkx5UUlzbVVjMjhRa0lZX2NJc2pvRUNLcDJUV1Ji?oc=5",
+      "image": "",
+      "publishedAt": "Sun, 19 Jul 2026 04:22:00 GMT"
+    },
+    {
+      "category": "ארלינג האלנד",
+      "source": "חדשות ארלינג האלנד",
+      "title": "עליה של כ-5000% בחיפושים בגוגל: טירוף מוחלט סביב השדר הישראלי במונדיאל",
+      "summary": "עליה של כ-5000% בחיפושים בגוגל: טירוף מוחלט סביב השדר הישראלי במונדיאל &nbsp;&nbsp; ספורט 1",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95am1Lb2N4VDlLRXJiYjdlZFlZYkZsMUJPNTVRZ2FDd2d4QVZhaGJlSW1pM19kR2tYVXdDRUZrY0IwVTY2WXdhdjRycl91TnJybl80VXd6amVqbnJXdUtaeExNSTVWOFJm?oc=5",
+      "image": "",
+      "publishedAt": "Sun, 19 Jul 2026 07:06:42 GMT"
     }
   ],
   "flashes": [
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "תחזית מזג האוויר גל חום כבד וממושך צפוי באזורנו",
+      "title": "לשכת שר הביטחון על ההמרדה של עמרי רונן מ''הדמוקרטים'' נגד שירות בצה''ל: השר יפנה לצה''ל בדרישה לטפל ברונן משמעתית",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957240.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957253.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "20 שנות מאסר לאב שאנס את אשתו בעת שישנה - ואת בתו הפעוטה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957252.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "פרשת הרימונים וג'פניקה: נעצר בכיר בארגון של ג'רושי (חאלד חמאדה)",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957208.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "סמוטריץ: שופט תורן במעמד צד אחד, מוציא צו אוטומטי שמקפיא חקיקה של הכנסת תוך שבוע, מלמד שבגץ איבד כל רסן במלחמתו בכנסת.",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957246.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "בתים נשרפו כליל ביישוב חוות גלעד | החקירה העלתה: זו הסיבה לשריפה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957251.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ההתאוששות נמשכת | זינוק של 57% במספר החוזרים לעבודה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957254.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "בערוץ אל-חדת׳ הסעודי טוענים מפי גורם ביטחוני ישראלי: ״מוג׳תבא חמינאי לא נמצא באירן״",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957250.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "רוקדים עם כוכבים מול דה וויס: רייטינג",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957249.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -871,6 +970,33 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
+      "title": "ישראל נלחמת בריגול האיראני במגזר החרדי באמצעות רבנים ומשפיעני רשת",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957195.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "''תופעה שלא הכרנו בהיקפים כאלה'': הדוח שצריך להטריד כל ישראלי שטס לחו''ל (45 דיווחים של ישראלים שנפגעו מאירועים אנטישמיים בשנה האחרונה)",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957247.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "מירב בן ארי (יש עתיד) בביקורת על התקשורת: '''לא משמיעים את הקול של האופוזיציה''",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957199.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
       "title": "חביבה ושדי לא ידעה שהקשיש הסיעודי שבו טיפלה רצח בעבר 3 בני אדם. עד שהיה מאוחר מדי. כעת תביעה נגד בטל''א וחברת הסעוד.",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957242.shtml?utm_source=rotter.net&utm_medium=mivzakside",
@@ -880,18 +1006,72 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "''מה את רוצה לעשות לי בבניין?'' הביקור של אגם צרפי בביתו של בניהו רזי ז''ל לפני הרצח | תיעוד בלעדי",
+      "title": "בעקבות התיעוד בכאן חדשות: קצין המשטרה שחגג עם עבריינים יורחק מתפקידו",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957243.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957238.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "פרשת הרימונים וג'פניקה: נעצר בכיר בארגון של ג'רושי (חאלד חמאדה)",
+      "title": "איראן תיקנה אחד משערי הכניסה למנהרה שנפגע בתקיפה האווירית של ארה''ב אמש, והעבודה לפתיחת השני בהמשך היום",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957208.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957248.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "דובר צה''ל: הוחלט על הטלת צו שטח צבאי סגור למרחב הנגב הערבי עד ליום שני ב 8:00",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957241.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "תחזית מזג האוויר גל חום כבד וממושך צפוי באזורנו",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957240.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "וול סטריט ג'ורנל: ישראל השקיעה 50 מיליון דולר בקמפיין השפעה בארה''ב שכולל מיליוני מסרונים שנכתבו על ידי AI",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957239.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "עלות אבטחת משפחת נתניהו 4.5 מיליון שקלים בשנה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957171.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "בישראל מאשרים: ארה''ב נערכת להרחבת המערכה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957201.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "''מה את רוצה לעשות לי בבניין?'' הביקור של אגם צרפי בביתו של בניהו רזי ז''ל לפני הרצח | תיעוד בלעדי",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957243.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -925,24 +1105,6 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "וול סטריט ג'ורנל: ישראל השקיעה 50 מיליון דולר בקמפיין השפעה בארה''ב שכולל מיליוני מסרונים שנכתבו על ידי AI",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957239.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "בעקבות התיעוד בכאן חדשות: קצין המשטרה שחגג עם עבריינים יורחק מתפקידו",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957238.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "הסכסוך בצמרת באוקראינה: הפגנות נגד הרמטכ''ל ששר ההגנה המודח יצא נגדו",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957229.shtml?utm_source=rotter.net&utm_medium=mivzakside",
@@ -970,27 +1132,9 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "דובר צה''ל: הוחלט על הטלת צו שטח צבאי סגור למרחב הנגב הערבי עד ליום שני ב 8:00",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957241.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "בתוך כמה שעות גויסו שניים ורבע מליון שקלים לישוב חוות גלעד",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957223.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "בישראל מאשרים: ארה''ב נערכת להרחבת המערכה",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957201.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1069,24 +1213,6 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "ישראל נלחמת בריגול האיראני במגזר החרדי באמצעות רבנים ומשפיעני רשת",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957195.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "עלות אבטחת משפחת נתניהו 4.5 מיליון שקלים בשנה",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957171.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "בתכנית הבוקר של פוקס ניוז (זו שטראמפ צופה בה), המגישים לא אהבו את ההשתלחות של סגן הנשיא ואנס בישראל",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957214.shtml?utm_source=rotter.net&utm_medium=mivzakside",
@@ -1135,15 +1261,6 @@
       "title": "דיווחים על תקיפות איראניות באירביל שבעיראק",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957230.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "מירב בן ארי (יש עתיד) בביקורת על התקשורת: '''לא משמיעים את הקול של האופוזיציה''",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957199.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1288,37 +1405,37 @@
       "name": "ערוץ הספורט — ישראלים ב־NBA",
       "category": "ספורט",
       "url": "https://www.sport5.co.il/liga.aspx?FolderID=5991",
-      "status": "unavailable"
+      "status": "ok"
     },
     {
       "name": "ערוץ הספורט — כדורגל עולמי",
       "category": "ספורט",
       "url": "https://www.sport5.co.il/liga.aspx?FolderID=410",
-      "status": "unavailable"
+      "status": "ok"
     },
     {
       "name": "חדשות רונאלדיניו",
       "category": "רונאלדיניו",
       "url": "https://news.google.com/rss/search?q=%D7%A8%D7%95%D7%A0%D7%90%D7%9C%D7%93%D7%99%D7%A0%D7%99%D7%95&hl=he&gl=IL&ceid=IL:he",
-      "status": "unavailable"
+      "status": "ok"
     },
     {
       "name": "חדשות מסי",
       "category": "מסי",
       "url": "https://news.google.com/rss/search?q=%D7%9C%D7%99%D7%90%D7%95%D7%A0%D7%9C+%D7%9E%D7%A1%D7%99&hl=he&gl=IL&ceid=IL:he",
-      "status": "unavailable"
+      "status": "ok"
     },
     {
       "name": "חדשות דני אבדיה",
       "category": "דני אבדיה",
       "url": "https://news.google.com/rss/search?q=%D7%93%D7%A0%D7%99+%D7%90%D7%91%D7%93%D7%99%D7%94&hl=he&gl=IL&ceid=IL:he",
-      "status": "unavailable"
+      "status": "ok"
     },
     {
       "name": "חדשות ארלינג האלנד",
       "category": "ארלינג האלנד",
       "url": "https://news.google.com/rss/search?q=%D7%90%D7%A8%D7%9C%D7%99%D7%A0%D7%92+%D7%94%D7%90%D7%9C%D7%A0%D7%93&hl=he&gl=IL&ceid=IL:he",
-      "status": "unavailable"
+      "status": "ok"
     }
   ],
   "breakingSource": {
