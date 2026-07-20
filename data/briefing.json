@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-20",
-  "updatedAt": "2026-07-20T20:49:12.756Z",
+  "date": "2026-07-21",
+  "updatedAt": "2026-07-20T22:03:08.581Z",
   "stories": [
     {
       "category": "טכנולוגיה",
@@ -55,6 +55,33 @@
       "url": "https://theverifier.co.il/80042/pelephone-wecom-mou-signed/",
       "image": "https://theverifier.co.il/wp-content/uploads/2024/04/pelephone-%D7%A4%D7%9C%D7%90%D7%A4%D7%95%D7%9F-Eldad-Matmon-The-Verifier-4-150x150.jpg",
       "publishedAt": "Tue, 14 Jul 2026 16:36:26 +0000"
+    },
+    {
+      "category": "A.I",
+      "source": "Let's AI",
+      "title": "ג'נסן הואנג ביפן: איך ה-AI הפיזי הפך למרכז האסטרטגיה התעשייתית של טוקיו",
+      "summary": "",
+      "url": "https://letsai.co.il/nvidia-japan-physical-ai/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "A.I",
+      "source": "Let's AI",
+      "title": "מיקרוסופט מלמדת את אנשי המכירות שלה לתקוף את Anthropic ו-OpenAI",
+      "summary": "",
+      "url": "https://letsai.co.il/microsoft-sales-anthropic-openai/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "A.I",
+      "source": "Let's AI",
+      "title": "אתרים שנבנו על Lovable מושכים 600 מיליון ביקורים בחודש – יותר מהפלטפורמה עצמה",
+      "summary": "",
+      "url": "https://letsai.co.il/lovable-vibe-coding-scale/",
+      "image": "",
+      "publishedAt": ""
     },
     {
       "category": "A.I",
@@ -300,735 +327,6 @@
       "publishedAt": ""
     },
     {
-      "category": "A.I",
-      "source": "Let's AI",
-      "title": "Claude Fable 5 שוחרר שוב לאוויר העולם עם מגבלות חדשות",
-      "summary": "",
-      "url": "https://letsai.co.il/fable-5-redeployment/",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "A.I",
-      "source": "Let's AI",
-      "title": "אנטרופיק משיקה את Claude Sonnet 5",
-      "summary": "",
-      "url": "https://letsai.co.il/claude-sonnet-5/",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "A.I",
-      "source": "Let's AI",
-      "title": "אלמנטור מפטרת 100 עובדים ומחשבת מסלול מחדש בעידן ה-AI",
-      "summary": "",
-      "url": "https://letsai.co.il/elementor-ai-layoffs/",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "טכנולוגיה",
-      "source": "גיקטיים",
-      "title": "יורט בהצלחה: רחפן זעיר רושם חיסול אווירי ראשון של חרק",
-      "summary": "הקיץ כאן, ואיתו הסיוט הגדול של כולנו, ולא, אנחנו לא מדברים על אנשים שמסבירים לכם ש\"זה לא החום זה הלחות\", אלא יתושים כמובן. אז אחרי שהדלקתם נרות ציטרונלה, הצבתם לפיד ציטרונלה, ריססתם ספריי ציטרונלה, מרחתם אלתוש בטעם ציטרונלה… אתם עדיין נעקצים. אז מה עושים? פיתוח חדש שיצא מתוכנית האקסלרטור המובילה בעו",
-      "url": "https://www.geektime.co.il/tornyol-startup-wants-to-kill-mosquitos-with-drone/",
-      "image": "",
-      "publishedAt": "Sun, 19 Jul 2026 15:45:04 +0000"
-    },
-    {
-      "category": "טכנולוגיה",
-      "source": "גיקטיים",
-      "title": "הכל פתוח: 8 משרות הטק הכי שוות שהגיעו לגמר",
-      "summary": "בודקים מה הכיוון הבא שלכם בקריירה? אז יש לנו חדשות טובות, הגעתם לכתבה שמביאה לכם רשימת משרות שוות בהייטק, בדיוק עבור הרגע הזה שאתם רוצים לרענן את הטייטל. החברות, שמופיעות גם בגיקטיים אינסיידר, מציעות משרות שפתוחות עכשיו ובעמודים שלהן תוכלו לקבל פרטים על החברה, הגישה שלה ללמידה ופיתוח מקצועי, הסטאק ה",
-      "url": "https://www.geektime.co.il/tech-jobs-israel-19-07-26/",
-      "image": "",
-      "publishedAt": "Sun, 19 Jul 2026 14:07:39 +0000"
-    },
-    {
-      "category": "טכנולוגיה",
-      "source": "גיקטיים",
-      "title": "\"קרטל הדיו\": השיטה של HP עולה לה ביוקר",
-      "summary": "יש מקום מיוחד בגיהנום של עולם הטכנולוגיה להוא שהמציא את ה-AutoPlay בסרטונים; להיא שאחראית על התזמון של Windows Update; לזה שאחראי שהאייקון של פתית השלג והשמש במזגן כל-כך דומים; ולעוד רבים אחרים. אבל מקום של כבוד יישמר כנראה להוא ב-HP שהחליט שאתם יכולים להשתמש רק בדיו של החברה ויחסום לכם את המדפסת אם",
-      "url": "https://www.geektime.co.il/hp-india-gets-fine-over-ink/",
-      "image": "",
-      "publishedAt": "Sun, 19 Jul 2026 12:20:26 +0000"
-    },
-    {
-      "category": "טכנולוגיה",
-      "source": "גיקטיים",
-      "title": "ההרשמה פתוחה: אוניברסיטת רייכמן חושפת תואר חדש ב-AI ולמידה חישובית",
-      "summary": "הבינה המלאכותית נכנסה לחיי כולנו כרוח סערה, והיא משנה תעשיות שלמות – החל ממערכות פיננסיות ועד מדעי המחשב, רפואה, תחבורה ותעשייה. הרבה התרחש בזמן קצר, והיום ארגונים כבר לא מחפשים את מי שיודעים \"לעבוד עם AI\", אלא זקוקים למומחיות עמוקה הכוללת ידע באימון מודלים, בניית מערכות בסקייל גדול, בניית אייג'נטים",
-      "url": "https://www.geektime.co.il/bsc-in-ai-and-ml-at-reichman-university-2026/",
-      "image": "",
-      "publishedAt": "Sun, 19 Jul 2026 11:41:31 +0000"
-    },
-    {
-      "category": "טכנולוגיה",
-      "source": "גיקטיים",
-      "title": "7 טעויות שהייטקיסטים עושים עם כסף – ואיך להימנע מהן",
-      "summary": "מאת ליאור שקורי, שותף מייסד ו-COO ב-Cover מרוויחים יפה? מעולה. אבל בין האופציות שאף אחד לא הסביר לכם עליהן, קרן ההשתלמות ששכחתם מקיומה ופנסיה שנפתחה ביום הראשון בעבודה ומאז לא נגעתם בה – קל מאוד לאבד כסף בלי לשים לב. אלה 7 הטעויות הנפוצות ביותר שהייטקיסטים עושים, ואיך אפשר לתקן אותן בזמן. 1. שמים את",
-      "url": "https://www.geektime.co.il/tech-workers-financial-pitfalls-guide/",
-      "image": "",
-      "publishedAt": "Sun, 19 Jul 2026 08:42:31 +0000"
-    },
-    {
-      "category": "טכנולוגיה",
-      "source": "גיקטיים",
-      "title": "רגע ה-DeepSeek חוזר? מודל AI סיני בקוד פתוח עוקף את Opus ו-GPT 5.6",
-      "summary": "בתחילת 2025 הופתעו חברות הטכנולוגיה וה-AI האמריקאיות, כשהסטארטאפ הסיני DeepSeek שחרר מודל שנלחם ראש בראש במודלי הדגל של ענקיות ה-AI – רק בקוד פתוח ובעלות נמוכה במיוחד. המהלך הזה הכניס את התעשייה למצב חירום ולחשיבה מחדש, אבל אחרי סוף השבוע האחרון, נראה שאנחנו בדרך לסיבוב שני. כבר במקום הראשון ב-Front",
-      "url": "https://www.geektime.co.il/moonshot-announces-kimi-k3-and-it-might-be-deepseek-moment-all-over-again/",
-      "image": "",
-      "publishedAt": "Sun, 19 Jul 2026 08:02:19 +0000"
-    },
-    {
-      "category": "רכב חשמלי",
-      "source": "מגזין רכב חשמלי",
-      "title": "BYD אטו 3 מגיע בגרסה משודרגת ובמחיר משתלם",
-      "summary": "גרסת 2026 של BYD אטו 3 מגיעה לישראל עם מערכת הנעה משודרגת, טווח נסיעה גבוה יותר ועוד מספר שדרוגים ששמים אותו שוב על המפה, וכל זה במחיר התחלתי של 154,990 שקלים בלבד. הנה כל מה שצריך לדעת על הדגם המשודרג. The post BYD אטו 3 מגיע בגרסה משודרגת ובמחיר משתלם appeared first on EV Magazine | מגזין רכב חשמל",
-      "url": "https://www.evm.co.il/byd-atto-3-evo-2026-in-israel/",
-      "image": "",
-      "publishedAt": "Thu, 04 Jun 2026 16:14:56 +0000"
-    },
-    {
-      "category": "רכב חשמלי",
-      "source": "מגזין רכב חשמלי",
-      "title": "בלי V12 ועם 1,000 כוחות סוס: פרארי נכנסת לעידן החשמלי",
-      "summary": "עם 1,050 כ״ס, ארבעה מנועים ומהירות מרבית של 310 קמ״ש, פרארי לוצ׳ה מסמנת את הכניסה הרשמית של היצרנית האיטלקית לעידן החשמלי. The post בלי V12 ועם 1,000 כוחות סוס: פרארי נכנסת לעידן החשמלי appeared first on EV Magazine | מגזין רכב חשמלי .",
-      "url": "https://www.evm.co.il/ferrari-luce-electric-era/",
-      "image": "",
-      "publishedAt": "Tue, 26 May 2026 13:14:59 +0000"
-    },
-    {
-      "category": "רכב חשמלי",
-      "source": "מגזין רכב חשמלי",
-      "title": "7 מקומות במחירים משתלמים: עד 40 אלף שקל הנחה על דגמי מקסוס מיפה",
-      "summary": "אוטו חן, יבואנית מותג מקסוס מקיימת ימי מכירות עם הנחות של 20 עד 40 אלף שקלים על דגמי ה-7 מקומות החשמליים של המותג, במחיר התחלתי של 192,491 ש״ח. The post 7 מקומות במחירים משתלמים: עד 40 אלף שקל הנחה על דגמי מקסוס מיפה appeared first on EV Magazine | מגזין רכב חשמלי .",
-      "url": "https://www.evm.co.il/maxus-mifa-may-2026-deals/",
-      "image": "",
-      "publishedAt": "Fri, 08 May 2026 14:47:44 +0000"
-    },
-    {
-      "category": "רכב חשמלי",
-      "source": "מגזין רכב חשמלי",
-      "title": "רכב חשמלי חדש ב-135 אלף ש״ח: לובינסקי חוגגת 90 שנים עם הטבות",
-      "summary": "ימי המכירות, שיתקיימו עד ה-8 בחודש, כוללים גם רכבי פנאי חשמליים במחיר התחלתי של כ-140 אלף ש״ח, ואת מותג הפרימיום IM במחיר התחלתי של כ-196 אלף ש״ח. The post רכב חשמלי חדש ב-135 אלף ש״ח: לובינסקי חוגגת 90 שנים עם הטבות appeared first on EV Magazine | מגזין רכב חשמלי .",
-      "url": "https://www.evm.co.il/lubinski-may-2026-offers/",
-      "image": "",
-      "publishedAt": "Mon, 04 May 2026 17:55:13 +0000"
-    },
-    {
-      "category": "רכב חשמלי",
-      "source": "מגזין רכב חשמלי",
-      "title": "פחות מ-25 אלף אירו: פולקסווגן ID פולו החשמלית נחשפת",
-      "summary": "הגרסה החשמלית הראשונה של פולקסווגן פולו מגיעה עם תג מחיר נמוך באירופה, אך עם פשרות בטווח בגרסת הבסיס, ומציגה את שפת העיצוב החדשה של פולקסווגן. The post פחות מ-25 אלף אירו: פולקסווגן ID פולו החשמלית נחשפת appeared first on EV Magazine | מגזין רכב חשמלי .",
-      "url": "https://www.evm.co.il/volkswagen-id-polo-electric-revealed/",
-      "image": "",
-      "publishedAt": "Thu, 30 Apr 2026 13:25:38 +0000"
-    },
-    {
-      "category": "רכב חשמלי",
-      "source": "מגזין רכב חשמלי",
-      "title": "עד ה-1 למאי: מבצעים והטבות ברכישת דגמי זיקר",
-      "summary": "מותג הרכבים החשמלים זיקר יוצא לימי מכירות עם מגוון הטבות הכוללות מימון מלא ללא ריבית, טרייד אין במחירון לזיקר X והצעות ליסינג. The post עד ה-1 למאי: מבצעים והטבות ברכישת דגמי זיקר appeared first on EV Magazine | מגזין רכב חשמלי .",
-      "url": "https://www.evm.co.il/zeekr-offers-april-deals-2026/",
-      "image": "",
-      "publishedAt": "Wed, 29 Apr 2026 04:29:35 +0000"
-    },
-    {
-      "category": "רונאלדיניו",
-      "source": "חדשות רונאלדיניו",
-      "title": "\"פחד לחייו\": רונאלדו, רונאלדיניו ומדונה גנבו את ההצגה בגמר המונדיאל",
-      "summary": "\"פחד לחייו\": רונאלדו, רונאלדיניו ומדונה גנבו את ההצגה בגמר המונדיאל &nbsp;&nbsp; ספורט 1",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uR0lFRUNoN3ZDS3RWc0I1b2N6c3N3YTlRdVRGb1VlNEVoT3lwSjFyU1YtQkhteng2MUVla2t5bFFfaHBWNll3UW5kcUt5MnVMVmR6Y04tYkY1YUVYeExHLXBEd0Z6QXZy?oc=5",
-      "image": "",
-      "publishedAt": "Sun, 19 Jul 2026 20:14:18 GMT"
-    },
-    {
-      "category": "רונאלדיניו",
-      "source": "חדשות רונאלדיניו",
-      "title": "בגיל 46: רונאלדיניו חוזר לשחק כדורגל - זו קבוצתו החדשה",
-      "summary": "בגיל 46: רונאלדיניו חוזר לשחק כדורגל - זו קבוצתו החדשה &nbsp;&nbsp; ynet.co.il",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96REowalRBc0x6ZkM0YW9wN25HekpGcXdyNlM5cWVtaW5PRWFReWk5UWlDcXZlUEJsemdJOXlnTmN5am1feGxuSTdvQUNMblZVdXNDNi1hRDRpaUtCUmtmSFlEMDA1S3U1OUJZ?oc=5",
-      "image": "",
-      "publishedAt": "Sat, 20 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "category": "רונאלדיניו",
-      "source": "חדשות רונאלדיניו",
-      "title": "\"רונאלדיניו: האיש והאגדה\" זמין לצפייה | האתר הרשמי של Netflix",
-      "summary": "\"רונאלדיניו: האיש והאגדה\" זמין לצפייה | האתר הרשמי של Netflix &nbsp;&nbsp; Netflix",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MWWdDZ25IU19xZVVjUHdYVkJsLXhNa3VscktFSnNLM2I2MDlZS2RSNmdCdjJWX2k4dDVUak5DdGZHclBVNU9kRFZ3NFZpTmdYdVNV?oc=5",
-      "image": "",
-      "publishedAt": "Thu, 16 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "category": "רונאלדיניו",
-      "source": "חדשות רונאלדיניו",
-      "title": "\"רונאלדיניו: האיש והאגדה\": נטפליקס כבר בחרה את הפייבוריטית שלה",
-      "summary": "\"רונאלדיניו: האיש והאגדה\": נטפליקס כבר בחרה את הפייבוריטית שלה &nbsp;&nbsp; mako",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9pNkN3YzF0bjJiaHQzR1RpQ2wyQUdKZ3BPS1Q0c2ZZZ18wZFF1UGVFdFFQNk0xTkNRVUJfMmJCbzhmek1OeXowSzlDZ0pEakhoX0p0WGF0MTJ2cWZRWG9QNXNoTXQ4RVFPYjZVcEt6M3JWcjZqbllUUQ?oc=5",
-      "image": "",
-      "publishedAt": "Sun, 19 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "category": "רונאלדיניו",
-      "source": "חדשות רונאלדיניו",
-      "title": "\"האחר?\": רונאלדיניו נגד מאמן בית\"ר ירושלים לשעבר",
-      "summary": "\"האחר?\": רונאלדיניו נגד מאמן בית\"ר ירושלים לשעבר &nbsp;&nbsp; Sport5",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTenFrVDNORGNCZ1FJaWVXcURVY0VMR2R4MFZjNnROSVp4XzhmbDJTMG5LU1h0c05ZU19RZGVGZ3hpNDMyUVNjcTVPZWxDTnVxS0RmLWJwSzI0SERXTjlMZ2N1bFhzY3RVRmxyZTNQUWVqQQ?oc=5",
-      "image": "",
-      "publishedAt": "Mon, 13 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "category": "רונאלדיניו",
-      "source": "חדשות רונאלדיניו",
-      "title": "הפתעה גדולה: בגיל 46, רונאלדיניו חתם בקבוצה חדשה",
-      "summary": "הפתעה גדולה: בגיל 46, רונאלדיניו חתם בקבוצה חדשה &nbsp;&nbsp; ספורט 1",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxTzZqN2w0YXhQWWNXdjRkbjlKeDAtd0phQW8wUmd1SVg3djFxU2NDRzRqQXM5OFBaN1NhdGY0Qnc2WVdKenRnTDlJdzNGbEtlUlBRVEQ3VVVzUFZiOUhoSlRTenZzRHBQ?oc=5",
-      "image": "",
-      "publishedAt": "Sat, 20 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "category": "מסי",
-      "source": "חדשות מסי",
-      "title": "לא מזהים אותו? התג המפתיע של מסי",
-      "summary": "לא מזהים אותו? התג המפתיע של מסי &nbsp;&nbsp; Sport5",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVc0t2QVUwQzNfT3MwVGFHRm5GWDNRUFZvOUFXNFJFQjEtMFotVUJ5ZjhVSXVieHhabEFIYURmTl9PcVZWNEh2ZnFTNjEwRzdBSkdMY241ZVpZMXpYNjBFWU1WX1VIS21CN3hKYXlsR1pGQmc?oc=5",
-      "image": "",
-      "publishedAt": "Sun, 19 Jul 2026 18:20:41 GMT"
-    },
-    {
-      "category": "מסי",
-      "source": "חדשות מסי",
-      "title": "מסי שוב עשה היסטוריה: השיאים שנשברו עם פתיחת גמר המונדיאל",
-      "summary": "מסי שוב עשה היסטוריה: השיאים שנשברו עם פתיחת גמר המונדיאל &nbsp;&nbsp; וואלה ספורט",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CUHJWdmZsdTVfeEZuZGxjaXdWWDJzZXFPVTFGNG96cVdTODAzdHp6VFVXcEwwbFRMa1FkcnlZU1ppVk9zZzZnVXFOMEVET2My?oc=5",
-      "image": "",
-      "publishedAt": "Sun, 19 Jul 2026 17:26:00 GMT"
-    },
-    {
-      "category": "מסי",
-      "source": "חדשות מסי",
-      "title": "שפל היסטורי: השיא השלילי שקבעה נבחרת ארגנטינה",
-      "summary": "שפל היסטורי: השיא השלילי שקבעה נבחרת ארגנטינה &nbsp;&nbsp; ספורט 1",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZFR4MW1lekVSem1hdW1NSGt4ZEtGcEFQcjlDNHVGaTY3QzVoS0R0bGFmbXpSZko1V2hwaG5teERCSUk1Y29iLUlzdGgyMklCR0taNXdDMThCanZoTFFqZ1JvYUF4SlQzTlJBWXpyT1BNS3VWdkd3ZGlOMWhxcVJHOHhkbFVHSjhXREZDSEo1X1A5aGZHbllJbDUxSUVDTXRpUTY0UEpITEdWNkV4TXlPQlhTT3NKdEdwZUh1VGVaVVMzUXJRc2ZMXy1rejlsTi05a3c?oc=5",
-      "image": "",
-      "publishedAt": "Sun, 19 Jul 2026 21:27:39 GMT"
-    },
-    {
-      "category": "מסי",
-      "source": "חדשות מסי",
-      "title": "מעל 4 מיליארד דולר: סקר ההימורים קבע מי המנצחת של המונדיאל",
-      "summary": "מעל 4 מיליארד דולר: סקר ההימורים קבע מי המנצחת של המונדיאל &nbsp;&nbsp; ice (אייס)",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNdzBVMHZJLTUtUnJwSncyQXcyeDFDZldnbTFrd01rUzZtWVV3a0wwQXo2TE5Idy12Y2ZDa3YzSGF5UTdHTXR6X0pjUDRGU0ZEU3Z4LXBhYWMwTGJGNkIw?oc=5",
-      "image": "",
-      "publishedAt": "Sun, 19 Jul 2026 08:41:02 GMT"
-    },
-    {
-      "category": "מסי",
-      "source": "חדשות מסי",
-      "title": "בארגנטינה המומים ומסבירים את סוד הקסם של ליאונל מסי",
-      "summary": "בארגנטינה המומים ומסבירים את סוד הקסם של ליאונל מסי &nbsp;&nbsp; וואלה ספורט",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9lOUJHLU1HcElqSWQybXk0MzB2Ni0zeHJXUGoyVnJZWlZkVnYwaVJnWjZkeHJwYXRaRVAtM0YxQkNucGZPS1V4VEVxSVhPTDl6?oc=5",
-      "image": "",
-      "publishedAt": "Sat, 18 Jul 2026 04:55:00 GMT"
-    },
-    {
-      "category": "מסי",
-      "source": "חדשות מסי",
-      "title": "דונלד טראמפ: \"ההימור שלי לגמר? כל כך קשה ללכת נגד מסי\"",
-      "summary": "דונלד טראמפ: \"ההימור שלי לגמר? כל כך קשה ללכת נגד מסי\" &nbsp;&nbsp; וואלה ספורט",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB2ekRneU5HdDBnZ3V2ZW9UOHZmZTdxQWZxa0dFY08zWko3NWdmMWpCRERHZzRtYUFqVEs5VnVjMnJVWkczdXRxdDJFdUlwUmp4?oc=5",
-      "image": "",
-      "publishedAt": "Sun, 19 Jul 2026 17:35:00 GMT"
-    },
-    {
-      "category": "דני אבדיה",
-      "source": "חדשות דני אבדיה",
-      "title": "\"לפורטלנד אסור לבצע את הטעות הזו עם דני אבדיה העונה\"",
-      "summary": "\"לפורטלנד אסור לבצע את הטעות הזו עם דני אבדיה העונה\" &nbsp;&nbsp; וואלה ספורט",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5EYVVoaUZSaVFWSml1T2tQVFJKd3N6ZlZfblVscWxqUUItZkhVZzBkX05wUDljdWYzeGdicmFZalFJZVdpa2NhM2dDRlE1bXVl?oc=5",
-      "image": "",
-      "publishedAt": "Sun, 19 Jul 2026 21:11:00 GMT"
-    },
-    {
-      "category": "דני אבדיה",
-      "source": "חדשות דני אבדיה",
-      "title": "ידע לפני כשנה: התחזית המדהימה של דני אבדיה לגבי גמר המונדיאל",
-      "summary": "ידע לפני כשנה: התחזית המדהימה של דני אבדיה לגבי גמר המונדיאל &nbsp;&nbsp; ספורט 1",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FYnEzT0dCTXhuVGtwMnR6dVVFRUZVTHpvdFhWNndwVTJKd3NSaVZKeldGWWhjaEJFQVROSENPX3VwUUFEY2I2ZHBSa1JrYVBnMHFXVExTMXRnbHV2QjlxUWpCbG1ZVGkz?oc=5",
-      "image": "",
-      "publishedAt": "Sun, 19 Jul 2026 20:05:38 GMT"
-    },
-    {
-      "category": "דני אבדיה",
-      "source": "חדשות דני אבדיה",
-      "title": "לפני 10 חודשים: דני אבדיה ניחש את המשתתפות בגמר המונדיאל",
-      "summary": "לפני 10 חודשים: דני אבדיה ניחש את המשתתפות בגמר המונדיאל &nbsp;&nbsp; היום",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01ZmxaZFpoWlVPb2FmcE54RzhIQXdYazVLN2tZcFFOcjhTWkR5WUphejdZZDU4YXFIZDRadTAzVVlMaDFFTV9yZHFiS25Ha2tmclRnYmRManlCQzRZU2l3RXZvbHBYeUVyeGZsX0RIWnhMYkRwWWlWMdIBgAFBVV95cUxOZG5UVkFPQ3E4dDZDMGoycW5Oa0JMN1F1R01Dc3g3OXFkV3FpRTNabHpzTDF4Z1ZrdUFrWkVOUW1LSDFyWHJieW9nOEY5dmRyNjhjQ0VVaDNZLUFqeVF6aERXOUxHZThTM01PYTljMzBfaXpWcEhDSUVac2ZEVDl3bw?oc=5",
-      "image": "",
-      "publishedAt": "Sun, 19 Jul 2026 18:28:38 GMT"
-    },
-    {
-      "category": "דני אבדיה",
-      "source": "חדשות דני אבדיה",
-      "title": "\"הקיץ של פורטלנד עלול להכשיל את אבדיה\"",
-      "summary": "\"הקיץ של פורטלנד עלול להכשיל את אבדיה\" &nbsp;&nbsp; Sport5",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tMmJQQlFuRDVkamU0akNfWXNCbFUtd0x5RVFCVlFCTmxzVTJNTDU0TjVqN2tFNlNKXzc5bC1PUkdVellvRTFINWZTNV9KSUVhMEJwdjFOWTFXTnI4aU5RcTFsX2xKODM3TDFhbFItQ2ZMdw?oc=5",
-      "image": "",
-      "publishedAt": "Sun, 19 Jul 2026 15:41:33 GMT"
-    },
-    {
-      "category": "דני אבדיה",
-      "source": "חדשות דני אבדיה",
-      "title": "דני אבדיה משתלט על המסכים: ואיך הגיב ים מדר למהלך? | צפו:",
-      "summary": "דני אבדיה משתלט על המסכים: ואיך הגיב ים מדר למהלך? | צפו: &nbsp;&nbsp; ice (אייס)",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vb0xCUUhkWjAtYUVaWkxIdkVZOWNPT0NTam05UmtOUVhoS1F1T0s4NTk1ZTJ2VVkwSURJVnNwOS1WTFlxbWU1azVhblVPV1ZyaWp1QVhFVzBvLUFqM21qOU91NmFTaHJtU2k5Z2RUemMwUQ?oc=5",
-      "image": "",
-      "publishedAt": "Sun, 19 Jul 2026 18:00:37 GMT"
-    },
-    {
-      "category": "דני אבדיה",
-      "source": "חדשות דני אבדיה",
-      "title": "\"פורטלנד מהקבוצות הכי 'לא הגיוניות' ב-NBA, אין גיבוי לדני אבדיה\"",
-      "summary": "\"פורטלנד מהקבוצות הכי 'לא הגיוניות' ב-NBA, אין גיבוי לדני אבדיה\" &nbsp;&nbsp; היום",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0SHBPLUVwTFBTZzhnZUYwSXY0OHlMdmtOV0VyVVhDRlpzeG9aYWVpdGU1dW9YdXJGUVBBZFJCS3JpTUlxNmI3T0h2OHl0OUJmcFFjbGJ2c09qUzlSNE9OMkV4UVJsdmMzWHp0V015cGZBU3hXX3NMdtIBgAFBVV95cUxOU0JGR3FxS2N3TUVXRC1JNEcwbHJKUDVWMktSUDRXMDdKM3A4NHVpcFVHcDg4eEUwZ3FTam1wMExGWGFnSERFQkdLeTNoMkxEajFRRDBEV1p6X0RaZU83dERzV3dMNHlMNEZWd0Z1V1h4aU9kdHhUTmxYZERmR3lJcg?oc=5",
-      "image": "",
-      "publishedAt": "Sun, 19 Jul 2026 09:41:43 GMT"
-    },
-    {
-      "category": "ארלינג האלנד",
-      "source": "חדשות ארלינג האלנד",
-      "title": "ארלינג האלנד, תיקי היוקרה והרקון שכבש את המונדיאל",
-      "summary": "ארלינג האלנד, תיקי היוקרה והרקון שכבש את המונדיאל &nbsp;&nbsp; ביזפורטל",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85MEotMm5GWmYxNnpMeFlsT25JSi12YzBId1dzRkJ1bEFlRHhyZGV0ZXVzN3FKMUNVMTM0TFgwcFR0VTZJZldEWTl6OHFEVWY1aWNsTC1LMlBTUTZTZVFva19ENXhJUQ?oc=5",
-      "image": "",
-      "publishedAt": "Sun, 19 Jul 2026 12:13:00 GMT"
-    },
-    {
-      "category": "ארלינג האלנד",
-      "source": "חדשות ארלינג האלנד",
-      "title": "ארלינג האלנד לא לבד: אחותו גנבה את ההצגה במונדיאל",
-      "summary": "ארלינג האלנד לא לבד: אחותו גנבה את ההצגה במונדיאל &nbsp;&nbsp; היום",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iNXdzcVB0VHdZaGtHel9CV0RHN2QtTjNobENYbTlDNVBFa0xVNEtwcHZCRi1tSVRlTDRMUGpLWjR3TGRNUkJhOW1ELWpfcWJQQzRRU2NEbVllRlJDbDJpY0Rib1NWc2I3UTBydEpxTC1rNzjSAXtBVV95cUxNbnNIOWFtMnQ4dFZlNlBSaDBHSkpxaUpyMWViM0l2clBMZzhwb0dKTDd4Tk00VWlOYWtPUE9nWUlEQUFGelpkdEpjLVNFS1h3bGxsTFNva3F5Uk1KNUFaTjg2MVpZQ1dheXM4STBaRDlyR2Vvb3RjZlUwMUk?oc=5",
-      "image": "",
-      "publishedAt": "Fri, 03 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "category": "ארלינג האלנד",
-      "source": "חדשות ארלינג האלנד",
-      "title": "מיטב הביצועים של ארלינג האלנד נגד ברזיל",
-      "summary": "מיטב הביצועים של ארלינג האלנד נגד ברזיל &nbsp;&nbsp; כאן 11",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmZVFfQUtDR0VQRFgwRkVOaEFlWWF1UkhfNW1WeW9HTmF6cVhBYncyX2lGaEI5b2k0YzFNeWlYT0M3UGx3ME5ocURkZGtuVHVZNHF5UERRS2ZfMDM4VUhSYXByN3lyYnIxWGhWaDlSYzgtZw?oc=5",
-      "image": "",
-      "publishedAt": "Sun, 05 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "category": "ארלינג האלנד",
-      "source": "חדשות ארלינג האלנד",
-      "title": "אגדת דשא: ארלינג האלנד הוא נסיכת האינטרנט החדשה",
-      "summary": "אגדת דשא: ארלינג האלנד הוא נסיכת האינטרנט החדשה &nbsp;&nbsp; זמן ישראל",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1lM3pKOFhsYWUtYS1sTUoyMUdKem91aF9raDdYb04wSzhBSU9JcTN0anE1c0lwRGRXWWd3eEdDT3dJQVQ0?oc=5",
-      "image": "",
-      "publishedAt": "Sat, 11 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "category": "ארלינג האלנד",
-      "source": "חדשות ארלינג האלנד",
-      "title": "הוויקינג שרוצה לחנך ילדים לקרוא: ארלינג האלנד הוא כדורגלן מסוג אחר",
-      "summary": "הוויקינג שרוצה לחנך ילדים לקרוא: ארלינג האלנד הוא כדורגלן מסוג אחר &nbsp;&nbsp; גלובס",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrSUhQRmd0TEc2WmFyZFNCb3BIVzUxYktSMnVPUTJMeENJVmtCelJuaEZ3UVU0S0JLLUl6MDc4dkQtamNmSFlLM2dpLTRfZkQ1bHByVThfeFFOZkJRR1lQRE1qcTVuUVY4?oc=5",
-      "image": "",
-      "publishedAt": "Sat, 11 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "category": "ארלינג האלנד",
-      "source": "חדשות ארלינג האלנד",
-      "title": "מונדיאל 2026 בגוגל: השחקנים, הרגעים והשאלות הכי מחופשים בישראל",
-      "summary": "מונדיאל 2026 בגוגל: השחקנים, הרגעים והשאלות הכי מחופשים בישראל &nbsp;&nbsp; i24NEWS",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxMkRtRmtMelhzWDc4YXFRYkJqQThhZEEya3JLb1FlSDdjTlZKa1AxQ1RLUkRzeC1Vcl93dmhJQXk5alJSYWlWUHNqVHVVeWQwcEktdEdqdzllQWFTVUJiOWgyWjJQN2dDNzZialI5UlRhN1BHc1E?oc=5",
-      "image": "",
-      "publishedAt": "Sun, 19 Jul 2026 08:30:50 GMT"
-    },
-    {
-      "category": "רונאלדיניו",
-      "source": "חדשות רונאלדיניו",
-      "title": "רונאלדו ורונאלדיניו עשו הופעה מפתיעה בגמר.",
-      "summary": "רונאלדו ורונאלדיניו עשו הופעה מפתיעה בגמר. &nbsp;&nbsp; Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUk5sTnBuTmR6LWRyNURJQjVkS3NsWkRDZVhKQXA1OFBPTjhhLVFoeDNiNFh4X3kxQXNfQlhuYWk4N19qQ2xxUUNMUTc1MWI3RWE4VC1VVTFVdUFmaWRlRHo2QnQ0eVpaUFY5VW5jSmNEaUdHWlRKZ2wzSG1nWFNNc2RoYnZqdVFTNk1xSWxLenJJUQ?oc=5",
-      "image": "",
-      "publishedAt": "Sun, 19 Jul 2026 21:48:41 GMT"
-    },
-    {
-      "category": "מסי",
-      "source": "חדשות מסי",
-      "title": "ספרד אלופת העולם אחרי ניצחון על מסי וארגנטינה 0:1 בהארכה בגמר מונדיאל 2026",
-      "summary": "ספרד אלופת העולם אחרי ניצחון על מסי וארגנטינה 0:1 בהארכה בגמר מונדיאל 2026 &nbsp;&nbsp; הארץ",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVXh4LVl4dC1yM0VET0NLNzhVSlNIb3RJcG5IS3hyRWRtXzhUSTNaMW81MncxUnNnVUZQNjJ4VFY1THJ2Q3FVZnhUWFd4QnZHaVgzUjBDVG5PdkF4Z2wyMklOQkYtV0J5NWtkVXVscEo3QnlaOEY1alFiOU1VbHIzazNvMFJjeUdCVVZVREpnbHc2cndfaXhFYU81c3Z5Zk9FeXNZZ1g1OC0?oc=5",
-      "image": "",
-      "publishedAt": "Sun, 19 Jul 2026 19:00:00 GMT"
-    },
-    {
-      "category": "מסי",
-      "source": "חדשות מסי",
-      "title": "מסי בכה, סקאלוני: \"יש עצב, ולצדו הכרת תודה נצחית לשחקנים האלה\"",
-      "summary": "מסי בכה, סקאלוני: \"יש עצב, ולצדו הכרת תודה נצחית לשחקנים האלה\" &nbsp;&nbsp; וואלה ספורט",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BeHNRak5xYk1XT0RNUUJQYlFYdm9Idzc4bVdzSVRkQWdQb2tsdG9rVE11Z0NPNGdSaXo5d1FTWDRGVWZFd0J4ckZRUU9qazhC?oc=5",
-      "image": "",
-      "publishedAt": "Sun, 19 Jul 2026 22:39:00 GMT"
-    },
-    {
-      "category": "מסי",
-      "source": "חדשות מסי",
-      "title": "יותר מארגנטינה עצמה? המקום שבו מסי הפך לאליל",
-      "summary": "יותר מארגנטינה עצמה? המקום שבו מסי הפך לאליל &nbsp;&nbsp; ספורט 1",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SaUlTbHVpSFlpYzFldFdySWVqY3pZZVRzbjhqZzlRRW9EeEVMQ01OQlhKY3VBVDVCYmRtdGJfSEhWcE51SEY5XzFWajhhS0dKN2pnWFVPRDFBYzZENVdHZ080LVdKa1Rm?oc=5",
-      "image": "",
-      "publishedAt": "Sun, 19 Jul 2026 16:01:26 GMT"
-    },
-    {
-      "category": "מסי",
-      "source": "חדשות מסי",
-      "title": "ספרד זכתה במונדיאל 2026 אחרי 0:1 על ארגנטינה",
-      "summary": "ספרד זכתה במונדיאל 2026 אחרי 0:1 על ארגנטינה &nbsp;&nbsp; מקור ראשון",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tWlhlSGNYVFl5cGNreXRDVG44YXhfOVZjcEs4MEFQbm14RV9LakVBcjhINUQ1VWMxdEpFSl9pLWxyUm5nNnVvUVJEb1NRcTBRM2JyZ2RJVExDREJxN0ZxbzY5MWVwUjJDQmc?oc=5",
-      "image": "",
-      "publishedAt": "Mon, 20 Jul 2026 04:13:51 GMT"
-    },
-    {
-      "category": "מסי",
-      "source": "חדשות מסי",
-      "title": "ימאל חיבק את מסי אחרי הערב המסויט: \"המטרה הייתה לנטרל אותו\"",
-      "summary": "ימאל חיבק את מסי אחרי הערב המסויט: \"המטרה הייתה לנטרל אותו\" &nbsp;&nbsp; וואלה ספורט",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5LOE1jQjIxWUM5b0RWNDlWdGN6WktRdDlVbkhKNjhJUXNZbkstMENOSDRiMkpSdTFEWUJYOWlRS0wyd1RsaHMzNnpUSnJ1TUJw?oc=5",
-      "image": "",
-      "publishedAt": "Mon, 20 Jul 2026 03:54:00 GMT"
-    },
-    {
-      "category": "מסי",
-      "source": "חדשות מסי",
-      "title": "ארגנטינה קופחה? כוכב העבר בטוח: שחקן נבחרת ספרד היה צריך להיות מורחק",
-      "summary": "ארגנטינה קופחה? כוכב העבר בטוח: שחקן נבחרת ספרד היה צריך להיות מורחק &nbsp;&nbsp; ספורט 1",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1heWhRb0dLNWdxSUdMQjRUVDYtN1pmUktlR2p0VVpvcjlmRWgtY3gxNUltOEZubEVnZzFzajFYTHZEVlJjUkJFYVRJVXFCWWdzV0hURloyTDFxSUtpVTVqQ2tQVzhkeXpu?oc=5",
-      "image": "",
-      "publishedAt": "Mon, 20 Jul 2026 03:25:00 GMT"
-    },
-    {
-      "category": "מסי",
-      "source": "חדשות מסי",
-      "title": "מסי מוכיח מי האלופה רגע לפני הקרב מול יאמל: \"קדימה ארגנטינה\"",
-      "summary": "מסי מוכיח מי האלופה רגע לפני הקרב מול יאמל: \"קדימה ארגנטינה\" &nbsp;&nbsp; ice (אייס)",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wTDU3VDRSYXVCTC0zSkt0QV9TQlZuc3ZQNEtDeF9IdVRoRHB4a096QkVvOVVBYURrdnhISWk3WE82U1hXTlFHMWRmUTR5QmJzUVBMWjNiVXJCNW5JODhHYXM4UQ?oc=5",
-      "image": "",
-      "publishedAt": "Sun, 19 Jul 2026 16:40:00 GMT"
-    },
-    {
-      "category": "מסי",
-      "source": "חדשות מסי",
-      "title": "פראן טורס, כובש שער הניצחון: \"זה הגול של כל הספרדים, לא שלי\"",
-      "summary": "פראן טורס, כובש שער הניצחון: \"זה הגול של כל הספרדים, לא שלי\" &nbsp;&nbsp; הארץ",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTWI4TTVNNFhnTDhKb01kR2czc1lYdzBJZUUzTTVRdGNNUTRyR0x5UENnM0NJQXYxNmNpd3JjSDUtNm5KT0N4eFFwV0h1VlBlYVNvR3JiV21fRWVieHdfX1dReDB1X0hKYWh5cUNwdEJiY2dabFYxaUNIWjRHWFVwX2RWc194dzRuNzB3dFlwWkRncTVrYWZQUnR4OElqWkNNOWc?oc=5",
-      "image": "",
-      "publishedAt": "Sun, 19 Jul 2026 22:50:00 GMT"
-    },
-    {
-      "category": "ארלינג האלנד",
-      "source": "חדשות ארלינג האלנד",
-      "title": "אמבאפה, מסי, הולאנד או קיין: מי החלוץ הכי טוב במונדיאל",
-      "summary": "אמבאפה, מסי, הולאנד או קיין: מי החלוץ הכי טוב במונדיאל &nbsp;&nbsp; ynet.co.il",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JN2NBd2lPNjhDQjVtODNraUJQZEhjLXRxcWp2OS1Zc0g4WmxzLV9BZGs4dVFfWEozRXFCZUZDcXQ4b0h4LVBiSkxaeU5rQTNWVFdCYmlXRjRBWmlXUTlRQXNIZlRDY19ZVmp1UQ?oc=5",
-      "image": "",
-      "publishedAt": "Thu, 09 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "category": "טכנולוגיה",
-      "source": "גיקטיים",
-      "title": "המדינה בהחלטה דרמטית: עוצרת הקמת דאטה-סנטרים חדשים",
-      "summary": "רשות החשמל הודיעה לפני זמן קצר (ב') על החלטה דרמטית שצפויה להשפיע על תעשיית הטכנולוגיה המקומית: המדינה עוצרת אישורים לחיבור חוות שרתים חדשות לרשת החשמל למשך 140 ימים. הסיבה למהלך היא עומס חסר תקדים של בקשות חיבור, המאיים על יציבות משק החשמל הישראלי. פי 3 מהצריכה הממוצעת על פי רשות החשמל, בתוך כחודשי",
-      "url": "https://www.geektime.co.il/israel-freezes-new-data-centers/",
-      "image": "",
-      "publishedAt": "Mon, 20 Jul 2026 07:11:50 +0000"
-    },
-    {
-      "category": "מסי",
-      "source": "חדשות מסי",
-      "title": "מסי נשדד? הבחירה ברודרי לשחקן המצטיין הציתה סערה: \"פיפ\"א מאבדת אמינות\"",
-      "summary": "מסי נשדד? הבחירה ברודרי לשחקן המצטיין הציתה סערה: \"פיפ\"א מאבדת אמינות\" &nbsp;&nbsp; ספורט 1",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xdWV2SVhoT3NhaXRMMmtSeDA2WVY3YXNoU2hITnZoRVFOYWNYbmxITnJPRlc4SG85Y09pYTBwelFNZVp1dzk2Z0p5R3ZRT1BWdm1OWmphazRkU1dDbFUxVS1zV0ZxNHFG?oc=5",
-      "image": "",
-      "publishedAt": "Mon, 20 Jul 2026 07:32:35 GMT"
-    },
-    {
-      "category": "ארלינג האלנד",
-      "source": "חדשות ארלינג האלנד",
-      "title": "אנגליה כבר מכינה תירוצים, ברזיל מקווה לשרוד נגד ארלינג הולאנד",
-      "summary": "אנגליה כבר מכינה תירוצים, ברזיל מקווה לשרוד נגד ארלינג הולאנד &nbsp;&nbsp; הארץ",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQblFQczN4SlFFd29mSUppTjhUaHlWb3ZDUFpIdGxicFBkZ0RCTzlmOXd6N2JxWVV4QzNaY3cwMnkzQjB1bmRrU3NaT2xxWFhzN1p5WU9KQ1pnUkdzVWRnMno0aG1NdmpUSk1VeWx6VU50aWJCWjJWWndIYlRGTm5lOHVqWEpsX1FRZ0ZaVHpsVEg4MVRFQ2V5SFhCQWNaTDJyRXE1akNkTTUtaXJpb0E?oc=5",
-      "image": "",
-      "publishedAt": "Sun, 05 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "category": "טכנולוגיה",
-      "source": "גיקטיים",
-      "title": "איך מונעים מהאייג'נט לשרוף לכם את הכסף?",
-      "summary": "בשלב הזה סביר להניח שכולכם כבר משתמשים באייג'נטים, אבל בכנס Geektime Code 2026 שנערך היום (ב') בגני התערוכה בתל אביב עם למעלה מ-1,500 מפתחות ומפתחים, לשרה גרניט מ-Intel הייתה שאלה פשוטה: אתם באמת יודעים מה האייג'נטים שלכם עושים בשתיים בלילה? כי זה עלול לעלות לכם ביוקר. הטעות שעולה במיליוני טוקנים גר",
-      "url": "https://www.geektime.co.il/human-in-the-loop-code-2026/",
-      "image": "",
-      "publishedAt": "Mon, 20 Jul 2026 10:18:53 +0000"
-    },
-    {
-      "category": "טכנולוגיה",
-      "source": "גיקטיים",
-      "title": "\"במקום שבו ה-AI פוגש סייבר יש הזדמנויות מטורפות\"",
-      "summary": "כנס Geektime Code 2026 נפתח הבוקר (ב') עם הרצאת פתיחה של עמירם שחר, מייסד ומנכ\"ל היוניקורן הישראלי Upwind Security. שחר עלה לבמה ודיבר על אחד הנושאים החמים של התקופה – הסיכונים והיתרונות של כלי AI בעולמות הסייבר. \"ה-AI משנה את חוקי הפיזיקה\" \"ה-AI ממש שינה את חוקי הפיזיקה\", הכריז שחר על הבמה, כשהוא מ",
-      "url": "https://www.geektime.co.il/geektime-code-2026-opening-keynote/",
-      "image": "",
-      "publishedAt": "Mon, 20 Jul 2026 09:32:17 +0000"
-    },
-    {
-      "category": "טכנולוגיה",
-      "source": "גיקטיים",
-      "title": "התפוצצה עסקת האקזיט של esh של ניר צוק",
-      "summary": "מה קורה בבנק הדיגיטלי שהבטיח לחלוק עם הלקוחות כחצי מההכנסות שלו? אחרי שהבטיח השקה \"בתחילת 2026\", וכבר הספיק להודיע על אקזיט – כעת מודיעה הרוכשת כי היא מוותרת על העסקה. מ-400 מיליון שקל ל\"לא משנה\" נזכיר כי לקראת סוף שנת 2025 נחשף לראשונה esh, הבנק הדיגיטלי החדש שבין מייסדיו נמצא היזם ניר צוק מ-Palo A",
-      "url": "https://www.geektime.co.il/bank-esh-acquisition-failed/",
-      "image": "",
-      "publishedAt": "Mon, 20 Jul 2026 07:45:07 +0000"
-    },
-    {
-      "category": "מסי",
-      "source": "חדשות מסי",
-      "title": "אפילו ליאונל מסי לא הצליח לשבור את הקללה ההיסטורית",
-      "summary": "אפילו ליאונל מסי לא הצליח לשבור את הקללה ההיסטורית &nbsp;&nbsp; וואלה ספורט",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xWXhfMFBiTWdvWDh5ZDNiRm83d3RFcnVmd2wxdzExOUlfaXlFLW1TS09EVUZCTE5zVGExMnB6SEs5UW4wSGtLb2wteVd2a0t2?oc=5",
-      "image": "",
-      "publishedAt": "Mon, 20 Jul 2026 09:10:00 GMT"
-    },
-    {
-      "category": "טכנולוגיה",
-      "source": "גיקטיים",
-      "title": "ה-GPS קפץ לביירות? הסטארטאפ שמנווט את צה\"ל גייס עכשיו 15 מיליון דולר",
-      "summary": "אם יש משהו שלמדנו בשנים האחרונות זה שלא תמיד אפשר לסמוך על טכנולוגיות איתור ומיקום כמו GPS (או ליתר דיוק, GNASS), ואזורי לחימה מתאפיינים לא פעם בניתוק מוחלט מרשתות תקשורת רגילות ובשיבושי GPS. במצבים כאלו, הלוחמים בשטח נדרשים לדעת היכן הם ממוקמים, לזהות מטרות ולתקשר זה עם זה, גם כאשר המערכות המוכרות ",
-      "url": "https://www.geektime.co.il/asio-raises-15m-tactical-navigation/",
-      "image": "",
-      "publishedAt": "Mon, 20 Jul 2026 13:00:31 +0000"
-    },
-    {
-      "category": "טכנולוגיה",
-      "source": "גיקטיים",
-      "title": "מה זה KV Cache ואיך הוא שובר את חומת הזיכרון של סוכני AI?",
-      "summary": "כשאנחנו מפעילים סוכני AI, שיחות בעלות קונטקסט רחב נתקלות בחומת זיכרון – מצב שבו זיכרון ה-GPU הופך לצוואר בקבוק ומגביל את נפח החישוב. זה נכון במיוחד בשיחות שנמשכות שבוע, לדוגמה, במהלכן אנחנו עוזבים וחוזרים ומערבבים פרומפטים בנושאים אחרים. אז איך אפשר לשפר את יכולת ניצול הזיכרון והאחסון של מודלי שפה, ",
-      "url": "https://www.geektime.co.il/geektime-code-2026-kv-cache/",
-      "image": "",
-      "publishedAt": "Mon, 20 Jul 2026 11:25:30 +0000"
-    },
-    {
-      "category": "טכנולוגיה",
-      "source": "גיקטיים",
-      "title": "עומר אדם ואסף רפפורט משקיעים בסטארטאפ שנחשף היום עם 100 מיליון דולר גיוסים",
-      "summary": "לכאורה, אין שום דבר משותף לאסף רפפורט, לעומר אדם ולקרן ההון סיכון המוכרת בעולם. אבל זה רק לכאורה, כי היום מתברר שכולם השקיעו בסטארטאפ הישראלי Neo שהוקם רק בשנה שעברה, וכבר נחשף עם גיוסים של 100 מיליון דולר. לוודא שהסוכנים שלכם לא הופכים לסוכנים כפולים המערכת של Neo היא מערכת לניהול האבטחה של כל סוכנ",
-      "url": "https://www.geektime.co.il/neo-comes-out-with-100m/",
-      "image": "",
-      "publishedAt": "Mon, 20 Jul 2026 11:00:45 +0000"
-    },
-    {
-      "category": "מסי",
-      "source": "חדשות מסי",
-      "title": "\"מסי סירב לעזור, מזל שרונצ'וק לא ידע\": הפוסט הנוקב של מעיין שרמן נגד כוכב הכדורגל -",
-      "summary": "\"מסי סירב לעזור, מזל שרונצ'וק לא ידע\": הפוסט הנוקב של מעיין שרמן נגד כוכב הכדורגל - &nbsp;&nbsp; באר שבע נט",
-      "url": "https://news.google.com/rss/articles/CBMi8wRBVV95cUxOUFhPa2NROWJfNUZVa0lHbllvV0hlV0R6Q2J3dUdGTVB5WWV4alNLTlhZa2FFRVRINDdka2tidWpMWm9Rd1FxaUZkZGFRelZoQkp0RUFXNko0OVhwRkk3Y2xiYVk4b3lqRmFNV1RVeGp6X1l6ZHkxaU5JWERxcHQ3M0VidGJnSG91aFVuN0EyRVNKaHl2enMyeTBSVkt6MFFkTDY4UDJ6U0lENWx4Q3hyQXRvMWR0TnVCQ0M2T2xrTDZQTWl0UFg4S0NweXpvbFZOVi1JWEJLX3lRLVZySVZ6T2gtVXpydkJWQkQxQnpNaVA4a0JqSXhob1p2Umc3LU9IQzQzY2RIRHVZa0J1OWVfTEhmSnIwNHhKNlR0c0FZNmQ4Wm05MXRtUzg2aDhJU0c2NnY1MXcxbWQ5Y2hhYXo4ZVV0WE9kYVZtb0NZVWhjbWhTU3BaQjljekxlTXcwbDl6aDJ6WjJ5Q1RWOWpLZjRYemxNQ0p3dXVGc3NKbDhOVWxTX1ZRcEY3TmxFY3VJV3ZNM25ITnp3aGN0NmpjVzA2UjNPUnZxejVvenh0ejFtMUNQMnV0THdaZVFBSjZqNjQxaTN4aml4TTJFYloyZXBFekZMRHZVZml2NEJNVTJiODRRbkJSS2E0SWdpVmNjbE4xOHNnWHJBSmQwakt2cHR6aFlqVzJVTWdIS0FWUzByZk9YOW9YT3ozVGRwd0lKOXhRczdqUU1qYjI0UDFLcFRTYjg2OGtkOGE5bjBaZC1FZi13SS1mb0ZUOFBjWkF6alRPVHlYbXBQRm1Ob1ZDUlllLXdlUU1LSlJYMnpKQmptSWxDS2c?oc=5",
-      "image": "",
-      "publishedAt": "Mon, 20 Jul 2026 11:45:39 GMT"
-    },
-    {
-      "category": "מסי",
-      "source": "חדשות מסי",
-      "title": "הצד הארגנטינאי: אין כבר מה להשוות את מסי לפלה, מראדונה ורונאלדו",
-      "summary": "הצד הארגנטינאי: אין כבר מה להשוות את מסי לפלה, מראדונה ורונאלדו &nbsp;&nbsp; ספורט 1",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaXFUV1BCaXI4YTlqWjRZcVRhRC1rMTJWOGlYY1VQVndlb0dHdGxhaDVKRWxPTTV4TjJOcy1wZkJRUWNFeGZYNmJHQzRBamtJUEhVeVJDM2NINHpNa3pQSTRjaDdIcGdBd1BFUkl6NjhmTEZPZ2M5VEFvendELTNpcFVMbzJ6VWZlcW9saEZlX3Zhc3dURjdaOXdEZlNtdUIwd3h2U01pajVIRUlnSG51bjJFNlZOakhadm1XbXNLbW8ySVVBWEtDZ21KRElnZWlrNEE?oc=5",
-      "image": "",
-      "publishedAt": "Mon, 20 Jul 2026 11:10:00 GMT"
-    },
-    {
-      "category": "מסי",
-      "source": "חדשות מסי",
-      "title": "לא מזהים אותו? התג המפתיע של מסי",
-      "summary": "לא מזהים אותו? התג המפתיע של מסי &nbsp;&nbsp; Sport5",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wRTR5N0psWFNOTDhOS3kxem1Mb3BDQXVMNFliRVlQQ1gwdTVWMEhSZGRnNXAwcl8wQUtEbFR3MlpwaXBjUUhTejk0bGM3Z1k3NjhGZXJYYTNhY1lhODlRQjdiUmVVelVpdmltcFNveTA?oc=5",
-      "image": "",
-      "publishedAt": "Sun, 19 Jul 2026 18:20:25 GMT"
-    },
-    {
-      "category": "טכנולוגיה",
-      "source": "גיקטיים",
-      "title": "לא באתם היום לכנס Geektime Code? חבל, תראו מה פספסתם",
-      "summary": "כ-1,500 מפתחות ומפתחים הגיעו היום (ב') לכנס Geektime Code, שהתקיים באקספו תל אביב עם עשרות סשנים מקצועיים, רעיונות מקוריים, חיבורים מעניינים ואווירה טובה. כמו בכל שנה, האג'נדה הייתה מורכבת מהרצאות עומק שצוללות ישר לתכלס, מציגות Use-cases אמיתיים ומעניקות כלים פרקטיים וחשיבה מחדש שאפשר ליישם מיד. את ",
-      "url": "https://www.geektime.co.il/geektime-code-2026-recap/",
-      "image": "",
-      "publishedAt": "Mon, 20 Jul 2026 15:00:07 +0000"
-    },
-    {
-      "category": "טכנולוגיה",
-      "source": "גיקטיים",
-      "title": "הסוס הטרויאני של ה-AI: כשהקוד המושלם של המודל מרסק את הפרודקשן",
-      "summary": "חשבתם ש-Codex ו-Claude Code יעשו לכם את העבודה בזמן שאתם שותים לאטה על חלב שיבולת שועל? תחשבו שוב. בהרצאה מרתקת בכנס Geektime Code, הסבירה אור ברוקמן מ-Google Cloud איך ה-LLMs הפכו לנשק עבור האקרים, למה עובדות על חתולים שוברות למודל את הלוגיקה, ואיך מפתחים הפכו מ\"כותבי קוד\" ל\"חותמי לוגיקה\". ספוילר: ",
-      "url": "https://www.geektime.co.il/trojan-code-the-cyber-risks-of-ai-generated-code/",
-      "image": "",
-      "publishedAt": "Mon, 20 Jul 2026 14:40:56 +0000"
-    },
-    {
-      "category": "טכנולוגיה",
-      "source": "גיקטיים",
-      "title": "כך פיתחנו כלי שהופך 180 מיליון שורות קוד למשהו שאפשר לעבוד איתו",
-      "summary": "תארו לכם שאתם עובדים בארגון שמתחזק קוד-בייס מפלצתי, בן כמעט שלושה עשורים, עם יותר מ-180 מיליון שורות קוד בשפות שונות. איך לעזאזל מתחילים לעבוד עם משהו כזה או הופכים אותו לשמיש לכולם היום? יש לנו תחושה שכבר ניחשתם. המפלצת הקריטית שלא ברור מה קורה בתוכה בהרצאה שלו בכנס Geektime Code 2026 חשף עופרי וול",
-      "url": "https://www.geektime.co.il/reverse-engineering-180m-lines-of-code/",
-      "image": "",
-      "publishedAt": "Mon, 20 Jul 2026 14:30:03 +0000"
-    },
-    {
-      "category": "דני אבדיה",
-      "source": "חדשות דני אבדיה",
-      "title": "דיווח דרמטי: דני אבדיה ופורטלנד עשויים לעבור לאוקלהומה",
-      "summary": "דיווח דרמטי: דני אבדיה ופורטלנד עשויים לעבור לאוקלהומה &nbsp;&nbsp; היום",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15OXdDbG9oQUNXdldVNXV3TjFURW00cnUxR0tOdGdHRXBONERzZHNjdU1PWkZrZF94akM2VVhmOFBEVzE1WjZFT2tNbUN2QWdnbXBWVmQxa1pXbmptdHJlTXlHekFkY05JMWl6Mnh6OUg3YjFMc2xhWNIBgAFBVV95cUxNcV80YmhNNzFiMmQ2dktYX0gyWWhpdFRmb05oa2FhQzBucUh0OGdHOG9oNnlhQktzOHNLTFlQZzFfRHFjdkVWZTZ2cmNNVlU5MWtTR0I2cDk4UG5PMy1hTHBjME9rTVVkZ0FDbjBRWE5kbkNHZGNyZ2k3NTU5SGhHNQ?oc=5",
-      "image": "",
-      "publishedAt": "Mon, 20 Jul 2026 14:09:54 GMT"
-    },
-    {
-      "category": "טכנולוגיה",
-      "source": "גיקטיים",
-      "title": "טריילר חדש ל\"הנוקמים\" עם רוברט דאוני ג'וניור כדוקטור דום",
-      "summary": "מארוול שחררה היום (ב') את הטריילר לסרט \"הנוקמים: עלייתו של ד\"ר דום\" (Avengers: Doomsday), שמספק לנו הצצה ראשונה לרוברט דאוני ג'וניור בתפקיד הנבל דוקטור דום. הסרט יכלול דמויות רבות מיקומים שונים של מארוול כולל תור, לוקי, ארבעת המופלאים וצוות האקס-מן, קפטן אמריקה החדש, חייל החורף, אנטמן, שאנג צ’י ועוד",
-      "url": "https://www.geektime.co.il/avengers-doomsday-trailer-rdj-doom/",
-      "image": "",
-      "publishedAt": "Mon, 20 Jul 2026 16:20:31 +0000"
-    },
-    {
-      "category": "מסי",
-      "source": "חדשות מסי",
-      "title": "הפרק האחרון: תודה לך, ליאו מסי – נפרדים מהשחקן הגדול ביותר בהיסטוריה",
-      "summary": "הפרק האחרון: תודה לך, ליאו מסי – נפרדים מהשחקן הגדול ביותר בהיסטוריה &nbsp;&nbsp; ספורט 1",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tRURVbGRaUjVJRlhhMUtySmxEdlNPMXFfY2xuX0RrTEhjTGZlMzdDSUViaFNlNjVjOWdYYUJlN1VQQ3pxSUJxMmdzMFV3dmRCNDFBNlpuaERvaG1KSEhnRUFBdFNCQkJC?oc=5",
-      "image": "",
-      "publishedAt": "Mon, 20 Jul 2026 17:02:20 GMT"
-    },
-    {
-      "category": "מסי",
-      "source": "חדשות מסי",
-      "title": "רמזו שליאו מסי יזכה? באתר כדור הזהב שלחו \"אזהרה\" והסעירו את ספרד",
-      "summary": "רמזו שליאו מסי יזכה? באתר כדור הזהב שלחו \"אזהרה\" והסעירו את ספרד &nbsp;&nbsp; ספורט 1",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vOHpyUXpkSmkyZkJJMnR5RFNQaEF5b19rTi10SDg2ZUFkckNqNm9qOEcxN2xYcWhFWVFnVWNCYXA1U254N0ZhMkFodS1ESHNrUjBJMmRSMjFYbGNzellnZmxiMk1uNjFY?oc=5",
-      "image": "",
-      "publishedAt": "Mon, 20 Jul 2026 16:39:47 GMT"
-    },
-    {
-      "category": "מסי",
-      "source": "חדשות מסי",
-      "title": "\"מסי סירב לעזור, מזל שרונצ'וק לא ידע\": הפוסט הנוקב של מעיין שרמן נגד כוכב הכדורגל -",
-      "summary": "\"מסי סירב לעזור, מזל שרונצ'וק לא ידע\": הפוסט הנוקב של מעיין שרמן נגד כוכב הכדורגל - &nbsp;&nbsp; באר שבע נט",
-      "url": "https://news.google.com/rss/articles/CBMi_ARBVV95cUxORU9ZS0ROcC11eS1tWE5jdlhzTnNQM0RhU0pBajZzSXlUXzFWbnAxcXRYUTcxZGlCNk93RzlIeUZyZFhRaVVmSllubVd0MVZVN21SVzhleTNROHFGVDgyYVNDeVJHZWRVSnozdjBSLVFnM2ZldkxrTnBlNTlCdHZuYVNvdUNLS0t2dVRRY0tOUE5URHNReGpweFBVOHd2MXNTUG4tY2lHZHpsUXFMblBsQXhXdGdySU9rMXBjWk9UZklhM1FaMGE5c3dLWG53SkVwbXdnRVl0TXh6QktSU05oczg4TDNYamw0OTNBX3EtemR0MkpnNWd6S0c2Q3BDd1lHYlVITFhIaWFWRmNFUU8yVWk4YngxUEtZemloT3ZWdnVCcXNKVkIyd3p3cGNDTVJfSHBKTXRzUXlhM2hZS1ZxQWlXS00wb0JKMVA4VFdTRG5laXpmZTk5bHROc0ZVaUUzOHFqVEZFVkVwaVFvV2ZMOEJxNkU5MU9xQm15UVRad0JOSlBxR2tJSmpDVFRjdjNHUXB6MXBDQl9MNW8yZWR5SGY0SlF1eXFJVVR5a21La3R0RTcyOF9uTDN6OUw2UEZ3ODZjbEd4YXpKbWpKSDJpaXA5blpTT2RCT0lxR0oyZEE3MlpldnpQaEUwQVl3MUJ2WjMwNVI3NF9KNWhOU3VBX1B3aXZZZlRSZ0xDVTFBUGRySGM0TDBWWUlSSTVfNWpXanlFVFdLMlVoS2JCTTB4dWlmUzN6RllaSjZZRHdTZlhTTzBJUGw1MVBhaXR5Vm5ia3V5VjlSRDY0SzJZNGd3THN3OW5VcjZlQXdfVmdLSnAxVko5cm9GcENwNlY?oc=5",
-      "image": "",
-      "publishedAt": "Mon, 20 Jul 2026 11:53:54 GMT"
-    },
-    {
-      "category": "דני אבדיה",
-      "source": "חדשות דני אבדיה",
-      "title": "\"מדאיג\": עתיד הבלייזרס בפורטלנד בסכנה",
-      "summary": "\"מדאיג\": עתיד הבלייזרס בפורטלנד בסכנה &nbsp;&nbsp; Sport5",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mQ0pmMnBkVEpHRnVsYUMxREZsWmRNTGtIWFlxUGhhOTJfVlpkaHVJYmtmWmRKYUJiNUZWdEVpWXI2MDVaQ2YzZGNPM2o4ejNFaU84RzFkcnBCUzZ0LVVSbUk4bFdtT1JBN2JqYkpLaWpmQQ?oc=5",
-      "image": "",
-      "publishedAt": "Mon, 20 Jul 2026 16:04:31 GMT"
-    },
-    {
-      "category": "דני אבדיה",
-      "source": "חדשות דני אבדיה",
-      "title": "עתיד הטריילבלייזרס בסכנה: הקבוצה עשויה לעזוב את פורטלנד",
-      "summary": "עתיד הטריילבלייזרס בסכנה: הקבוצה עשויה לעזוב את פורטלנד &nbsp;&nbsp; ספורט 1",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93alRYZTlEeWlFTFB0aGdJMGVkNDB5akFCdmpwSjd4YTV6Q0F5cmNKMFJoT3JBWHlBM0o1Yi1vSWVzekVHTHc2RXlFd240bmpNNGFPa0tKWlhMcDFrbVI1TkhVVFBYXzgzTTBDZk9fU1NkTFU?oc=5",
-      "image": "",
-      "publishedAt": "Mon, 20 Jul 2026 16:21:18 GMT"
-    },
-    {
-      "category": "A.I",
-      "source": "Let's AI",
-      "title": "ג'נסן הואנג ביפן: איך ה-AI הפיזי הפך למרכז האסטרטגיה התעשייתית של טוקיו",
-      "summary": "",
-      "url": "https://letsai.co.il/nvidia-japan-physical-ai/",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "A.I",
-      "source": "Let's AI",
-      "title": "מיקרוסופט מלמדת את אנשי המכירות שלה לתקוף את Anthropic ו-OpenAI",
-      "summary": "",
-      "url": "https://letsai.co.il/microsoft-sales-anthropic-openai/",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "A.I",
-      "source": "Let's AI",
-      "title": "אתרים שנבנו על Lovable מושכים 600 מיליון ביקורים בחודש – יותר מהפלטפורמה עצמה",
-      "summary": "",
-      "url": "https://letsai.co.il/lovable-vibe-coding-scale/",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מסי",
-      "source": "חדשות מסי",
-      "title": "מסי שבר שתיקה: \"הכאב עצום, ייקח זמן לרפא את הפצע\"",
-      "summary": "מסי שבר שתיקה: \"הכאב עצום, ייקח זמן לרפא את הפצע\" &nbsp;&nbsp; וואלה ספורט",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1pS1BhMGtwekc5cFFfR19oR2lUZXdXTE9QSnJ1SHVXWm5sdUlwSzlJc1ZYcVkweVFFNW9wRTVfeUw5Y2dRZ2ItMTFwZGRZbW00?oc=5",
-      "image": "",
-      "publishedAt": "Mon, 20 Jul 2026 17:39:00 GMT"
-    },
-    {
-      "category": "מסי",
-      "source": "חדשות מסי",
-      "title": "\"זה כנראה סוף המסלול של מסי\"",
-      "summary": "\"זה כנראה סוף המסלול של מסי\" &nbsp;&nbsp; 103FM",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tYV8tWHdkdW1rVjdzOU9qeXE4NFlSWXV5NmJYT0xtZUFrREtEWHk1Q3VvRlJpZFlRcVBUeWJOQm5OcWw5R1VLZ0gwZ0xVODRFbWtXUlFWbGRTYWNPblZZR2ZRem9ILXdWMGtzUVBlaXZ4YWx2NUplcGlHZ1p4UXc?oc=5",
-      "image": "",
-      "publishedAt": "Mon, 20 Jul 2026 16:06:54 GMT"
-    },
-    {
-      "category": "מסי",
-      "source": "חדשות מסי",
-      "title": "לאחר ההפסד בגמר המונדיאל: מסי בתגובה ראשונה",
-      "summary": "לאחר ההפסד בגמר המונדיאל: מסי בתגובה ראשונה &nbsp;&nbsp; סרוגים",
-      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNRUV4RXg0OG9tZ1lhd0pZVHR0T2VzTnlVN1lSTjVKdzFTY1BkY3QtOTZibU8wVGZNX2o0YmZDNzZTblpKZWlwVndqTTFnVVp5SDgycThMMlRvblhxOF96d1RnemdwWkRGOEsyUzI3UnBHTGlLaUxLOFVLY1R0ZVA2RVoybEpvSlBfYmk4LWhiRlR3T3pRMnZINUY5S2lyZmRzdk0tQ281cjBIdUxqOHBHNHkwOVYyODVjOHRnMUR0ZHkxdllrZFE5a1dDWGJIS2hkZ01jNldibndNNHdUa0dMTnNhaVNkVlRCQ0gxa0p0ZkdkbmN2dWtVTmRWUVNqZE01LU90ek1yU3FFNXBKd3pfTG5idF9hT1g0YmV5NVI2dUs0VjU4eVd2aFE3SzloM1JORHFXVTBWeEZaUXZQc0YwamR3?oc=5",
-      "image": "",
-      "publishedAt": "Sun, 19 Jul 2026 07:00:00 GMT"
-    },
-    {
-      "category": "דני אבדיה",
-      "source": "חדשות דני אבדיה",
-      "title": "מפורטלנד ל-LA: מאטיס טייבול חתם בלייקרס",
-      "summary": "מפורטלנד ל-LA: מאטיס טייבול חתם בלייקרס &nbsp;&nbsp; Sport5",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nLVgyUnBoZVFzMlNNdm93cHpPNjYweW5NMVQ4UENnY08zSUpXekN2UkJNV01PNThFbDQwVE9QSW01SjMtWXpNcHRGV0hHdlRvUlBVNERtNnhoRUlXdGI5dlFVQlc4MWprZFBXUlBQNFlHdw?oc=5",
-      "image": "",
-      "publishedAt": "Mon, 20 Jul 2026 18:36:39 GMT"
-    },
-    {
-      "category": "דני אבדיה",
-      "source": "חדשות דני אבדיה",
-      "title": "דיווח: עתיד הבלייזרס בפורטלנד בסכנה על רקע משבר האולם",
-      "summary": "דיווח: עתיד הבלייזרס בפורטלנד בסכנה על רקע משבר האולם &nbsp;&nbsp; וואלה ספורט",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9QNzN1ekRqOFREeDZBb1lyRHNLRlNaaWlzNVZEVVZuTTU5ZVpOM0g4dFpRcTlsWXpXQXRYVmFOX2NrLUFSZzJVVUFEcVNCOVFP?oc=5",
-      "image": "",
-      "publishedAt": "Mon, 20 Jul 2026 16:06:00 GMT"
-    },
-    {
-      "category": "דני אבדיה",
-      "source": "חדשות דני אבדיה",
-      "title": "שחקן פורטלנד שוחח עם לוקה דונצ'יץ' - והחליט לעזוב את דני אבדיה",
-      "summary": "שחקן פורטלנד שוחח עם לוקה דונצ'יץ' - והחליט לעזוב את דני אבדיה &nbsp;&nbsp; היום",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByWUlyMUNJS3ZsWnNmSXQ3elBGWjdISlQ3bGhkTnRTSG12ODVRRlpTLW0yR0kwMmNXY28wSFVIcHJhTU9Md1liX053dUVvbVhMWkZvRWxEZE9yT3AtVk5NTDdvTXVVODRwZjhaOGtweEh0V0QwbHRXcdIBgAFBVV95cUxOaGhoNENtX1U5anQxd0h6a01uZVlZeC1GbG5zUm1lNVpjamZjYTNaMmFzUmVmaFdCNUM2WUNWckdxcWpFa3pvTmp4cVlhMFBoVEh6TldaMGtkRlQ1QllBZU93S2w2cmc5OGNoNFNtT2dDcjk4bGV6Ny1DOXZNR2RqeQ?oc=5",
-      "image": "",
-      "publishedAt": "Mon, 20 Jul 2026 18:45:01 GMT"
-    },
-    {
       "category": "אפל",
       "source": "גאדג׳טי — אפל",
       "title": "אפל מייקרת את מחירי השירותים בעולם - בישראל עדיין ללא שינוי",
@@ -1139,6 +437,15 @@
     {
       "category": "ישראל",
       "source": "i24NEWS",
+      "title": "עשרות חסידי גור מפגינים ליד בית היועמ\"שית, מאות פרצו את הגדר ליד כלא 10",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/local/artc-094a3c90",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
       "title": "לילה עשירי ברציפות: ארה\"ב פתחה בגל תקיפות חדש נגד מטרות צבאיות באיראן",
       "summary": "",
       "url": "https://www.i24news.tv/he/news/news/defense-news/artc-291160f9",
@@ -1148,28 +455,28 @@
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "בן 80 נהרג בקריסת מרפסת על מאפייה בירושלים",
+      "title": "חשיפה: השר בן גביר התערב וקבע למפכ\"ל המיועד דני לוי מי יהיה עוזרו | אבישי גרינצייג",
       "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/local/artc-72a93e5e",
-      "image": "https://cdn.i24news.tv/uploads/dd/c1/12/75/d9/4f/19/54/b5/83/b2/9a/d7/93/e9/63/ddc11275d94f1954b583b29ad793e963.jpeg?width=350",
+      "url": "https://www.i24news.tv/he/news/news/local/artc-404f5f3f",
+      "image": "https://cdn.i24news.tv/uploads/f0/94/49/ac/9f/e8/41/24/a6/17/e1/32/63/ab/58/ff/f09449ac9fe84124a617e13263ab58ff.jpg?width=350",
       "publishedAt": ""
     },
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "ילדה בת 8 נפצעה קשה באירוע ירי בצפון",
+      "title": "במקום גיוס: שר הביטחון מקדם - הרחבת שירות אזרחי לחרדים",
       "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/criminal/artc-359329ba",
-      "image": "https://cdn.i24news.tv/uploads/b8/af/55/65/27/ad/34/91/74/dd/6d/4c/88/f6/fd/cc/b8af556527ad349174dd6d4c88f6fdcc.jpg?width=350",
+      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-d17c4f44",
+      "image": "https://cdn.i24news.tv/uploads/61/a8/bc/b5/3b/4d/fc/93/e4/7b/ab/55/32/0f/75/6b/61a8bcb53b4dfc93e47bab55320f756b.jpg?width=350",
       "publishedAt": ""
     },
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "פרסום ראשון: מנכ\"ל מועצת יש\"ע בדרך לפוליטיקה",
+      "title": "התוכניות כבר מוכנות: הסלמה נוספת צפויה בפעילות הצבאית נגד איראן",
       "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/politics/artc-42954a70",
-      "image": "https://cdn.i24news.tv/uploads/fd/6a/b4/b8/61/e6/b5/43/8f/b0/16/00/51/ab/c7/e2/fd6ab4b861e6b5438fb0160051abc7e2.jpg?width=350",
+      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-ecad4e26",
+      "image": "https://cdn.i24news.tv/uploads/f7/ad/83/0f/57/76/98/0e/e0/88/3f/c2/3d/73/74/a3/f7ad830f5776980ee0883fc23d7374a3.jpeg?width=350",
       "publishedAt": ""
     },
     {
@@ -1178,17 +485,116 @@
       "title": "מבחן ריבונות בלבנון: החל פיילוט \"מרחב בטוח\" בשלושה כפרים בדרום",
       "summary": "",
       "url": "https://www.i24news.tv/he/news/news/defense-news/artc-527349c6",
-      "image": "",
+      "image": "https://cdn.i24news.tv/uploads/8d/54/6b/d7/3b/03/20/c7/09/59/90/ae/6a/00/78/bc/8d546bd73b0320c7095990ae6a0078bc.jpeg?width=350",
       "publishedAt": ""
     },
     {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "עימותים בהפגנת החרדים: אלפי חסידי גור פרצו את הגדר",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/local/artc-094a3c90",
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "טריילר חדש ל\"הנוקמים\" עם רוברט דאוני ג'וניור כדוקטור דום",
+      "summary": "מארוול שחררה היום (ב') את הטריילר לסרט \"הנוקמים: עלייתו של ד\"ר דום\" (Avengers: Doomsday), שמספק לנו הצצה ראשונה לרוברט דאוני ג'וניור בתפקיד הנבל דוקטור דום. הסרט יכלול דמויות רבות מיקומים שונים של מארוול כולל תור, לוקי, ארבעת המופלאים וצוות האקס-מן, קפטן אמריקה החדש, חייל החורף, אנטמן, שאנג צ’י ועוד",
+      "url": "https://www.geektime.co.il/avengers-doomsday-trailer-rdj-doom/",
       "image": "",
-      "publishedAt": ""
+      "publishedAt": "Mon, 20 Jul 2026 16:20:31 +0000"
+    },
+    {
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "לא באתם היום לכנס Geektime Code? חבל, תראו מה פספסתם",
+      "summary": "כ-1,500 מפתחות ומפתחים הגיעו היום (ב') לכנס Geektime Code, שהתקיים באקספו תל אביב עם עשרות סשנים מקצועיים, רעיונות מקוריים, חיבורים מעניינים ואווירה טובה. כמו בכל שנה, האג'נדה הייתה מורכבת מהרצאות עומק שצוללות ישר לתכלס, מציגות Use-cases אמיתיים ומעניקות כלים פרקטיים וחשיבה מחדש שאפשר ליישם מיד. את ",
+      "url": "https://www.geektime.co.il/geektime-code-2026-recap/",
+      "image": "",
+      "publishedAt": "Mon, 20 Jul 2026 15:00:07 +0000"
+    },
+    {
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "הסוס הטרויאני של ה-AI: כשהקוד המושלם של המודל מרסק את הפרודקשן",
+      "summary": "חשבתם ש-Codex ו-Claude Code יעשו לכם את העבודה בזמן שאתם שותים לאטה על חלב שיבולת שועל? תחשבו שוב. בהרצאה מרתקת בכנס Geektime Code, הסבירה אור ברוקמן מ-Google Cloud איך ה-LLMs הפכו לנשק עבור האקרים, למה עובדות על חתולים שוברות למודל את הלוגיקה, ואיך מפתחים הפכו מ\"כותבי קוד\" ל\"חותמי לוגיקה\". ספוילר: ",
+      "url": "https://www.geektime.co.il/trojan-code-the-cyber-risks-of-ai-generated-code/",
+      "image": "",
+      "publishedAt": "Mon, 20 Jul 2026 14:40:56 +0000"
+    },
+    {
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "כך פיתחנו כלי שהופך 180 מיליון שורות קוד למשהו שאפשר לעבוד איתו",
+      "summary": "תארו לכם שאתם עובדים בארגון שמתחזק קוד-בייס מפלצתי, בן כמעט שלושה עשורים, עם יותר מ-180 מיליון שורות קוד בשפות שונות. איך לעזאזל מתחילים לעבוד עם משהו כזה או הופכים אותו לשמיש לכולם היום? יש לנו תחושה שכבר ניחשתם. המפלצת הקריטית שלא ברור מה קורה בתוכה בהרצאה שלו בכנס Geektime Code 2026 חשף עופרי וול",
+      "url": "https://www.geektime.co.il/reverse-engineering-180m-lines-of-code/",
+      "image": "",
+      "publishedAt": "Mon, 20 Jul 2026 14:30:03 +0000"
+    },
+    {
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "ה-GPS קפץ לביירות? הסטארטאפ שמנווט את צה\"ל גייס עכשיו 15 מיליון דולר",
+      "summary": "אם יש משהו שלמדנו בשנים האחרונות זה שלא תמיד אפשר לסמוך על טכנולוגיות איתור ומיקום כמו GPS (או ליתר דיוק, GNASS), ואזורי לחימה מתאפיינים לא פעם בניתוק מוחלט מרשתות תקשורת רגילות ובשיבושי GPS. במצבים כאלו, הלוחמים בשטח נדרשים לדעת היכן הם ממוקמים, לזהות מטרות ולתקשר זה עם זה, גם כאשר המערכות המוכרות ",
+      "url": "https://www.geektime.co.il/asio-raises-15m-tactical-navigation/",
+      "image": "",
+      "publishedAt": "Mon, 20 Jul 2026 13:00:31 +0000"
+    },
+    {
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "מה זה KV Cache ואיך הוא שובר את חומת הזיכרון של סוכני AI?",
+      "summary": "כשאנחנו מפעילים סוכני AI, שיחות בעלות קונטקסט רחב נתקלות בחומת זיכרון – מצב שבו זיכרון ה-GPU הופך לצוואר בקבוק ומגביל את נפח החישוב. זה נכון במיוחד בשיחות שנמשכות שבוע, לדוגמה, במהלכן אנחנו עוזבים וחוזרים ומערבבים פרומפטים בנושאים אחרים. אז איך אפשר לשפר את יכולת ניצול הזיכרון והאחסון של מודלי שפה, ",
+      "url": "https://www.geektime.co.il/geektime-code-2026-kv-cache/",
+      "image": "",
+      "publishedAt": "Mon, 20 Jul 2026 11:25:30 +0000"
+    },
+    {
+      "category": "רכב חשמלי",
+      "source": "מגזין רכב חשמלי",
+      "title": "BYD אטו 3 מגיע בגרסה משודרגת ובמחיר משתלם",
+      "summary": "גרסת 2026 של BYD אטו 3 מגיעה לישראל עם מערכת הנעה משודרגת, טווח נסיעה גבוה יותר ועוד מספר שדרוגים ששמים אותו שוב על המפה, וכל זה במחיר התחלתי של 154,990 שקלים בלבד. הנה כל מה שצריך לדעת על הדגם המשודרג. The post BYD אטו 3 מגיע בגרסה משודרגת ובמחיר משתלם appeared first on EV Magazine | מגזין רכב חשמל",
+      "url": "https://www.evm.co.il/byd-atto-3-evo-2026-in-israel/",
+      "image": "",
+      "publishedAt": "Thu, 04 Jun 2026 16:14:56 +0000"
+    },
+    {
+      "category": "רכב חשמלי",
+      "source": "מגזין רכב חשמלי",
+      "title": "בלי V12 ועם 1,000 כוחות סוס: פרארי נכנסת לעידן החשמלי",
+      "summary": "עם 1,050 כ״ס, ארבעה מנועים ומהירות מרבית של 310 קמ״ש, פרארי לוצ׳ה מסמנת את הכניסה הרשמית של היצרנית האיטלקית לעידן החשמלי. The post בלי V12 ועם 1,000 כוחות סוס: פרארי נכנסת לעידן החשמלי appeared first on EV Magazine | מגזין רכב חשמלי .",
+      "url": "https://www.evm.co.il/ferrari-luce-electric-era/",
+      "image": "",
+      "publishedAt": "Tue, 26 May 2026 13:14:59 +0000"
+    },
+    {
+      "category": "רכב חשמלי",
+      "source": "מגזין רכב חשמלי",
+      "title": "7 מקומות במחירים משתלמים: עד 40 אלף שקל הנחה על דגמי מקסוס מיפה",
+      "summary": "אוטו חן, יבואנית מותג מקסוס מקיימת ימי מכירות עם הנחות של 20 עד 40 אלף שקלים על דגמי ה-7 מקומות החשמליים של המותג, במחיר התחלתי של 192,491 ש״ח. The post 7 מקומות במחירים משתלמים: עד 40 אלף שקל הנחה על דגמי מקסוס מיפה appeared first on EV Magazine | מגזין רכב חשמלי .",
+      "url": "https://www.evm.co.il/maxus-mifa-may-2026-deals/",
+      "image": "",
+      "publishedAt": "Fri, 08 May 2026 14:47:44 +0000"
+    },
+    {
+      "category": "רכב חשמלי",
+      "source": "מגזין רכב חשמלי",
+      "title": "רכב חשמלי חדש ב-135 אלף ש״ח: לובינסקי חוגגת 90 שנים עם הטבות",
+      "summary": "ימי המכירות, שיתקיימו עד ה-8 בחודש, כוללים גם רכבי פנאי חשמליים במחיר התחלתי של כ-140 אלף ש״ח, ואת מותג הפרימיום IM במחיר התחלתי של כ-196 אלף ש״ח. The post רכב חשמלי חדש ב-135 אלף ש״ח: לובינסקי חוגגת 90 שנים עם הטבות appeared first on EV Magazine | מגזין רכב חשמלי .",
+      "url": "https://www.evm.co.il/lubinski-may-2026-offers/",
+      "image": "",
+      "publishedAt": "Mon, 04 May 2026 17:55:13 +0000"
+    },
+    {
+      "category": "רכב חשמלי",
+      "source": "מגזין רכב חשמלי",
+      "title": "פחות מ-25 אלף אירו: פולקסווגן ID פולו החשמלית נחשפת",
+      "summary": "הגרסה החשמלית הראשונה של פולקסווגן פולו מגיעה עם תג מחיר נמוך באירופה, אך עם פשרות בטווח בגרסת הבסיס, ומציגה את שפת העיצוב החדשה של פולקסווגן. The post פחות מ-25 אלף אירו: פולקסווגן ID פולו החשמלית נחשפת appeared first on EV Magazine | מגזין רכב חשמלי .",
+      "url": "https://www.evm.co.il/volkswagen-id-polo-electric-revealed/",
+      "image": "",
+      "publishedAt": "Thu, 30 Apr 2026 13:25:38 +0000"
+    },
+    {
+      "category": "רכב חשמלי",
+      "source": "מגזין רכב חשמלי",
+      "title": "עד ה-1 למאי: מבצעים והטבות ברכישת דגמי זיקר",
+      "summary": "מותג הרכבים החשמלים זיקר יוצא לימי מכירות עם מגוון הטבות הכוללות מימון מלא ללא ריבית, טרייד אין במחירון לזיקר X והצעות ליסינג. The post עד ה-1 למאי: מבצעים והטבות ברכישת דגמי זיקר appeared first on EV Magazine | מגזין רכב חשמלי .",
+      "url": "https://www.evm.co.il/zeekr-offers-april-deals-2026/",
+      "image": "",
+      "publishedAt": "Wed, 29 Apr 2026 04:29:35 +0000"
     },
     {
       "category": "ספורט",
@@ -1216,42 +622,231 @@
       "url": "https://www.sport5.co.il/articles.aspx?FolderID=8166&docID=552244",
       "image": "",
       "publishedAt": ""
+    },
+    {
+      "category": "רונאלדיניו",
+      "source": "חדשות רונאלדיניו",
+      "title": "\"פחד לחייו\": רונאלדו, רונאלדיניו ומדונה גנבו את ההצגה בגמר המונדיאל",
+      "summary": "\"פחד לחייו\": רונאלדו, רונאלדיניו ומדונה גנבו את ההצגה בגמר המונדיאל &nbsp;&nbsp; ספורט 1",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uR0lFRUNoN3ZDS3RWc0I1b2N6c3N3YTlRdVRGb1VlNEVoT3lwSjFyU1YtQkhteng2MUVla2t5bFFfaHBWNll3UW5kcUt5MnVMVmR6Y04tYkY1YUVYeExHLXBEd0Z6QXZy?oc=5",
+      "image": "",
+      "publishedAt": "Sun, 19 Jul 2026 20:14:18 GMT"
+    },
+    {
+      "category": "רונאלדיניו",
+      "source": "חדשות רונאלדיניו",
+      "title": "בגיל 46: רונאלדיניו חוזר לשחק כדורגל - זו קבוצתו החדשה",
+      "summary": "בגיל 46: רונאלדיניו חוזר לשחק כדורגל - זו קבוצתו החדשה &nbsp;&nbsp; ynet",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96REowalRBc0x6ZkM0YW9wN25HekpGcXdyNlM5cWVtaW5PRWFReWk5UWlDcXZlUEJsemdJOXlnTmN5am1feGxuSTdvQUNMblZVdXNDNi1hRDRpaUtCUmtmSFlEMDA1S3U1OUJZ?oc=5",
+      "image": "",
+      "publishedAt": "Sat, 20 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "category": "רונאלדיניו",
+      "source": "חדשות רונאלדיניו",
+      "title": "\"רונאלדיניו: האיש והאגדה\" זמין לצפייה | האתר הרשמי של Netflix",
+      "summary": "\"רונאלדיניו: האיש והאגדה\" זמין לצפייה | האתר הרשמי של Netflix &nbsp;&nbsp; Netflix",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MWWdDZ25IU19xZVVjUHdYVkJsLXhNa3VscktFSnNLM2I2MDlZS2RSNmdCdjJWX2k4dDVUak5DdGZHclBVNU9kRFZ3NFZpTmdYdVNV?oc=5",
+      "image": "",
+      "publishedAt": "Thu, 16 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "category": "רונאלדיניו",
+      "source": "חדשות רונאלדיניו",
+      "title": "\"רונאלדיניו: האיש והאגדה\": נטפליקס כבר בחרה את הפייבוריטית שלה",
+      "summary": "\"רונאלדיניו: האיש והאגדה\": נטפליקס כבר בחרה את הפייבוריטית שלה &nbsp;&nbsp; mako",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9pNkN3YzF0bjJiaHQzR1RpQ2wyQUdKZ3BPS1Q0c2ZZZ18wZFF1UGVFdFFQNk0xTkNRVUJfMmJCbzhmek1OeXowSzlDZ0pEakhoX0p0WGF0MTJ2cWZRWG9QNXNoTXQ4RVFPYjZVcEt6M3JWcjZqbllUUQ?oc=5",
+      "image": "",
+      "publishedAt": "Sun, 19 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "category": "רונאלדיניו",
+      "source": "חדשות רונאלדיניו",
+      "title": "רונאלדו ורונאלדיניו עשו הופעה מפתיעה בגמר.",
+      "summary": "רונאלדו ורונאלדיניו עשו הופעה מפתיעה בגמר. &nbsp;&nbsp; Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUk5sTnBuTmR6LWRyNURJQjVkS3NsWkRDZVhKQXA1OFBPTjhhLVFoeDNiNFh4X3kxQXNfQlhuYWk4N19qQ2xxUUNMUTc1MWI3RWE4VC1VVTFVdUFmaWRlRHo2QnQ0eVpaUFY5VW5jSmNEaUdHWlRKZ2wzSG1nWFNNc2RoYnZqdVFTNk1xSWxLenJJUQ?oc=5",
+      "image": "",
+      "publishedAt": "Sun, 19 Jul 2026 21:48:41 GMT"
+    },
+    {
+      "category": "רונאלדיניו",
+      "source": "חדשות רונאלדיניו",
+      "title": "\"האחר?\": רונאלדיניו נגד מאמן בית\"ר ירושלים לשעבר",
+      "summary": "\"האחר?\": רונאלדיניו נגד מאמן בית\"ר ירושלים לשעבר &nbsp;&nbsp; Sport5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTenFrVDNORGNCZ1FJaWVXcURVY0VMR2R4MFZjNnROSVp4XzhmbDJTMG5LU1h0c05ZU19RZGVGZ3hpNDMyUVNjcTVPZWxDTnVxS0RmLWJwSzI0SERXTjlMZ2N1bFhzY3RVRmxyZTNQUWVqQQ?oc=5",
+      "image": "",
+      "publishedAt": "Mon, 13 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "category": "מסי",
+      "source": "חדשות מסי",
+      "title": "מסי שבר שתיקה: \"הכאב עצום, ייקח זמן לרפא את הפצע\"",
+      "summary": "מסי שבר שתיקה: \"הכאב עצום, ייקח זמן לרפא את הפצע\" &nbsp;&nbsp; וואלה ספורט",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1pS1BhMGtwekc5cFFfR19oR2lUZXdXTE9QSnJ1SHVXWm5sdUlwSzlJc1ZYcVkweVFFNW9wRTVfeUw5Y2dRZ2ItMTFwZGRZbW00?oc=5",
+      "image": "",
+      "publishedAt": "Mon, 20 Jul 2026 17:39:00 GMT"
+    },
+    {
+      "category": "מסי",
+      "source": "חדשות מסי",
+      "title": "לאחר ההפסד בגמר המונדיאל: מסי בתגובה ראשונה",
+      "summary": "לאחר ההפסד בגמר המונדיאל: מסי בתגובה ראשונה &nbsp;&nbsp; סרוגים",
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNRUV4RXg0OG9tZ1lhd0pZVHR0T2VzTnlVN1lSTjVKdzFTY1BkY3QtOTZibU8wVGZNX2o0YmZDNzZTblpKZWlwVndqTTFnVVp5SDgycThMMlRvblhxOF96d1RnemdwWkRGOEsyUzI3UnBHTGlLaUxLOFVLY1R0ZVA2RVoybEpvSlBfYmk4LWhiRlR3T3pRMnZINUY5S2lyZmRzdk0tQ281cjBIdUxqOHBHNHkwOVYyODVjOHRnMUR0ZHkxdllrZFE5a1dDWGJIS2hkZ01jNldibndNNHdUa0dMTnNhaVNkVlRCQ0gxa0p0ZkdkbmN2dWtVTmRWUVNqZE01LU90ek1yU3FFNXBKd3pfTG5idF9hT1g0YmV5NVI2dUs0VjU4eVd2aFE3SzloM1JORHFXVTBWeEZaUXZQc0YwamR3?oc=5",
+      "image": "",
+      "publishedAt": "Mon, 20 Jul 2026 18:22:38 GMT"
+    },
+    {
+      "category": "מסי",
+      "source": "חדשות מסי",
+      "title": "הפרק האחרון: תודה לך, ליאו מסי – נפרדים מהשחקן הגדול ביותר בהיסטוריה",
+      "summary": "הפרק האחרון: תודה לך, ליאו מסי – נפרדים מהשחקן הגדול ביותר בהיסטוריה &nbsp;&nbsp; ספורט 1",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tRURVbGRaUjVJRlhhMUtySmxEdlNPMXFfY2xuX0RrTEhjTGZlMzdDSUViaFNlNjVjOWdYYUJlN1VQQ3pxSUJxMmdzMFV3dmRCNDFBNlpuaERvaG1KSEhnRUFBdFNCQkJC?oc=5",
+      "image": "",
+      "publishedAt": "Mon, 20 Jul 2026 17:02:20 GMT"
+    },
+    {
+      "category": "מסי",
+      "source": "חדשות מסי",
+      "title": "\"מסי סירב לעזור, מזל שרונצ'וק לא ידע\": הפוסט הנוקב של מעיין שרמן נגד כוכב הכדורגל -",
+      "summary": "\"מסי סירב לעזור, מזל שרונצ'וק לא ידע\": הפוסט הנוקב של מעיין שרמן נגד כוכב הכדורגל - &nbsp;&nbsp; באר שבע נט",
+      "url": "https://news.google.com/rss/articles/CBMi_ARBVV95cUxORU9ZS0ROcC11eS1tWE5jdlhzTnNQM0RhU0pBajZzSXlUXzFWbnAxcXRYUTcxZGlCNk93RzlIeUZyZFhRaVVmSllubVd0MVZVN21SVzhleTNROHFGVDgyYVNDeVJHZWRVSnozdjBSLVFnM2ZldkxrTnBlNTlCdHZuYVNvdUNLS0t2dVRRY0tOUE5URHNReGpweFBVOHd2MXNTUG4tY2lHZHpsUXFMblBsQXhXdGdySU9rMXBjWk9UZklhM1FaMGE5c3dLWG53SkVwbXdnRVl0TXh6QktSU05oczg4TDNYamw0OTNBX3EtemR0MkpnNWd6S0c2Q3BDd1lHYlVITFhIaWFWRmNFUU8yVWk4YngxUEtZemloT3ZWdnVCcXNKVkIyd3p3cGNDTVJfSHBKTXRzUXlhM2hZS1ZxQWlXS00wb0JKMVA4VFdTRG5laXpmZTk5bHROc0ZVaUUzOHFqVEZFVkVwaVFvV2ZMOEJxNkU5MU9xQm15UVRad0JOSlBxR2tJSmpDVFRjdjNHUXB6MXBDQl9MNW8yZWR5SGY0SlF1eXFJVVR5a21La3R0RTcyOF9uTDN6OUw2UEZ3ODZjbEd4YXpKbWpKSDJpaXA5blpTT2RCT0lxR0oyZEE3MlpldnpQaEUwQVl3MUJ2WjMwNVI3NF9KNWhOU3VBX1B3aXZZZlRSZ0xDVTFBUGRySGM0TDBWWUlSSTVfNWpXanlFVFdLMlVoS2JCTTB4dWlmUzN6RllaSjZZRHdTZlhTTzBJUGw1MVBhaXR5Vm5ia3V5VjlSRDY0SzJZNGd3THN3OW5VcjZlQXdfVmdLSnAxVko5cm9GcENwNlY?oc=5",
+      "image": "",
+      "publishedAt": "Mon, 20 Jul 2026 11:53:54 GMT"
+    },
+    {
+      "category": "מסי",
+      "source": "חדשות מסי",
+      "title": "לא מזהים אותו? התג המפתיע של מסי",
+      "summary": "לא מזהים אותו? התג המפתיע של מסי &nbsp;&nbsp; Sport5",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVc0t2QVUwQzNfT3MwVGFHRm5GWDNRUFZvOUFXNFJFQjEtMFotVUJ5ZjhVSXVieHhabEFIYURmTl9PcVZWNEh2ZnFTNjEwRzdBSkdMY241ZVpZMXpYNjBFWU1WX1VIS21CN3hKYXlsR1pGQmc?oc=5",
+      "image": "",
+      "publishedAt": "Sun, 19 Jul 2026 18:20:41 GMT"
+    },
+    {
+      "category": "מסי",
+      "source": "חדשות מסי",
+      "title": "מסי בכה, סקאלוני: \"יש עצב, ולצדו הכרת תודה נצחית לשחקנים האלה\"",
+      "summary": "מסי בכה, סקאלוני: \"יש עצב, ולצדו הכרת תודה נצחית לשחקנים האלה\" &nbsp;&nbsp; וואלה ספורט",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BeHNRak5xYk1XT0RNUUJQYlFYdm9Idzc4bVdzSVRkQWdQb2tsdG9rVE11Z0NPNGdSaXo5d1FTWDRGVWZFd0J4ckZRUU9qazhC?oc=5",
+      "image": "",
+      "publishedAt": "Sun, 19 Jul 2026 22:39:00 GMT"
+    },
+    {
+      "category": "דני אבדיה",
+      "source": "חדשות דני אבדיה",
+      "title": "\"לפורטלנד אסור לבצע את הטעות הזו עם דני אבדיה העונה\"",
+      "summary": "\"לפורטלנד אסור לבצע את הטעות הזו עם דני אבדיה העונה\" &nbsp;&nbsp; וואלה ספורט",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5EYVVoaUZSaVFWSml1T2tQVFJKd3N6ZlZfblVscWxqUUItZkhVZzBkX05wUDljdWYzeGdicmFZalFJZVdpa2NhM2dDRlE1bXVl?oc=5",
+      "image": "",
+      "publishedAt": "Sun, 19 Jul 2026 21:11:00 GMT"
+    },
+    {
+      "category": "דני אבדיה",
+      "source": "חדשות דני אבדיה",
+      "title": "מפורטלנד ל-LA: מאטיס טייבול חתם בלייקרס",
+      "summary": "מפורטלנד ל-LA: מאטיס טייבול חתם בלייקרס &nbsp;&nbsp; Sport5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nLVgyUnBoZVFzMlNNdm93cHpPNjYweW5NMVQ4UENnY08zSUpXekN2UkJNV01PNThFbDQwVE9QSW01SjMtWXpNcHRGV0hHdlRvUlBVNERtNnhoRUlXdGI5dlFVQlc4MWprZFBXUlBQNFlHdw?oc=5",
+      "image": "",
+      "publishedAt": "Mon, 20 Jul 2026 18:36:39 GMT"
+    },
+    {
+      "category": "דני אבדיה",
+      "source": "חדשות דני אבדיה",
+      "title": "שחקן פורטלנד שוחח עם לוקה דונצ'יץ' - והחליט לעזוב את דני אבדיה",
+      "summary": "שחקן פורטלנד שוחח עם לוקה דונצ'יץ' - והחליט לעזוב את דני אבדיה &nbsp;&nbsp; היום",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByWUlyMUNJS3ZsWnNmSXQ3elBGWjdISlQ3bGhkTnRTSG12ODVRRlpTLW0yR0kwMmNXY28wSFVIcHJhTU9Md1liX053dUVvbVhMWkZvRWxEZE9yT3AtVk5NTDdvTXVVODRwZjhaOGtweEh0V0QwbHRXcdIBgAFBVV95cUxOaGhoNENtX1U5anQxd0h6a01uZVlZeC1GbG5zUm1lNVpjamZjYTNaMmFzUmVmaFdCNUM2WUNWckdxcWpFa3pvTmp4cVlhMFBoVEh6TldaMGtkRlQ1QllBZU93S2w2cmc5OGNoNFNtT2dDcjk4bGV6Ny1DOXZNR2RqeQ?oc=5",
+      "image": "",
+      "publishedAt": "Mon, 20 Jul 2026 18:45:01 GMT"
+    },
+    {
+      "category": "דני אבדיה",
+      "source": "חדשות דני אבדיה",
+      "title": "עתיד הטריילבלייזרס בסכנה: הקבוצה עשויה לעזוב את פורטלנד",
+      "summary": "עתיד הטריילבלייזרס בסכנה: הקבוצה עשויה לעזוב את פורטלנד &nbsp;&nbsp; ספורט 1",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93alRYZTlEeWlFTFB0aGdJMGVkNDB5akFCdmpwSjd4YTV6Q0F5cmNKMFJoT3JBWHlBM0o1Yi1vSWVzekVHTHc2RXlFd240bmpNNGFPa0tKWlhMcDFrbVI1TkhVVFBYXzgzTTBDZk9fU1NkTFU?oc=5",
+      "image": "",
+      "publishedAt": "Mon, 20 Jul 2026 16:21:18 GMT"
+    },
+    {
+      "category": "דני אבדיה",
+      "source": "חדשות דני אבדיה",
+      "title": "דני אבדיה משתלט על המסכים: ואיך הגיב ים מדר למהלך? | צפו:",
+      "summary": "דני אבדיה משתלט על המסכים: ואיך הגיב ים מדר למהלך? | צפו: &nbsp;&nbsp; ice (אייס)",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vb0xCUUhkWjAtYUVaWkxIdkVZOWNPT0NTam05UmtOUVhoS1F1T0s4NTk1ZTJ2VVkwSURJVnNwOS1WTFlxbWU1azVhblVPV1ZyaWp1QVhFVzBvLUFqM21qOU91NmFTaHJtU2k5Z2RUemMwUQ?oc=5",
+      "image": "",
+      "publishedAt": "Sun, 19 Jul 2026 18:00:37 GMT"
+    },
+    {
+      "category": "דני אבדיה",
+      "source": "חדשות דני אבדיה",
+      "title": "דיווח דרמטי: דני אבדיה ופורטלנד עשויים לעבור לאוקלהומה",
+      "summary": "דיווח דרמטי: דני אבדיה ופורטלנד עשויים לעבור לאוקלהומה &nbsp;&nbsp; היום",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15OXdDbG9oQUNXdldVNXV3TjFURW00cnUxR0tOdGdHRXBONERzZHNjdU1PWkZrZF94akM2VVhmOFBEVzE1WjZFT2tNbUN2QWdnbXBWVmQxa1pXbmptdHJlTXlHekFkY05JMWl6Mnh6OUg3YjFMc2xhWNIBgAFBVV95cUxNcV80YmhNNzFiMmQ2dktYX0gyWWhpdFRmb05oa2FhQzBucUh0OGdHOG9oNnlhQktzOHNLTFlQZzFfRHFjdkVWZTZ2cmNNVlU5MWtTR0I2cDk4UG5PMy1hTHBjME9rTVVkZ0FDbjBRWE5kbkNHZGNyZ2k3NTU5SGhHNQ?oc=5",
+      "image": "",
+      "publishedAt": "Mon, 20 Jul 2026 14:09:54 GMT"
+    },
+    {
+      "category": "ארלינג האלנד",
+      "source": "חדשות ארלינג האלנד",
+      "title": "ארלינג האלנד לא לבד: אחותו גנבה את ההצגה במונדיאל",
+      "summary": "ארלינג האלנד לא לבד: אחותו גנבה את ההצגה במונדיאל &nbsp;&nbsp; היום",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iNXdzcVB0VHdZaGtHel9CV0RHN2QtTjNobENYbTlDNVBFa0xVNEtwcHZCRi1tSVRlTDRMUGpLWjR3TGRNUkJhOW1ELWpfcWJQQzRRU2NEbVllRlJDbDJpY0Rib1NWc2I3UTBydEpxTC1rNzjSAXtBVV95cUxNbnNIOWFtMnQ4dFZlNlBSaDBHSkpxaUpyMWViM0l2clBMZzhwb0dKTDd4Tk00VWlOYWtPUE9nWUlEQUFGelpkdEpjLVNFS1h3bGxsTFNva3F5Uk1KNUFaTjg2MVpZQ1dheXM4STBaRDlyR2Vvb3RjZlUwMUk?oc=5",
+      "image": "",
+      "publishedAt": "Fri, 03 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "category": "ארלינג האלנד",
+      "source": "חדשות ארלינג האלנד",
+      "title": "ארלינג האלנד, תיקי היוקרה והרקון שכבש את המונדיאל",
+      "summary": "ארלינג האלנד, תיקי היוקרה והרקון שכבש את המונדיאל &nbsp;&nbsp; ביזפורטל",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85MEotMm5GWmYxNnpMeFlsT25JSi12YzBId1dzRkJ1bEFlRHhyZGV0ZXVzN3FKMUNVMTM0TFgwcFR0VTZJZldEWTl6OHFEVWY1aWNsTC1LMlBTUTZTZVFva19ENXhJUQ?oc=5",
+      "image": "",
+      "publishedAt": "Sun, 19 Jul 2026 12:13:00 GMT"
+    },
+    {
+      "category": "ארלינג האלנד",
+      "source": "חדשות ארלינג האלנד",
+      "title": "מיטב הביצועים של ארלינג האלנד נגד ברזיל",
+      "summary": "מיטב הביצועים של ארלינג האלנד נגד ברזיל &nbsp;&nbsp; כאן 11",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmZVFfQUtDR0VQRFgwRkVOaEFlWWF1UkhfNW1WeW9HTmF6cVhBYncyX2lGaEI5b2k0YzFNeWlYT0M3UGx3ME5ocURkZGtuVHVZNHF5UERRS2ZfMDM4VUhSYXByN3lyYnIxWGhWaDlSYzgtZw?oc=5",
+      "image": "",
+      "publishedAt": "Sun, 05 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "category": "ארלינג האלנד",
+      "source": "חדשות ארלינג האלנד",
+      "title": "אגדת דשא: ארלינג האלנד הוא נסיכת האינטרנט החדשה",
+      "summary": "אגדת דשא: ארלינג האלנד הוא נסיכת האינטרנט החדשה &nbsp;&nbsp; זמן ישראל",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1lM3pKOFhsYWUtYS1sTUoyMUdKem91aF9raDdYb04wSzhBSU9JcTN0anE1c0lwRGRXWWd3eEdDT3dJQVQ0?oc=5",
+      "image": "",
+      "publishedAt": "Sat, 11 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "category": "ארלינג האלנד",
+      "source": "חדשות ארלינג האלנד",
+      "title": "הוויקינג שרוצה לחנך ילדים לקרוא: ארלינג האלנד הוא כדורגלן מסוג אחר",
+      "summary": "הוויקינג שרוצה לחנך ילדים לקרוא: ארלינג האלנד הוא כדורגלן מסוג אחר &nbsp;&nbsp; גלובס",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrSUhQRmd0TEc2WmFyZFNCb3BIVzUxYktSMnVPUTJMeENJVmtCelJuaEZ3UVU0S0JLLUl6MDc4dkQtamNmSFlLM2dpLTRfZkQ1bHByVThfeFFOZkJRR1lQRE1qcTVuUVY4?oc=5",
+      "image": "",
+      "publishedAt": "Sat, 11 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "category": "ארלינג האלנד",
+      "source": "חדשות ארלינג האלנד",
+      "title": "אמבאפה, מסי, הולאנד או קיין: מי החלוץ הכי טוב במונדיאל",
+      "summary": "אמבאפה, מסי, הולאנד או קיין: מי החלוץ הכי טוב במונדיאל &nbsp;&nbsp; ynet",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JN2NBd2lPNjhDQjVtODNraUJQZEhjLXRxcWp2OS1Zc0g4WmxzLV9BZGs4dVFfWEozRXFCZUZDcXQ4b0h4LVBiSkxaeU5rQTNWVFdCYmlXRjRBWmlXUTlRQXNIZlRDY19ZVmp1UQ?oc=5",
+      "image": "",
+      "publishedAt": "Thu, 09 Jul 2026 07:00:00 GMT"
     }
   ],
   "flashes": [
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "סנטקום: צבא ארה״ב פתח בגל תקיפות באיראן",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957446.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "יאיר גולן: החרדים טפילים",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957444.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "לא רק קוטג': התופעה שגורמת להשבתת קווי ייצור שלמים במפעלים בארץ (טכנאים לא מוכנים להגיע לישראל)",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957356.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "בשם האח: דרלין גראהם, אחותו הצעירה של הסנאטור המנוח לינדזי גראהם הודיעה כי תרוץ בבחירות האמצע בחודש נובמבר לכהונה מלאה בת 6 שנים.",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957445.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1267,576 +862,9 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "דיווח ערבי: 8 מחוסלים בתקיפות היום בעזה",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957447.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "בוטל סבב קידומים במשטרה, המפכ''ל: ''לא ניתן לאף אחד לכפות עלינו מינויים''",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957393.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "תוצאות הפריימריז בדמוקרטים",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957420.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "חסמו את המונית ודקרו למוות: עונשי מאסר כבדים לשלושת רוצחיו של אושר גזי",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957427.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "נער בן 15 מחיפה קיבל זריקות נגד כלבת אחרי ששמע רעש מוזר במזגן, התקרב והיה במגע עם עטלף. חתול הבית טרף את העטלף וגם יקבל זריקות חיסון",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957437.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "עמנואל מורנו מצא את מיקומו המדוייק של גלעד שליט בשבי החמאס והגיש תוכנית לחילוצו אך רוה''מ אולמרט, שר הביטחון עמיר פרץ והרמטכל חלוץ פסלו אותה",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957414.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "גפני: טעות כשנכנסנו לקואליציית נתניהו, יוקר המחיה הוא כישלון",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957374.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "''אמר שהאוטו פיקס - ואז יצא עשן'': המגרש שמוכר מכוניות מסוכנות",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957442.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "חוות שרתי AI נוחתות בישראל - איך הן ישפיעו על הכיס שלנו?",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957441.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "רשמי: המדינה מכירה בשריפת הענק בחוות גלעד בשומרון כפיגוע, התושבים יפוצו על נזקי פעולת האיבה",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957390.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "בית משפט השלום בנצרת גזר על כמאל ח'טיב, סגן ראש הפלג הצפוני של התנועה האסלאמית, 9 חודשי עבודות שירות.",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957400.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "סקר ערוץ 12 : איזנקוט 24,הליכוד 23, בנט 15. שמאל+ערבים 69, הקואליציה 51.",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957425.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "הפריימריז במפלגת הדמוקרטים הסתיימו עם 95000 מצביעים ו85 אחוז הצבעה",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957408.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "סדרן בקולנוע העיר לנערים שהשתוללו - והוכה קשות: ''6 קפצו עליו, פירקו אותו''",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957375.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "גל הרימונים נמשך; לפני זמן קצר רימון הושלך באור יהודה",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957443.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "ארגון תורת לחימה: דרישה מיו''ר ועדת הבחירות השופט נעם סולברג לפסול את מועמדי מפלגת ''הדמוקרטים'' שהסיתו לסרבנות בצה''ל*",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957434.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "היועמ''שית הציעה לנתניהו עו''ד פרטי לבג''ץ העריקים. רה''מ סירב",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957436.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "רשות החשמל בהחלטה תקדימית: לא יתאפשרו חיבור חוות שרתים חדשות לרשת החשמל לאחר שלא נותר עוד מקום ברשת",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957366.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "זעקת הקהילה האתיופית: כינוס חירום ברבנות הראשית למאבק בהתפשטות המיסיון",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957410.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "פעילי ״חלוצי הבשן״ התקרבו לגבול סוריה - וכמעט נורו מהאוויר",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957432.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "בן גביר באולטימטום לנתניהו: ''התנאי לכניסת עוצמה יהודית לממשלה הבאה - הדחה מיידית של היועמ''שית''",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957429.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "נמשכות התקיפות על כלי שיט באזור מיצרי הורמוז. ארגון הימאות הבריטי UKMTO מדווח על תקיפת ספינה 8 מיילים ימיים מצפון מערב לכומזאר עומאן",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957422.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "מתרגלי פאלון גונג ישראלים קיימו הערב עצרת זיכרון מול שגרירות המשטר הסיני בתל אביב",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957435.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "נתניהו בישיבת הקבינט: הפשיעה הלאומנית זה סרטן מתפשט",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957421.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "טראמפ: בכל פעם שאיראן הורגת חייל אמריקאי, היא תשלם על ההרג הזה פי כמה",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957416.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "פרופסור ספיר (מומחה למשפט חוקתי): מדינת ישראל חדלה מלתפקד כדמוקרטיה",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957365.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "טראמפ: נתניהו לא ייעצר בשום תנאי בעודו בארצות הברית",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957417.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "כך מבטלים את אוסלו'': הכביש שיקצר את הדרך לשרון",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957373.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "מסי אחרי ההפסד של ארגנטינה: ''הכאב גדול מאוד וייקח זמן עד שהפצע הזה ייסגר''",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957426.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "דגל התורה של גפני בהודעה נגד נתניהו: מי שאינו חי את עולם התורה ואינו מבין את עומק דבריהם, מוטב שלא ימהר לפרשם, ובוודאי שלא לתוקפם",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957382.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "הנהלת אוניברסיטת תל אביב התנצלה בפני חברי הסגל על כך שהזמינה את ד''ר דני גולד, תא''ל במילואים וראש מפאת, לשאת הרצאה בטקס מקבלי תואר דוקטור",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957413.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "הערבי אזרח ישראל שביצע מתקפה בשרון, קיבל סיוע מערבים אחרים אזרחי ישראל",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957419.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "בג''ץ דן בעתירה המבקשת לחייב את ישראל להכניס לארץ תושבים עזתים חולים",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957411.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "ח״כ ניסים ואטורי טוען שמפלגת הדמוקרטים נתמכת ע״י חמאס",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957389.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "דיווח: ממשל טראמפ שוקל לאסור מודלי בינה מלאכותית סיניים בארה״ב ולהכניס מעבדות סיניות לרשימה השחורה",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957415.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "ז׳אן נואל בורו, שר החוץ של צרפת: שני בכירים בשגרירות שלנו בטהרן ״אוימו באופן רציני״ ע״י אנשי שירותי הביטחון של איראן",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957407.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "תיעוד: אירוע קריסת המרפסת בירושלים בו נהרג אדם בן כ-80 HGoldich",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957409.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "ראש ממשלת הונגריה: אציע לשחמטאית היהודייה יהודית פולגאר להתמנות לנשיאת המדינה",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957331.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "שמעון אלקבץ על החרם של יאיר גולן על ערוץ 14: מזכיר את שיחות הטלפון שלו ללשכת מפקד התחנה ומלין על דברים שנאמרים",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957386.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "ירושלים: מרפסת קרסה על מאפייה | הרוג ו5 קל",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957402.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "עמית סגל כעת באולפן: במהלך המאבק על הגיוס, יחצ״נים חרדים קיבלו הרבה מאוד כסף מגורמים במחאה שרצו בהפלת הממשלה.",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957412.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "אחרי השיחות ברומא | ארה''ב: החלה נסיגת צה''ל מאזורי הפיילוט בלבנון",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957398.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "לאור ההתפטרויות במל״ג, השר קיש פועל למנות את פאנליסט ערוץ 14 פרופ משה כהן אליה כחבר במל״ג",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957405.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "היום העיד עו''ד שחם שביט מהרשות לני''ע כי מנדלבליט שלח אותו לשופטת פוזננסקי כץ ''לבשר'' לה שהוא ''ממנה'' אותה לשבת בתיק בזק.",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957397.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "דיווחים על שיגורים מאיראן לעבר בחריין",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957406.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "הדר מוכתר איבדה סיכוי ריאלי להכנס לרשימת הליכוד",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957381.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "היועמ״שית מודיעה לבג״ץ כי המאמצים להגיע להסכמות עם בן גביר עלו בתוהו: ״נותרו פערים מהותיים,",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957358.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "קווין קיגן, אגדת נבחרת אנגליה, הלך לעולמו בגיל 75",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957401.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "ראשוני: הרב החשוד באונס תלמידו שוחרר לחלופת מעצר עם איזוק אלקטרוני",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957396.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "עדכון על הנופלים האמריקאיים בהתקפה האיראנית ביום שישי בירדן, חייל וחיילת",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957399.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "בגלל חוק ההפרדה המגדרית: 5 חברי מל''ג התפטרו",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957369.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "''או בנט או איזנקוט'': כוכב הניינטיז ירון חדד יעזוב את ישראל אם אחד מהשניים לא ייבחר",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957404.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "סופית: לאחר מאבק ממושך בין בעל הקרקע למועצת כפר שמריהו, הדגל הענק במחלף כפר שמריהו הוסר",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957391.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "השר אלי כהן מהליכוד נגד בליץ החקיקה: ''חלק היה מיותר''",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957385.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "החות׳ים הודיעו על מצור ימי נגד סעודיה",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957388.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "חמאס מודיע על בחירת ח'ליל אל-חיה ליו''ר הלשכה המדינית של הארגון",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957384.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "בני ביטון, חבר ליכוד וראש עיריית דימונה: ''כאשר ישראל במלחמה, האחריות הציבורית שלנו היא לעשות פסק זמן ולתת לנתניהו להרכיב את הרשימה לכנסת''",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957380.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "רחוב אלג'לאא' במערב העיר עזה - יונדאי אקסנט הותקפה לפני זמן קצר בשני טילי כטב''מ",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957383.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "קורות-עץ שנשרפו בימי חורבן בית-המקדש הראשון נחשפו לאחרונה בעיר-דוד.",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957378.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "בחריין: אזעקה הופעלה בבחריין לאור ירי מאיראן",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957392.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "יאיר גולן בפתיחת הפרימריז: אסור שהקואליציה העתידית תכלול אף מפלגה מזו הנוכחית. לא רק החרדים, גם הלאומנים הקיצוניים, והמושחתים.",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957368.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "סיוט ב-480 שקל: שליח וולט הפיל את הסושי על המדרכה, והחזיר אותו לקופסה",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957379.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "גורמים במערכת הביטחון טוענים כי הנהגת איראן מתווכחת בשאלה האם לתקוף את ישראל",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957376.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "אמיר רובין, מבכירי הרופאים האורתופדים בישראל ''לא לומדים רפואה בבית ספר לרפואה/באוניברסיטה. מקצוע הרפואה הוא פונקציה של מיומנות",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957377.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1852,90 +880,144 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "סקר כאן 11: איזנקוט 22, ליכוד 21. שמאל+ערבים 65, ימין51 ,הנדל וטרופר 4",
+      "title": "דיווחים באיראן על פיצוצים באספהאן",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957323.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957449.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "הראיון של דנה וייס עם דניאלה גלבוע, התצפנית מנחל עוז.",
+      "title": "נער בן 17 נהרג בתאונת דרכים בכביש 6, סמוך למחלף קרית גת",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957325.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957450.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "''הפכה לעיקר חייו'': מאסר בפועל למור ביטון מלוד, בעלה של העוזרת של מאי גולן שהחזיק מעבדת סמים",
+      "title": "נער בן 15 מחיפה קיבל זריקות נגד כלבת אחרי ששמע רעש מוזר במזגן, התקרב והיה במגע עם עטלף. חתול הבית טרף את העטלף וגם יקבל זריקות חיסון",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957367.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957437.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "מעריב: ש''ס ויהדות התורה בלמו את ההצבעה בכנסת על ההכרה ברצח העם הארמני, לאחר פניות מגורמים באזרבייג׳ן",
+      "title": "חוות שרתי AI נוחתות בישראל - איך הן ישפיעו על הכיס שלנו?",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957357.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957441.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "דובר משרד החוץ האיראני: המתווכות העבירו הודעות אל טהראן בימים האחרונים",
+      "title": "בן גביר באולטימטום לנתניהו: ''התנאי לכניסת עוצמה יהודית לממשלה הבאה - הדחה מיידית של היועמ''שית''",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957363.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957429.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "דאגה בצרפת לאור ההתעצמות הצבאית של גרמניה",
+      "title": "דיווח ערבי: 8 מחוסלים בתקיפות היום בעזה",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957362.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957447.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "ספרד -ארגנטינה, כאן: 40.6%",
+      "title": "בשם האח: דרלין גראהם, אחותו הצעירה של הסנאטור המנוח לינדזי גראהם הודיעה כי תרוץ בבחירות האמצע בחודש נובמבר לכהונה מלאה בת 6 שנים.",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957354.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957445.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "עקב הטענות נגדו: מח''ט צנחנים (עמי ביטון) לשעבר פורש מצה''ל - ולא יקודם למפקד אוגדה",
+      "title": "דיווח: פלג חמוש חדש, ״תנועת תימן החופשית״, הכריז על התקוממות נגד החות׳ים מתוך צנעא",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957355.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957448.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "פיקוד המרכז האמריקני מסר לפני זמן קצר (שני) כי השלים את סבב התקיפות התשיעי שלו באיראן.",
+      "title": "רה''מ ערך התייעצות טלפונית על מבקר המדינה - ראבילו השתתף ולא זז מעמדתו",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957350.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957423.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "צוות טקילה פעל למעצר חשודים ישראליים בפשיעה לאומנית - ובהם גם ''פצצה מתקתקת''בעקבות פעילות הצוות מיחידת העילית",
+      "title": "גל הרימונים נמשך; לפני זמן קצר רימון הושלך באור יהודה",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957339.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957443.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "היועמ''שית הציעה לנתניהו עו''ד פרטי לבג''ץ העריקים. רה''מ סירב",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957436.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "סנטקום: צבא ארה״ב פתח בגל תקיפות באיראן",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957446.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "''אמר שהאוטו פיקס - ואז יצא עשן'': המגרש שמוכר מכוניות מסוכנות",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957442.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "פעילי ״חלוצי הבשן״ התקרבו לגבול סוריה - וכמעט נורו מהאוויר",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957432.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "פרופסור ספיר (מומחה למשפט חוקתי): מדינת ישראל חדלה מלתפקד כדמוקרטיה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957365.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "בית משפט השלום בנצרת גזר על כמאל ח'טיב, סגן ראש הפלג הצפוני של התנועה האסלאמית, 9 חודשי עבודות שירות.",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957400.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     }
