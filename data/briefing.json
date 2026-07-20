@@ -1,6 +1,6 @@
 {
   "date": "2026-07-20",
-  "updatedAt": "2026-07-20T07:41:44.833Z",
+  "updatedAt": "2026-07-20T10:56:07.810Z",
   "stories": [
     {
       "category": "טכנולוגיה",
@@ -741,6 +741,33 @@
       "publishedAt": "Thu, 09 Jul 2026 07:00:00 GMT"
     },
     {
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "המדינה בהחלטה דרמטית: עוצרת הקמת דאטה-סנטרים חדשים",
+      "summary": "רשות החשמל הודיעה לפני זמן קצר (ב') על החלטה דרמטית שצפויה להשפיע על תעשיית הטכנולוגיה המקומית: המדינה עוצרת אישורים לחיבור חוות שרתים חדשות לרשת החשמל למשך 140 ימים. הסיבה למהלך היא עומס חסר תקדים של בקשות חיבור, המאיים על יציבות משק החשמל הישראלי. פי 3 מהצריכה הממוצעת על פי רשות החשמל, בתוך כחודשי",
+      "url": "https://www.geektime.co.il/israel-freezes-new-data-centers/",
+      "image": "",
+      "publishedAt": "Mon, 20 Jul 2026 07:11:50 +0000"
+    },
+    {
+      "category": "מסי",
+      "source": "חדשות מסי",
+      "title": "מסי נשדד? הבחירה ברודרי לשחקן המצטיין הציתה סערה: \"פיפ\"א מאבדת אמינות\"",
+      "summary": "מסי נשדד? הבחירה ברודרי לשחקן המצטיין הציתה סערה: \"פיפ\"א מאבדת אמינות\" &nbsp;&nbsp; ספורט 1",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xdWV2SVhoT3NhaXRMMmtSeDA2WVY3YXNoU2hITnZoRVFOYWNYbmxITnJPRlc4SG85Y09pYTBwelFNZVp1dzk2Z0p5R3ZRT1BWdm1OWmphazRkU1dDbFUxVS1zV0ZxNHFG?oc=5",
+      "image": "",
+      "publishedAt": "Mon, 20 Jul 2026 07:32:35 GMT"
+    },
+    {
+      "category": "ארלינג האלנד",
+      "source": "חדשות ארלינג האלנד",
+      "title": "אנגליה כבר מכינה תירוצים, ברזיל מקווה לשרוד נגד ארלינג הולאנד",
+      "summary": "אנגליה כבר מכינה תירוצים, ברזיל מקווה לשרוד נגד ארלינג הולאנד &nbsp;&nbsp; הארץ",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQblFQczN4SlFFd29mSUppTjhUaHlWb3ZDUFpIdGxicFBkZ0RCTzlmOXd6N2JxWVV4QzNaY3cwMnkzQjB1bmRrU3NaT2xxWFhzN1p5WU9KQ1pnUkdzVWRnMno0aG1NdmpUSk1VeWx6VU50aWJCWjJWWndIYlRGTm5lOHVqWEpsX1FRZ0ZaVHpsVEg4MVRFQ2V5SFhCQWNaTDJyRXE1akNkTTUtaXJpb0E?oc=5",
+      "image": "",
+      "publishedAt": "Sun, 05 Jul 2026 07:00:00 GMT"
+    },
+    {
       "category": "אפל",
       "source": "גאדג׳טי — אפל",
       "title": "אפל מייקרת את מחירי השירותים בעולם - בישראל עדיין ללא שינוי",
@@ -851,45 +878,9 @@
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "פרסום ראשון: נעצרו הלילה שני חשודים בחשד שגרמו לשריפת הענק בשומרון",
+      "title": "סדרן באולם קולנוע העיר לנערים, הותקף קשות ופונה לבית החולים - המשטרה פתחה בחקירה",
       "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/criminal/artc-489a5e22",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "עקב הטענות נגדו: מח\"ט צנחנים לשעבר עמי ביטון פורש מצה\"ל - ולא יקודם למפקד אוגדה",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-f53e592c",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "היועמ\"שית לבג\"ץ: בן גביר מפר את הצו, כשלו ההסכמות מולו",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/law/artc-72151",
-      "image": "https://cdn.i24news.tv/uploads/87/36/34/e0/05/9b/c4/ad/86/06/f9/a0/76/48/22/ac/873634e0059bc4ad8606f9a0764822ac.jpg?width=350",
-      "publishedAt": ""
-    },
-    {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "בלי הורים ובלי גבולות: המציאות המדאיגה של בני הנוער בקיץ באילת",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/local/artc-aa984af7",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "עובדי רשות המסים נעצרו בחשד לקבלת שוחד - תמורת החזרי מס כוזבים",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/criminal/artc-af714a41",
+      "url": "https://www.i24news.tv/he/news/news/criminal/artc-70f14870",
       "image": "",
       "publishedAt": ""
     },
@@ -899,17 +890,71 @@
       "title": "\"אנחנו כבר לא תמימים\": סיור מיוחד בכפרים שבהם הוכרעו הקרבות מול חיזבאללה",
       "summary": "",
       "url": "https://www.i24news.tv/he/news/news/defense-news/artc-04b549d4",
+      "image": "https://cdn.i24news.tv/uploads/15/3e/21/3a/da/25/c9/89/69/0c/d2/85/ec/34/38/34/153e213ada25c989690cd285ec343834.jpg?width=350",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "גידל סמים בביתו: שנה מאסר לבן זוגה של היועצת של מאי גולן",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/criminal/artc-72161",
+      "image": "https://cdn.i24news.tv/uploads/73/db/d3/5a/ee/4c/5f/5c/14/61/2d/c9/e0/b7/fd/ec/73dbd35aee4c5f5c14612dc9e0b7fdec.jpeg?width=350",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "\"השתמש במאגרים\": אישום נגד קצין משטרה שסחט נשים",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/criminal/artc-3ad05a8e",
+      "image": "https://cdn.i24news.tv/uploads/cf/a7/74/27/d5/67/3c/5d/78/6c/9a/07/57/a5/1e/c3/cfa77427d5673c5d786c9a0757a51ec3.jpg?width=350",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "5 חברי המל\"ג התפטרו בעקבות אישור החוק להפרדה מגדרית באקדמיה",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/education/artc-9f5246df",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "בצל דיווחים על כוויות: אזהרה רשמית מצעצוע הסקווישי - \"לנקוט במשנה זהירות\"",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/health/artc-72158",
       "image": "",
       "publishedAt": ""
     },
     {
       "category": "טכנולוגיה",
       "source": "גיקטיים",
-      "title": "המדינה בהחלטה דרמטית: עוצרת הקמת דאטה-סנטרים חדשים",
-      "summary": "רשות החשמל הודיעה לפני זמן קצר (ב') על החלטה דרמטית שצפויה להשפיע על תעשיית הטכנולוגיה המקומית: המדינה עוצרת אישורים לחיבור חוות שרתים חדשות לרשת החשמל למשך 140 ימים. הסיבה למהלך היא עומס חסר תקדים של בקשות חיבור, המאיים על יציבות משק החשמל הישראלי. פי 3 מהצריכה הממוצעת על פי רשות החשמל, בתוך כחודשי",
-      "url": "https://www.geektime.co.il/israel-freezes-new-data-centers/",
+      "title": "איך מונעים מהאייג'נט לשרוף לכם את הכסף?",
+      "summary": "בשלב הזה סביר להניח שכולכם כבר משתמשים באייג'נטים, אבל בכנס Geektime Code 2026 שנערך היום (ב') בגני התערוכה בתל אביב עם למעלה מ-1,500 מפתחות ומפתחים, לשרה גרניט מ-Intel הייתה שאלה פשוטה: אתם באמת יודעים מה האייג'נטים שלכם עושים בשתיים בלילה? כי זה עלול לעלות לכם ביוקר. הטעות שעולה במיליוני טוקנים גר",
+      "url": "https://www.geektime.co.il/human-in-the-loop-code-2026/",
       "image": "",
-      "publishedAt": "Mon, 20 Jul 2026 07:11:50 +0000"
+      "publishedAt": "Mon, 20 Jul 2026 10:18:53 +0000"
+    },
+    {
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "\"במקום שבו ה-AI פוגש סייבר יש הזדמנויות מטורפות\"",
+      "summary": "כנס Geektime Code 2026 נפתח הבוקר (ב') עם הרצאת פתיחה של עמירם שחר, מייסד ומנכ\"ל היוניקורן הישראלי Upwind Security. שחר עלה לבמה ודיבר על אחד הנושאים החמים של התקופה – הסיכונים והיתרונות של כלי AI בעולמות הסייבר. \"ה-AI משנה את חוקי הפיזיקה\" \"ה-AI ממש שינה את חוקי הפיזיקה\", הכריז שחר על הבמה, כשהוא מ",
+      "url": "https://www.geektime.co.il/geektime-code-2026-opening-keynote/",
+      "image": "",
+      "publishedAt": "Mon, 20 Jul 2026 09:32:17 +0000"
+    },
+    {
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "התפוצצה עסקת האקזיט של esh של ניר צוק",
+      "summary": "מה קורה בבנק הדיגיטלי שהבטיח לחלוק עם הלקוחות כחצי מההכנסות שלו? אחרי שהבטיח השקה \"בתחילת 2026\", וכבר הספיק להודיע על אקזיט – כעת מודיעה הרוכשת כי היא מוותרת על העסקה. מ-400 מיליון שקל ל\"לא משנה\" נזכיר כי לקראת סוף שנת 2025 נחשף לראשונה esh, הבנק הדיגיטלי החדש שבין מייסדיו נמצא היזם ניר צוק מ-Palo A",
+      "url": "https://www.geektime.co.il/bank-esh-acquisition-failed/",
+      "image": "",
+      "publishedAt": "Mon, 20 Jul 2026 07:45:07 +0000"
     },
     {
       "category": "ספורט",
@@ -941,29 +986,101 @@
     {
       "category": "מסי",
       "source": "חדשות מסי",
-      "title": "מסי נשדד? הבחירה ברודרי לשחקן המצטיין הציתה סערה: \"פיפ\"א מאבדת אמינות\"",
-      "summary": "מסי נשדד? הבחירה ברודרי לשחקן המצטיין הציתה סערה: \"פיפ\"א מאבדת אמינות\" &nbsp;&nbsp; ספורט 1",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xdWV2SVhoT3NhaXRMMmtSeDA2WVY3YXNoU2hITnZoRVFOYWNYbmxITnJPRlc4SG85Y09pYTBwelFNZVp1dzk2Z0p5R3ZRT1BWdm1OWmphazRkU1dDbFUxVS1zV0ZxNHFG?oc=5",
+      "title": "אפילו ליאונל מסי לא הצליח לשבור את הקללה ההיסטורית",
+      "summary": "אפילו ליאונל מסי לא הצליח לשבור את הקללה ההיסטורית &nbsp;&nbsp; וואלה ספורט",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xWXhfMFBiTWdvWDh5ZDNiRm83d3RFcnVmd2wxdzExOUlfaXlFLW1TS09EVUZCTE5zVGExMnB6SEs5UW4wSGtLb2wteVd2a0t2?oc=5",
       "image": "",
-      "publishedAt": "Mon, 20 Jul 2026 07:32:35 GMT"
-    },
-    {
-      "category": "ארלינג האלנד",
-      "source": "חדשות ארלינג האלנד",
-      "title": "אנגליה כבר מכינה תירוצים, ברזיל מקווה לשרוד נגד ארלינג הולאנד",
-      "summary": "אנגליה כבר מכינה תירוצים, ברזיל מקווה לשרוד נגד ארלינג הולאנד &nbsp;&nbsp; הארץ",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQblFQczN4SlFFd29mSUppTjhUaHlWb3ZDUFpIdGxicFBkZ0RCTzlmOXd6N2JxWVV4QzNaY3cwMnkzQjB1bmRrU3NaT2xxWFhzN1p5WU9KQ1pnUkdzVWRnMno0aG1NdmpUSk1VeWx6VU50aWJCWjJWWndIYlRGTm5lOHVqWEpsX1FRZ0ZaVHpsVEg4MVRFQ2V5SFhCQWNaTDJyRXE1akNkTTUtaXJpb0E?oc=5",
-      "image": "",
-      "publishedAt": "Sun, 05 Jul 2026 07:00:00 GMT"
+      "publishedAt": "Mon, 20 Jul 2026 09:10:00 GMT"
     }
   ],
   "flashes": [
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "דובר משרד החוץ האיראני: המתווכות העבירו הודעות אל טהראן בימים האחרונים",
+      "title": "גפני מודה: טעות כשנכנסנו לקואליציית נתניהו, יוקר המחיה הוא כישלון",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957363.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957374.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "דגל התורה של גפני בהודעה נגד נתניהו: מי שאינו חי את עולם התורה ואינו מבין את עומק דבריהם, מוטב שלא ימהר לפרשם, ובוודאי שלא לתוקפם",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957382.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "קורות-עץ שנשרפו בימי חורבן בית-המקדש הראשון נחשפו לאחרונה בעיר-דוד.",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957378.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "הדר מוכתר איבדה סיכוי ריאלי להכנס לרשימת הליכוד",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957381.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "כך מבטלים את אוסלו'': הכביש שיקצר את הדרך לשרון",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957373.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "סיוט ב-480 שקל: שליח וולט הפיל את הסושי על המדרכה, והחזיר אותו לקופסה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957379.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "פרופסור ספיר (מומחה למשפט חוקתי): מדינת ישראל חדלה מלתפקד כדמוקרטיה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957365.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "סדרן בקולנוע העיר לנערים שהשתוללו - והוכה קשות: ''6 קפצו עליו, פירקו אותו''",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957375.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "יאיר גולן בפתיחת הפרימריז: אסור שהקואליציה העתידית תכלול אף מפלגה מזו הנוכחית. לא רק החרדים, גם הלאומנים הקיצוניים, והמושחתים.",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957368.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "בני ביטון, חבר ליכוד וראש עיריית דימונה: ''כאשר ישראל במלחמה, האחריות הציבורית שלנו היא לעשות פסק זמן ולתת לנתניהו להרכיב את הרשימה לכנסת''",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957380.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -973,6 +1090,96 @@
       "title": "היועמ״שית מודיעה לבג״ץ כי המאמצים להגיע להסכמות עם בן גביר עלו בתוהו: ״נותרו פערים מהותיים,",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957358.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "גורמים במערכת הביטחון טוענים כי הנהגת איראן מתווכחת בשאלה האם לתקוף את ישראל",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957376.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "אמיר רובין, מבכירי הרופאים האורתופדים בישראל ''לא לומדים רפואה בבית ספר לרפואה/באוניברסיטה. מקצוע הרפואה הוא פונקציה של מיומנות",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957377.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "בגלל חוק ההפרדה המגדרית: 5 חברי מל''ג התפטרו",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957369.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "נתניהו נגד הרב לנדו שתקף את הציונות הדתית: ''דברים מזעזעים''",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957370.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "רשות החשמל בהחלטה תקדימית: לא יתאפשרו חיבור חוות שרתים חדשות לרשת החשמל לאחר שלא נותר עוד מקום ברשת",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957366.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "סקר כאן 11: איזנקוט 22, ליכוד 21. שמאל+ערבים 65, ימין51 ,הנדל וטרופר 4",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957323.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "הראיון של דנה וייס עם דניאלה גלבוע, התצפנית מנחל עוז.",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957325.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "''הפכה לעיקר חייו'': מאסר בפועל למור ביטון מלוד, בעלה של העוזרת של מאי גולן שהחזיק מעבדת סמים",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957367.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "מעריב: ש''ס ויהדות התורה בלמו את ההצבעה בכנסת על ההכרה ברצח העם הארמני, לאחר פניות מגורמים באזרבייג׳ן",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957357.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "דובר משרד החוץ האיראני: המתווכות העבירו הודעות אל טהראן בימים האחרונים",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957363.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1018,15 +1225,6 @@
       "title": "פיקוד המרכז האמריקני מסר לפני זמן קצר (שני) כי השלים את סבב התקיפות התשיעי שלו באיראן.",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957350.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "סקר כאן 11: איזנקוט 22, ליכוד 21. שמאל+ערבים 65, ימין51 ,הנדל וטרופר 4",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957323.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1099,15 +1297,6 @@
       "title": "איראן מגנה את התקיפה האמריקאית על תחנת הכוח (הגרעינית) דרכובין שנמצאת בבנייה. (תקיפה היתה ב-19 ליולי לפנות בוקר)",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957359.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "מעריב: ש''ס ויהדות התורה בלמו את ההצבעה בכנסת על ההכרה ברצח העם הארמני, לאחר פניות מגורמים באזרבייג׳ן",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957357.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1216,15 +1405,6 @@
       "title": "הכנסייה האנגליקנית אימצה את מסמך ''קיירוס 2'' המכשיר את ה-7 באוקטובר; זעזוע ביהדות בריטניה",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957306.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "הראיון של דנה וייס עם דניאלה גלבוע, התצפנית מנחל עוז.",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957325.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
