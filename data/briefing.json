@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "updatedAt": "2026-07-20T22:03:08.581Z",
+  "updatedAt": "2026-07-20T23:32:09.197Z",
   "stories": [
     {
       "category": "טכנולוגיה",
@@ -327,168 +327,6 @@
       "publishedAt": ""
     },
     {
-      "category": "אפל",
-      "source": "גאדג׳טי — אפל",
-      "title": "אפל מייקרת את מחירי השירותים בעולם - בישראל עדיין ללא שינוי",
-      "summary": "",
-      "url": "https://www.gadgety.co.il/365850/apple-services-price-update-july-2026/",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "אפל",
-      "source": "גאדג׳טי — אפל",
-      "title": "אפל תציג השנה iPad mini עם מסך OLED ושדרוג משמעותי ראשון מזה חצי עשור (דיווח)",
-      "summary": "",
-      "url": "https://www.gadgety.co.il/365811/apple-2026-ipad-refresh-leak/",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "אפל",
-      "source": "גאדג׳טי — אפל",
-      "title": "אפל תשיק שרתי AI מבוססי M7 Ultra ומשנה את מפת הדרכים לשנת 2028 (דיווח)",
-      "summary": "",
-      "url": "https://www.gadgety.co.il/365597/apple-m7-ultra-ai-servers/",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "אפל",
-      "source": "גאדג׳טי — אפל",
-      "title": "אפל משיקה את הבטא הציבורית של iOS 27 ומערכות הפעלה נוספות",
-      "summary": "",
-      "url": "https://www.gadgety.co.il/365624/ios-27-public-beta/",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "אפל",
-      "source": "גאדג׳טי — אפל",
-      "title": "אפל תובעת את OpenAI: מאשימה אותה בגניבת סודות מסחריים לפיתוח מכשיר AI",
-      "summary": "",
-      "url": "https://www.gadgety.co.il/365484/apple-sues-openai-over-hardware/",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "אפל",
-      "source": "גאדג׳טי — אפל",
-      "title": "אפל דורשת מנוי iCloud+ של 2TB ומעלה בשביל פיצ'רי AI ב-Home App",
-      "summary": "",
-      "url": "https://www.gadgety.co.il/365263/apple-home-ai-is-expensive/",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "אפל",
-      "source": "גאדג׳טי — אפל",
-      "title": "מלאי ה-iPhone Ultra המתקפל של אפל צפוי להיות מוגבל במיוחד במהלך 2026 (דיווח)",
-      "summary": "",
-      "url": "https://www.gadgety.co.il/365197/iphone-ultra-limited-supply/",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "אפל",
-      "source": "גאדג׳טי — אפל",
-      "title": "הכרזות טכנולוגיה מהשבוע החולף: גוגל מפסידה מיליארדים, אפל נלחמת על שבבים ומיקרוסופט מחסלת את דגמי ה-Go",
-      "summary": "",
-      "url": "https://www.gadgety.co.il/365124/weekly-tech-update-jul3-2026/",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "אפל",
-      "source": "גאדג׳טי — אפל",
-      "title": "אפל מתכננת שדרוג נרחב לסדרת ה-iPad Pro ועיצוב מחדש ל-MacBook Pro ב-2027 (דיווח)",
-      "summary": "",
-      "url": "https://www.gadgety.co.il/365080/ipad-pro-update-coming/",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "אפל",
-      "source": "גאדג׳טי — אפל",
-      "title": "אפל מעדכנת את חבילת האפליקציות Apple Creator Studio עם כלי AI חדשים",
-      "summary": "",
-      "url": "https://www.gadgety.co.il/365041/apple-creator-studio-gets-ai/",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "אפל",
-      "source": "גאדג׳טי — אפל",
-      "title": "אפל תדלג על שבבי ה-M6 Pro וה-M6 Max לטובת סדרת M7 ממוקדת AI (דיווח)",
-      "summary": "",
-      "url": "https://www.gadgety.co.il/364673/apple-to-skip-m6-pro-for-m7/",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "אפל",
-      "source": "גאדג׳טי — אפל",
-      "title": "אפל מעלה את מחירי המק, האייפד ו-Vision Pro בעולם בעקבות מחסור בשבבים",
-      "summary": "",
-      "url": "https://www.gadgety.co.il/364614/apple-price-hikes/",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "עשרות חסידי גור מפגינים ליד בית היועמ\"שית, מאות פרצו את הגדר ליד כלא 10",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/local/artc-094a3c90",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "לילה עשירי ברציפות: ארה\"ב פתחה בגל תקיפות חדש נגד מטרות צבאיות באיראן",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-291160f9",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "חשיפה: השר בן גביר התערב וקבע למפכ\"ל המיועד דני לוי מי יהיה עוזרו | אבישי גרינצייג",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/local/artc-404f5f3f",
-      "image": "https://cdn.i24news.tv/uploads/f0/94/49/ac/9f/e8/41/24/a6/17/e1/32/63/ab/58/ff/f09449ac9fe84124a617e13263ab58ff.jpg?width=350",
-      "publishedAt": ""
-    },
-    {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "במקום גיוס: שר הביטחון מקדם - הרחבת שירות אזרחי לחרדים",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-d17c4f44",
-      "image": "https://cdn.i24news.tv/uploads/61/a8/bc/b5/3b/4d/fc/93/e4/7b/ab/55/32/0f/75/6b/61a8bcb53b4dfc93e47bab55320f756b.jpg?width=350",
-      "publishedAt": ""
-    },
-    {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "התוכניות כבר מוכנות: הסלמה נוספת צפויה בפעילות הצבאית נגד איראן",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-ecad4e26",
-      "image": "https://cdn.i24news.tv/uploads/f7/ad/83/0f/57/76/98/0e/e0/88/3f/c2/3d/73/74/a3/f7ad830f5776980ee0883fc23d7374a3.jpeg?width=350",
-      "publishedAt": ""
-    },
-    {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "מבחן ריבונות בלבנון: החל פיילוט \"מרחב בטוח\" בשלושה כפרים בדרום",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-527349c6",
-      "image": "https://cdn.i24news.tv/uploads/8d/54/6b/d7/3b/03/20/c7/09/59/90/ae/6a/00/78/bc/8d546bd73b0320c7095990ae6a0078bc.jpeg?width=350",
-      "publishedAt": ""
-    },
-    {
       "category": "טכנולוגיה",
       "source": "גיקטיים",
       "title": "טריילר חדש ל\"הנוקמים\" עם רוברט דאוני ג'וניור כדוקטור דום",
@@ -595,33 +433,6 @@
       "url": "https://www.evm.co.il/zeekr-offers-april-deals-2026/",
       "image": "",
       "publishedAt": "Wed, 29 Apr 2026 04:29:35 +0000"
-    },
-    {
-      "category": "ספורט",
-      "source": "ערוץ הספורט — ישראלים ב־NBA",
-      "title": "2 נקודות לבן שרף ו-4 לדני וולף, הנטס הובסו ולא עלו לחצי הגמר",
-      "summary": "",
-      "url": "https://nba.sport5.co.il/articles.aspx?FolderID=403&docID=552486",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "ספורט",
-      "source": "ערוץ הספורט — ישראלים ב־NBA",
-      "title": "סוף הדרך: דני אבדיה ופורטלנד הודחו ע\"י סן אנטוניו",
-      "summary": "",
-      "url": "https://vod.sport5.co.il/?Vc=12190&Vi=542697",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "ספורט",
-      "source": "ערוץ הספורט — ישראלים ב־NBA",
-      "title": "על שחקן 2.16 מטר: צפו בפוסטר של דני וולף",
-      "summary": "",
-      "url": "https://www.sport5.co.il/articles.aspx?FolderID=8166&docID=552244",
-      "image": "",
-      "publishedAt": ""
     },
     {
       "category": "רונאלדיניו",
@@ -838,9 +649,333 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JN2NBd2lPNjhDQjVtODNraUJQZEhjLXRxcWp2OS1Zc0g4WmxzLV9BZGs4dVFfWEozRXFCZUZDcXQ4b0h4LVBiSkxaeU5rQTNWVFdCYmlXRjRBWmlXUTlRQXNIZlRDY19ZVmp1UQ?oc=5",
       "image": "",
       "publishedAt": "Thu, 09 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "category": "אפל",
+      "source": "גאדג׳טי — אפל",
+      "title": "אפל מייקרת את מחירי השירותים בעולם - בישראל עדיין ללא שינוי",
+      "summary": "",
+      "url": "https://www.gadgety.co.il/365850/apple-services-price-update-july-2026/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "אפל",
+      "source": "גאדג׳טי — אפל",
+      "title": "אפל תציג השנה iPad mini עם מסך OLED ושדרוג משמעותי ראשון מזה חצי עשור (דיווח)",
+      "summary": "",
+      "url": "https://www.gadgety.co.il/365811/apple-2026-ipad-refresh-leak/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "אפל",
+      "source": "גאדג׳טי — אפל",
+      "title": "אפל תשיק שרתי AI מבוססי M7 Ultra ומשנה את מפת הדרכים לשנת 2028 (דיווח)",
+      "summary": "",
+      "url": "https://www.gadgety.co.il/365597/apple-m7-ultra-ai-servers/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "אפל",
+      "source": "גאדג׳טי — אפל",
+      "title": "אפל משיקה את הבטא הציבורית של iOS 27 ומערכות הפעלה נוספות",
+      "summary": "",
+      "url": "https://www.gadgety.co.il/365624/ios-27-public-beta/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "אפל",
+      "source": "גאדג׳טי — אפל",
+      "title": "אפל תובעת את OpenAI: מאשימה אותה בגניבת סודות מסחריים לפיתוח מכשיר AI",
+      "summary": "",
+      "url": "https://www.gadgety.co.il/365484/apple-sues-openai-over-hardware/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "אפל",
+      "source": "גאדג׳טי — אפל",
+      "title": "אפל דורשת מנוי iCloud+ של 2TB ומעלה בשביל פיצ'רי AI ב-Home App",
+      "summary": "",
+      "url": "https://www.gadgety.co.il/365263/apple-home-ai-is-expensive/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "אפל",
+      "source": "גאדג׳טי — אפל",
+      "title": "מלאי ה-iPhone Ultra המתקפל של אפל צפוי להיות מוגבל במיוחד במהלך 2026 (דיווח)",
+      "summary": "",
+      "url": "https://www.gadgety.co.il/365197/iphone-ultra-limited-supply/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "אפל",
+      "source": "גאדג׳טי — אפל",
+      "title": "הכרזות טכנולוגיה מהשבוע החולף: גוגל מפסידה מיליארדים, אפל נלחמת על שבבים ומיקרוסופט מחסלת את דגמי ה-Go",
+      "summary": "",
+      "url": "https://www.gadgety.co.il/365124/weekly-tech-update-jul3-2026/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "אפל",
+      "source": "גאדג׳טי — אפל",
+      "title": "אפל מתכננת שדרוג נרחב לסדרת ה-iPad Pro ועיצוב מחדש ל-MacBook Pro ב-2027 (דיווח)",
+      "summary": "",
+      "url": "https://www.gadgety.co.il/365080/ipad-pro-update-coming/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "אפל",
+      "source": "גאדג׳טי — אפל",
+      "title": "אפל מעדכנת את חבילת האפליקציות Apple Creator Studio עם כלי AI חדשים",
+      "summary": "",
+      "url": "https://www.gadgety.co.il/365041/apple-creator-studio-gets-ai/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "אפל",
+      "source": "גאדג׳טי — אפל",
+      "title": "אפל תדלג על שבבי ה-M6 Pro וה-M6 Max לטובת סדרת M7 ממוקדת AI (דיווח)",
+      "summary": "",
+      "url": "https://www.gadgety.co.il/364673/apple-to-skip-m6-pro-for-m7/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "אפל",
+      "source": "גאדג׳טי — אפל",
+      "title": "אפל מעלה את מחירי המק, האייפד ו-Vision Pro בעולם בעקבות מחסור בשבבים",
+      "summary": "",
+      "url": "https://www.gadgety.co.il/364614/apple-price-hikes/",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "עשרות חסידי גור מפגינים ליד בית היועמ\"שית, מאות פרצו את הגדר ליד כלא 10",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/local/artc-094a3c90",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "לילה עשירי ברציפות: ארה\"ב פתחה בגל תקיפות חדש נגד מטרות צבאיות באיראן",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-291160f9",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "חשיפה: השר בן גביר התערב וקבע למפכ\"ל המיועד דני לוי מי יהיה עוזרו | אבישי גרינצייג",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/local/artc-404f5f3f",
+      "image": "https://cdn.i24news.tv/uploads/f0/94/49/ac/9f/e8/41/24/a6/17/e1/32/63/ab/58/ff/f09449ac9fe84124a617e13263ab58ff.jpg?width=350",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "במקום גיוס: שר הביטחון מקדם - הרחבת שירות אזרחי לחרדים",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-d17c4f44",
+      "image": "https://cdn.i24news.tv/uploads/61/a8/bc/b5/3b/4d/fc/93/e4/7b/ab/55/32/0f/75/6b/61a8bcb53b4dfc93e47bab55320f756b.jpg?width=350",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "התוכניות כבר מוכנות: הסלמה נוספת צפויה בפעילות הצבאית נגד איראן",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-ecad4e26",
+      "image": "https://cdn.i24news.tv/uploads/f7/ad/83/0f/57/76/98/0e/e0/88/3f/c2/3d/73/74/a3/f7ad830f5776980ee0883fc23d7374a3.jpeg?width=350",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "מבחן ריבונות בלבנון: החל פיילוט \"מרחב בטוח\" בשלושה כפרים בדרום",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-527349c6",
+      "image": "https://cdn.i24news.tv/uploads/8d/54/6b/d7/3b/03/20/c7/09/59/90/ae/6a/00/78/bc/8d546bd73b0320c7095990ae6a0078bc.jpeg?width=350",
+      "publishedAt": ""
+    },
+    {
+      "category": "ספורט",
+      "source": "ערוץ הספורט — ישראלים ב־NBA",
+      "title": "2 נקודות לבן שרף ו-4 לדני וולף, הנטס הובסו ולא עלו לחצי הגמר",
+      "summary": "",
+      "url": "https://nba.sport5.co.il/articles.aspx?FolderID=403&docID=552486",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "ספורט",
+      "source": "ערוץ הספורט — ישראלים ב־NBA",
+      "title": "סוף הדרך: דני אבדיה ופורטלנד הודחו ע\"י סן אנטוניו",
+      "summary": "",
+      "url": "https://vod.sport5.co.il/?Vc=12190&Vi=542697",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "ספורט",
+      "source": "ערוץ הספורט — ישראלים ב־NBA",
+      "title": "על שחקן 2.16 מטר: צפו בפוסטר של דני וולף",
+      "summary": "",
+      "url": "https://www.sport5.co.il/articles.aspx?FolderID=8166&docID=552244",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מסי",
+      "source": "חדשות מסי",
+      "title": "הצד הארגנטינאי: אין כבר מה להשוות את מסי לפלה, מראדונה ורונאלדו",
+      "summary": "הצד הארגנטינאי: אין כבר מה להשוות את מסי לפלה, מראדונה ורונאלדו &nbsp;&nbsp; ספורט 1",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaXFUV1BCaXI4YTlqWjRZcVRhRC1rMTJWOGlYY1VQVndlb0dHdGxhaDVKRWxPTTV4TjJOcy1wZkJRUWNFeGZYNmJHQzRBamtJUEhVeVJDM2NINHpNa3pQSTRjaDdIcGdBd1BFUkl6NjhmTEZPZ2M5VEFvendELTNpcFVMbzJ6VWZlcW9saEZlX3Zhc3dURjdaOXdEZlNtdUIwd3h2U01pajVIRUlnSG51bjJFNlZOakhadm1XbXNLbW8ySVVBWEtDZ21KRElnZWlrNEE?oc=5",
+      "image": "",
+      "publishedAt": "Mon, 20 Jul 2026 11:10:00 GMT"
+    },
+    {
+      "category": "דני אבדיה",
+      "source": "חדשות דני אבדיה",
+      "title": "\"מדאיג\": עתיד הבלייזרס בפורטלנד בסכנה",
+      "summary": "\"מדאיג\": עתיד הבלייזרס בפורטלנד בסכנה &nbsp;&nbsp; Sport5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mQ0pmMnBkVEpHRnVsYUMxREZsWmRNTGtIWFlxUGhhOTJfVlpkaHVJYmtmWmRKYUJiNUZWdEVpWXI2MDVaQ2YzZGNPM2o4ejNFaU84RzFkcnBCUzZ0LVVSbUk4bFdtT1JBN2JqYkpLaWpmQQ?oc=5",
+      "image": "",
+      "publishedAt": "Mon, 20 Jul 2026 16:04:31 GMT"
+    },
+    {
+      "category": "דני אבדיה",
+      "source": "חדשות דני אבדיה",
+      "title": "ידע לפני כשנה: התחזית המדהימה של דני אבדיה לגבי גמר המונדיאל",
+      "summary": "ידע לפני כשנה: התחזית המדהימה של דני אבדיה לגבי גמר המונדיאל &nbsp;&nbsp; ספורט 1",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FYnEzT0dCTXhuVGtwMnR6dVVFRUZVTHpvdFhWNndwVTJKd3NSaVZKeldGWWhjaEJFQVROSENPX3VwUUFEY2I2ZHBSa1JrYVBnMHFXVExTMXRnbHV2QjlxUWpCbG1ZVGkz?oc=5",
+      "image": "",
+      "publishedAt": "Sun, 19 Jul 2026 20:05:38 GMT"
     }
   ],
   "flashes": [
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "מתיחות בוושינגטון: סגן הנשיא ואנס מנסה לחסום את נתניהו מטראמפ",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957453.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ארגון תורת לחימה: דרישה מיו''ר ועדת הבחירות השופט נעם סולברג לפסול את מועמדי מפלגת ''הדמוקרטים'' שהסיתו לסרבנות בצה''ל*",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957434.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "בן גביר באולטימטום לנתניהו: ''התנאי לכניסת עוצמה יהודית לממשלה הבאה - הדחה מיידית של היועמ''שית''",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957429.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "תוצאות הפריימריז בדמוקרטים",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957420.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "נתוני רשות ההגירה בארה״ב: יותר מ־356 אלף גירושים מאז אוקטובר, יוני שבר שיא במעצרים",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957456.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "חשד לשוחד - במשך שנים: נעצרו עובדים ברשות המסים",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957353.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "''אמר שהאוטו פיקס - ואז יצא עשן'': המגרש שמוכר מכוניות מסוכנות",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957442.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "דיווח על מיכלית נוספת שהותקפה במיצרי הורמוז",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957452.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "חוות שרתי AI נוחתות בישראל - איך הן ישפיעו על הכיס שלנו?",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957441.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "יריב אופנהיימר מחק את החשבון שלו בטוויטר אחרי ההפסד בפריימריז ''הדמוקרטים''",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957454.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "נתניהו נגד הרב לנדו שתקף את הציונות הדתית: ''דברים מזעזעים''",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957370.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "טראמפ מטיל מכס של 50% על שורת מוצרים מקנדה בטענה ליחס בלתי הוגן כלפי ארצות הברית",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957455.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
     {
       "category": "מבזקים",
       "source": "רוטר",
@@ -862,18 +997,54 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "ארגון תורת לחימה: דרישה מיו''ר ועדת הבחירות השופט נעם סולברג לפסול את מועמדי מפלגת ''הדמוקרטים'' שהסיתו לסרבנות בצה''ל*",
+      "title": "סדרן בקולנוע העיר לנערים שהשתוללו - והוכה קשות: ''6 קפצו עליו, פירקו אותו''",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957434.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957375.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "נתניהו נגד הרב לנדו שתקף את הציונות הדתית: ''דברים מזעזעים''",
+      "title": "הערבי אזרח ישראל שביצע מתקפה בשרון, קיבל סיוע מערבים אחרים אזרחי ישראל",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957370.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957419.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "חסמו את המונית ודקרו למוות: עונשי מאסר כבדים לשלושת רוצחיו של אושר גזי",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957427.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "UKMTO: כלי שיט נפגע מטיל במצרי הורמוז",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957451.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "לא רק קוטג': התופעה שגורמת להשבתת קווי ייצור שלמים במפעלים בארץ (טכנאים לא מוכנים להגיע לישראל)",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957356.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "רשמי: המדינה מכירה בשריפת הענק בחוות גלעד בשומרון כפיגוע, התושבים יפוצו על נזקי פעולת האיבה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957390.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -901,24 +1072,6 @@
       "title": "נער בן 15 מחיפה קיבל זריקות נגד כלבת אחרי ששמע רעש מוזר במזגן, התקרב והיה במגע עם עטלף. חתול הבית טרף את העטלף וגם יקבל זריקות חיסון",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957437.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "חוות שרתי AI נוחתות בישראל - איך הן ישפיעו על הכיס שלנו?",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957441.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "בן גביר באולטימטום לנתניהו: ''התנאי לכניסת עוצמה יהודית לממשלה הבאה - הדחה מיידית של היועמ''שית''",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957429.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -982,15 +1135,6 @@
       "title": "סנטקום: צבא ארה״ב פתח בגל תקיפות באיראן",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957446.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "''אמר שהאוטו פיקס - ואז יצא עשן'': המגרש שמוכר מכוניות מסוכנות",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957442.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
