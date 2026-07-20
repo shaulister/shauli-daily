@@ -1,6 +1,6 @@
 {
   "date": "2026-07-20",
-  "updatedAt": "2026-07-20T15:29:46.087Z",
+  "updatedAt": "2026-07-20T17:04:05.812Z",
   "stories": [
     {
       "category": "טכנולוגיה",
@@ -858,6 +858,42 @@
       "publishedAt": "Sun, 19 Jul 2026 18:20:25 GMT"
     },
     {
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "לא באתם היום לכנס Geektime Code? חבל, תראו מה פספסתם",
+      "summary": "כ-1,500 מפתחות ומפתחים הגיעו היום (ב') לכנס Geektime Code, שהתקיים באקספו תל אביב עם עשרות סשנים מקצועיים, רעיונות מקוריים, חיבורים מעניינים ואווירה טובה. כמו בכל שנה, האג'נדה הייתה מורכבת מהרצאות עומק שצוללות ישר לתכלס, מציגות Use-cases אמיתיים ומעניקות כלים פרקטיים וחשיבה מחדש שאפשר ליישם מיד. את ",
+      "url": "https://www.geektime.co.il/geektime-code-2026-recap/",
+      "image": "",
+      "publishedAt": "Mon, 20 Jul 2026 15:00:07 +0000"
+    },
+    {
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "הסוס הטרויאני של ה-AI: כשהקוד המושלם של המודל מרסק את הפרודקשן",
+      "summary": "חשבתם ש-Codex ו-Claude Code יעשו לכם את העבודה בזמן שאתם שותים לאטה על חלב שיבולת שועל? תחשבו שוב. בהרצאה מרתקת בכנס Geektime Code, הסבירה אור ברוקמן מ-Google Cloud איך ה-LLMs הפכו לנשק עבור האקרים, למה עובדות על חתולים שוברות למודל את הלוגיקה, ואיך מפתחים הפכו מ\"כותבי קוד\" ל\"חותמי לוגיקה\". ספוילר: ",
+      "url": "https://www.geektime.co.il/trojan-code-the-cyber-risks-of-ai-generated-code/",
+      "image": "",
+      "publishedAt": "Mon, 20 Jul 2026 14:40:56 +0000"
+    },
+    {
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "כך פיתחנו כלי שהופך 180 מיליון שורות קוד למשהו שאפשר לעבוד איתו",
+      "summary": "תארו לכם שאתם עובדים בארגון שמתחזק קוד-בייס מפלצתי, בן כמעט שלושה עשורים, עם יותר מ-180 מיליון שורות קוד בשפות שונות. איך לעזאזל מתחילים לעבוד עם משהו כזה או הופכים אותו לשמיש לכולם היום? יש לנו תחושה שכבר ניחשתם. המפלצת הקריטית שלא ברור מה קורה בתוכה בהרצאה שלו בכנס Geektime Code 2026 חשף עופרי וול",
+      "url": "https://www.geektime.co.il/reverse-engineering-180m-lines-of-code/",
+      "image": "",
+      "publishedAt": "Mon, 20 Jul 2026 14:30:03 +0000"
+    },
+    {
+      "category": "דני אבדיה",
+      "source": "חדשות דני אבדיה",
+      "title": "דיווח דרמטי: דני אבדיה ופורטלנד עשויים לעבור לאוקלהומה",
+      "summary": "דיווח דרמטי: דני אבדיה ופורטלנד עשויים לעבור לאוקלהומה &nbsp;&nbsp; היום",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15OXdDbG9oQUNXdldVNXV3TjFURW00cnUxR0tOdGdHRXBONERzZHNjdU1PWkZrZF94akM2VVhmOFBEVzE1WjZFT2tNbUN2QWdnbXBWVmQxa1pXbmptdHJlTXlHekFkY05JMWl6Mnh6OUg3YjFMc2xhWNIBgAFBVV95cUxNcV80YmhNNzFiMmQ2dktYX0gyWWhpdFRmb05oa2FhQzBucUh0OGdHOG9oNnlhQktzOHNLTFlQZzFfRHFjdkVWZTZ2cmNNVlU5MWtTR0I2cDk4UG5PMy1hTHBjME9rTVVkZ0FDbjBRWE5kbkNHZGNyZ2k3NTU5SGhHNQ?oc=5",
+      "image": "",
+      "publishedAt": "Mon, 20 Jul 2026 14:09:54 GMT"
+    },
+    {
       "category": "אפל",
       "source": "גאדג׳טי — אפל",
       "title": "אפל מייקרת את מחירי השירותים בעולם - בישראל עדיין ללא שינוי",
@@ -968,7 +1004,16 @@
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "דיווח: תקיפה בעיר שיראז שבדרום איראן",
+      "title": "פרסום ראשון: מנכ\"ל מועצת יש\"ע עומר רחמים בדרך לפוליטיקה",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/politics/artc-42954a70",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "צה\"ל חיסל מחבל שפשט למסיבת הנובה ב-7.10 ופיקד על חטיפתה של ענבר הימן ז\"ל",
       "summary": "",
       "url": "https://www.i24news.tv/he/news/news/defense-news/artc-291160f9",
       "image": "",
@@ -995,56 +1040,29 @@
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "סב פגע מינית בשתי נכדותיו בטענה ש\"הכין אותן לבגרות\"",
+      "title": "מיהו מנהיג הלשכה המדינית החדש של חמאס?",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-8a3652ea",
+      "image": "https://cdn.i24news.tv/uploads/6e/a3/0d/65/38/e8/62/b3/35/0e/63/ac/c9/65/bf/59/6ea30d6538e862b3350e63acc965bf59.jpg?width=350",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "חשד: סב מבת ים פגע מינית בשתי נכדותיו בטענה ש\"הכין אותן לבגרות\"",
       "summary": "",
       "url": "https://www.i24news.tv/he/news/news/criminal/artc-fd4948e7",
-      "image": "https://cdn.i24news.tv/uploads/39/5a/07/bc/3e/7e/f3/cd/56/92/fc/ab/c7/d7/3d/4d/395a07bc3e7ef3cd5692fcabc7d73d4d.jpeg?width=350",
-      "publishedAt": ""
-    },
-    {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "אחרי הסערה: נזיפה בלבד לשוטרת שתועדה רוכבת על אופניים חשמליים ללא קסדה",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/criminal/artc-899255a2",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "חסמו את המונית, דקרו למוות והציתו את הרכב: עד 27 שנות מאסר לרוצחי אושר גזי",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/criminal/artc-85ee53cf",
       "image": "",
       "publishedAt": ""
     },
     {
       "category": "טכנולוגיה",
       "source": "גיקטיים",
-      "title": "לא באתם היום לכנס Geektime Code? חבל, תראו מה פספסתם",
-      "summary": "כ-1,500 מפתחות ומפתחים הגיעו היום (ב') לכנס Geektime Code, שהתקיים באקספו תל אביב עם עשרות סשנים מקצועיים, רעיונות מקוריים, חיבורים מעניינים ואווירה טובה. כמו בכל שנה, האג'נדה הייתה מורכבת מהרצאות עומק שצוללות ישר לתכלס, מציגות Use-cases אמיתיים ומעניקות כלים פרקטיים וחשיבה מחדש שאפשר ליישם מיד. את ",
-      "url": "https://www.geektime.co.il/geektime-code-2026-recap/",
+      "title": "טריילר חדש ל\"הנוקמים\" עם רוברט דאוני ג'וניור כדוקטור דום",
+      "summary": "מארוול שחררה היום (ב') את הטריילר לסרט \"הנוקמים: עלייתו של ד\"ר דום\" (Avengers: Doomsday), שמספק לנו הצצה ראשונה לרוברט דאוני ג'וניור בתפקיד הנבל דוקטור דום. הסרט יכלול דמויות רבות מיקומים שונים של מארוול כולל תור, לוקי, ארבעת המופלאים וצוות האקס-מן, קפטן אמריקה החדש, חייל החורף, אנטמן, שאנג צ’י ועוד",
+      "url": "https://www.geektime.co.il/avengers-doomsday-trailer-rdj-doom/",
       "image": "",
-      "publishedAt": "Mon, 20 Jul 2026 15:00:07 +0000"
-    },
-    {
-      "category": "טכנולוגיה",
-      "source": "גיקטיים",
-      "title": "הסוס הטרויאני של ה-AI: כשהקוד המושלם של המודל מרסק את הפרודקשן",
-      "summary": "חשבתם ש-Codex ו-Claude Code יעשו לכם את העבודה בזמן שאתם שותים לאטה על חלב שיבולת שועל? תחשבו שוב. בהרצאה מרתקת בכנס Geektime Code, הסבירה אור ברוקמן מ-Google Cloud איך ה-LLMs הפכו לנשק עבור האקרים, למה עובדות על חתולים שוברות למודל את הלוגיקה, ואיך מפתחים הפכו מ\"כותבי קוד\" ל\"חותמי לוגיקה\". ספוילר: ",
-      "url": "https://www.geektime.co.il/trojan-code-the-cyber-risks-of-ai-generated-code/",
-      "image": "",
-      "publishedAt": "Mon, 20 Jul 2026 14:40:56 +0000"
-    },
-    {
-      "category": "טכנולוגיה",
-      "source": "גיקטיים",
-      "title": "כך פיתחנו כלי שהופך 180 מיליון שורות קוד למשהו שאפשר לעבוד איתו",
-      "summary": "תארו לכם שאתם עובדים בארגון שמתחזק קוד-בייס מפלצתי, בן כמעט שלושה עשורים, עם יותר מ-180 מיליון שורות קוד בשפות שונות. איך לעזאזל מתחילים לעבוד עם משהו כזה או הופכים אותו לשמיש לכולם היום? יש לנו תחושה שכבר ניחשתם. המפלצת הקריטית שלא ברור מה קורה בתוכה בהרצאה שלו בכנס Geektime Code 2026 חשף עופרי וול",
-      "url": "https://www.geektime.co.il/reverse-engineering-180m-lines-of-code/",
-      "image": "",
-      "publishedAt": "Mon, 20 Jul 2026 14:30:03 +0000"
+      "publishedAt": "Mon, 20 Jul 2026 16:20:31 +0000"
     },
     {
       "category": "ספורט",
@@ -1074,16 +1092,232 @@
       "publishedAt": ""
     },
     {
+      "category": "מסי",
+      "source": "חדשות מסי",
+      "title": "הפרק האחרון: תודה לך, ליאו מסי – נפרדים מהשחקן הגדול ביותר בהיסטוריה",
+      "summary": "הפרק האחרון: תודה לך, ליאו מסי – נפרדים מהשחקן הגדול ביותר בהיסטוריה &nbsp;&nbsp; ספורט 1",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tRURVbGRaUjVJRlhhMUtySmxEdlNPMXFfY2xuX0RrTEhjTGZlMzdDSUViaFNlNjVjOWdYYUJlN1VQQ3pxSUJxMmdzMFV3dmRCNDFBNlpuaERvaG1KSEhnRUFBdFNCQkJC?oc=5",
+      "image": "",
+      "publishedAt": "Mon, 20 Jul 2026 17:02:20 GMT"
+    },
+    {
+      "category": "מסי",
+      "source": "חדשות מסי",
+      "title": "רמזו שליאו מסי יזכה? באתר כדור הזהב שלחו \"אזהרה\" והסעירו את ספרד",
+      "summary": "רמזו שליאו מסי יזכה? באתר כדור הזהב שלחו \"אזהרה\" והסעירו את ספרד &nbsp;&nbsp; ספורט 1",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vOHpyUXpkSmkyZkJJMnR5RFNQaEF5b19rTi10SDg2ZUFkckNqNm9qOEcxN2xYcWhFWVFnVWNCYXA1U254N0ZhMkFodS1ESHNrUjBJMmRSMjFYbGNzellnZmxiMk1uNjFY?oc=5",
+      "image": "",
+      "publishedAt": "Mon, 20 Jul 2026 16:39:47 GMT"
+    },
+    {
+      "category": "מסי",
+      "source": "חדשות מסי",
+      "title": "\"מסי סירב לעזור, מזל שרונצ'וק לא ידע\": הפוסט הנוקב של מעיין שרמן נגד כוכב הכדורגל -",
+      "summary": "\"מסי סירב לעזור, מזל שרונצ'וק לא ידע\": הפוסט הנוקב של מעיין שרמן נגד כוכב הכדורגל - &nbsp;&nbsp; באר שבע נט",
+      "url": "https://news.google.com/rss/articles/CBMi_ARBVV95cUxORU9ZS0ROcC11eS1tWE5jdlhzTnNQM0RhU0pBajZzSXlUXzFWbnAxcXRYUTcxZGlCNk93RzlIeUZyZFhRaVVmSllubVd0MVZVN21SVzhleTNROHFGVDgyYVNDeVJHZWRVSnozdjBSLVFnM2ZldkxrTnBlNTlCdHZuYVNvdUNLS0t2dVRRY0tOUE5URHNReGpweFBVOHd2MXNTUG4tY2lHZHpsUXFMblBsQXhXdGdySU9rMXBjWk9UZklhM1FaMGE5c3dLWG53SkVwbXdnRVl0TXh6QktSU05oczg4TDNYamw0OTNBX3EtemR0MkpnNWd6S0c2Q3BDd1lHYlVITFhIaWFWRmNFUU8yVWk4YngxUEtZemloT3ZWdnVCcXNKVkIyd3p3cGNDTVJfSHBKTXRzUXlhM2hZS1ZxQWlXS00wb0JKMVA4VFdTRG5laXpmZTk5bHROc0ZVaUUzOHFqVEZFVkVwaVFvV2ZMOEJxNkU5MU9xQm15UVRad0JOSlBxR2tJSmpDVFRjdjNHUXB6MXBDQl9MNW8yZWR5SGY0SlF1eXFJVVR5a21La3R0RTcyOF9uTDN6OUw2UEZ3ODZjbEd4YXpKbWpKSDJpaXA5blpTT2RCT0lxR0oyZEE3MlpldnpQaEUwQVl3MUJ2WjMwNVI3NF9KNWhOU3VBX1B3aXZZZlRSZ0xDVTFBUGRySGM0TDBWWUlSSTVfNWpXanlFVFdLMlVoS2JCTTB4dWlmUzN6RllaSjZZRHdTZlhTTzBJUGw1MVBhaXR5Vm5ia3V5VjlSRDY0SzJZNGd3THN3OW5VcjZlQXdfVmdLSnAxVko5cm9GcENwNlY?oc=5",
+      "image": "",
+      "publishedAt": "Mon, 20 Jul 2026 11:53:54 GMT"
+    },
+    {
       "category": "דני אבדיה",
       "source": "חדשות דני אבדיה",
-      "title": "דיווח דרמטי: דני אבדיה ופורטלנד עשויים לעבור לאוקלהומה",
-      "summary": "דיווח דרמטי: דני אבדיה ופורטלנד עשויים לעבור לאוקלהומה &nbsp;&nbsp; היום",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15OXdDbG9oQUNXdldVNXV3TjFURW00cnUxR0tOdGdHRXBONERzZHNjdU1PWkZrZF94akM2VVhmOFBEVzE1WjZFT2tNbUN2QWdnbXBWVmQxa1pXbmptdHJlTXlHekFkY05JMWl6Mnh6OUg3YjFMc2xhWNIBgAFBVV95cUxNcV80YmhNNzFiMmQ2dktYX0gyWWhpdFRmb05oa2FhQzBucUh0OGdHOG9oNnlhQktzOHNLTFlQZzFfRHFjdkVWZTZ2cmNNVlU5MWtTR0I2cDk4UG5PMy1hTHBjME9rTVVkZ0FDbjBRWE5kbkNHZGNyZ2k3NTU5SGhHNQ?oc=5",
+      "title": "\"מדאיג\": עתיד הבלייזרס בפורטלנד בסכנה",
+      "summary": "\"מדאיג\": עתיד הבלייזרס בפורטלנד בסכנה &nbsp;&nbsp; Sport5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mQ0pmMnBkVEpHRnVsYUMxREZsWmRNTGtIWFlxUGhhOTJfVlpkaHVJYmtmWmRKYUJiNUZWdEVpWXI2MDVaQ2YzZGNPM2o4ejNFaU84RzFkcnBCUzZ0LVVSbUk4bFdtT1JBN2JqYkpLaWpmQQ?oc=5",
       "image": "",
-      "publishedAt": "Mon, 20 Jul 2026 14:09:54 GMT"
+      "publishedAt": "Mon, 20 Jul 2026 16:04:31 GMT"
+    },
+    {
+      "category": "דני אבדיה",
+      "source": "חדשות דני אבדיה",
+      "title": "עתיד הטריילבלייזרס בסכנה: הקבוצה עשויה לעזוב את פורטלנד",
+      "summary": "עתיד הטריילבלייזרס בסכנה: הקבוצה עשויה לעזוב את פורטלנד &nbsp;&nbsp; ספורט 1",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93alRYZTlEeWlFTFB0aGdJMGVkNDB5akFCdmpwSjd4YTV6Q0F5cmNKMFJoT3JBWHlBM0o1Yi1vSWVzekVHTHc2RXlFd240bmpNNGFPa0tKWlhMcDFrbVI1TkhVVFBYXzgzTTBDZk9fU1NkTFU?oc=5",
+      "image": "",
+      "publishedAt": "Mon, 20 Jul 2026 16:21:18 GMT"
     }
   ],
   "flashes": [
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "תוצאות הפריימריז בדמוקרטים",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957420.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "נתניהו בישיבת הקבינט: הפשיעה הלאומנית זה סרטן מתפשט",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957421.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "טראמפ: נתניהו לא ייעצר בשום תנאי בעודו בארצות הברית",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957417.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "עמנואל מורנו מצא את מיקומו המדוייק של גלעד שליט בשבי החמאס והגיש תוכנית לחילוצו אך רוה''מ אולמרט, שר הביטחון עמיר פרץ והרמטכל חלוץ פסלו אותה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957414.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "פרופסור ספיר (מומחה למשפט חוקתי): מדינת ישראל חדלה מלתפקד כדמוקרטיה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957365.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "דגל התורה של גפני בהודעה נגד נתניהו: מי שאינו חי את עולם התורה ואינו מבין את עומק דבריהם, מוטב שלא ימהר לפרשם, ובוודאי שלא לתוקפם",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957382.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "הנהלת אוניברסיטת תל אביב התנצלה בפני חברי הסגל על כך שהזמינה את ד''ר דני גולד, תא''ל במילואים וראש מפאת, לשאת הרצאה בטקס מקבלי תואר דוקטור",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957413.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "הערבי אזרח ישראל שביצע מתקפה בשרון, קיבל סיוע מערבים אחרים אזרחי ישראל",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957419.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "הפריימריז במפלגת הדמוקרטים הסתיימו עם 95000 מצביעים ו85 אחוז הצבעה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957408.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "בג''ץ דן בעתירה המבקשת לחייב את ישראל להכניס לארץ תושבים עזתים חולים",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957411.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ח״כ ניסים ואטורי טוען שמפלגת הדמוקרטים נתמכת ע״י חמאס",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957389.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "טראמפ: בכל פעם שאיראן הורגת חייל אמריקאי, היא תשלם על ההרג הזה פי כמה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957416.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "דיווח: ממשל טראמפ שוקל לאסור מודלי בינה מלאכותית סיניים בארה״ב ולהכניס מעבדות סיניות לרשימה השחורה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957415.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ז׳אן נואל בורו, שר החוץ של צרפת: שני בכירים בשגרירות שלנו בטהרן ״אוימו באופן רציני״ ע״י אנשי שירותי הביטחון של איראן",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957407.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "תיעוד: אירוע קריסת המרפסת בירושלים בו נהרג אדם בן כ-80 HGoldich",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957409.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ראש ממשלת הונגריה: אציע לשחמטאית היהודייה יהודית פולגאר להתמנות לנשיאת המדינה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957331.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "שמעון אלקבץ על החרם של יאיר גולן על ערוץ 14: מזכיר את שיחות הטלפון שלו ללשכת מפקד התחנה ומלין על דברים שנאמרים",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957386.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "זעקת הקהילה האתיופית: כינוס חירום ברבנות הראשית למאבק בהתפשטות המיסיון",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957410.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ירושלים: מרפסת קרסה על מאפייה | הרוג ו5 קל",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957402.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "עמית סגל כעת באולפן: במהלך המאבק על הגיוס, יחצ״נים חרדים קיבלו הרבה מאוד כסף מגורמים במחאה שרצו בהפלת הממשלה.",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957412.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
     {
       "category": "מבזקים",
       "source": "רוטר",
@@ -1099,15 +1333,6 @@
       "title": "לאור ההתפטרויות במל״ג, השר קיש פועל למנות את פאנליסט ערוץ 14 פרופ משה כהן אליה כחבר במל״ג",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957405.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "ח״כ ניסים ואטורי טוען שמפלגת הדמוקרטים נתמכת ע״י חמאס",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957389.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1132,27 +1357,9 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "שמעון אלקבץ על החרם של יאיר גולן על ערוץ 14: מזכיר את שיחות הטלפון שלו ללשכת מפקד התחנה ומלין על דברים שנאמרים",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957386.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "כך מבטלים את אוסלו'': הכביש שיקצר את הדרך לשרון",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957373.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "ירושלים: מרפסת קרסה על מאפייה | הרוג ו5 קל",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957402.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1234,15 +1441,6 @@
       "title": "עדכון על הנופלים האמריקאיים בהתקפה האיראנית ביום שישי בירדן, חייל וחיילת",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957399.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "פרופסור ספיר (מומחה למשפט חוקתי): מדינת ישראל חדלה מלתפקד כדמוקרטיה",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957365.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1360,15 +1558,6 @@
       "title": "סיוט ב-480 שקל: שליח וולט הפיל את הסושי על המדרכה, והחזיר אותו לקופסה",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957379.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "דגל התורה של גפני בהודעה נגד נתניהו: מי שאינו חי את עולם התורה ואינו מבין את עומק דבריהם, מוטב שלא ימהר לפרשם, ובוודאי שלא לתוקפם",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957382.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1627,15 +1816,6 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "ראש ממשלת הונגריה: אציע לשחמטאית היהודייה יהודית פולגאר להתמנות לנשיאת המדינה",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957331.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "המוני משתתפים בצעדת האלפים לעזה",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957304.shtml?utm_source=rotter.net&utm_medium=mivzakside",
@@ -1675,132 +1855,6 @@
       "title": "הכנסייה האנגליקנית אימצה את מסמך ''קיירוס 2'' המכשיר את ה-7 באוקטובר; זעזוע ביהדות בריטניה",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957306.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "שרפת ענק בנורווגיה החריבה מאות בתים, וכבר יש מי שמנסה להאשים את ישראל",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957295.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "לראשונה מאז תחילת גל התקיפות הנוכחי של ארה''ב באירן - תקיפה ופיצוצים בעיר טבריז שבצפון איראן",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957348.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "צבע אדום (02:59): כפר עזה",
-      "summary": "",
-      "url": "https://rotter.net/forum/scoops1/957343.shtml",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "צבע אדום (02:59): כפר עזה, סעד",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957343.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "האיראנים יורים על ספינות במפרץ. פיצוצים באמירויות",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957342.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "פרופסור אשר כהן (בר אילן): 77 אחוז מהגברים היהודים לא עשו שום מילואים , בתקופת שיא הגיוס. בניכוי החרדים, מדובר ב63 אחוז מהגברים היהודים.",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957258.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "כך נראה טרור ההצתות מצילום הרחפן (לא מדובר על ההצתה האחרונה בחוות גלעד)",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957329.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "נקבע מותו של רעד כזמיה בן 24 שנורה בחיפה לפני חודשיים",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957333.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "צבא ארצות הברית פתח בגל תקיפות חדש באיראן",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957340.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "ראש ממשלת מלזיה הורה לגרש לאלתר את כל הישראלים מהמדינה.",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957299.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "גמר מונדיאל 2026: ספרד מנצחת 1-0 את ארגנטינה וזוכה בגביע העולם",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957274.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "אייזנקוט במהדורה בכאן 11: ראש המפלגה הגדולה צריך להיות ראש הממשלה",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957322.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "הנשיא טראמפ ורעייתו הופיעו למשחק גמר המונדיאל בניו ג'רזי",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957328.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "''תופעה שלא הכרנו בהיקפים כאלה'': הדוח שצריך להטריד כל ישראלי שטס לחו''ל (45 דיווחים של ישראלים שנפגעו מאירועים אנטישמיים בשנה האחרונה)",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957247.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     }
