@@ -1,6 +1,6 @@
 {
   "date": "2026-07-20",
-  "updatedAt": "2026-07-20T10:56:07.810Z",
+  "updatedAt": "2026-07-20T13:11:20.990Z",
   "stories": [
     {
       "category": "טכנולוגיה",
@@ -768,6 +768,42 @@
       "publishedAt": "Sun, 05 Jul 2026 07:00:00 GMT"
     },
     {
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "איך מונעים מהאייג'נט לשרוף לכם את הכסף?",
+      "summary": "בשלב הזה סביר להניח שכולכם כבר משתמשים באייג'נטים, אבל בכנס Geektime Code 2026 שנערך היום (ב') בגני התערוכה בתל אביב עם למעלה מ-1,500 מפתחות ומפתחים, לשרה גרניט מ-Intel הייתה שאלה פשוטה: אתם באמת יודעים מה האייג'נטים שלכם עושים בשתיים בלילה? כי זה עלול לעלות לכם ביוקר. הטעות שעולה במיליוני טוקנים גר",
+      "url": "https://www.geektime.co.il/human-in-the-loop-code-2026/",
+      "image": "",
+      "publishedAt": "Mon, 20 Jul 2026 10:18:53 +0000"
+    },
+    {
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "\"במקום שבו ה-AI פוגש סייבר יש הזדמנויות מטורפות\"",
+      "summary": "כנס Geektime Code 2026 נפתח הבוקר (ב') עם הרצאת פתיחה של עמירם שחר, מייסד ומנכ\"ל היוניקורן הישראלי Upwind Security. שחר עלה לבמה ודיבר על אחד הנושאים החמים של התקופה – הסיכונים והיתרונות של כלי AI בעולמות הסייבר. \"ה-AI משנה את חוקי הפיזיקה\" \"ה-AI ממש שינה את חוקי הפיזיקה\", הכריז שחר על הבמה, כשהוא מ",
+      "url": "https://www.geektime.co.il/geektime-code-2026-opening-keynote/",
+      "image": "",
+      "publishedAt": "Mon, 20 Jul 2026 09:32:17 +0000"
+    },
+    {
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "התפוצצה עסקת האקזיט של esh של ניר צוק",
+      "summary": "מה קורה בבנק הדיגיטלי שהבטיח לחלוק עם הלקוחות כחצי מההכנסות שלו? אחרי שהבטיח השקה \"בתחילת 2026\", וכבר הספיק להודיע על אקזיט – כעת מודיעה הרוכשת כי היא מוותרת על העסקה. מ-400 מיליון שקל ל\"לא משנה\" נזכיר כי לקראת סוף שנת 2025 נחשף לראשונה esh, הבנק הדיגיטלי החדש שבין מייסדיו נמצא היזם ניר צוק מ-Palo A",
+      "url": "https://www.geektime.co.il/bank-esh-acquisition-failed/",
+      "image": "",
+      "publishedAt": "Mon, 20 Jul 2026 07:45:07 +0000"
+    },
+    {
+      "category": "מסי",
+      "source": "חדשות מסי",
+      "title": "אפילו ליאונל מסי לא הצליח לשבור את הקללה ההיסטורית",
+      "summary": "אפילו ליאונל מסי לא הצליח לשבור את הקללה ההיסטורית &nbsp;&nbsp; וואלה ספורט",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xWXhfMFBiTWdvWDh5ZDNiRm83d3RFcnVmd2wxdzExOUlfaXlFLW1TS09EVUZCTE5zVGExMnB6SEs5UW4wSGtLb2wteVd2a0t2?oc=5",
+      "image": "",
+      "publishedAt": "Mon, 20 Jul 2026 09:10:00 GMT"
+    },
+    {
       "category": "אפל",
       "source": "גאדג׳טי — אפל",
       "title": "אפל מייקרת את מחירי השירותים בעולם - בישראל עדיין ללא שינוי",
@@ -878,83 +914,83 @@
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "סדרן באולם קולנוע העיר לנערים, הותקף קשות ופונה לבית החולים - המשטרה פתחה בחקירה",
+      "title": "דיווח ברויטרס: המתווכות הציעו הפסקת אש ל-10 ימים בין איראן לארה\"ב",
       "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/criminal/artc-70f14870",
+      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-291160f9",
       "image": "",
       "publishedAt": ""
     },
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "\"אנחנו כבר לא תמימים\": סיור מיוחד בכפרים שבהם הוכרעו הקרבות מול חיזבאללה",
+      "title": "נתניהו גינה, ב\"דגל התורה\" תקפו: \"לא מבין את הדברים\"",
       "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-04b549d4",
-      "image": "https://cdn.i24news.tv/uploads/15/3e/21/3a/da/25/c9/89/69/0c/d2/85/ec/34/38/34/153e213ada25c989690cd285ec343834.jpg?width=350",
+      "url": "https://www.i24news.tv/he/news/news/politics/artc-5bd0508e",
+      "image": "https://cdn.i24news.tv/uploads/4c/d1/75/89/db/b9/ed/14/af/3c/42/cb/44/69/c1/7b/4cd17589dbb9ed14af3c42cb4469c17b.jpg?width=350",
       "publishedAt": ""
     },
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "גידל סמים בביתו: שנה מאסר לבן זוגה של היועצת של מאי גולן",
+      "title": "רצח את אשתו עם בקבוק יין בגלל ויכוח על מטלות הבית",
       "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/criminal/artc-72161",
-      "image": "https://cdn.i24news.tv/uploads/73/db/d3/5a/ee/4c/5f/5c/14/61/2d/c9/e0/b7/fd/ec/73dbd35aee4c5f5c14612dc9e0b7fdec.jpeg?width=350",
+      "url": "https://www.i24news.tv/he/news/news/criminal/artc-26003fae",
+      "image": "https://cdn.i24news.tv/uploads/ad/52/7a/52/21/d6/44/ce/72/30/73/a1/55/04/82/f3/ad527a5221d644ce723073a1550482f3.jpg?width=350",
       "publishedAt": ""
     },
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "\"השתמש במאגרים\": אישום נגד קצין משטרה שסחט נשים",
+      "title": "חסמו את המונית, דקרו למוות והציתו את הרכב: עד 27 שנות מאסר לרוצחי אושר גזי",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/criminal/artc-85ee53cf",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "\"השתמש בגישתו למאגרים משטרתיים\": אישום חמור נגד קצין משטרה שהטריד וסחט נשים",
       "summary": "",
       "url": "https://www.i24news.tv/he/news/news/criminal/artc-3ad05a8e",
-      "image": "https://cdn.i24news.tv/uploads/cf/a7/74/27/d5/67/3c/5d/78/6c/9a/07/57/a5/1e/c3/cfa77427d5673c5d786c9a0757a51ec3.jpg?width=350",
-      "publishedAt": ""
-    },
-    {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "5 חברי המל\"ג התפטרו בעקבות אישור החוק להפרדה מגדרית באקדמיה",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/education/artc-9f5246df",
       "image": "",
       "publishedAt": ""
     },
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "בצל דיווחים על כוויות: אזהרה רשמית מצעצוע הסקווישי - \"לנקוט במשנה זהירות\"",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/health/artc-72158",
-      "image": "",
+      "title": "סדרן באולם קולנוע העיר לנערים, הותקף קשות ופונה לבית החולים - המשטרה פתחה בחקירה קרא עוד..",
+      "summary": "סדרן באולם קולנוע העיר לנערים, הותקף קשות ופונה לבית החולים - המשטרה פתחה בחקירה",
+      "url": "https://www.i24news.tv/he/news/news/criminal/artc-70f14870",
+      "image": "https://cdn.i24news.tv/uploads/61/a6/8e/0b/79/e9/cf/e7/2c/2d/eb/61/01/5f/50/c4/61a68e0b79e9cfe72c2deb61015f50c4.jpg?width=750",
       "publishedAt": ""
     },
     {
       "category": "טכנולוגיה",
       "source": "גיקטיים",
-      "title": "איך מונעים מהאייג'נט לשרוף לכם את הכסף?",
-      "summary": "בשלב הזה סביר להניח שכולכם כבר משתמשים באייג'נטים, אבל בכנס Geektime Code 2026 שנערך היום (ב') בגני התערוכה בתל אביב עם למעלה מ-1,500 מפתחות ומפתחים, לשרה גרניט מ-Intel הייתה שאלה פשוטה: אתם באמת יודעים מה האייג'נטים שלכם עושים בשתיים בלילה? כי זה עלול לעלות לכם ביוקר. הטעות שעולה במיליוני טוקנים גר",
-      "url": "https://www.geektime.co.il/human-in-the-loop-code-2026/",
+      "title": "ה-GPS קפץ לביירות? הסטארטאפ שמנווט את צה\"ל גייס עכשיו 15 מיליון דולר",
+      "summary": "אם יש משהו שלמדנו בשנים האחרונות זה שלא תמיד אפשר לסמוך על טכנולוגיות איתור ומיקום כמו GPS (או ליתר דיוק, GNASS), ואזורי לחימה מתאפיינים לא פעם בניתוק מוחלט מרשתות תקשורת רגילות ובשיבושי GPS. במצבים כאלו, הלוחמים בשטח נדרשים לדעת היכן הם ממוקמים, לזהות מטרות ולתקשר זה עם זה, גם כאשר המערכות המוכרות ",
+      "url": "https://www.geektime.co.il/asio-raises-15m-tactical-navigation/",
       "image": "",
-      "publishedAt": "Mon, 20 Jul 2026 10:18:53 +0000"
+      "publishedAt": "Mon, 20 Jul 2026 13:00:31 +0000"
     },
     {
       "category": "טכנולוגיה",
       "source": "גיקטיים",
-      "title": "\"במקום שבו ה-AI פוגש סייבר יש הזדמנויות מטורפות\"",
-      "summary": "כנס Geektime Code 2026 נפתח הבוקר (ב') עם הרצאת פתיחה של עמירם שחר, מייסד ומנכ\"ל היוניקורן הישראלי Upwind Security. שחר עלה לבמה ודיבר על אחד הנושאים החמים של התקופה – הסיכונים והיתרונות של כלי AI בעולמות הסייבר. \"ה-AI משנה את חוקי הפיזיקה\" \"ה-AI ממש שינה את חוקי הפיזיקה\", הכריז שחר על הבמה, כשהוא מ",
-      "url": "https://www.geektime.co.il/geektime-code-2026-opening-keynote/",
+      "title": "מה זה KV Cache ואיך הוא שובר את חומת הזיכרון של סוכני AI?",
+      "summary": "כשאנחנו מפעילים סוכני AI, שיחות בעלות קונטקסט רחב נתקלות בחומת זיכרון – מצב שבו זיכרון ה-GPU הופך לצוואר בקבוק ומגביל את נפח החישוב. זה נכון במיוחד בשיחות שנמשכות שבוע, לדוגמה, במהלכן אנחנו עוזבים וחוזרים ומערבבים פרומפטים בנושאים אחרים. אז איך אפשר לשפר את יכולת ניצול הזיכרון והאחסון של מודלי שפה, ",
+      "url": "https://www.geektime.co.il/geektime-code-2026-kv-cache/",
       "image": "",
-      "publishedAt": "Mon, 20 Jul 2026 09:32:17 +0000"
+      "publishedAt": "Mon, 20 Jul 2026 11:25:30 +0000"
     },
     {
       "category": "טכנולוגיה",
       "source": "גיקטיים",
-      "title": "התפוצצה עסקת האקזיט של esh של ניר צוק",
-      "summary": "מה קורה בבנק הדיגיטלי שהבטיח לחלוק עם הלקוחות כחצי מההכנסות שלו? אחרי שהבטיח השקה \"בתחילת 2026\", וכבר הספיק להודיע על אקזיט – כעת מודיעה הרוכשת כי היא מוותרת על העסקה. מ-400 מיליון שקל ל\"לא משנה\" נזכיר כי לקראת סוף שנת 2025 נחשף לראשונה esh, הבנק הדיגיטלי החדש שבין מייסדיו נמצא היזם ניר צוק מ-Palo A",
-      "url": "https://www.geektime.co.il/bank-esh-acquisition-failed/",
+      "title": "עומר אדם ואסף רפפורט משקיעים בסטארטאפ שנחשף היום עם 100 מיליון דולר גיוסים",
+      "summary": "לכאורה, אין שום דבר משותף לאסף רפפורט, לעומר אדם ולקרן ההון סיכון המוכרת בעולם. אבל זה רק לכאורה, כי היום מתברר שכולם השקיעו בסטארטאפ הישראלי Neo שהוקם רק בשנה שעברה, וכבר נחשף עם גיוסים של 100 מיליון דולר. לוודא שהסוכנים שלכם לא הופכים לסוכנים כפולים המערכת של Neo היא מערכת לניהול האבטחה של כל סוכנ",
+      "url": "https://www.geektime.co.il/neo-comes-out-with-100m/",
       "image": "",
-      "publishedAt": "Mon, 20 Jul 2026 07:45:07 +0000"
+      "publishedAt": "Mon, 20 Jul 2026 11:00:45 +0000"
     },
     {
       "category": "ספורט",
@@ -986,74 +1022,38 @@
     {
       "category": "מסי",
       "source": "חדשות מסי",
-      "title": "אפילו ליאונל מסי לא הצליח לשבור את הקללה ההיסטורית",
-      "summary": "אפילו ליאונל מסי לא הצליח לשבור את הקללה ההיסטורית &nbsp;&nbsp; וואלה ספורט",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xWXhfMFBiTWdvWDh5ZDNiRm83d3RFcnVmd2wxdzExOUlfaXlFLW1TS09EVUZCTE5zVGExMnB6SEs5UW4wSGtLb2wteVd2a0t2?oc=5",
+      "title": "\"מסי סירב לעזור, מזל שרונצ'וק לא ידע\": הפוסט הנוקב של מעיין שרמן נגד כוכב הכדורגל -",
+      "summary": "\"מסי סירב לעזור, מזל שרונצ'וק לא ידע\": הפוסט הנוקב של מעיין שרמן נגד כוכב הכדורגל - &nbsp;&nbsp; באר שבע נט",
+      "url": "https://news.google.com/rss/articles/CBMi8wRBVV95cUxOUFhPa2NROWJfNUZVa0lHbllvV0hlV0R6Q2J3dUdGTVB5WWV4alNLTlhZa2FFRVRINDdka2tidWpMWm9Rd1FxaUZkZGFRelZoQkp0RUFXNko0OVhwRkk3Y2xiYVk4b3lqRmFNV1RVeGp6X1l6ZHkxaU5JWERxcHQ3M0VidGJnSG91aFVuN0EyRVNKaHl2enMyeTBSVkt6MFFkTDY4UDJ6U0lENWx4Q3hyQXRvMWR0TnVCQ0M2T2xrTDZQTWl0UFg4S0NweXpvbFZOVi1JWEJLX3lRLVZySVZ6T2gtVXpydkJWQkQxQnpNaVA4a0JqSXhob1p2Umc3LU9IQzQzY2RIRHVZa0J1OWVfTEhmSnIwNHhKNlR0c0FZNmQ4Wm05MXRtUzg2aDhJU0c2NnY1MXcxbWQ5Y2hhYXo4ZVV0WE9kYVZtb0NZVWhjbWhTU3BaQjljekxlTXcwbDl6aDJ6WjJ5Q1RWOWpLZjRYemxNQ0p3dXVGc3NKbDhOVWxTX1ZRcEY3TmxFY3VJV3ZNM25ITnp3aGN0NmpjVzA2UjNPUnZxejVvenh0ejFtMUNQMnV0THdaZVFBSjZqNjQxaTN4aml4TTJFYloyZXBFekZMRHZVZml2NEJNVTJiODRRbkJSS2E0SWdpVmNjbE4xOHNnWHJBSmQwakt2cHR6aFlqVzJVTWdIS0FWUzByZk9YOW9YT3ozVGRwd0lKOXhRczdqUU1qYjI0UDFLcFRTYjg2OGtkOGE5bjBaZC1FZi13SS1mb0ZUOFBjWkF6alRPVHlYbXBQRm1Ob1ZDUlllLXdlUU1LSlJYMnpKQmptSWxDS2c?oc=5",
       "image": "",
-      "publishedAt": "Mon, 20 Jul 2026 09:10:00 GMT"
+      "publishedAt": "Mon, 20 Jul 2026 11:45:39 GMT"
+    },
+    {
+      "category": "מסי",
+      "source": "חדשות מסי",
+      "title": "הצד הארגנטינאי: אין כבר מה להשוות את מסי לפלה, מראדונה ורונאלדו",
+      "summary": "הצד הארגנטינאי: אין כבר מה להשוות את מסי לפלה, מראדונה ורונאלדו &nbsp;&nbsp; ספורט 1",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaXFUV1BCaXI4YTlqWjRZcVRhRC1rMTJWOGlYY1VQVndlb0dHdGxhaDVKRWxPTTV4TjJOcy1wZkJRUWNFeGZYNmJHQzRBamtJUEhVeVJDM2NINHpNa3pQSTRjaDdIcGdBd1BFUkl6NjhmTEZPZ2M5VEFvendELTNpcFVMbzJ6VWZlcW9saEZlX3Zhc3dURjdaOXdEZlNtdUIwd3h2U01pajVIRUlnSG51bjJFNlZOakhadm1XbXNLbW8ySVVBWEtDZ21KRElnZWlrNEE?oc=5",
+      "image": "",
+      "publishedAt": "Mon, 20 Jul 2026 11:10:00 GMT"
+    },
+    {
+      "category": "מסי",
+      "source": "חדשות מסי",
+      "title": "לא מזהים אותו? התג המפתיע של מסי",
+      "summary": "לא מזהים אותו? התג המפתיע של מסי &nbsp;&nbsp; Sport5",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wRTR5N0psWFNOTDhOS3kxem1Mb3BDQXVMNFliRVlQQ1gwdTVWMEhSZGRnNXAwcl8wQUtEbFR3MlpwaXBjUUhTejk0bGM3Z1k3NjhGZXJYYTNhY1lhODlRQjdiUmVVelVpdmltcFNveTA?oc=5",
+      "image": "",
+      "publishedAt": "Sun, 19 Jul 2026 18:20:25 GMT"
     }
   ],
   "flashes": [
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "גפני מודה: טעות כשנכנסנו לקואליציית נתניהו, יוקר המחיה הוא כישלון",
+      "title": "סופית: לאחר מאבק ממושך בין בעל הקרקע למועצת כפר שמריהו, הדגל הענק במחלף כפר שמריהו הוסר",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957374.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "דגל התורה של גפני בהודעה נגד נתניהו: מי שאינו חי את עולם התורה ואינו מבין את עומק דבריהם, מוטב שלא ימהר לפרשם, ובוודאי שלא לתוקפם",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957382.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "קורות-עץ שנשרפו בימי חורבן בית-המקדש הראשון נחשפו לאחרונה בעיר-דוד.",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957378.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "הדר מוכתר איבדה סיכוי ריאלי להכנס לרשימת הליכוד",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957381.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "כך מבטלים את אוסלו'': הכביש שיקצר את הדרך לשרון",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957373.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "סיוט ב-480 שקל: שליח וולט הפיל את הסושי על המדרכה, והחזיר אותו לקופסה",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957379.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "פרופסור ספיר (מומחה למשפט חוקתי): מדינת ישראל חדלה מלתפקד כדמוקרטיה",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957365.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957391.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1069,9 +1069,63 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "יאיר גולן בפתיחת הפרימריז: אסור שהקואליציה העתידית תכלול אף מפלגה מזו הנוכחית. לא רק החרדים, גם הלאומנים הקיצוניים, והמושחתים.",
+      "title": "בוטל סבב קידומים במשטרה, המפכ''ל: ''לא ניתן לאף אחד לכפות עלינו מינויים''",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957368.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957393.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ח״כ ניסים ואטורי טוען שמפלגת הדמוקרטים נתמכת ע״י חמאס",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957389.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "הדר מוכתר איבדה סיכוי ריאלי להכנס לרשימת הליכוד",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957381.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "רשמי: המדינה מכירה בשריפת הענק בחוות גלעד בשומרון כפיגוע, התושבים יפוצו על נזקי פעולת האיבה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957390.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "השר אלי כהן מהליכוד נגד בליץ החקיקה: ''חלק היה מיותר''",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957385.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "החות׳ים הודיעו על מצור ימי נגד סעודיה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957388.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "חמאס מודיע על בחירת ח'ליל אל-חיה ליו''ר הלשכה המדינית של הארגון",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957384.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1081,6 +1135,114 @@
       "title": "בני ביטון, חבר ליכוד וראש עיריית דימונה: ''כאשר ישראל במלחמה, האחריות הציבורית שלנו היא לעשות פסק זמן ולתת לנתניהו להרכיב את הרשימה לכנסת''",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957380.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "רשות החשמל בהחלטה תקדימית: לא יתאפשרו חיבור חוות שרתים חדשות לרשת החשמל לאחר שלא נותר עוד מקום ברשת",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957366.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "פרופסור ספיר (מומחה למשפט חוקתי): מדינת ישראל חדלה מלתפקד כדמוקרטיה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957365.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "שמעון אלקבץ על החרם של יאיר גולן על ערוץ 14: מזכיר את שיחות הטלפון שלו ללשכת מפקד התחנה ומלין על דברים שנאמרים",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957386.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "רחוב אלג'לאא' במערב העיר עזה - יונדאי אקסנט הותקפה לפני זמן קצר בשני טילי כטב''מ",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957383.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "קורות-עץ שנשרפו בימי חורבן בית-המקדש הראשון נחשפו לאחרונה בעיר-דוד.",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957378.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "בחריין: אזעקה הופעלה בבחריין לאור ירי מאיראן",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957392.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "בגלל חוק ההפרדה המגדרית: 5 חברי מל''ג התפטרו",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957369.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "יאיר גולן בפתיחת הפרימריז: אסור שהקואליציה העתידית תכלול אף מפלגה מזו הנוכחית. לא רק החרדים, גם הלאומנים הקיצוניים, והמושחתים.",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957368.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "סיוט ב-480 שקל: שליח וולט הפיל את הסושי על המדרכה, והחזיר אותו לקופסה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957379.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "דגל התורה של גפני בהודעה נגד נתניהו: מי שאינו חי את עולם התורה ואינו מבין את עומק דבריהם, מוטב שלא ימהר לפרשם, ובוודאי שלא לתוקפם",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957382.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "גפני מודה: טעות כשנכנסנו לקואליציית נתניהו, יוקר המחיה הוא כישלון",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957374.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "כך מבטלים את אוסלו'': הכביש שיקצר את הדרך לשרון",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957373.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1114,27 +1276,9 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "בגלל חוק ההפרדה המגדרית: 5 חברי מל''ג התפטרו",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957369.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "נתניהו נגד הרב לנדו שתקף את הציונות הדתית: ''דברים מזעזעים''",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957370.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "רשות החשמל בהחלטה תקדימית: לא יתאפשרו חיבור חוות שרתים חדשות לרשת החשמל לאחר שלא נותר עוד מקום ברשת",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957366.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
