@@ -1,6 +1,6 @@
 {
   "date": "2026-07-20",
-  "updatedAt": "2026-07-19T23:00:11.559Z",
+  "updatedAt": "2026-07-20T00:06:09.588Z",
   "stories": [
     {
       "category": "טכנולוגיה",
@@ -651,6 +651,24 @@
       "publishedAt": "Sun, 19 Jul 2026 08:30:50 GMT"
     },
     {
+      "category": "רונאלדיניו",
+      "source": "חדשות רונאלדיניו",
+      "title": "רונאלדו ורונאלדיניו עשו הופעה מפתיעה בגמר.",
+      "summary": "רונאלדו ורונאלדיניו עשו הופעה מפתיעה בגמר. &nbsp;&nbsp; Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUk5sTnBuTmR6LWRyNURJQjVkS3NsWkRDZVhKQXA1OFBPTjhhLVFoeDNiNFh4X3kxQXNfQlhuYWk4N19qQ2xxUUNMUTc1MWI3RWE4VC1VVTFVdUFmaWRlRHo2QnQ0eVpaUFY5VW5jSmNEaUdHWlRKZ2wzSG1nWFNNc2RoYnZqdVFTNk1xSWxLenJJUQ?oc=5",
+      "image": "",
+      "publishedAt": "Sun, 19 Jul 2026 21:48:41 GMT"
+    },
+    {
+      "category": "מסי",
+      "source": "חדשות מסי",
+      "title": "ספרד אלופת העולם אחרי ניצחון על מסי וארגנטינה 0:1 בהארכה בגמר מונדיאל 2026",
+      "summary": "ספרד אלופת העולם אחרי ניצחון על מסי וארגנטינה 0:1 בהארכה בגמר מונדיאל 2026 &nbsp;&nbsp; הארץ",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVXh4LVl4dC1yM0VET0NLNzhVSlNIb3RJcG5IS3hyRWRtXzhUSTNaMW81MncxUnNnVUZQNjJ4VFY1THJ2Q3FVZnhUWFd4QnZHaVgzUjBDVG5PdkF4Z2wyMklOQkYtV0J5NWtkVXVscEo3QnlaOEY1alFiOU1VbHIzazNvMFJjeUdCVVZVREpnbHc2cndfaXhFYU81c3Z5Zk9FeXNZZ1g1OC0?oc=5",
+      "image": "",
+      "publishedAt": "Sun, 19 Jul 2026 19:00:00 GMT"
+    },
+    {
       "category": "אפל",
       "source": "גאדג׳טי — אפל",
       "title": "אפל מייקרת את מחירי השירותים בעולם - בישראל עדיין ללא שינוי",
@@ -761,6 +779,15 @@
     {
       "category": "ישראל",
       "source": "i24NEWS",
+      "title": "לילה תשיעי של לחימה: גלי תקיפות של ארה\"ב, איראן שיגרה טילים וספינות עוכבו | עדכונים שוטפים",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-291160f9",
+      "image": "https://cdn.i24news.tv/uploads/91/07/dc/e5/b7/6f/b1/6f/6a/73/a8/75/9d/94/c6/bb/9107dce5b76fb16f6a73a8759d94c6bb.jpg?width=350",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
       "title": "אחרי הפיגוע בשרון: תיעוד בלעדי ממעצר שלושת החשודים בסיוע למחבל | לי עייש",
       "summary": "",
       "url": "https://www.i24news.tv/he/news/news/defense-news/artc-9dea5413",
@@ -804,15 +831,6 @@
       "publishedAt": ""
     },
     {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "נתניהו מגיב לאיום המעצר של ממדאני: \"שיתמקד באיך לתקן את הנזק שחולל לניו יורק\" קרא עוד..",
-      "summary": "נתניהו מגיב לאיום המעצר של ממדאני: \"שיתמקד באיך לתקן את הנזק שחולל לניו יורק\"",
-      "url": "https://www.i24news.tv/he/news/news/diplomacy/artc-61c3500d",
-      "image": "https://cdn.i24news.tv/uploads/e8/d0/62/64/b0/2b/c4/c1/5c/f1/bf/37/fc/1d/a6/1e/e8d06264b02bc4c15cf1bf37fc1da61e.jpg?width=750",
-      "publishedAt": ""
-    },
-    {
       "category": "ספורט",
       "source": "ערוץ הספורט — ישראלים ב־NBA",
       "title": "2 נקודות לבן שרף ו-4 לדני וולף, הנטס הובסו ולא עלו לחצי הגמר",
@@ -840,31 +858,130 @@
       "publishedAt": ""
     },
     {
-      "category": "רונאלדיניו",
-      "source": "חדשות רונאלדיניו",
-      "title": "רונאלדו ורונאלדיניו עשו הופעה מפתיעה בגמר.",
-      "summary": "רונאלדו ורונאלדיניו עשו הופעה מפתיעה בגמר. &nbsp;&nbsp; Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUk5sTnBuTmR6LWRyNURJQjVkS3NsWkRDZVhKQXA1OFBPTjhhLVFoeDNiNFh4X3kxQXNfQlhuYWk4N19qQ2xxUUNMUTc1MWI3RWE4VC1VVTFVdUFmaWRlRHo2QnQ0eVpaUFY5VW5jSmNEaUdHWlRKZ2wzSG1nWFNNc2RoYnZqdVFTNk1xSWxLenJJUQ?oc=5",
+      "category": "מסי",
+      "source": "חדשות מסי",
+      "title": "מסי בכה, סקאלוני: \"יש עצב, ולצדו הכרת תודה נצחית לשחקנים האלה\"",
+      "summary": "מסי בכה, סקאלוני: \"יש עצב, ולצדו הכרת תודה נצחית לשחקנים האלה\" &nbsp;&nbsp; וואלה ספורט",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BeHNRak5xYk1XT0RNUUJQYlFYdm9Idzc4bVdzSVRkQWdQb2tsdG9rVE11Z0NPNGdSaXo5d1FTWDRGVWZFd0J4ckZRUU9qazhC?oc=5",
       "image": "",
-      "publishedAt": "Sun, 19 Jul 2026 21:48:41 GMT"
+      "publishedAt": "Sun, 19 Jul 2026 22:39:00 GMT"
     },
     {
       "category": "מסי",
       "source": "חדשות מסי",
-      "title": "ספרד אלופת העולם אחרי ניצחון על מסי וארגנטינה 0:1 בהארכה בגמר מונדיאל 2026",
-      "summary": "ספרד אלופת העולם אחרי ניצחון על מסי וארגנטינה 0:1 בהארכה בגמר מונדיאל 2026 &nbsp;&nbsp; הארץ",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVXh4LVl4dC1yM0VET0NLNzhVSlNIb3RJcG5IS3hyRWRtXzhUSTNaMW81MncxUnNnVUZQNjJ4VFY1THJ2Q3FVZnhUWFd4QnZHaVgzUjBDVG5PdkF4Z2wyMklOQkYtV0J5NWtkVXVscEo3QnlaOEY1alFiOU1VbHIzazNvMFJjeUdCVVZVREpnbHc2cndfaXhFYU81c3Z5Zk9FeXNZZ1g1OC0?oc=5",
+      "title": "יותר מארגנטינה עצמה? המקום שבו מסי הפך לאליל",
+      "summary": "יותר מארגנטינה עצמה? המקום שבו מסי הפך לאליל &nbsp;&nbsp; ספורט 1",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SaUlTbHVpSFlpYzFldFdySWVqY3pZZVRzbjhqZzlRRW9EeEVMQ01OQlhKY3VBVDVCYmRtdGJfSEhWcE51SEY5XzFWajhhS0dKN2pnWFVPRDFBYzZENVdHZ080LVdKa1Rm?oc=5",
       "image": "",
-      "publishedAt": "Sun, 19 Jul 2026 19:00:00 GMT"
+      "publishedAt": "Sun, 19 Jul 2026 16:01:26 GMT"
     }
   ],
   "flashes": [
     {
       "category": "מבזקים",
       "source": "רוטר",
+      "title": "צבע אדום (02:59): כפר עזה",
+      "summary": "",
+      "url": "https://rotter.net/forum/scoops1/957343.shtml",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "צבע אדום (02:59): כפר עזה, סעד",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957343.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "האיראנים יורים על ספינות במפרץ. פיצוצים באמירויות",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957342.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
       "title": "פרופסור אשר כהן (בר אילן): 77 אחוז מהגברים היהודים לא עשו שום מילואים , בתקופת שיא הגיוס. בניכוי החרדים, מדובר ב63 אחוז מהגברים היהודים.",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957258.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "המוני משתתפים בצעדת האלפים לעזה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957304.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "השר בן גביר בצעדת האלפים להתיישבות בעזה: נשלח את מי שצריך לארצותיהם, אנחנו חוזרים הביתה!",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957316.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "קריקטורה של עיתון הארץ: (אסור להביא ואני גם לא הייתי מוכן להביא קישור): זיני כאיש שבכ מענה במתקני אנקוויזיציה את יונית, קושמרו וכו.",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957341.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "קמפיין ענק של משרד ההתיישבות והמשימות הלאומיות לעידוד ההתיישבות בצפון.",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957310.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "כך נראה טרור ההצתות מצילום הרחפן (לא מדובר על ההצתה האחרונה בחוות גלעד)",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957329.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "נקבע מותו של רעד כזמיה בן 24 שנורה בחיפה לפני חודשיים",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957333.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "הכנסייה האנגליקנית אימצה את מסמך ''קיירוס 2'' המכשיר את ה-7 באוקטובר; זעזוע ביהדות בריטניה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957306.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "צבא ארצות הברית פתח בגל תקיפות חדש באיראן",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957340.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -889,36 +1006,9 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "ספרד אלופת העולם אחרי ניצחון על ארגנטינה בהארכה 1:0",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957337.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "צוות טקילה פעל למעצר חשודים ישראליים בפשיעה לאומנית - ובהם גם ''פצצה מתקתקת''בעקבות פעילות הצוות מיחידת העילית",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957339.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "הנשיא טראמפ ורעייתו הופיעו למשחק גמר המונדיאל בניו ג'רזי",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957328.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "אייזנקוט במהדורה בכאן 11: ראש המפלגה הגדולה צריך להיות ראש הממשלה",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957322.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -934,6 +1024,15 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
+      "title": "ספרד אלופת העולם אחרי ניצחון על ארגנטינה בהארכה 1:0",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957337.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
       "title": "גמר מונדיאל 2026: ספרד מנצחת 1-0 את ארגנטינה וזוכה בגביע העולם",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957274.shtml?utm_source=rotter.net&utm_medium=mivzakside",
@@ -943,9 +1042,18 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "כך נראה טרור ההצתות מצילום הרחפן (לא מדובר על ההצתה האחרונה בחוות גלעד)",
+      "title": "אייזנקוט במהדורה בכאן 11: ראש המפלגה הגדולה צריך להיות ראש הממשלה",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957329.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957322.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "הנשיא טראמפ ורעייתו הופיעו למשחק גמר המונדיאל בניו ג'רזי",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957328.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1000,15 +1108,6 @@
       "title": "הראיון של דנה וייס עם דניאלה גלבוע, התצפנית מנחל עוז.",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957325.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "נקבע מותו של רעד כזמיה בן 24 שנורה בחיפה לפני חודשיים",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957333.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1090,15 +1189,6 @@
       "title": "סערה במצרים עקב ראיון עם גדעון לוי בטלויזיה המצרית",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957300.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "הכנסייה האנגליקנית אימצה את מסמך ''קיירוס 2'' המכשיר את ה-7 באוקטובר; זעזוע ביהדות בריטניה",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957306.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
