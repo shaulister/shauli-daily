@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "updatedAt": "2026-07-21T16:56:04.929Z",
+  "updatedAt": "2026-07-21T18:18:56.501Z",
   "stories": [
     {
       "category": "טכנולוגיה",
@@ -948,6 +948,24 @@
       "publishedAt": "Tue, 21 Jul 2026 14:39:41 GMT"
     },
     {
+      "category": "ארלינג האלנד",
+      "source": "חדשות ארלינג האלנד",
+      "title": "ארלינג הולאנד הפתיע את כולם אחרי ההדחה מהמונדיאל: \"אין שום סיכוי\"",
+      "summary": "ארלינג הולאנד הפתיע את כולם אחרי ההדחה מהמונדיאל: \"אין שום סיכוי\" &nbsp;&nbsp; ספורט 1",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtVWRjd1hLYWhkNTlNTTJKZDVQV1NWTnBMelVwaVBVUm9rbWFfSi1TRVRwcTVfSjNJSktrR3V4S0ZRaGFVaUlfWlF4RUFXMVAtSl9GT0JuN282eWJVNzV4X1VRaUpoUnNI?oc=5",
+      "image": "",
+      "publishedAt": "Sun, 12 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "category": "טכנולוגיה",
+      "source": "The Verifier",
+      "title": "אפל מחסלת את תוכנית השדרוגים לאייפון ועוברת למודל ליסינג חדש",
+      "summary": "נכתב על ידי אבי דוד מאתר The Verifier החל מהשבוע הבא, החברה תפסיק לקבל נרשמים חדשים לתוכניות המימון הקיימות ותשיק שירות חלופי בשיתוף קלרנה.",
+      "url": "https://theverifier.co.il/80147/apple-iphone-leasing-program/",
+      "image": "https://theverifier.co.il/wp-content/uploads/2026/07/Screenshot-2026-07-21-at-10.49.50-AM-150x150.webp",
+      "publishedAt": "Tue, 21 Jul 2026 17:55:44 +0000"
+    },
+    {
       "category": "אפל",
       "source": "גאדג׳טי — אפל",
       "title": "אפל מייקרת את מחירי השירותים בעולם - בישראל עדיין ללא שינוי",
@@ -1058,28 +1076,46 @@
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "צה\"ל על הירי בלבנון: הכוחות ביצעו ירי אזהרה לאוויר בלבד שלא סיכן את כוחות צבא לבנון",
+      "title": "הנשיא הרצוג בהצהרה: \"פונה למתמודדים אל תחצו קווים אדומים; בחירות הן לא מלחמת אזרחים\"",
       "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-291160f9",
+      "url": "https://www.i24news.tv/he/news/news/politics/artc-306059e1",
       "image": "",
       "publishedAt": ""
     },
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "בכיר לשעבר במשרד לביטחון לאומי צפוי לעמוד לדין",
+      "title": "טראמפ על הפרסום ב-i24NEWS: \"בלי רצון אמיתי לדון - לא ניפגש\"",
       "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/law/artc-67d165b8",
-      "image": "https://cdn.i24news.tv/uploads/f4/1a/e2/98/01/04/70/42/b3/f6/0d/93/ef/df/59/20/f41ae29801047042b3f60d93efdf5920.jpg?width=350",
+      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-291160f9",
+      "image": "https://cdn.i24news.tv/uploads/0c/b4/83/10/92/e9/88/96/57/a1/a8/60/5f/e3/4a/b3/0cb4831092e9889657a1a8605fe34ab3.jpg?width=350",
       "publishedAt": ""
     },
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "ראש מועצת ירוחם השתוללה בדיון עם יו\"ר קק\"ל - ונעצרה | תיעוד",
+      "title": "\"הסגת גבול?\": ראש מועצת ירוחם מחאה בדיון עם יו\"ר קק\"ל - ושוטר הגיע לעצור אותה | תיעוד",
       "summary": "",
       "url": "https://www.i24news.tv/he/news/news/local/artc-41525c09",
-      "image": "https://cdn.i24news.tv/uploads/ad/35/d8/52/a1/7c/4a/41/e2/bd/0c/e4/60/e9/a0/d5/ad35d852a17c4a41e2bd0ce460e9a0d5.jpg?width=350",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "בכפוף לשימוע: בכיר לשעבר במשרד לביטחון לאומי צפוי לעמוד לדין בגין מרמה והפרת אמונים",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/law/artc-67d165b8",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "המועצה להשכלה גבוהה אישרה: הגבלת מחאות פוליטיות במוסדות",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/education/artc-d2af44df",
+      "image": "",
       "publishedAt": ""
     },
     {
@@ -1088,24 +1124,6 @@
       "title": "\"מתוך שעמום וסקרנות\": בן 23 נעצר בחשד להצתת שריפת קוצים בהרי ירושלים",
       "summary": "",
       "url": "https://www.i24news.tv/he/news/news/criminal/artc-28324e3b",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "חשד: פרצה לדירות בדיור מוגן בקריית גת וגנבה רכוש מקשישים, בהם ניצולי שואה",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/criminal/artc-b1e95772",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "לשכת עורכי הדין הבטיחה \"יתרון במיון\" למזכירי קלפיות, בוועדת הבחירות הבהירו: \"אין אמת בטענה\"",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/local/artc-8c216aa7",
       "image": "",
       "publishedAt": ""
     },
@@ -1137,22 +1155,85 @@
       "publishedAt": ""
     },
     {
-      "category": "ארלינג האלנד",
-      "source": "חדשות ארלינג האלנד",
-      "title": "ארלינג הולאנד הפתיע את כולם אחרי ההדחה מהמונדיאל: \"אין שום סיכוי\"",
-      "summary": "ארלינג הולאנד הפתיע את כולם אחרי ההדחה מהמונדיאל: \"אין שום סיכוי\" &nbsp;&nbsp; ספורט 1",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtVWRjd1hLYWhkNTlNTTJKZDVQV1NWTnBMelVwaVBVUm9rbWFfSi1TRVRwcTVfSjNJSktrR3V4S0ZRaGFVaUlfWlF4RUFXMVAtSl9GT0JuN282eWJVNzV4X1VRaUpoUnNI?oc=5",
+      "category": "רונאלדיניו",
+      "source": "חדשות רונאלדיניו",
+      "title": "הפתעה גדולה: בגיל 46, רונאלדיניו חתם בקבוצה חדשה",
+      "summary": "הפתעה גדולה: בגיל 46, רונאלדיניו חתם בקבוצה חדשה &nbsp;&nbsp; ספורט 1",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxTzZqN2w0YXhQWWNXdjRkbjlKeDAtd0phQW8wUmd1SVg3djFxU2NDRzRqQXM5OFBaN1NhdGY0Qnc2WVdKenRnTDlJdzNGbEtlUlBRVEQ3VVVzUFZiOUhoSlRTenZzRHBQ?oc=5",
       "image": "",
-      "publishedAt": "Sun, 12 Jul 2026 07:00:00 GMT"
+      "publishedAt": "Sat, 20 Jun 2026 07:00:00 GMT"
     }
   ],
   "flashes": [
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "פרסום ספר זכרונותיו של ביידן: נתניהו שיחק איתנו משחקים",
+      "title": "נתניהו: איזנקוט התנגד לתקיפה באיראן ונטש ממשלה בזמן מלחמה. אין לו ממשלה בלי יאיר גולן והמפלגות הערביות. איזנקוט זה שמאל",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957494.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957548.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "נתניהו לאבי שושן: נמות ולא נתגייס זה משפט איום ונורא. אני לוקח נבוט של 20 קילו ואומר לדרעי וגפני- זה לא בא בחשבון",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957511.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "דמות מוכרת מעולם הספורט נבחרה לגשר בין משפחת למוסלי לג'רושי לפתרון הסכסוך שפרץ בפרשת ג'אפניקה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957552.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "עירק - עשרות טילי פטריוט ששוגרו מבסיס חיל האוויר ארביל בצפון, בניסיון ליירט טילים איראניים",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957551.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "מושלת ניו ג׳רזי (דמוקרטית) הודיעה: שגיאת תוכנה רשמה 6,600 לא-אזרחים להצבעה, פחות מ-400 מהם הצביעו בפועל",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957545.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "אלביט הדהימה את העולם - וקטפה את המקום הראשון והנוצץ",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957550.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "טראמפ פרסם תמונה של איראני שנרצח בידי המשטר וכתב: ״הקורבן האחרון מבין יותר מ־52 אלף מפגינים חפים מפשע. מתי הדמוקרטים יתעוררו?",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957522.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ניצחון לחיי הלילה בירושלים: חוקי הרעש לא יחולו על שוק מחנה יהודה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957547.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1162,6 +1243,114 @@
       "title": "מפציצי B-1 המריאו הערב מבריטניה",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957541.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "*צה''ל חיסל מספר מחבלים חמושים שהעבירו אמצעי לחימה ברצועת עזה*",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957549.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "בחריין: אזעקה הופעל במדינה בגלל תקיפה איראנית.",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957546.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ראש מועצת ירוחם התעמתה פיזית עם שוטרים, כולל ניסיון לאזוק אותה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957529.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "חה''כ רייטן על תוכניות הדמוקרטים לממשלה הבאה: ביטול רפורמת לוין בנושא הרכב הוע' למינוי שופטים, וחקיקת חוק יסוד השוויון",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957523.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "הרצוג: יו''ר וועדת הבחירות המרכזית, המשנה לנשיא ביהמ''ש העליון - השופט סולברג וראש השב''כ דוד זיני הציגו לי איומים שונים על טוהר הבחירות",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957544.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "פרופסור שלמה משיח נפטר",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957537.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "השופטים קבעו דיון בבקשת ביזיון בית המשפט על התנהלות אנשי השב״כ לשעבר שמסרבים למסור את שמם לראש השב״כ זיני נגדו הם עתרו.",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957514.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "אין יותר ונטולין בישראל: חולי אסתמה נותרו בלי המשאף המוכר",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957501.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ויאגרה עשויה לסייע במניעת התפשטות של גידולים סרטניים",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957542.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "גנץ עושה נתניהו ומעלה סרטון AI של נתניהו רץ לעבר חייל צה”ל, ואז עובר אותו ורץ להתחבק עם גולדקנופף שמחזיק שלט ״נמות ולא נתגייס״",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957528.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "מכתב חריף של ארגון חוננו מתריע: טל ינון דרדיק נמצא בסכנת חיים!",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957543.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "פרסום ספר זכרונותיו של ביידן: נתניהו שיחק איתנו משחקים",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957494.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1186,15 +1375,6 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "גנץ עושה נתניהו ומעלה סרטון AI של נתניהו רץ לעבר חייל צה”ל, ואז עובר אותו ורץ להתחבק עם גולדקנופף שמחזיק שלט ״נמות ולא נתגייס״",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957528.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "טראמפ: ''הנשיא הסורי רוצה להתערב ולעשות משהו עם חיזבאללה, ואני חושב שזה יהיה יעיל מאוד.",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957536.shtml?utm_source=rotter.net&utm_medium=mivzakside",
@@ -1207,24 +1387,6 @@
       "title": "נשיא המדינה יצחק הרצוג ישא הצהרה מיוחדת בשעה 20:15.",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957525.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "אין יותר ונטולין בישראל: חולי אסתמה נותרו בלי המשאף המוכר",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957501.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "ראש מועצת ירוחם התעמתה פיזית עם שוטרים, כולל ניסיון לאזוק אותה",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957529.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1258,15 +1420,6 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "פרופסור שלמה משיח נפטר",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957537.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "נוסעת בלי קטר: הבלגן במינויי ההנהלה של רכבת ישראל",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957538.shtml?utm_source=rotter.net&utm_medium=mivzakside",
@@ -1279,15 +1432,6 @@
       "title": "טראמפ: האיראנים מאוד מעוניינים להיפגש כדי לנסות לסיים את המלחמה הזו.",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957534.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "השופטים קבעו דיון בבקשת ביזיון בית המשפט על התנהלות אנשי השב״כ לשעבר שמסרבים למסור את שמם לראש השב״כ זיני נגדו הם עתרו.",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957514.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1315,15 +1459,6 @@
       "title": "הדרכון הישראלי שמר על מקומו בדירוג העולמי. ואיזה דרכון הכי חזק?",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957490.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "חה''כ רייטן על תוכניות הדמוקרטים לממשלה הבאה: ביטול רפורמת לוין בנושא הרכב הוע' למינוי שופטים, וחקיקת חוק יסוד השוויון",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957523.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1384,27 +1519,9 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "נתניהו לאבי שושן: נמות ולא נתגייס זה משפט איום ונורא. אני לוקח נבוט של 20 קילו ואומר לדרעי וגפני- זה לא בא בחשבון",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957511.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "פרטים חדשים על מות כוכב הריאליטי יקיר לוי: ''פתאום שמעו בום חזק''",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957519.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "טראמפ פרסם תמונה של איראני שנרצח בידי המשטר וכתב: ״הקורבן האחרון מבין יותר מ־52 אלף מפגינים חפים מפשע. מתי הדמוקרטים יתעוררו?",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957522.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1765,105 +1882,6 @@
       "title": "''אמר שהאוטו פיקס - ואז יצא עשן'': המגרש שמוכר מכוניות מסוכנות",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957442.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "תחזית מזג האוויר חם מהרגיל",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957462.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "נער בן 17 נהרג בתאונת דרכים בכביש 6, סמוך למחלף קרית גת",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957450.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "סופית: לאחר מאבק ממושך בין בעל הקרקע למועצת כפר שמריהו, הדגל הענק במחלף כפר שמריהו הוסר",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957391.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "רה''מ ערך התייעצות טלפונית על מבקר המדינה - ראבילו השתתף ולא זז מעמדתו",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957423.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "פעילי ״חלוצי הבשן״ התקרבו לגבול סוריה - וכמעט נורו מהאוויר",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957432.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "בית משפט השלום בנצרת גזר על כמאל ח'טיב, סגן ראש הפלג הצפוני של התנועה האסלאמית, 9 חודשי עבודות שירות.",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957400.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "כלא 10: גדר בסיס צה״ל פורקה בידי מפגינים מחסידי גור; עימותים במקום; אחד החיילים התיז גז מדמיע לעברם",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957430.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "גל הרימונים נמשך; לפני זמן קצר רימון הושלך באור יהודה",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957443.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "בן גביר באולטימטום לנתניהו: ''התנאי לכניסת עוצמה יהודית לממשלה הבאה - הדחה מיידית של היועמ''שית''",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957429.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "נתוני רשות ההגירה בארה״ב: יותר מ־356 אלף גירושים מאז אוקטובר, יוני שבר שיא במעצרים",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957456.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "נער בן 15 מחיפה קיבל זריקות נגד כלבת אחרי ששמע רעש מוזר במזגן, התקרב והיה במגע עם עטלף. חתול הבית טרף את העטלף וגם יקבל זריקות חיסון",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957437.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     }
