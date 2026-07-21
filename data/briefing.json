@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "updatedAt": "2026-07-21T08:41:01.415Z",
+  "updatedAt": "2026-07-21T11:11:27.495Z",
   "stories": [
     {
       "category": "טכנולוגיה",
@@ -795,6 +795,51 @@
       "publishedAt": "Tue, 21 Jul 2026 06:30:00 +0000"
     },
     {
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "לראשונה: דירוג לחברות הביטחוניות המובילות בישראל",
+      "summary": "אם עד לפני שנים בודדות הייטקיסטים היו מביטים לחברות בטחוניות עם מבט מזלזל או מתייחסים אל חברות בתחום כחברות אפורות ואולי גם עוקצים על התור לחדר אוכל ב-12 והקביעות עד גיל 60, הרי שהיום תחום התעשייה הביטחונית, או דיפנסטק בהייטקיסטית מדוברת, הוא אחד התחומים המעניינים בישראל. הסיבות כמובן מגוונות – החל ",
+      "url": "https://www.geektime.co.il/defense-tech-best-companies-2026/",
+      "image": "",
+      "publishedAt": "Tue, 21 Jul 2026 08:19:02 +0000"
+    },
+    {
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "לראשונה: OpenAI מחפשת עובד ישראלי לשוק הישראלי",
+      "summary": "בפברואר השנה נודע ש-Anthropic גייסה לראשונה עובד ישראלי, כדי שיסייע לה להיכנס עוד יותר לשוק הישראלי, שמראש נחשב לאחד החזקים שלה. כעת נראה שגם OpenAI רוצה נתח מהשוק הישראלי. הראש בישראל, התפקיד בשאנז אליזה חברת OpenAI פרסמה משרה חדשה שנועדה לגייס איש מכירות ראשון לשוק הישראלי, תחת הטייטל Account Dire",
+      "url": "https://www.geektime.co.il/openai-looks-for-israeli-employee/",
+      "image": "",
+      "publishedAt": "Tue, 21 Jul 2026 07:02:00 +0000"
+    },
+    {
+      "category": "מסי",
+      "source": "חדשות מסי",
+      "title": "מסי לחבריו לקבוצה: \"זה יכול להיות המשחק האחרון שלי\"",
+      "summary": "מסי לחבריו לקבוצה: \"זה יכול להיות המשחק האחרון שלי\" &nbsp;&nbsp; סרוגים",
+      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNZExfNDk3NzFfbVA0SHVaWVBZVnpuQ0tCeUpkOWptbVRLUVhFWWxJNVo5eEhBMkxJUVh1T0dzcjk5cmdpaktUWG9PcUpLUnNjN1J2WWlLSjBMYVp0cXpzb1NEZHN3VkUwWmd3cmVBRjNGdVVoRE81UWtmUmV5T2p2S0J1SUJTSm5ZZTJYbWM2WUVUTXBTY2FISVNBTEdGVUxOdEliWk9iTXpqZHFJcURyOFp3ZFI5NTNERnowUk1uOVFaNTlqaEUzYW5lOEZ4NkxxYmZNN0xfMThwZ1JVRW9INEk5SEdka3cyTE04OFBrNWhtWkMzWlhOVVBwMjgta0k2TDdVNVFXc0d1bFJsZFp6TXJBaU1GWkh1TTZXVEhHMGhOTkZtdDc1Qi1SWTJRek5LOWhQdkp1eGZ3cDByaURrWXlmaGR4MXk1VlE?oc=5",
+      "image": "",
+      "publishedAt": "Tue, 21 Jul 2026 07:15:50 GMT"
+    },
+    {
+      "category": "מסי",
+      "source": "חדשות מסי",
+      "title": "פראן טורס, כובש שער הניצחון: \"זה הגול של כל הספרדים, לא שלי\"",
+      "summary": "פראן טורס, כובש שער הניצחון: \"זה הגול של כל הספרדים, לא שלי\" &nbsp;&nbsp; הארץ",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTWI4TTVNNFhnTDhKb01kR2czc1lYdzBJZUUzTTVRdGNNUTRyR0x5UENnM0NJQXYxNmNpd3JjSDUtNm5KT0N4eFFwV0h1VlBlYVNvR3JiV21fRWVieHdfX1dReDB1X0hKYWh5cUNwdEJiY2dabFYxaUNIWjRHWFVwX2RWc194dzRuNzB3dFlwWkRncTVrYWZQUnR4OElqWkNNOWc?oc=5",
+      "image": "",
+      "publishedAt": "Sun, 19 Jul 2026 22:50:00 GMT"
+    },
+    {
+      "category": "מסי",
+      "source": "חדשות מסי",
+      "title": "אפילו ליאונל מסי לא הצליח לשבור את הקללה ההיסטורית",
+      "summary": "אפילו ליאונל מסי לא הצליח לשבור את הקללה ההיסטורית &nbsp;&nbsp; וואלה ספורט",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xWXhfMFBiTWdvWDh5ZDNiRm83d3RFcnVmd2wxdzExOUlfaXlFLW1TS09EVUZCTE5zVGExMnB6SEs5UW4wSGtLb2wteVd2a0t2?oc=5",
+      "image": "",
+      "publishedAt": "Mon, 20 Jul 2026 09:10:00 GMT"
+    },
+    {
       "category": "אפל",
       "source": "גאדג׳טי — אפל",
       "title": "אפל מייקרת את מחירי השירותים בעולם - בישראל עדיין ללא שינוי",
@@ -905,74 +950,83 @@
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "האסון בירושלים: בארי לויט, בן 83, הוא ההרוג בקריסת המרפסת",
+      "title": "פרסום ראשון: החשוד שתכנן להתנקש בשר בן גביר - עבד כמאבטח בתחנה המרכזית בעפולה | לי עייש",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-7706517d",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "כתב אישום הוגש נגד תושב דימונה בן 54 לאחר שביצע מעשים מגונים בבנו הקטין וראה בכך \"שעשוע\"",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/criminal/artc-2e043fe2",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "פרסום ראשון: עצמות האדם שנמצאו בליפתא בירושלים – עתיקות, לא שייכות לנעדרים",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/local/artc-778d64b8",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "איש עסקים מהמרכז חשוד שהעלים מיליונים שהרוויח",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/criminal/artc-59014e5d",
+      "image": "https://cdn.i24news.tv/uploads/6b/05/00/e1/fb/66/35/86/3d/3e/58/6d/04/eb/b8/0d/6b0500e1fb6635863d3e586d04ebb80d.jpg?width=350",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "ביום הולדתו: חוסל מחבל שלקח חלק בחטיפת אלכס דנציג",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-019f65eb",
+      "image": "https://cdn.i24news.tv/uploads/7a/0a/40/a9/f1/c7/4d/4e/49/d3/09/e9/f3/99/fd/ab/7a0a40a9f1c74d4e49d309e9f399fdab.jpeg?width=350",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "בארי לויט בן ה-83 הוא ההרוג בקריסת המרפסת בירושלים",
       "summary": "",
       "url": "https://www.i24news.tv/he/news/news/local/artc-e7d23a01",
       "image": "",
       "publishedAt": ""
     },
     {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "דיווח: צה\"ל בונה מחסום עפר ענקי בעזה שמפריד בין השטח בו הוא שולט - ליתר הרצועה",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-291160f9",
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "השמות הגדולים כבר בפנים: ALUTech הוא אקסלרטור ישראלי חדש שרוצה לעשות טוב",
+      "summary": "אלו\"ט, האגודה הלאומית לילדים ומבוגרים עם אוטיזם, מכריזה על השקת ALUTech – תוכנית האצה ייחודית לסטארטאפים שבונים פתרונות טכנולוגיים לאוטיסטים ומשפחותיהם. התוכנית תעניק גישה ישירה לקהילה ולידע הקליני של אלו\"ט, ותתקיים בליווי ועדה מייעצת של בכירי Lemonade ,Apple וחברות טק מובילות נוספות שנרתמו בהתנדבות",
+      "url": "https://www.geektime.co.il/alutech-2026-2027/",
       "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "בלב תל אביב: המון חרדי שהפגין מול בית היועמ\"שית תקף חייל מילואים",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/local/artc-3ea34612",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "תמונות אזהרה על מוצרי עישון נכנסות לתוקף",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/health/artc-6e8e441d",
-      "image": "https://cdn.i24news.tv/uploads/87/e1/ec/3f/7f/e3/11/d4/fd/60/fb/e9/15/44/ba/26/87e1ec3f7fe311d4fd60fbe91544ba26.jpg?width=350",
-      "publishedAt": ""
-    },
-    {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "הרב לנדו לא מתנצל על דבריו נגד המשרתים הדתיים: \"חוסר הבנה מוחלט\"",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/local/artc-cac34a30",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "חשד לעוקץ במונית: גנב כרטיס אשראי מקשיש, יצא למסע קניות - והותיר אותו לבדו בתל אביב",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/criminal/artc-4d9f60a5",
-      "image": "",
-      "publishedAt": ""
+      "publishedAt": "Tue, 21 Jul 2026 10:55:22 +0000"
     },
     {
       "category": "טכנולוגיה",
       "source": "גיקטיים",
-      "title": "לראשונה: דירוג לחברות הביטחוניות המובילות בישראל",
-      "summary": "אם עד לפני שנים בודדות הייטקיסטים היו מביטים לחברות בטחוניות עם מבט מזלזל או מתייחסים אל חברות בתחום כחברות אפורות ואולי גם עוקצים על התור לחדר אוכל ב-12 והקביעות עד גיל 60, הרי שהיום תחום התעשייה הביטחונית, או דיפנסטק בהייטקיסטית מדוברת, הוא אחד התחומים המעניינים בישראל. הסיבות כמובן מגוונות – החל ",
-      "url": "https://www.geektime.co.il/defense-tech-best-companies-2026/",
+      "title": "ה-CFO ניצחו את ג'נסן: חברות הטק סוגרות למפתחים את ברז הטוקנים",
+      "summary": "הכל החל כשאחד האנשים החשובים בעולם הטכנולוגיה כיום, מנכ\"ל NVIDIA, ג'נסן הואנג, טען בגדול שחברות צריכות לשרוף טוקנים כדי להצליח, והתעשייה מיהרה להקשיב. ה-Tokenmaxxing, השם שקיבלה התופעה, הפך לאסטרטגיה, וחברות נתנו למפתחים יד חופשית לשימוש אגרסיבי בכלי AI כמעין מדד ליעילות. כלומר, ככל שאתם משתמשים יות",
+      "url": "https://www.geektime.co.il/tokkenmaxxing-is-dead/",
       "image": "",
-      "publishedAt": "Tue, 21 Jul 2026 08:19:02 +0000"
+      "publishedAt": "Tue, 21 Jul 2026 09:55:27 +0000"
     },
     {
       "category": "טכנולוגיה",
       "source": "גיקטיים",
-      "title": "לראשונה: OpenAI מחפשת עובד ישראלי לשוק הישראלי",
-      "summary": "בפברואר השנה נודע ש-Anthropic גייסה לראשונה עובד ישראלי, כדי שיסייע לה להיכנס עוד יותר לשוק הישראלי, שמראש נחשב לאחד החזקים שלה. כעת נראה שגם OpenAI רוצה נתח מהשוק הישראלי. הראש בישראל, התפקיד בשאנז אליזה חברת OpenAI פרסמה משרה חדשה שנועדה לגייס איש מכירות ראשון לשוק הישראלי, תחת הטייטל Account Dire",
-      "url": "https://www.geektime.co.il/openai-looks-for-israeli-employee/",
+      "title": "ישראל מקום שני בעולם בפטנטים של AI, ומקום ראשון בפלסטרים",
+      "summary": "מאת ד\"ר אסתר לוצאטו ענף ההייטק הישראלי מצוי כיום בלב סערה מושלמת. מצד אחד, מהפכת ה-AI – שאנחנו רק מתחילים להעריך את מלוא היקפה והשפעתה – כבר משנה את מבנה התעסוקה בענף, מייתרת תפקידים מסוימים, מצמצמת צוותים ומשטיחה פונקציות שבעבר נחשבו חיוניות. מצד שני, התחזקות השקל מול הדולר שוחקת את רווחיותן של חבר",
+      "url": "https://www.geektime.co.il/israeli-tech-structural-reforms/",
       "image": "",
-      "publishedAt": "Tue, 21 Jul 2026 07:02:00 +0000"
+      "publishedAt": "Tue, 21 Jul 2026 09:18:38 +0000"
     },
     {
       "category": "ספורט",
@@ -1004,47 +1058,92 @@
     {
       "category": "מסי",
       "source": "חדשות מסי",
-      "title": "מסי לחבריו לקבוצה: \"זה יכול להיות המשחק האחרון שלי\"",
-      "summary": "מסי לחבריו לקבוצה: \"זה יכול להיות המשחק האחרון שלי\" &nbsp;&nbsp; סרוגים",
-      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNZExfNDk3NzFfbVA0SHVaWVBZVnpuQ0tCeUpkOWptbVRLUVhFWWxJNVo5eEhBMkxJUVh1T0dzcjk5cmdpaktUWG9PcUpLUnNjN1J2WWlLSjBMYVp0cXpzb1NEZHN3VkUwWmd3cmVBRjNGdVVoRE81UWtmUmV5T2p2S0J1SUJTSm5ZZTJYbWM2WUVUTXBTY2FISVNBTEdGVUxOdEliWk9iTXpqZHFJcURyOFp3ZFI5NTNERnowUk1uOVFaNTlqaEUzYW5lOEZ4NkxxYmZNN0xfMThwZ1JVRW9INEk5SEdka3cyTE04OFBrNWhtWkMzWlhOVVBwMjgta0k2TDdVNVFXc0d1bFJsZFp6TXJBaU1GWkh1TTZXVEhHMGhOTkZtdDc1Qi1SWTJRek5LOWhQdkp1eGZ3cDByaURrWXlmaGR4MXk1VlE?oc=5",
+      "title": "בארגנטינה מעריכים: ליאונל מסי עדיין לא פורש מהנבחרת",
+      "summary": "בארגנטינה מעריכים: ליאונל מסי עדיין לא פורש מהנבחרת &nbsp;&nbsp; וואלה ספורט מסי לחבריו לקבוצה: \"זה יכול להיות המשחק האחרון שלי\" &nbsp;&nbsp; סרוגים הפרק האחרון: תודה לך, ליאו מסי – נפרדים מהשחקן הגדול ביותר בהיסטוריה &nbsp;&nbsp; ספורט 1",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBubUZrNTE0T21vSDU2SC1uR3NFako4NE1sZVBfdEJqalBKckNERXlJSnlpSHVhR0dsRzZ6M1FERlBxNlRpLUdRZmJNQ0paMlBC?oc=5",
       "image": "",
-      "publishedAt": "Tue, 21 Jul 2026 07:15:50 GMT"
+      "publishedAt": "Tue, 21 Jul 2026 05:54:00 GMT"
     },
     {
       "category": "מסי",
       "source": "חדשות מסי",
-      "title": "פראן טורס, כובש שער הניצחון: \"זה הגול של כל הספרדים, לא שלי\"",
-      "summary": "פראן טורס, כובש שער הניצחון: \"זה הגול של כל הספרדים, לא שלי\" &nbsp;&nbsp; הארץ",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTWI4TTVNNFhnTDhKb01kR2czc1lYdzBJZUUzTTVRdGNNUTRyR0x5UENnM0NJQXYxNmNpd3JjSDUtNm5KT0N4eFFwV0h1VlBlYVNvR3JiV21fRWVieHdfX1dReDB1X0hKYWh5cUNwdEJiY2dabFYxaUNIWjRHWFVwX2RWc194dzRuNzB3dFlwWkRncTVrYWZQUnR4OElqWkNNOWc?oc=5",
+      "title": "\"מה לעזאזל קרה לפני הגמר?\" מחול שדים סביב הנאום של מסי | צפו",
+      "summary": "\"מה לעזאזל קרה לפני הגמר?\" מחול שדים סביב הנאום של מסי | צפו &nbsp;&nbsp; וואלה ספורט",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjR2ZyNXR1WEdQd0lKQmNZZ3NOY3I1Y2N2eGt3OXN4b08xYm82aFpVMWgwRGFDLU85UC1COF9nNlpXOXlwUjNyN0EtRUROYmdB?oc=5",
       "image": "",
-      "publishedAt": "Sun, 19 Jul 2026 22:50:00 GMT"
+      "publishedAt": "Tue, 21 Jul 2026 10:00:00 GMT"
     },
     {
-      "category": "מסי",
-      "source": "חדשות מסי",
-      "title": "אפילו ליאונל מסי לא הצליח לשבור את הקללה ההיסטורית",
-      "summary": "אפילו ליאונל מסי לא הצליח לשבור את הקללה ההיסטורית &nbsp;&nbsp; וואלה ספורט",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xWXhfMFBiTWdvWDh5ZDNiRm83d3RFcnVmd2wxdzExOUlfaXlFLW1TS09EVUZCTE5zVGExMnB6SEs5UW4wSGtLb2wteVd2a0t2?oc=5",
+      "category": "דני אבדיה",
+      "source": "חדשות דני אבדיה",
+      "title": "כאוס בקבוצה של דני אבדיה: בכיר בפורטלנד בהצהרה חריגה",
+      "summary": "כאוס בקבוצה של דני אבדיה: בכיר בפורטלנד בהצהרה חריגה &nbsp;&nbsp; היום",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBGSlZzS3BHSTIzSllFTWRpaXE1Y0hCMF8zUHpwOGhFRDRxdi1vTzh1b0RlNHFIVW1xX29FRGZmWE1majhVV0dkS3B5UTV2b1QwMjBLZjlmUmFFbGp3aG15U2dBanNCOFIzeE1jdmU5dmItQWloSW52RdIBgAFBVV95cUxNR0k0dll2aUk0a0VKWkFBdGJnZFlTc19TQ0kzQVdER3pFc08xUDVMS3FTOGFMX2I1NHM5LURVYTZod0VuTGhhaktEZVNwbkpTOUVXeVVzN2RWQVl3dWFETGtyLTdVWmFQclZWOWJGYWxtZEN2OTFPMHVxS1dqNnhMQw?oc=5",
       "image": "",
-      "publishedAt": "Mon, 20 Jul 2026 09:10:00 GMT"
+      "publishedAt": "Mon, 20 Jul 2026 20:48:00 GMT"
+    },
+    {
+      "category": "דני אבדיה",
+      "source": "חדשות דני אבדיה",
+      "title": "פרישמן: \"שחקן שצריך להכריח אותו להגיע – לא ראוי לנבחרת\"",
+      "summary": "פרישמן: \"שחקן שצריך להכריח אותו להגיע – לא ראוי לנבחרת\" &nbsp;&nbsp; ספורט 1",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS0lyVmNXeVVMNzJZZUJEUEFpVjlELVdYcXFZUXZaWWxJYUdBNHFlVVBnWGxfRDlSS0t1QTFBdFdHdUpISVJQTUstR1RrWWZGNm9pQkZSQlc4V2t4UjRXZVl6WUI4cTlDUFhCY29uSWR5aDQtWHJjVnlza01zR1NFVndnUTM4bEE1RHB2U1BxOVJKZw?oc=5",
+      "image": "",
+      "publishedAt": "Tue, 21 Jul 2026 09:10:08 GMT"
     }
   ],
   "flashes": [
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "שר הבטחון ישראל כ''ץ דורש שינוי מדיניות מהאלוף בלוט: ''לאחרונה נראה שהאיזון הופר''",
+      "title": "13 מטוסי תדלוק היו אמורים לעזוב היום את נתב'ג – אבל כנראה יישארו: צפויים עיכובים משמעותיים",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957481.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "https://rotter.net/forum/scoops1/957500.shtml",
       "image": "",
       "publishedAt": ""
     },
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "הגן שמתקן DNA ומאריך חיים; האם המדע יכול להשתמש בו להארכת חיים?",
+      "title": "פרסום ספר זכרונותיו של ביידן: נתניהו שיחק איתנו משחקים",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957480.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957494.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "עימותים בין תושבים לצבא לבנון בכפר ברקאיל",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957502.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "מרדכי דוד וענת קם בעימות פיזי",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957466.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "אין יותר ונטולין בישראל: חולי אסתמה נותרו בלי המשאף המוכר",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957501.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "המצוד נמשך: צה''ל חיסל את המחבל שלקח חלק בחטיפת נורית קופר, עמירם קופר ז''ל ואלכסנדר דנציג ז''ל מקיבוץ ניר עוז",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957504.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1060,9 +1159,9 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "יאיר גולן: החרדים טפילים",
+      "title": "נחשפו מסרי קמפיין הליכוד נגד אייזנקוט.",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957444.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957482.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1072,6 +1171,123 @@
       "title": "חבר פרלמנט מהחיזבאללה: מה המשמעות של פירוק חזבאללה מנשקו? בכוח? לא נמסור לכם את הנשק ואתם לא תיקחו אותו, אז על מה התחייבתם?",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957479.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ערבי ״ישראלי״ מנצרת נעצר, תכנן להתנקש בשר בן גביר",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957505.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "אחרי 12 שנה: מעיין פרתי עוזבת את חדשות 12",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957499.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "הפריימריז בליכוד: בוטלה ההצבעה במרכז המפלגה על שריוני רה''מ והתקנון",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957468.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "יו''ר מפלגת זהות, משה פייגלין מגבה את ''חלוצי הגבעות'' ברקע פעילות הממשלה נגדם",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957473.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "יאיר גולן: החרדים טפילים",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957444.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "עגלה אדומה נוספת נולדה ברמת הגולן",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957485.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "טרגדיה: יקיר לוי, כוכב הדוקו-ריאליטי ''האמריקאים'', נפל אל מותו במיאמי",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957492.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "רוסיה - פגיעת כטב''מ מתאבד אוקראיני בשיירה בצפון האי כרים. ( אירוע מתחילת השבוע).",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957503.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "מנהיג הציבור החרדי-ליטאי הרב דב לנדו: התפרסמו דברים שאמרתי בשיחה פריטית, ובשנאת עמי הארצות התייחסו לדברים האלה בעיוות ובחוסר הבנה מוחלט",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957467.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ארגון תורת לחימה: דרישה מיו''ר ועדת הבחירות השופט נעם סולברג לפסול את מועמדי מפלגת ''הדמוקרטים'' שהסיתו לסרבנות בצה''ל*",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957434.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "שיא כחול-לבן: היצוא הישראלי זינק ל-169 מיליארד דולר",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957489.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "שר הבטחון ישראל כ''ץ דורש שינוי מדיניות מהאלוף בלוט: ''לאחרונה נראה שהאיזון הופר''",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957481.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "הגן שמתקן DNA ומאריך חיים; האם המדע יכול להשתמש בו להארכת חיים?",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957480.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1105,36 +1321,9 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "הפריימריז בליכוד: בוטלה ההצבעה במרכז המפלגה על שריוני רה''מ והתקנון",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957468.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "מרדכי דוד וענת קם בעימות פיזי",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957466.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "קיבלת בלוק: מדוע אלפי ישראלים נחסמים בווטסאפ - ומה הפתרון?",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957465.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "מנהיג הציבור החרדי-ליטאי הרב דב לנדו: התפרסמו דברים שאמרתי בשיחה פריטית, ובשנאת עמי הארצות התייחסו לדברים האלה בעיוות ובחוסר הבנה מוחלט",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957467.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1162,15 +1351,6 @@
       "title": "לא מאומת: משמרות המהפכה טוענים כי השמידו את מרכז אמזון בבחריין; חברות טכנולוגיות נוספות יעד לגיטימי",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957474.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "יו''ר מפלגת זהות, משה פייגלין מגבה את ''חלוצי הגבעות'' ברקע פעילות הממשלה נגדם",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957473.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1396,15 +1576,6 @@
       "title": "האירנים מפרסמים תמונות לווין שלטענתם מראות פגיעה במבני מגורי חיילי ארה''ב בירדן ועוד.",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957459.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "ארגון תורת לחימה: דרישה מיו''ר ועדת הבחירות השופט נעם סולברג לפסול את מועמדי מפלגת ''הדמוקרטים'' שהסיתו לסרבנות בצה''ל*",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957434.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
