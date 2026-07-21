@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "updatedAt": "2026-07-21T15:06:50.520Z",
+  "updatedAt": "2026-07-21T16:56:04.929Z",
   "stories": [
     {
       "category": "טכנולוגיה",
@@ -930,6 +930,24 @@
       "publishedAt": "Tue, 21 Jul 2026 11:10:00 GMT"
     },
     {
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "\"בנינו את מה שהיה צריך להיות מלכתחילה\": יוצאי Rapyd רוצים לפתור את כאב הראש של הבנקים",
+      "summary": "אנחנו נוטים לחשוב על עסקה בתור משהו שקורה מקצה לקצה בין שתי נקודות, אבל בין שתי הנקודות הללו יש עוד לא מעט גורמים ושלבים בדרך – ולפעמים זה גורם לבעיות משמעותיות. כעת, חבורה של יוצאי Rapyd חושפת סטארטאפ חדש בשם Cordant שרוצה לעקוב אחרי העסקאות בזמן אמת, והוא כבר גייס 8 מיליון דולר בשביל זה. […] The p",
+      "url": "https://www.geektime.co.il/cordant-comes-out-of-stealth-with-8m/",
+      "image": "",
+      "publishedAt": "Tue, 21 Jul 2026 13:00:19 +0000"
+    },
+    {
+      "category": "מסי",
+      "source": "חדשות מסי",
+      "title": "הצעה מפתיעה: כך מסי עשוי להיפרד מנבחרת ארגנטינה",
+      "summary": "הצעה מפתיעה: כך מסי עשוי להיפרד מנבחרת ארגנטינה &nbsp;&nbsp; ספורט 1",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBraXVhWjBCSmNOR2F5Q2dwS1IxRTR5eTgyakZZUW0wU2ZlM2FnOVlySWVBVjQxdmM5SW03OXM3Q01IaHEtVktwYzZCMWY2WEtEQUt5WlctWXBEVzg2UUVQRmVuc3F6WHhi?oc=5",
+      "image": "",
+      "publishedAt": "Tue, 21 Jul 2026 14:39:41 GMT"
+    },
+    {
       "category": "אפל",
       "source": "גאדג׳טי — אפל",
       "title": "אפל מייקרת את מחירי השירותים בעולם - בישראל עדיין ללא שינוי",
@@ -1040,37 +1058,37 @@
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "פרקליט המדינה שוקל להעמיד לדין את ראש האגף לרישוי כלי ירייה לשעבר במשרד לביטחון לאומי",
+      "title": "צה\"ל על הירי בלבנון: הכוחות ביצעו ירי אזהרה לאוויר בלבד שלא סיכן את כוחות צבא לבנון",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-291160f9",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "בכיר לשעבר במשרד לביטחון לאומי צפוי לעמוד לדין",
       "summary": "",
       "url": "https://www.i24news.tv/he/news/news/law/artc-67d165b8",
-      "image": "",
+      "image": "https://cdn.i24news.tv/uploads/f4/1a/e2/98/01/04/70/42/b3/f6/0d/93/ef/df/59/20/f41ae29801047042b3f60d93efdf5920.jpg?width=350",
       "publishedAt": ""
     },
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "המועצה להשכלה גבוהה אישרה: הגבלת מחאות פוליטיות במוסדות",
+      "title": "ראש מועצת ירוחם השתוללה בדיון עם יו\"ר קק\"ל - ונעצרה | תיעוד",
       "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/education/artc-d2af44df",
-      "image": "",
+      "url": "https://www.i24news.tv/he/news/news/local/artc-41525c09",
+      "image": "https://cdn.i24news.tv/uploads/ad/35/d8/52/a1/7c/4a/41/e2/bd/0c/e4/60/e9/a0/d5/ad35d852a17c4a41e2bd0ce460e9a0d5.jpg?width=350",
       "publishedAt": ""
     },
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "\"מתוך שעמום וסקרנות\": בן 23 נעצר בחשד שהצית שריפת קוצים בהרי ירושלים",
+      "title": "\"מתוך שעמום וסקרנות\": בן 23 נעצר בחשד להצתת שריפת קוצים בהרי ירושלים",
       "summary": "",
       "url": "https://www.i24news.tv/he/news/news/criminal/artc-28324e3b",
       "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "רה\"מ קיים דיון בסוגיית עזה יחד עם שליחו של טראמפ | עדכונים",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-291160f9",
-      "image": "https://cdn.i24news.tv/uploads/23/4c/ac/46/e1/9e/ee/73/05/c8/a6/99/d8/00/9d/b3/234cac46e19eee7305c8a699d8009db3.jpg?width=350",
       "publishedAt": ""
     },
     {
@@ -1090,15 +1108,6 @@
       "url": "https://www.i24news.tv/he/news/news/local/artc-8c216aa7",
       "image": "",
       "publishedAt": ""
-    },
-    {
-      "category": "טכנולוגיה",
-      "source": "גיקטיים",
-      "title": "\"בנינו את מה שהיה צריך להיות מלכתחילה\": יוצאי Rapyd רוצים לפתור את כאב הראש של הבנקים",
-      "summary": "אנחנו נוטים לחשוב על עסקה בתור משהו שקורה מקצה לקצה בין שתי נקודות, אבל בין שתי הנקודות הללו יש עוד לא מעט גורמים ושלבים בדרך – ולפעמים זה גורם לבעיות משמעותיות. כעת, חבורה של יוצאי Rapyd חושפת סטארטאפ חדש בשם Cordant שרוצה לעקוב אחרי העסקאות בזמן אמת, והוא כבר גייס 8 מיליון דולר בשביל זה. […] The p",
-      "url": "https://www.geektime.co.il/cordant-comes-out-of-stealth-with-8m/",
-      "image": "",
-      "publishedAt": "Tue, 21 Jul 2026 13:00:19 +0000"
     },
     {
       "category": "ספורט",
@@ -1128,16 +1137,187 @@
       "publishedAt": ""
     },
     {
-      "category": "מסי",
-      "source": "חדשות מסי",
-      "title": "הצעה מפתיעה: כך מסי עשוי להיפרד מנבחרת ארגנטינה",
-      "summary": "הצעה מפתיעה: כך מסי עשוי להיפרד מנבחרת ארגנטינה &nbsp;&nbsp; ספורט 1",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBraXVhWjBCSmNOR2F5Q2dwS1IxRTR5eTgyakZZUW0wU2ZlM2FnOVlySWVBVjQxdmM5SW03OXM3Q01IaHEtVktwYzZCMWY2WEtEQUt5WlctWXBEVzg2UUVQRmVuc3F6WHhi?oc=5",
+      "category": "ארלינג האלנד",
+      "source": "חדשות ארלינג האלנד",
+      "title": "ארלינג הולאנד הפתיע את כולם אחרי ההדחה מהמונדיאל: \"אין שום סיכוי\"",
+      "summary": "ארלינג הולאנד הפתיע את כולם אחרי ההדחה מהמונדיאל: \"אין שום סיכוי\" &nbsp;&nbsp; ספורט 1",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtVWRjd1hLYWhkNTlNTTJKZDVQV1NWTnBMelVwaVBVUm9rbWFfSi1TRVRwcTVfSjNJSktrR3V4S0ZRaGFVaUlfWlF4RUFXMVAtSl9GT0JuN282eWJVNzV4X1VRaUpoUnNI?oc=5",
       "image": "",
-      "publishedAt": "Tue, 21 Jul 2026 14:39:41 GMT"
+      "publishedAt": "Sun, 12 Jul 2026 07:00:00 GMT"
     }
   ],
   "flashes": [
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "פרסום ספר זכרונותיו של ביידן: נתניהו שיחק איתנו משחקים",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957494.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "מפציצי B-1 המריאו הערב מבריטניה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957541.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "אליהו ליבמן, ששכל את בנו אליקים במסיבת הנובה, מצטרף למפלגת נעם של אבי מעוז",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957521.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ארה״ב: מפקד משמר הגבול הארצי לשעבר טוען כי במדינה חיים 107 מיליון מהגרים בלתי חוקיים, יותר מפי חמישה מההערכה הנפוצה של כ20 מיליון",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957539.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "גנץ עושה נתניהו ומעלה סרטון AI של נתניהו רץ לעבר חייל צה”ל, ואז עובר אותו ורץ להתחבק עם גולדקנופף שמחזיק שלט ״נמות ולא נתגייס״",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957528.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "טראמפ: ''הנשיא הסורי רוצה להתערב ולעשות משהו עם חיזבאללה, ואני חושב שזה יהיה יעיל מאוד.",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957536.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "נשיא המדינה יצחק הרצוג ישא הצהרה מיוחדת בשעה 20:15.",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957525.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "אין יותר ונטולין בישראל: חולי אסתמה נותרו בלי המשאף המוכר",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957501.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ראש מועצת ירוחם התעמתה פיזית עם שוטרים, כולל ניסיון לאזוק אותה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957529.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "צה''ל על הירי בדרום לבנון: הם נכנסו לאזור שאינו חלק מהפיילוט; כוח של צבא לבנון ובו כלי הנדסי חדר כ-150 מטרים למרחב הביטחוני בדרום לבנון",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957540.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "נהג מונית העלה קשיש מאיכילוב לנסיעה,ניצל את בלבולו, לקח את כ. האשראי שלו,עשה קניות באלפי ש''ח ואפילו לא לקח אותו לביתו, הוריד אותו בנמל ת''א",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957526.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "טראמפ: אם נעזוב עכשיו ייקח לאיראן 20 עד 25 שנה להשתקם, ועוד לא סיימנו, אנחנו לא עוזבים עכשיו",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957535.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "פרופסור שלמה משיח נפטר",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957537.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "נוסעת בלי קטר: הבלגן במינויי ההנהלה של רכבת ישראל",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957538.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "טראמפ: האיראנים מאוד מעוניינים להיפגש כדי לנסות לסיים את המלחמה הזו.",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957534.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "השופטים קבעו דיון בבקשת ביזיון בית המשפט על התנהלות אנשי השב״כ לשעבר שמסרבים למסור את שמם לראש השב״כ זיני נגדו הם עתרו.",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957514.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "מרדכי דוד וענת קם בעימות פיזי",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957466.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "פרשת רישיונות הנשק: כתב אישום בכפוף לשימוע נגד ישראל אבישר, לשעבר ראש האגף לרישוי כלי ירייה במשרד לביטחון לאומי",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957524.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "הדרכון הישראלי שמר על מקומו בדירוג העולמי. ואיזה דרכון הכי חזק?",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957490.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
     {
       "category": "מבזקים",
       "source": "רוטר",
@@ -1168,24 +1348,6 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "גנץ עושה נתניהו ומעלה סרטון AI של נתניהו רץ לעבר חייל צה”ל, ואז עובר אותו ורץ להתחבק עם גולדקנופף שמחזיק שלט ״נמות ולא נתגייס״",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957528.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "פרסום ספר זכרונותיו של ביידן: נתניהו שיחק איתנו משחקים",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957494.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "מנהלת התקשורת של ואנס מכחישה את הדיווח שהוא מנסה לחסום פגישה בין נתניהו לטראמפ: זה 100% פייק",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957530.shtml?utm_source=rotter.net&utm_medium=mivzakside",
@@ -1195,54 +1357,9 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "נשיא המדינה יצחק הרצוג ישא הצהרה מיוחדת בשעה 20:15.",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957525.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "אין יותר ונטולין בישראל: חולי אסתמה נותרו בלי המשאף המוכר",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957501.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "פרשת רישיונות הנשק: כתב אישום בכפוף לשימוע נגד ישראל אבישר, לשעבר ראש האגף לרישוי כלי ירייה במשרד לביטחון לאומי",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957524.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "ראש מועצת ירוחם התעמתה פיזית עם שוטרים, כולל ניסיון לאזוק אותה",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957529.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "אחרי 12 שנה: מעיין פרתי עוזבת את חדשות 12",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957499.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "אליהו ליבמן, ששכל את בנו אליקים במסיבת הנובה, מצטרף למפלגת נעם של אבי מעוז",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957521.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1276,36 +1393,9 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "נהג מונית העלה קשיש מאיכילוב לנסיעה,ניצל את בלבולו, לקח את כ. האשראי שלו,עשה קניות באלפי ש''ח ואפילו לא לקח אותו לביתו, הוריד אותו בנמל ת''א",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957526.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "השופטים קבעו דיון בבקשת ביזיון בית המשפט על התנהלות אנשי השב״כ לשעבר שמסרבים למסור את שמם לראש השב״כ זיני נגדו הם עתרו.",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957514.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "פרטים חדשים על מות כוכב הריאליטי יקיר לוי: ''פתאום שמעו בום חזק''",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957519.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "הדרכון הישראלי שמר על מקומו בדירוג העולמי. ואיזה דרכון הכי חזק?",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957490.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1441,15 +1531,6 @@
       "title": "13 מטוסי תדלוק היו אמורים לעזוב היום את נתב'ג – אבל כנראה יישארו: צפויים עיכובים משמעותיים",
       "summary": "",
       "url": "https://rotter.net/forum/scoops1/957500.shtml",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "מרדכי דוד וענת קם בעימות פיזי",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957466.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1783,78 +1864,6 @@
       "title": "נער בן 15 מחיפה קיבל זריקות נגד כלבת אחרי ששמע רעש מוזר במזגן, התקרב והיה במגע עם עטלף. חתול הבית טרף את העטלף וגם יקבל זריקות חיסון",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957437.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "עמנואל מורנו מצא את מיקומו המדוייק של גלעד שליט בשבי החמאס והגיש תוכנית לחילוצו אך רוה''מ אולמרט, שר הביטחון עמיר פרץ והרמטכל חלוץ פסלו אותה",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957414.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "בג''ץ דן בעתירה המבקשת לחייב את ישראל להכניס לארץ תושבים עזתים חולים",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957411.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "לאור ההתפטרויות במל״ג, השר קיש פועל למנות את פאנליסט ערוץ 14 פרופ משה כהן אליה כחבר במל״ג",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957405.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "האירנים מפרסמים תמונות לווין שלטענתם מראות פגיעה במבני מגורי חיילי ארה''ב בירדן ועוד.",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957459.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "חשד לשוחד - במשך שנים: נעצרו עובדים ברשות המסים",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957353.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "דיווח על מיכלית נוספת שהותקפה במיצרי הורמוז",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957452.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "נתניהו נגד הרב לנדו שתקף את הציונות הדתית: ''דברים מזעזעים''",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957370.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "טראמפ מטיל מכס של 50% על שורת מוצרים מקנדה בטענה ליחס בלתי הוגן כלפי ארצות הברית",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957455.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     }
