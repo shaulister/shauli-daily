@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "updatedAt": "2026-07-21T23:00:36.510Z",
+  "updatedAt": "2026-07-22T00:56:33.010Z",
   "stories": [
     {
       "category": "טכנולוגיה",
@@ -651,6 +651,24 @@
       "publishedAt": "Sat, 11 Jul 2026 07:00:00 GMT"
     },
     {
+      "category": "רונאלדיניו",
+      "source": "חדשות רונאלדיניו",
+      "title": "\"פחד לחייו\": רונאלדו, רונאלדיניו ומדונה גנבו את ההצגה בגמר המונדיאל",
+      "summary": "\"פחד לחייו\": רונאלדו, רונאלדיניו ומדונה גנבו את ההצגה בגמר המונדיאל &nbsp;&nbsp; ספורט 1",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uR0lFRUNoN3ZDS3RWc0I1b2N6c3N3YTlRdVRGb1VlNEVoT3lwSjFyU1YtQkhteng2MUVla2t5bFFfaHBWNll3UW5kcUt5MnVMVmR6Y04tYkY1YUVYeExHLXBEd0Z6QXZy?oc=5",
+      "image": "",
+      "publishedAt": "Sun, 19 Jul 2026 20:14:18 GMT"
+    },
+    {
+      "category": "ארלינג האלנד",
+      "source": "חדשות ארלינג האלנד",
+      "title": "כובש את ארה\"ב: תופעת ארלינג הולאנד",
+      "summary": "כובש את ארה\"ב: תופעת ארלינג הולאנד &nbsp;&nbsp; Sport5",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZQjBtaW53RjJUZFRvMnBZakpzRC1NQTYzN1U1Sl9zWFA0NWdwNnVPV3VuUVJGaXdNVkF2bUJCdmJJdkE2QlQ0RlhUcld3TC12TUI1bFNRTm9VUTlBM0N1Ti1pVTNQYno4SWJ4V1g3WHpreVU?oc=5",
+      "image": "",
+      "publishedAt": "Sat, 11 Jul 2026 07:00:00 GMT"
+    },
+    {
       "category": "אפל",
       "source": "גאדג׳טי — אפל",
       "title": "אפל מייקרת את מחירי השירותים בעולם - בישראל עדיין ללא שינוי",
@@ -761,6 +779,15 @@
     {
       "category": "ישראל",
       "source": "i24NEWS",
+      "title": "הלילה ה-11 ברציפות: ארצות הברית החלה בגל תקיפות נוסף באיראן",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-2c044d59",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
       "title": "יורים ללא הבחנה - גם כשהמשטרה מגיעה: קטטת ענק בנגב | תיעוד",
       "summary": "",
       "url": "https://www.i24news.tv/he/news/news/criminal/artc-504b41e8",
@@ -774,15 +801,6 @@
       "summary": "",
       "url": "https://www.i24news.tv/he/news/news/criminal/artc-cba55e55",
       "image": "https://cdn.i24news.tv/uploads/2d/55/ad/ae/7d/92/97/ab/71/0f/ba/9c/5f/61/4b/ef/2d55adae7d9297ab710fba9c5f614bef.jpg?width=350",
-      "publishedAt": ""
-    },
-    {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "איראן באיום חדש: אם ארה\"ב תתקוף מתקנים גרעיניים - נרחיב את מעגל האש",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-2c044d59",
-      "image": "",
       "publishedAt": ""
     },
     {
@@ -840,31 +858,94 @@
       "publishedAt": ""
     },
     {
-      "category": "רונאלדיניו",
-      "source": "חדשות רונאלדיניו",
-      "title": "\"פחד לחייו\": רונאלדו, רונאלדיניו ומדונה גנבו את ההצגה בגמר המונדיאל",
-      "summary": "\"פחד לחייו\": רונאלדו, רונאלדיניו ומדונה גנבו את ההצגה בגמר המונדיאל &nbsp;&nbsp; ספורט 1",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uR0lFRUNoN3ZDS3RWc0I1b2N6c3N3YTlRdVRGb1VlNEVoT3lwSjFyU1YtQkhteng2MUVla2t5bFFfaHBWNll3UW5kcUt5MnVMVmR6Y04tYkY1YUVYeExHLXBEd0Z6QXZy?oc=5",
+      "category": "דני אבדיה",
+      "source": "חדשות דני אבדיה",
+      "title": "\"אם דני אבדיה יעשה את זה, לפורטלנד לא תהיה ברירה\"",
+      "summary": "\"אם דני אבדיה יעשה את זה, לפורטלנד לא תהיה ברירה\" &nbsp;&nbsp; היום",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VTUZaTFZHNE5vX1QwaVlEY1o5ZmNkZlJMR1VDQ2NsRjBMdkdZUzQ1SWppMzd5YVpJVURzTjJHT0xkQ2NoMlFsVUxoeWtNallacjViU2ZVa3czZEdsbnJDbjV3WjlJVUE3ZWc3TXRrQmo4ZFctVjNSV9IBgAFBVV95cUxPanZ0cE04UldsNUxVMXNiUzBxVDRwSDNUWktqbnN2NjhuV0M4SE9mallnUDNMRGJYU2NqY0pXaGktX29XRXdYeFlzTW5zNmdtVkJabjNMRDhxVWJ0RzJYWUxZTFR3clhJXzAzdUZHRnpYUDRZZmN4R3RXX2ZSTHVOOQ?oc=5",
       "image": "",
-      "publishedAt": "Sun, 19 Jul 2026 20:14:18 GMT"
+      "publishedAt": "Tue, 21 Jul 2026 19:50:53 GMT"
     },
     {
-      "category": "ארלינג האלנד",
-      "source": "חדשות ארלינג האלנד",
-      "title": "כובש את ארה\"ב: תופעת ארלינג הולאנד",
-      "summary": "כובש את ארה\"ב: תופעת ארלינג הולאנד &nbsp;&nbsp; Sport5",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZQjBtaW53RjJUZFRvMnBZakpzRC1NQTYzN1U1Sl9zWFA0NWdwNnVPV3VuUVJGaXdNVkF2bUJCdmJJdkE2QlQ0RlhUcld3TC12TUI1bFNRTm9VUTlBM0N1Ti1pVTNQYno4SWJ4V1g3WHpreVU?oc=5",
+      "category": "דני אבדיה",
+      "source": "חדשות דני אבדיה",
+      "title": "שחקן פורטלנד שוחח עם לוקה דונצ'יץ' - והחליט לעזוב את דני אבדיה",
+      "summary": "שחקן פורטלנד שוחח עם לוקה דונצ'יץ' - והחליט לעזוב את דני אבדיה &nbsp;&nbsp; היום",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByWUlyMUNJS3ZsWnNmSXQ3elBGWjdISlQ3bGhkTnRTSG12ODVRRlpTLW0yR0kwMmNXY28wSFVIcHJhTU9Md1liX053dUVvbVhMWkZvRWxEZE9yT3AtVk5NTDdvTXVVODRwZjhaOGtweEh0V0QwbHRXcdIBgAFBVV95cUxOaGhoNENtX1U5anQxd0h6a01uZVlZeC1GbG5zUm1lNVpjamZjYTNaMmFzUmVmaFdCNUM2WUNWckdxcWpFa3pvTmp4cVlhMFBoVEh6TldaMGtkRlQ1QllBZU93S2w2cmc5OGNoNFNtT2dDcjk4bGV6Ny1DOXZNR2RqeQ?oc=5",
       "image": "",
-      "publishedAt": "Sat, 11 Jul 2026 07:00:00 GMT"
+      "publishedAt": "Mon, 20 Jul 2026 18:45:01 GMT"
     }
   ],
   "flashes": [
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "נהג מונית העלה קשיש מאיכילוב לנסיעה,ניצל את בלבולו, לקח את כ. האשראי שלו,עשה קניות באלפי ש''ח ואפילו לא לקח אותו לביתו, הוריד אותו בנמל ת''א",
+      "title": "זלנסקי נשיא אוקראינה פיטר את הרמטכ''ל והחליף אותו בעקבות המחאות שם",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957526.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957579.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ממדאני: ''בחנו כל דרך אפשרית, אין סמכות לעצור את נתניהו''",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957585.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ארצות הברית תוקפת באיראן. דיווח על הפעלת מערכות הגנה אווירית בטהראן",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957580.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "פרסום ספר זכרונותיו של ביידן: נתניהו שיחק איתנו משחקים",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957494.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "אין יותר ונטולין בישראל: חולי אסתמה נותרו בלי המשאף המוכר",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957501.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ר''ע רמת גן מודיע על ניתוח להסרת גידול ומאשים - ''איחלו לי סרטן''",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957584.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "אנתרופיק מציגה: מקליטים את המסך ומסבירים משימה, וקלוד הופך אותה למיומנות שיוכל לבצע שוב בעתיד",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957559.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "פיט הגסת' בסנאט - ''יש דרכים שבהן רוסיה וסין מאפשרות את מה שאיראן עושה בלחימה''",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957576.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -874,6 +955,96 @@
       "title": "סיכום של טראמפ לגבי נפגעים במלחמות ארה''ב",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957581.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "אבי שושן: נתניהו אמר לי שהשב''כ צריך לחקור אם הייתה בגידה ב-7.10",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957566.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "מפקדת החירום של איראן: אם ארה''ב תתקוף מתקני גרעין, כל האינטרסים של ארצות הברית, בעלי בריתה והמדינות התומכות בה יהיו יעד לתקיפות עוצמתיות",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957575.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "דיווח חריג: סוכן של OpenAI פרץ מסביבת הבידוד, הצליח להשיג גישה לאינטרנט וחדר למערכות Hugging Face, שנאלצה להשתמש במודל סיני כדי לבלום אותו",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957582.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "עגלה אדומה נוספת נולדה ברמת הגולן",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957485.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "הקרב על הכותל: המאבק לשינוי זהותה היהודית של המדינה | 2 חלקים",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957570.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "''השתעממתי'': הצית את השריפה בהרי ירושלים – ושוחרר למעצר בית",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957569.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "מכתב חריף של ארגון חוננו מתריע: טל ינון דרדיק נמצא בסכנת חיים!",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957543.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "סמוטריץ' שוקל לשריין את העיתונאי אבישי בן חיים במקום השני ברשימה. בן חיים בתגובה: הנושא אינו על הפרק.",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957563.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ארה״ב: מפקד משמר הגבול הארצי לשעבר טוען כי במדינה חיים 107 מיליון מהגרים בלתי חוקיים, יותר מפי חמישה מההערכה הנפוצה של כ20 מיליון",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957539.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "נהג מונית העלה קשיש מאיכילוב לנסיעה,ניצל את בלבולו, לקח את כ. האשראי שלו,עשה קניות באלפי ש''ח ואפילו לא לקח אותו לביתו, הוריד אותו בנמל ת''א",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957526.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -892,33 +1063,6 @@
       "title": "שר ההגנה של ארה''ב פיט הגסת': המלחמה עם איראן עלתה עד כה 37.5 מיליארד דולר",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957571.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "דיווחים על פיצוצים בבושהר איראן. דיווחים גם על פיצוץ בטהראן",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957580.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "סמוטריץ' שוקל לשריין את העיתונאי אבישי בן חיים במקום השני ברשימה. בן חיים בתגובה: הנושא אינו על הפרק.",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957563.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "מכתב חריף של ארגון חוננו מתריע: טל ינון דרדיק נמצא בסכנת חיים!",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957543.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -952,24 +1096,6 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "''השתעממתי'': הצית את השריפה בהרי ירושלים – ושוחרר למעצר בית",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957569.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "ארה״ב: מפקד משמר הגבול הארצי לשעבר טוען כי במדינה חיים 107 מיליון מהגרים בלתי חוקיים, יותר מפי חמישה מההערכה הנפוצה של כ20 מיליון",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957539.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "צבא כווית: מערכת ההגנה האווירית מתמודדת כעת עם התקפות של רחפנים עוינים מאיראן",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957578.shtml?utm_source=rotter.net&utm_medium=mivzakside",
@@ -982,51 +1108,6 @@
       "title": "תקלה ארצית ברשת האינטרנט של סלקום",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957568.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "מפקדת החירום של איראן: אם ארה''ב תתקוף מתקני גרעין, כל האינטרסים של ארצות הברית, בעלי בריתה והמדינות התומכות בה יהיו יעד לתקיפות עוצמתיות",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957575.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "פיט הגסת' בסנאט - ''יש דרכים שבהן רוסיה וסין מאפשרות את מה שאיראן עושה בלחימה''",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957576.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "עגלה אדומה נוספת נולדה ברמת הגולן",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957485.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "אבי שושן: נתניהו אמר לי שהשב''כ צריך לחקור אם הייתה בגידה ב-7.10",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957566.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "זלנסקי נשיא אוקראינה פיטר את הרמטכ''ל והחליף אותו בעקבות המחאות שם",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957579.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1069,15 +1150,6 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "הקרב על הכותל: המאבק לשינוי זהותה היהודית של המדינה | 2 חלקים",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957570.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "גנץ עושה נתניהו ומעלה סרטון AI של נתניהו רץ לעבר חייל צה”ל, ואז עובר אותו ורץ להתחבק עם גולדקנופף שמחזיק שלט ״נמות ולא נתגייס״",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957528.shtml?utm_source=rotter.net&utm_medium=mivzakside",
@@ -1099,15 +1171,6 @@
       "title": "ירי ואבנים בסכסוך בין חמולות בערערה בנגב - גם כשכוחות המשטרה הגיעו למקום, כפי שניתן לראות בתיעוד העבריינים המשיכו לבצע ירי וסיכנו את",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957565.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "פרסום ספר זכרונותיו של ביידן: נתניהו שיחק איתנו משחקים",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957494.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1177,7 +1240,7 @@
       "name": "גיקטיים",
       "category": "טכנולוגיה",
       "url": "https://www.geektime.co.il/",
-      "status": "unavailable"
+      "status": "ok"
     },
     {
       "name": "מגזין רכב חשמלי",
