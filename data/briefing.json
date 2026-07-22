@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "updatedAt": "2026-07-22T12:12:24.424Z",
+  "updatedAt": "2026-07-22T14:34:59.623Z",
   "stories": [
     {
       "category": "טכנולוגיה",
@@ -822,6 +822,69 @@
       "publishedAt": "Wed, 22 Jul 2026 07:38:26 GMT"
     },
     {
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "סוף עידן הפיצה והאקסל: ה-AI כבר עושה במקומנו Bug Bash",
+      "summary": "בינינו, Bug Bash זה קונספט קצת מיושן. סוגרים את כולם בחדר, מזמינים פיצה, פותחים אקסל (התוכנה לא המשקה) ומתפללים שמשהו יישבר. בסוף תמיד מישהו מוצא שגיאת כתיב בטולטיפ וכולם מתעייפים אחרי שעה. אבל מה אם כל פיצ'ר שהייתם משחררים היה יודע לחפש את מקרי הקיצון של עצמו? בכנס Geektime Code 2026, הציג יונתן מנ",
+      "url": "https://www.geektime.co.il/yonatan-manor-geektime-code-ai-agents/",
+      "image": "",
+      "publishedAt": "Wed, 22 Jul 2026 10:43:25 +0000"
+    },
+    {
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "שנה בלבד אחרי ההקמה: הישראלי שמכר חברה למטא חושף סטארטאפ ששווה כבר 1.2 מיליארד דולר",
+      "summary": "כשכמעט מחצית מהעובדים בארגון מורידים ומפעילים בשושו כלי AI שונים, סוכנים אוטונומיים ותוספים שונים במחשב הארגוני שלהם, צוותי האבטחה מוצאים את עצמם במרדף חסר סיכוי. על פי דוח Verizon Data Breach Investigations לשנת 2026, כ-45% מהעובדים בארגונים משתמשים כיום באופן קבוע בכלי AI על גבי המחשבים הארגוניים,",
+      "url": "https://www.geektime.co.il/glow-ai-security-unicorn-roi-tiger/",
+      "image": "",
+      "publishedAt": "Wed, 22 Jul 2026 10:00:54 +0000"
+    },
+    {
+      "category": "טכנולוגיה",
+      "source": "The Verifier",
+      "title": "הוכרזו: Galaxy Watch 9 ו-Watch Ultra 2 – שדרוג בבהירות המסך ומדדים חדשים",
+      "summary": "נכתב על ידי אלדד מטמון מאתר The Verifier דגם ה-Ultra2 כולל סוללת 800mAh ופרופיל דק ב-12%, כשלצידו ה-Watch9 עם אבחון דום נשימה ואלגוריתמי AI לניטור הלב.",
+      "url": "https://theverifier.co.il/80167/announced-samsung-galaxy-watch-9-and-watch-ultra-2/",
+      "image": "https://theverifier.co.il/wp-content/uploads/2026/07/003-Samsung-Galaxy-Watch-Ultra2-and-Watch9_-Your-Health-Companion-on-the-Wrist-Newsbody-150x150.webp",
+      "publishedAt": "Wed, 22 Jul 2026 13:30:16 +0000"
+    },
+    {
+      "category": "טכנולוגיה",
+      "source": "The Verifier",
+      "title": "הוכרז: Samsung Galaxy Z Fold8 – עיצוב קל יותר, מסכים חדשים ויכולות צילום משופרות",
+      "summary": "נכתב על ידי אלדד מטמון מאתר The Verifier עדכון פרופורציות המסך במכשיר המתקפל החדש הוא ניסיון להתקרב לתחושת השימוש בסמארטפון מסורתי והרצון להקדים את אפל",
+      "url": "https://theverifier.co.il/80113/samsung-galaxy-z-fold8-announced/",
+      "image": "https://theverifier.co.il/wp-content/uploads/2026/07/Samsung-Galaxy-Z-foldable-2026-Fold8-Fold8-Ultra-Flip8-10-150x150.webp",
+      "publishedAt": "Wed, 22 Jul 2026 13:09:17 +0000"
+    },
+    {
+      "category": "טכנולוגיה",
+      "source": "The Verifier",
+      "title": "סמסונג משדרגת את Galaxy AI: כל החידושים שמגיעים למתקפלים החדשים",
+      "summary": "נכתב על ידי מערכת האתר מאתר The Verifier העדכון החדש של סמסונג מנסה להפוך את הבינה המלאכותית מסייען שמסכם טקסטים לכלי אקטיבי שמנהל עבורכם אפליקציות ומקדים את הצרכים היומיומיים.",
+      "url": "https://theverifier.co.il/80119/samsung-galaxy-ai-updates-foldable8-series/",
+      "image": "https://theverifier.co.il/wp-content/uploads/2024/08/Galaxy-AI-Header.jpg",
+      "publishedAt": "Wed, 22 Jul 2026 13:08:05 +0000"
+    },
+    {
+      "category": "טכנולוגיה",
+      "source": "The Verifier",
+      "title": "הוכרז: Samsung Galaxy Z Fold8 Ultra – עם מצלמת 200 מגה פיקסל ומסך 8 אינץ'",
+      "summary": "נכתב על ידי אלדד מטמון מאתר The Verifier סמסונג מנסה לשפר את יכולות הצילום של המסכים המתקפלים ורף המחיר עדיין גבוה",
+      "url": "https://theverifier.co.il/80115/samsung-galaxy-z-fold8-ultra-announced/",
+      "image": "https://theverifier.co.il/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Fold8-Ultra-7-150x150.webp",
+      "publishedAt": "Wed, 22 Jul 2026 13:07:37 +0000"
+    },
+    {
+      "category": "טכנולוגיה",
+      "source": "The Verifier",
+      "title": "הוכרז: Samsung Galaxy Z Flip8 – שם את ה-AI במסך החיצוני",
+      "summary": "נכתב על ידי אלדד מטמון מאתר The Verifier סמסונג מנסה לייתר את הצורך בפתיחת המכשיר באמצעות שדרוג יכולות המסך החיצוני המאפשר לבצע פעולות רבות כשהטלפון סגור",
+      "url": "https://theverifier.co.il/80117/samsung-galaxy-z-flip8-announced/",
+      "image": "https://theverifier.co.il/wp-content/uploads/2026/07/Samsung-Galaxy-Z-Flip8-18-150x150.webp",
+      "publishedAt": "Wed, 22 Jul 2026 13:03:00 +0000"
+    },
+    {
       "category": "אפל",
       "source": "גאדג׳טי — אפל",
       "title": "אפל מייקרת את מחירי השירותים בעולם - בישראל עדיין ללא שינוי",
@@ -932,28 +995,46 @@
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "פרסום ראשון: מפעיל \"חדשות בטחון מהשטח ללא צנזורה\" בטלגרם נחקר בחשד להפרת צנזורה בעם כלביא",
+      "title": "תיעדה את הנעשה בשיחת וידאו: הוארך מעצרה של שילת חוטה, החשודה במעורבות ברצח בניהו רזי",
       "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-ab175c74",
+      "url": "https://www.i24news.tv/he/news/news/criminal/artc-b8493fe9",
       "image": "",
       "publishedAt": ""
     },
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "הוארך מעצרה של אגם צרפי שחשודה בתכנון רצח בניהו רזי",
+      "title": "\"עלייה חדה בפשע המאורגן\": שגרירות ארה\"ב באזהרה חריגה לאזרחיה בישראל ברקע מלחמת הרימונים",
       "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/criminal/artc-b8493fe9",
-      "image": "https://cdn.i24news.tv/uploads/d4/e7/26/62/19/7f/6c/e8/be/1d/ee/1b/2b/9e/88/b2/d4e72662197f6ce8be1dee1b2b9e88b2.jpg?width=350",
+      "url": "https://www.i24news.tv/he/news/news/criminal/artc-67f46d02",
+      "image": "",
       "publishedAt": ""
     },
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "לאחר נזיפה ליועמ\"שית: התחדשה החקירה נגד עו\"ד כחלון",
+      "title": "טראמפ מאיים: בכל פעם שאיראן תירה לעבר כלי שיט במצר הורמוז - נפציץ גשר או תחנת כח, גם בטהרן",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-2c044d59",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "השיטה החדשה של צה\"ל: מקצץ בהגנה של יישובי עוטף עזה",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-edb5415f",
+      "image": "https://cdn.i24news.tv/uploads/de/b2/2c/59/7d/31/4b/18/2c/59/a3/21/48/cf/e2/8b/deb22c597d314b182c59a32148cfe28b.jpg?width=350",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "לאחר נזיפה ליועמ\"שית ועינוי דין: התחדשה החקירה המשמעתית נגד רואי כחלון | אבישי גרינצייג",
       "summary": "",
       "url": "https://www.i24news.tv/he/news/news/law/artc-92a26484",
-      "image": "https://cdn.i24news.tv/uploads/2e/d7/5c/c9/ea/c2/52/b8/d7/48/e1/b5/9e/b8/85/4e/2ed75cc9eac252b8d748e1b59eb8854e.jpg?width=350",
+      "image": "",
       "publishedAt": ""
     },
     {
@@ -966,40 +1047,31 @@
       "publishedAt": ""
     },
     {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "\"ישבתי בכלל בבית קפה\": גרסת החשוד בהשלכת הרימון למתחם היוקרה בתל אביב | לי עייש",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/criminal/artc-15875b1c",
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "מטא נזכרה שיש כזה דבר WhatsApp Web ומשדרגת אותו",
+      "summary": "בזמן שהאפליקציה של וואטסאפ בסמארטפונים שלנו וגרסת הנייטיב למחשב מקבלות עדכונים, גרסת הדפדפן תמיד הרגישה קצת כמו הבת החורגת והמוזנחת של מטא. עכשיו נראה שבחברה החליטו לשחרר קצת חבל ולשדרג סוף סוף גם את הגרסה הוובית, עם שורת פיצ'רים שימושיים יותר ופחות. ה-AI מגיעה לוואטסאפ ווב הבשורה המרכזית מצד מטא, ש",
+      "url": "https://www.geektime.co.il/whatsapp-web-new-features-drop-12-07-2026/",
       "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "המשטרה הורתה להרוס סוכת חתונה של משפחת ראש מועצת תל שבע",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/criminal/artc-558142f6",
-      "image": "",
-      "publishedAt": ""
+      "publishedAt": "Wed, 22 Jul 2026 13:25:47 +0000"
     },
     {
       "category": "טכנולוגיה",
       "source": "גיקטיים",
-      "title": "סוף עידן הפיצה והאקסל: ה-AI כבר עושה במקומנו Bug Bash",
-      "summary": "בינינו, Bug Bash זה קונספט קצת מיושן. סוגרים את כולם בחדר, מזמינים פיצה, פותחים אקסל (התוכנה לא המשקה) ומתפללים שמשהו יישבר. בסוף תמיד מישהו מוצא שגיאת כתיב בטולטיפ וכולם מתעייפים אחרי שעה. אבל מה אם כל פיצ'ר שהייתם משחררים היה יודע לחפש את מקרי הקיצון של עצמו? בכנס Geektime Code 2026, הציג יונתן מנ",
-      "url": "https://www.geektime.co.il/yonatan-manor-geektime-code-ai-agents/",
+      "title": "אפל עוד לא השיקה את האייפון המתקפל, אבל סמסונג חושפת עכשיו את המתחרה שלו",
+      "summary": "אנחנו כבר כמה חודשים מתודלקים בדיווחים, שמועות והדלפות סביב האייפון המתקפל של אפל – אבל למרות שהענקית מקופרטינו עוד לא חשפה דבר, סמסונג חושפת היום (ד') את סדרת המתקפלים שלה, כולל התשובה למכשיר המסקרן של אפל. המתחרה לאייפון המתקפל הבשורה הגדולה בליין המתקפלים של סמסונג היא ה-Galaxy Z Fold 8. על הנייר",
+      "url": "https://www.geektime.co.il/samsung-foldable-line-2026/",
       "image": "",
-      "publishedAt": "Wed, 22 Jul 2026 10:43:25 +0000"
+      "publishedAt": "Wed, 22 Jul 2026 13:00:28 +0000"
     },
     {
       "category": "טכנולוגיה",
       "source": "גיקטיים",
-      "title": "שנה בלבד אחרי ההקמה: הישראלי שמכר חברה למטא חושף סטארטאפ ששווה כבר 1.2 מיליארד דולר",
-      "summary": "כשכמעט מחצית מהעובדים בארגון מורידים ומפעילים בשושו כלי AI שונים, סוכנים אוטונומיים ותוספים שונים במחשב הארגוני שלהם, צוותי האבטחה מוצאים את עצמם במרדף חסר סיכוי. על פי דוח Verizon Data Breach Investigations לשנת 2026, כ-45% מהעובדים בארגונים משתמשים כיום באופן קבוע בכלי AI על גבי המחשבים הארגוניים,",
-      "url": "https://www.geektime.co.il/glow-ai-security-unicorn-roi-tiger/",
+      "title": "פחות משנייה למיליארדי משתמשים: כך בנינו מנוע טרגוט מדויק עם Roaring Bitmaps ו-ClickHouse",
+      "summary": "מאת גנאדי זייצב, Data Engineering Manager ב-Nexxen על מנת שקמפיין פרסומי יצליח באמת, הוא חייב להגיע לקהל הנכון, בזמן הנכון ועם המסר הנכון. טרגוט הוא חלק קריטי בתהליך: לדוגמה, בקמפיין עבור רכב חדש מסוג SUV חשמלי, לא נסתפק בקהל שמתעניין ברכבים באופן כללי. נרצה לפנות לאנשים בשלב חיים של הרחבת המשפחה, ב",
+      "url": "https://www.geektime.co.il/clickhouse-roaring-bitmap-realtime-targeting/",
       "image": "",
-      "publishedAt": "Wed, 22 Jul 2026 10:00:54 +0000"
+      "publishedAt": "Wed, 22 Jul 2026 12:18:48 +0000"
     },
     {
       "category": "ספורט",
@@ -1027,9 +1099,207 @@
       "url": "https://www.sport5.co.il/articles.aspx?FolderID=8166&docID=552244",
       "image": "",
       "publishedAt": ""
+    },
+    {
+      "category": "מסי",
+      "source": "חדשות מסי",
+      "title": "הסטנדאפיסט שדומה למסי נשבר על הבמה: \"זה לא השבוע להיראות כמוהו\"",
+      "summary": "הסטנדאפיסט שדומה למסי נשבר על הבמה: \"זה לא השבוע להיראות כמוהו\" &nbsp;&nbsp; ספורט 1",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wSzhnWklMOVRWallubGE5TnpMd1VzbDJnZ0JsR25aclJnTUViblhWUkE1VEN0dEZlZTlWeXBvRzQzdUJxWGZBci1EZHkwMU90RGUtWUJGenNaOVprcE1RRA?oc=5",
+      "image": "",
+      "publishedAt": "Wed, 22 Jul 2026 13:00:12 GMT"
+    },
+    {
+      "category": "דני אבדיה",
+      "source": "חדשות דני אבדיה",
+      "title": "\"זה לא היה אגרוף\": עוזר מאמן ארגנטינה שלח מסר לדני אולמו",
+      "summary": "\"זה לא היה אגרוף\": עוזר מאמן ארגנטינה שלח מסר לדני אולמו &nbsp;&nbsp; ספורט 1",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMMkdqbkRVM0RLSGpHajgxVWNsV2dzdTlCZzlaMGdXQU9zUlB3Nzh6UDdDU0xlYzVhNlRoelllZk1TNzd1eUMxcTRqeGVvOGVJUmxJanQ5czFJM2ROM1kwNDF0WmliOG9D?oc=5",
+      "image": "",
+      "publishedAt": "Wed, 22 Jul 2026 14:02:54 GMT"
     }
   ],
   "flashes": [
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "בנט ב''טור מיוחד לתשעה באב'': לפרק את המדינה החרדית",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957633.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "הרב מיכה הלוי בראיון לקראת תשעה באב: האבל על ירושלים הוא המפתח לאחדות בעם",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957635.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "שלמה פילבר מעריך: (הקואליציה)הם בדרך ל-70 מנדטים",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957630.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "הלך לעולמו ״מר טלוויזיה״ חיים יבין",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957637.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "״גם אנחנו רוצות לתרום״: הצעירות הדתיות שלא מבקשות הנחות בדרך ללוחמה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957623.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "מקור צבאי ל''תסנים'': אם ארה''ב תתקוף גשר או תחנת כוח באיראן, איראן תגיב בפגיעה בתשתיות וגשרים באזור בעלי חשיבות אסטרטגית לארה''ב",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957638.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "טראמפ מודיע: מעכשיו, נפציץ גשר או תחנת כוח - בכל פעם שאירן תירה לעבר כלי שיט בהורמוז .עמית סגל",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957627.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "טרופר: ''לא אשב עם דרעי שמתגאה בנכדים עריקים; לא אשלים 61 לנתניהו''",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957629.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "הערב יציין עם ישראל את האבל על חורבן בית המקדש צום תשעה באב",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957592.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "צילומים שצולמו על ידי חייל אמריקאי בבסיס מוואפק סלתי בירדן, במהלך מתקפת טילים בליסטיים איראניים",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957619.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "לקוחה גילתה שהשכנים משלמים פחות - וסופרגז תפצה כל צרכן גז ביתי של סופרגז במערכת גז מרכזית שהיה צרכן של החברה החל מ-1 בינואר 2017",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957632.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "טראמפ בדרכו לטקס קבלת ארונות החללים שנהרגו מהטילים האיראניים: “זה אחד הדברים הקשים ביותר כנשיא, אבל זה חייב להיעשות.”",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957636.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ר''ע רמת גן מודיע על ניתוח להסרת גידול ומאשים - ''איחלו לי סרטן''",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957584.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "כל משכנתא שנייה בסיכון: הישראלים משלמים יותר ונשארים עם פחות",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957600.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "משה פייגלין יו''ר מפלגת זהות בהפגנת תמיכה בטל ינון דרדיק מול בית המעצר במגרש הרוסים",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957631.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "משטרת ישראל מבקשת את עזרת הציבור בחיפושים אחר אורין עמראוי, בת 15 מבאר שבע",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957577.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "מנהלת ההתיישבות תהפוך לגוף קבוע במשרד הביטחון",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957603.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "שגריר ארה''ב בישראל, האקבי, מכנה את ר''ע ניו יורק נבל אנטישמי המשקר ביודעין על רצח עם כדי לעורר שנאת יהודים. 'אם על מישהו להעצר, זה הוא'",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957634.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "''אתה פחדן!'' | סא''ל במיל' איתמר איתם בשידור חי מול אייל נווה מבכירי אחים לנשק",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957628.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "על רקע ההסלמה, הקבינט יתכנס ביום ראשון בערב",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957609.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
     {
       "category": "מבזקים",
       "source": "רוטר",
@@ -1069,15 +1339,6 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "צילומים שצולמו על ידי חייל אמריקאי בבסיס מוואפק סלתי בירדן, במהלך מתקפת טילים בליסטיים איראניים",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957619.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "דוח המבקר נחשף בדיון ראשון מסוגו בכנסת: מיליארדים הוקצו למדיניות האקלים ללא מנגנון פיקוח מרכזי",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957605.shtml?utm_source=rotter.net&utm_medium=mivzakside",
@@ -1099,15 +1360,6 @@
       "title": "הפסקות חשמל חוזרות במספר שכונות בירושלים",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957620.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "הערב יציין עם ישראל את האבל על חורבן בית המקדש צום תשעה באב",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957592.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1177,15 +1429,6 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "מנהלת ההתיישבות תהפוך לגוף קבוע במשרד הביטחון",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957603.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "שר המלחמה פיט הגסת' בשימוע בסנאט הסנאטור ג'ון קנדי שאל האם לארצות הברית יש יכולת לפגוע במתקן הגרעין התת-קרקעי הר המכוש",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957596.shtml?utm_source=rotter.net&utm_medium=mivzakside",
@@ -1204,15 +1447,6 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "כל משכנתא שנייה בסיכון: הישראלים משלמים יותר ונשארים עם פחות",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957600.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "חדשות 13 מנצחת את 14: רייטינג",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957594.shtml?utm_source=rotter.net&utm_medium=mivzakside",
@@ -1225,15 +1459,6 @@
       "title": "חה''כ רייטן על תוכניות הדמוקרטים לממשלה הבאה: ביטול רפורמת לוין בנושא הרכב הוע' למינוי שופטים, וחקיקת חוק יסוד השוויון",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957523.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "על רקע ההסלמה, הקבינט יתכנס ביום ראשון בערב",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957609.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1306,15 +1531,6 @@
       "title": "נהג מונית העלה קשיש מאיכילוב לנסיעה,ניצל את בלבולו, לקח את כ. האשראי שלו,עשה קניות באלפי ש''ח ואפילו לא לקח אותו לביתו, הוריד אותו בנמל ת''א",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957526.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "משטרת ישראל מבקשת את עזרת הציבור בחיפושים אחר אורין עמראוי, בת 15 מבאר שבע",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957577.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1432,15 +1648,6 @@
       "title": "״ ניו יורק פוסט'' דווח כי טראמפ רואה בג'אני אינפנטינו כמועמד להחליף את גוטרש כמזכ״ל האו״ם",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957593.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "ר''ע רמת גן מודיע על ניתוח להסרת גידול ומאשים - ''איחלו לי סרטן''",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957584.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1630,60 +1837,6 @@
       "title": "גנץ עושה נתניהו ומעלה סרטון AI של נתניהו רץ לעבר חייל צה”ל, ואז עובר אותו ורץ להתחבק עם גולדקנופף שמחזיק שלט ״נמות ולא נתגייס״",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957528.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "תחקיר בשווייץ: חמאס תכנן 7/10 באירופה, עם פיגועים בשורת מדינות",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957531.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "ירי ואבנים בסכסוך בין חמולות בערערה בנגב - גם כשכוחות המשטרה הגיעו למקום, כפי שניתן לראות בתיעוד העבריינים המשיכו לבצע ירי וסיכנו את",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957565.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "השופטים קבעו דיון בבקשת ביזיון בית המשפט על התנהלות אנשי השב״כ לשעבר שמסרבים למסור את שמם לראש השב״כ זיני נגדו הם עתרו.",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957514.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "מוקדמות ליגת האלופות סיבוב 2, הפועל באר שבע מפסידה 1-2 לויקינגור רקיאוויק האיסלנדית במשחק הראשון בין השתיים",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957573.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "מזעזע- גופת גבר אותרה בפח סמוך לאצטדיון בלומפילד",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957557.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "יאיא פינק הגיש תלונה במשטרה נגד ח״כ ואטורי בעקבות הפוסט שלו נגד חברי הכנסת של מפלגת הדמוקרטיים",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957471.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     }
