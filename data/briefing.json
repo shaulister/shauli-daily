@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "updatedAt": "2026-07-22T10:00:30.061Z",
+  "updatedAt": "2026-07-22T12:12:24.424Z",
   "stories": [
     {
       "category": "טכנולוגיה",
@@ -750,6 +750,78 @@
       "publishedAt": "Sun, 19 Jul 2026 09:41:43 GMT"
     },
     {
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "קלוד יחסוך לכם הרבה עבודה עם הפיצ'ר המצוין של Codex",
+      "summary": "בעולם הסמארטפונים אנחנו רגילים כבר לפינג-פונג הזה של אפל מעתיקה מסמסונג שמעתיקה מאפל שמעתיקה מגוגל שמעתיקה מסמסונג שמעתיקה מגוגל שמעתיקה מאפל. אבל גם בתחום ה-AI, אנחנו רואים את הלופ כזה, כשאנת'רופיק מכריזה על אחד הפיצ'רים האהובים ב-Codex, שמגיע עכשיו גם ל-Claude. תראו לקלוד מה אתם רוצים שהוא יעשה מע",
+      "url": "https://www.geektime.co.il/anthropic-updates-claude-cowork-with-record-a-skill/",
+      "image": "",
+      "publishedAt": "Wed, 22 Jul 2026 09:34:36 +0000"
+    },
+    {
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "איך הגענו ל-5 מיליון משתמשים בלי DevOps, בלי AI ובלי תקציב מנופח",
+      "summary": "מאת גל לרמן הצטרפתי ל-Papaya (פאפאיה גיימינג) כמהנדס ה-Backend הראשון בחברה, ויחד עם הפאונדרים הטכנולוגים היינו אחראים על הכל – מפיצ'רים ועד Deployments וניהול הדאטה בייס. בלי DevOps, בלי מומחי תשתית ובלי זמן ל-Over Engineering. היום, שבע שנים אחרי, צוות ה-Backend גדל ליותר מ-35 איש, הפלטפורמה משרתת",
+      "url": "https://www.geektime.co.il/scaling-backend-lean-engineering-papaya/",
+      "image": "",
+      "publishedAt": "Wed, 22 Jul 2026 08:55:53 +0000"
+    },
+    {
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "מאנדיי מפטרת 20% מהעובדים. מאות מהם בישראל",
+      "summary": "אחרי לא מעט שמועות ודיווחים, מודיעה היום (ד') רשמית monday.com על \"שינוי במבנה הארגוני\", מהלך פיטורים עצום שכולל את פיטוריהם של 20% מעובדיה בארץ ובעולם. מאות מפוטרים בישראל מאנדיי הודיעה שבמסגרת המהלך היא נאלצת להיפרד מכ-620 עובדים, כ-20% מכלל העובדים שלה. על פי החברה, \"כדי להתחרות ולנצח בעולם החדש ",
+      "url": "https://www.geektime.co.il/monday-com-layoffs/",
+      "image": "",
+      "publishedAt": "Wed, 22 Jul 2026 08:09:50 +0000"
+    },
+    {
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "\"תקרית סייבר חסרת תקדים\": מה באמת גרם למודל של OpenAI \"לברוח מהמעבדה\" ולפרוץ ל-Hugging Face?",
+      "summary": "לפני כשבוע חשפה Hugging Face, פלטפורמת ה-AI שהפכה לבית של המודלים המוכרים בענף, כי נפרצה על ידי מה שהוגדר אז \"סוכן AI\" אנונימי. אמש (ג') חשפה OpenAI כי מודל שלה עומד מאחורי המקרה, אבל רגע לפני הפניקה והסקיינט, כך זה קרה. המודלים רצו לרמות, אז פרצו מודל חדש של OpenAI, הנמצא בשלבי בדיקה וטרם שוחרר […]",
+      "url": "https://www.geektime.co.il/openai-unreleased-model-hacked-hugging-face/",
+      "image": "",
+      "publishedAt": "Wed, 22 Jul 2026 07:15:26 +0000"
+    },
+    {
+      "category": "מסי",
+      "source": "חדשות מסי",
+      "title": "פרעוש לשועלים: למסי אין שום סיבה אמיתית לפרוש מנבחרת ארגנטינה",
+      "summary": "פרעוש לשועלים: למסי אין שום סיבה אמיתית לפרוש מנבחרת ארגנטינה &nbsp;&nbsp; וואלה ספורט סוף לקונספירציות? נחשף הנאום המלא של מסי לפני הגמר &nbsp;&nbsp; וואלה ספורט מסי לחבריו לקבוצה: \"זה יכול להיות המשחק האחרון שלי\" &nbsp;&nbsp; סרוגים",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lSmVGSHUwY2lvVFpFVklENVVjMC1MLTd3QlpvNEtpWWJTMmJ3andyMnJzQ3dDRWFocUdFZUVaM19VY0JXWFdXSElrU0dYTGpZ?oc=5",
+      "image": "",
+      "publishedAt": "Wed, 22 Jul 2026 08:00:00 GMT"
+    },
+    {
+      "category": "מסי",
+      "source": "חדשות מסי",
+      "title": "בדרך למשחק חוזר של גמר המונדיאל? ההצעה שתעניק למסי פרידה חלומית",
+      "summary": "בדרך למשחק חוזר של גמר המונדיאל? ההצעה שתעניק למסי פרידה חלומית &nbsp;&nbsp; ספורט 1",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBraXVhWjBCSmNOR2F5Q2dwS1IxRTR5eTgyakZZUW0wU2ZlM2FnOVlySWVBVjQxdmM5SW03OXM3Q01IaHEtVktwYzZCMWY2WEtEQUt5WlctWXBEVzg2UUVQRmVuc3F6WHhi?oc=5",
+      "image": "",
+      "publishedAt": "Tue, 21 Jul 2026 14:39:41 GMT"
+    },
+    {
+      "category": "דני אבדיה",
+      "source": "חדשות דני אבדיה",
+      "title": "הכישרון של שיקגו רוצה ללמוד מאבדיה \"איך הוא תוקף את הסל\"",
+      "summary": "הכישרון של שיקגו רוצה ללמוד מאבדיה \"איך הוא תוקף את הסל\" &nbsp;&nbsp; וואלה ספורט",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02dTlYdW5GbHg1LWZNSnJKMGVwSG8wMW44bDRYQTZ1ckNkaE1NYTIyLWxSSmE0MHBhX2FnWFl5M3hCb1g5dnY0Yzh6alcyZ0hz?oc=5",
+      "image": "",
+      "publishedAt": "Wed, 22 Jul 2026 07:50:00 GMT"
+    },
+    {
+      "category": "דני אבדיה",
+      "source": "חדשות דני אבדיה",
+      "title": "\"הכי הייתי רוצה להתאמן עם דני אבדיה, ואז עם קווין דוראנט\"",
+      "summary": "\"הכי הייתי רוצה להתאמן עם דני אבדיה, ואז עם קווין דוראנט\" &nbsp;&nbsp; היום",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3aHZ5V0MwM28tNXBhWldaVDR2M0JLc0hlaTQ2YWswTVlteWowckNMck9UNnBxek5nWGZCT3Y3elAyZk93ZDl6c2lET3ZXSkg2UzlzSzE3Q1pZOGl6OWJHRzVDOE5yRnF3djVjOFRxVUg5MXdUSDJKRNIBgAFBVV95cUxQU09LRE9kQ0hKZ3RUSk5xd003clk5UVZrRVlEUl9CSEdVaFdrX2NKN1VEZnF1YVI4R1lHamZvMjdSRzB1ajdsYmpOZlozWEo2LTAtM0stYjVfcjNoeFNQVWIyS2JHNjk4dFhWSFB3NjhqeExxTUEwWWdlM0dkbHRSUQ?oc=5",
+      "image": "",
+      "publishedAt": "Wed, 22 Jul 2026 07:38:26 GMT"
+    },
+    {
       "category": "אפל",
       "source": "גאדג׳טי — אפל",
       "title": "אפל מייקרת את מחירי השירותים בעולם - בישראל עדיין ללא שינוי",
@@ -860,37 +932,46 @@
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "\"שמחה ממה שראתה\": הוארך ב-7 ימים מעצרה של אגם צרפי שחשודה בתכנון הרצח של בניהו רזי",
+      "title": "פרסום ראשון: מפעיל \"חדשות בטחון מהשטח ללא צנזורה\" בטלגרם נחקר בחשד להפרת צנזורה בעם כלביא",
       "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/criminal/artc-b8493fe9",
+      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-ab175c74",
       "image": "",
       "publishedAt": ""
     },
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "איראן שיגרה טילים לירדן, הדי פיצוצים נשמעו באילת",
+      "title": "הוארך מעצרה של אגם צרפי שחשודה בתכנון רצח בניהו רזי",
       "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-2c044d59",
-      "image": "https://cdn.i24news.tv/uploads/bb/d6/0b/65/7e/f7/b2/1b/34/59/f8/45/f2/02/71/5f/bbd60b657ef7b21b3459f845f202715f.jpg?width=350",
+      "url": "https://www.i24news.tv/he/news/news/criminal/artc-b8493fe9",
+      "image": "https://cdn.i24news.tv/uploads/d4/e7/26/62/19/7f/6c/e8/be/1d/ee/1b/2b/9e/88/b2/d4e72662197f6ce8be1dee1b2b9e88b2.jpg?width=350",
       "publishedAt": ""
     },
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "נתניהו מבקש לשלול אזרחות לאסירים שניסו לפרוץ לסלקום",
+      "title": "לאחר נזיפה ליועמ\"שית: התחדשה החקירה נגד עו\"ד כחלון",
       "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-4aa76a7f",
-      "image": "https://cdn.i24news.tv/uploads/d2/4b/24/2a/2a/1a/ea/10/f3/fe/9d/8b/d4/00/27/7c/d24b242a2a1aea10f3fe9d8bd400277c.jpg?width=350",
+      "url": "https://www.i24news.tv/he/news/news/law/artc-92a26484",
+      "image": "https://cdn.i24news.tv/uploads/2e/d7/5c/c9/ea/c2/52/b8/d7/48/e1/b5/9e/b8/85/4e/2ed75cc9eac252b8d748e1b59eb8854e.jpg?width=350",
       "publishedAt": ""
     },
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "המומחים מזהירים: האם גם המרפסת שלכם בסכנת קריסה?",
+      "title": "פרסום ראשון: נעצר חשוד ראשון לאחר גל ההצתות בקפה ברמת גן שפתח בשבת",
       "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/local/artc-08ea39f6",
-      "image": "https://cdn.i24news.tv/uploads/87/99/d2/d2/64/75/1b/a8/f8/e3/f0/94/ed/84/74/25/8799d2d264751ba8f8e3f094ed847425.jpg?width=350",
+      "url": "https://www.i24news.tv/he/news/news/criminal/artc-8fce4ef4",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "\"ישבתי בכלל בבית קפה\": גרסת החשוד בהשלכת הרימון למתחם היוקרה בתל אביב | לי עייש",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/criminal/artc-15875b1c",
+      "image": "",
       "publishedAt": ""
     },
     {
@@ -903,49 +984,22 @@
       "publishedAt": ""
     },
     {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "\"גימיק הזוי\": מועצת רמות הנגב נגד הקמת תעלת תנינים בכלא קציעות",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-ad1148fa",
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "סוף עידן הפיצה והאקסל: ה-AI כבר עושה במקומנו Bug Bash",
+      "summary": "בינינו, Bug Bash זה קונספט קצת מיושן. סוגרים את כולם בחדר, מזמינים פיצה, פותחים אקסל (התוכנה לא המשקה) ומתפללים שמשהו יישבר. בסוף תמיד מישהו מוצא שגיאת כתיב בטולטיפ וכולם מתעייפים אחרי שעה. אבל מה אם כל פיצ'ר שהייתם משחררים היה יודע לחפש את מקרי הקיצון של עצמו? בכנס Geektime Code 2026, הציג יונתן מנ",
+      "url": "https://www.geektime.co.il/yonatan-manor-geektime-code-ai-agents/",
       "image": "",
-      "publishedAt": ""
+      "publishedAt": "Wed, 22 Jul 2026 10:43:25 +0000"
     },
     {
       "category": "טכנולוגיה",
       "source": "גיקטיים",
-      "title": "קלוד יחסוך לכם הרבה עבודה עם הפיצ'ר המצוין של Codex",
-      "summary": "בעולם הסמארטפונים אנחנו רגילים כבר לפינג-פונג הזה של אפל מעתיקה מסמסונג שמעתיקה מאפל שמעתיקה מגוגל שמעתיקה מסמסונג שמעתיקה מגוגל שמעתיקה מאפל. אבל גם בתחום ה-AI, אנחנו רואים את הלופ כזה, כשאנת'רופיק מכריזה על אחד הפיצ'רים האהובים ב-Codex, שמגיע עכשיו גם ל-Claude. תראו לקלוד מה אתם רוצים שהוא יעשה מע",
-      "url": "https://www.geektime.co.il/anthropic-updates-claude-cowork-with-record-a-skill/",
+      "title": "שנה בלבד אחרי ההקמה: הישראלי שמכר חברה למטא חושף סטארטאפ ששווה כבר 1.2 מיליארד דולר",
+      "summary": "כשכמעט מחצית מהעובדים בארגון מורידים ומפעילים בשושו כלי AI שונים, סוכנים אוטונומיים ותוספים שונים במחשב הארגוני שלהם, צוותי האבטחה מוצאים את עצמם במרדף חסר סיכוי. על פי דוח Verizon Data Breach Investigations לשנת 2026, כ-45% מהעובדים בארגונים משתמשים כיום באופן קבוע בכלי AI על גבי המחשבים הארגוניים,",
+      "url": "https://www.geektime.co.il/glow-ai-security-unicorn-roi-tiger/",
       "image": "",
-      "publishedAt": "Wed, 22 Jul 2026 09:34:36 +0000"
-    },
-    {
-      "category": "טכנולוגיה",
-      "source": "גיקטיים",
-      "title": "איך הגענו ל-5 מיליון משתמשים בלי DevOps, בלי AI ובלי תקציב מנופח",
-      "summary": "מאת גל לרמן הצטרפתי ל-Papaya (פאפאיה גיימינג) כמהנדס ה-Backend הראשון בחברה, ויחד עם הפאונדרים הטכנולוגים היינו אחראים על הכל – מפיצ'רים ועד Deployments וניהול הדאטה בייס. בלי DevOps, בלי מומחי תשתית ובלי זמן ל-Over Engineering. היום, שבע שנים אחרי, צוות ה-Backend גדל ליותר מ-35 איש, הפלטפורמה משרתת",
-      "url": "https://www.geektime.co.il/scaling-backend-lean-engineering-papaya/",
-      "image": "",
-      "publishedAt": "Wed, 22 Jul 2026 08:55:53 +0000"
-    },
-    {
-      "category": "טכנולוגיה",
-      "source": "גיקטיים",
-      "title": "מאנדיי מפטרת 20% מהעובדים. מאות מהם בישראל",
-      "summary": "אחרי לא מעט שמועות ודיווחים, מודיעה היום (ד') רשמית monday.com על \"שינוי במבנה הארגוני\", מהלך פיטורים עצום שכולל את פיטוריהם של 20% מעובדיה בארץ ובעולם. מאות מפוטרים בישראל מאנדיי הודיעה שבמסגרת המהלך היא נאלצת להיפרד מכ-620 עובדים, כ-20% מכלל העובדים שלה. על פי החברה, \"כדי להתחרות ולנצח בעולם החדש ",
-      "url": "https://www.geektime.co.il/monday-com-layoffs/",
-      "image": "",
-      "publishedAt": "Wed, 22 Jul 2026 08:09:50 +0000"
-    },
-    {
-      "category": "טכנולוגיה",
-      "source": "גיקטיים",
-      "title": "\"תקרית סייבר חסרת תקדים\": מה באמת גרם למודל של OpenAI \"לברוח מהמעבדה\" ולפרוץ ל-Hugging Face?",
-      "summary": "לפני כשבוע חשפה Hugging Face, פלטפורמת ה-AI שהפכה לבית של המודלים המוכרים בענף, כי נפרצה על ידי מה שהוגדר אז \"סוכן AI\" אנונימי. אמש (ג') חשפה OpenAI כי מודל שלה עומד מאחורי המקרה, אבל רגע לפני הפניקה והסקיינט, כך זה קרה. המודלים רצו לרמות, אז פרצו מודל חדש של OpenAI, הנמצא בשלבי בדיקה וטרם שוחרר […]",
-      "url": "https://www.geektime.co.il/openai-unreleased-model-hacked-hugging-face/",
-      "image": "",
-      "publishedAt": "Wed, 22 Jul 2026 07:15:26 +0000"
+      "publishedAt": "Wed, 22 Jul 2026 10:00:54 +0000"
     },
     {
       "category": "ספורט",
@@ -973,51 +1027,186 @@
       "url": "https://www.sport5.co.il/articles.aspx?FolderID=8166&docID=552244",
       "image": "",
       "publishedAt": ""
-    },
-    {
-      "category": "מסי",
-      "source": "חדשות מסי",
-      "title": "פרעוש לשועלים: למסי אין שום סיבה אמיתית לפרוש מנבחרת ארגנטינה",
-      "summary": "פרעוש לשועלים: למסי אין שום סיבה אמיתית לפרוש מנבחרת ארגנטינה &nbsp;&nbsp; וואלה ספורט סוף לקונספירציות? נחשף הנאום המלא של מסי לפני הגמר &nbsp;&nbsp; וואלה ספורט מסי לחבריו לקבוצה: \"זה יכול להיות המשחק האחרון שלי\" &nbsp;&nbsp; סרוגים",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lSmVGSHUwY2lvVFpFVklENVVjMC1MLTd3QlpvNEtpWWJTMmJ3andyMnJzQ3dDRWFocUdFZUVaM19VY0JXWFdXSElrU0dYTGpZ?oc=5",
-      "image": "",
-      "publishedAt": "Wed, 22 Jul 2026 08:00:00 GMT"
-    },
-    {
-      "category": "מסי",
-      "source": "חדשות מסי",
-      "title": "בדרך למשחק חוזר של גמר המונדיאל? ההצעה שתעניק למסי פרידה חלומית",
-      "summary": "בדרך למשחק חוזר של גמר המונדיאל? ההצעה שתעניק למסי פרידה חלומית &nbsp;&nbsp; ספורט 1",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBraXVhWjBCSmNOR2F5Q2dwS1IxRTR5eTgyakZZUW0wU2ZlM2FnOVlySWVBVjQxdmM5SW03OXM3Q01IaHEtVktwYzZCMWY2WEtEQUt5WlctWXBEVzg2UUVQRmVuc3F6WHhi?oc=5",
-      "image": "",
-      "publishedAt": "Tue, 21 Jul 2026 14:39:41 GMT"
-    },
-    {
-      "category": "דני אבדיה",
-      "source": "חדשות דני אבדיה",
-      "title": "הכישרון של שיקגו רוצה ללמוד מאבדיה \"איך הוא תוקף את הסל\"",
-      "summary": "הכישרון של שיקגו רוצה ללמוד מאבדיה \"איך הוא תוקף את הסל\" &nbsp;&nbsp; וואלה ספורט",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02dTlYdW5GbHg1LWZNSnJKMGVwSG8wMW44bDRYQTZ1ckNkaE1NYTIyLWxSSmE0MHBhX2FnWFl5M3hCb1g5dnY0Yzh6alcyZ0hz?oc=5",
-      "image": "",
-      "publishedAt": "Wed, 22 Jul 2026 07:50:00 GMT"
-    },
-    {
-      "category": "דני אבדיה",
-      "source": "חדשות דני אבדיה",
-      "title": "\"הכי הייתי רוצה להתאמן עם דני אבדיה, ואז עם קווין דוראנט\"",
-      "summary": "\"הכי הייתי רוצה להתאמן עם דני אבדיה, ואז עם קווין דוראנט\" &nbsp;&nbsp; היום",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3aHZ5V0MwM28tNXBhWldaVDR2M0JLc0hlaTQ2YWswTVlteWowckNMck9UNnBxek5nWGZCT3Y3elAyZk93ZDl6c2lET3ZXSkg2UzlzSzE3Q1pZOGl6OWJHRzVDOE5yRnF3djVjOFRxVUg5MXdUSDJKRNIBgAFBVV95cUxQU09LRE9kQ0hKZ3RUSk5xd003clk5UVZrRVlEUl9CSEdVaFdrX2NKN1VEZnF1YVI4R1lHamZvMjdSRzB1ajdsYmpOZlozWEo2LTAtM0stYjVfcjNoeFNQVWIyS2JHNjk4dFhWSFB3NjhqeExxTUEwWWdlM0dkbHRSUQ?oc=5",
-      "image": "",
-      "publishedAt": "Wed, 22 Jul 2026 07:38:26 GMT"
     }
   ],
   "flashes": [
     {
       "category": "מבזקים",
       "source": "רוטר",
+      "title": "''יכול להיות שזה לאומני. יקיר לא קפץ ולא התאבד'': הנפילה מהמרפסת של כוכב ''האמריקאים'' במיאמי",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957614.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "הגרעין לסעודיה, המטוסים לטורקיה, הקשב לאיראן: מחוות טראמפ לשכנות - על פני ישראל",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957598.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "מאסק: גרוק ייצור גרסת AI לסרט ה''אודיסיאה'' עד סוף השנה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957612.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "האירנים הפעילו את המסלול החלופי לגשרים הדרומיים הם אפילו שמו אספלט!",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957618.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "צילומים שצולמו על ידי חייל אמריקאי בבסיס מוואפק סלתי בירדן, במהלך מתקפת טילים בליסטיים איראניים",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957619.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
       "title": "דוח המבקר נחשף בדיון ראשון מסוגו בכנסת: מיליארדים הוקצו למדיניות האקלים ללא מנגנון פיקוח מרכזי",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957605.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "סנגורי נתניהו ואלוביץ׳ דורשים מהיועמ״שית: תגיבי על הצעת השופטים לשקול למחוק את אישום השוחד בתיק 4,000",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957601.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "הפסקות חשמל חוזרות במספר שכונות בירושלים",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957620.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "הערב יציין עם ישראל את האבל על חורבן בית המקדש צום תשעה באב",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957592.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "אוסטריה: אישה זרה שילמה את חשבונה של משפחה ישראלית",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957617.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "דיווח חריג: סוכן של OpenAI פרץ מסביבת הבידוד, הצליח להשיג גישה לאינטרנט וחדר למערכות Hugging Face, שנאלצה להשתמש במודל סיני כדי לבלום אותו",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957582.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "יו''ר ארגון המורים, רן ארז: השגנו הסכמות עם משרדי האוצר והחינוך",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957616.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "משמרות המהפכה: תקפנו את בסיסי הנסיך חסן והמלך פייסל בירדן",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957613.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "דיווח ביוון: מועצת הביטחון הלאומית העליונה במדינה צפויה לאשר חבילת רכש בשווי 3 מיליארד אירו של מערכות הגנה אווירית מישראל.",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957615.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "פיטורים נרחבים במאנדיי: תיפרד מכ-630 עובדים, יותר ממחציתם בישראל",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957604.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "תיעוד מיוחד - סכנת חיים בלב הארץ | בעקבות הפרסום: שר הביטחון ביקש לקבל מצה''ל חו''ד ביטחונית אודות הסיכון שנשקף מן המבנה המשקיף על כביש 6",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957572.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "מנהלת ההתיישבות תהפוך לגוף קבוע במשרד הביטחון",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957603.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "שר המלחמה פיט הגסת' בשימוע בסנאט הסנאטור ג'ון קנדי שאל האם לארצות הברית יש יכולת לפגוע במתקן הגרעין התת-קרקעי הר המכוש",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957596.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "סילמן מגנה בחירוף על ''חוק התנינים'': ''מדברים בשפה שהאויבים שלנו מכירים''",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957602.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "כל משכנתא שנייה בסיכון: הישראלים משלמים יותר ונשארים עם פחות",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957600.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1060,15 +1249,6 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "כל משכנתא שנייה בסיכון: הישראלים משלמים יותר ונשארים עם פחות",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957600.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "''השתעממתי'': הצית את השריפה בהרי ירושלים – ושוחרר למעצר בית",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957569.shtml?utm_source=rotter.net&utm_medium=mivzakside",
@@ -1090,24 +1270,6 @@
       "title": "לבקשת נתניהו ובאישור היועמ״שית: הפרקליטות הגישה לבית המשפט בקשה תקדימית לשלילת אזרחותם של שני אסירים בטחוניים שסייעו לחמאס.",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957611.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "פיטורים נרחבים במאנדיי: תיפרד מכ-630 עובדים, יותר ממחציתם בישראל",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957604.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "תיעוד מיוחד - סכנת חיים בלב הארץ | בעקבות הפרסום: שר הביטחון ביקש לקבל מצה''ל חו''ד ביטחונית אודות הסיכון שנשקף מן המבנה המשקיף על כביש 6",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957572.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1141,33 +1303,6 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "מנהלת ההתיישבות תהפוך לגוף קבוע במשרד הביטחון",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957603.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "הגרעין לסעודיה, המטוסים לטורקיה, הקשב לאיראן: מחוות טראמפ לשכנות - על פני ישראל",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957598.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "הערב יציין עם ישראל את האבל על חורבן בית המקדש צום תשעה באב",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957592.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "נהג מונית העלה קשיש מאיכילוב לנסיעה,ניצל את בלבולו, לקח את כ. האשראי שלו,עשה קניות באלפי ש''ח ואפילו לא לקח אותו לביתו, הוריד אותו בנמל ת''א",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957526.shtml?utm_source=rotter.net&utm_medium=mivzakside",
@@ -1186,27 +1321,9 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "סילמן מגנה בחירוף על ''חוק התנינים'': ''מדברים בשפה שהאויבים שלנו מכירים''",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957602.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "שריפות עצומות בדרום רוסיה- הפסקות חשמל בחצי האי קרים. דיווחים על תקיפות אוקראיניות .חדש - עוד פגיעה במחסן נוסף של Wildberries",
       "summary": "",
       "url": "https://rotter.net/forum/scoops1/957595.shtml",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "שר המלחמה פיט הגסת' בשימוע בסנאט הסנאטור ג'ון קנדי שאל האם לארצות הברית יש יכולת לפגוע במתקן הגרעין התת-קרקעי הר המכוש",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957596.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1225,15 +1342,6 @@
       "title": "דיווחים על תקיפות בטהרן - סרטונים על ירי נ.מ לעבר מטוסים תוקפים. תקיפות גם ב-מחוז חוזסתאן, איראן (ליד כווית - עצירת פלישה ?)",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957587.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "דיווח חריג: סוכן של OpenAI פרץ מסביבת הבידוד, הצליח להשיג גישה לאינטרנט וחדר למערכות Hugging Face, שנאלצה להשתמש במודל סיני כדי לבלום אותו",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957582.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
