@@ -1,6 +1,6 @@
 {
   "date": "2026-07-23",
-  "updatedAt": "2026-07-23T09:08:41.336Z",
+  "updatedAt": "2026-07-23T11:25:19.626Z",
   "stories": [
     {
       "category": "טכנולוגיה",
@@ -696,6 +696,33 @@
       "publishedAt": "Thu, 23 Jul 2026 05:29:00 GMT"
     },
     {
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "מייסד טוויטר פיתח מתחרה חינמי ל-Slack שבנוי לעבודה עם אייג'נטים",
+      "summary": "מאז שעזב את טוויטר נראה שג'ק דורסי ממשיך לחפש פרויקטים חדשים שיעסיקו אותו. עכשיו, הוא רוצה לשנות את הדרך שבה צוותי פיתוח וסוכני AI מתקשרים במקום העבודה, עם פלטפורמה חדשה שרוצה ללכת ראש בראש מול סלאק וגיטהאב. לאתגר שני כלים פופולריים במכה אחת בימים האחרונים חשף דורסי, מייסד טוויטר (X בשנים האחרונות) ",
+      "url": "https://www.geektime.co.il/twitter-founder-wants-to-compete-with-slack-and-github/",
+      "image": "",
+      "publishedAt": "Thu, 23 Jul 2026 08:12:18 +0000"
+    },
+    {
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "פיצ'ר חדש של אפל ישבית לכם את האייפון אם לא תסיימו לשלם עליו",
+      "summary": "אנחנו נמצאים בעידן מעט משונה בעולם הטכנולוגיה. המעבר לתשלום ומינויים לשירותים במקום רכישה חד פעמית גרם לזה שאנחנו משלמים המון כסף על שירותי סטרימינג או אפילו רוכשים משחקים במחיר מלא, אבל הם לא באמת שייכים לנו. עכשיו חושף דיווח חדש שאפילו הגאדג'טים שאנחנו קונים לא יהיו בדיוק שלנו כמו פעם, ומי שעומדת ",
+      "url": "https://www.geektime.co.il/apple-is-building-a-kill-switch-for-financed-iphone/",
+      "image": "",
+      "publishedAt": "Thu, 23 Jul 2026 06:49:37 +0000"
+    },
+    {
+      "category": "מסי",
+      "source": "חדשות מסי",
+      "title": "מסי לחבריו לקבוצה: \"זה יכול להיות המשחק האחרון שלי\"",
+      "summary": "מסי לחבריו לקבוצה: \"זה יכול להיות המשחק האחרון שלי\" &nbsp;&nbsp; סרוגים",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQcHplZURUZ2ZKNEVCb0ZWZzU3VDFwU0taQ1RaQmhoWWNwN0wyQ080bHpMTFkyWUlzdlhBX00tRzZSRTJrRi1aZ2c1YkdodElGckxGZzBNWGplczNhZm9nN0RiRWFWd1N4aS1XalRSLWxfX2JFUXI2S2dyRlJMQWlnQ3hrbGtXaHQ4MTVHa1Y3Xy1QbnpjSjZ0dy1jcHpmRGFFQ29ibnh6T2lCd2w1MXR1T1hUbldxUjkteVZJMlhoWlA3TjZpbk9GN1VNWHEtWTAwUzZDbHFMQWpCUjlfNEg1QUY2R0R6UWVmNTg2NEZ6ZHVoQ1B1SXhOR1BncG1Bb2lXVmF4WVc5Q0pBUkNnQlRvRm52WDhrczBZTzYxNUhFODZFTVdPYjRwU3YwVzcwY3BsWFpRNDJoaWtZT3Nqd2dIdk4zdkk2cnduNVE4?oc=5",
+      "image": "",
+      "publishedAt": "Tue, 21 Jul 2026 07:15:50 GMT"
+    },
+    {
       "category": "אפל",
       "source": "גאדג׳טי — אפל",
       "title": "אפל מייקרת את מחירי השירותים בעולם - בישראל עדיין ללא שינוי",
@@ -806,6 +833,24 @@
     {
       "category": "ישראל",
       "source": "i24NEWS",
+      "title": "\"הגלגל שהניע את המעשה\": הוארך מעצר בן ה-18 שנעצר במעורבות ברצח בניהו רזי",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/criminal/artc-317e4cb4",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "פיגוע הדקירה בשומרון: המחבלים חוסלו, כתר הוטל על הכפר בית פוריק",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-92783944",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
       "title": "שריפת הענק בשומרון: המשטרה בודקת עשרות רכבים שעברו במקום באופן פרטני",
       "summary": "",
       "url": "https://www.i24news.tv/he/news/news/criminal/artc-eec95f01",
@@ -815,28 +860,10 @@
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "שר החוץ האמריקני: לא נראה שאיראן מוכנה להסכם, המחיר שהיא תשלם יעלה מדי לילה",
+      "title": "רוביו: המחיר שאיראן תשלם יעלה מדי לילה | עדכונים שוטפים",
       "summary": "",
       "url": "https://www.i24news.tv/he/news/news/defense-news/artc-1d322edb",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "רצח בניהו רזי בירושלים: בת 16 ובן 18 נעצרו, המצוד אחר החשוד הנמלט נמשך",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/criminal/artc-317e4cb4",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "תכנן מודל של רחפן נפץ - שיעקוב אחרי בן גביר ויתפוצץ בקרבתו: כתב אישום חמור נגד צעיר מנצרת",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/criminal/artc-3587430d",
-      "image": "",
+      "image": "https://cdn.i24news.tv/uploads/54/49/c3/c3/ef/32/a2/29/d2/3c/01/7b/96/c9/0f/39/5449c3c3ef32a229d23c017b96c90f39.jpg?width=350",
       "publishedAt": ""
     },
     {
@@ -851,29 +878,29 @@
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "שיקלי קורא: \"לסגור מיד את הקונסוליה הטורקית בירושלים\"",
+      "title": "כתב אישום נגד תושב ירושלים שתקף בסכין ומקל צוות של CNN",
       "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/local/artc-fdce3fc2",
-      "image": "",
+      "url": "https://www.i24news.tv/he/news/news/criminal/artc-cecf4517",
+      "image": "https://cdn.i24news.tv/uploads/62/87/f7/dc/db/7b/23/80/ce/cf/c7/15/f4/2a/1a/20/6287f7dcdb7b2380cecfc715f42a1a20.jpg?width=350",
       "publishedAt": ""
     },
     {
       "category": "טכנולוגיה",
       "source": "גיקטיים",
-      "title": "מייסד טוויטר פיתח מתחרה חינמי ל-Slack שבנוי לעבודה עם אייג'נטים",
-      "summary": "מאז שעזב את טוויטר נראה שג'ק דורסי ממשיך לחפש פרויקטים חדשים שיעסיקו אותו. עכשיו, הוא רוצה לשנות את הדרך שבה צוותי פיתוח וסוכני AI מתקשרים במקום העבודה, עם פלטפורמה חדשה שרוצה ללכת ראש בראש מול סלאק וגיטהאב. לאתגר שני כלים פופולריים במכה אחת בימים האחרונים חשף דורסי, מייסד טוויטר (X בשנים האחרונות) ",
-      "url": "https://www.geektime.co.il/twitter-founder-wants-to-compete-with-slack-and-github/",
+      "title": "טלטלה במובילאיי: אמנון שעשוע פורש מתפקיד המנכ\"ל",
+      "summary": "מייסד Mobileye אמנון שעשוע הפיל היום (ה') פצצה: הוא פורש מתפקיד המנכ\"ל אחרי 27 שנה. \"הרגע הנכון לבסס את ההנהגה לפרק הבא של מובילאיי\" שעשוע הקים את מובילאיי ב-1999 יחד עם שותפו זיו אבירם. החברה החלה את דרכה בירושלים תוך התמקדות בפיתוח מערכות עזר מתקדמות לנהג (ADAS) מבוססות מצלמה וראייה ממוחשבת, שנועד",
+      "url": "https://www.geektime.co.il/amnon-shashua-retires-as-mobileye-ceo/",
       "image": "",
-      "publishedAt": "Thu, 23 Jul 2026 08:12:18 +0000"
+      "publishedAt": "Thu, 23 Jul 2026 11:10:42 +0000"
     },
     {
       "category": "טכנולוגיה",
       "source": "גיקטיים",
-      "title": "פיצ'ר חדש של אפל ישבית לכם את האייפון אם לא תסיימו לשלם עליו",
-      "summary": "אנחנו נמצאים בעידן מעט משונה בעולם הטכנולוגיה. המעבר לתשלום ומינויים לשירותים במקום רכישה חד פעמית גרם לזה שאנחנו משלמים המון כסף על שירותי סטרימינג או אפילו רוכשים משחקים במחיר מלא, אבל הם לא באמת שייכים לנו. עכשיו חושף דיווח חדש שאפילו הגאדג'טים שאנחנו קונים לא יהיו בדיוק שלנו כמו פעם, ומי שעומדת ",
-      "url": "https://www.geektime.co.il/apple-is-building-a-kill-switch-for-financed-iphone/",
+      "title": "חוששים ממערכות ה-AI בגיוס? בואו תראו איך זה עובד באמת",
+      "summary": "מאת מרטין גורדון ומאיה אשכנזי במשך כמעט שלושה עשורים עולם הגיוס פעל לפי כלל פשוט: אם רוצים למצוא מועמדים, צריך לחפש את המילים הנכונות. זאת הייתה הנחת היסוד שעליה נבנו כמעט כל מערכות הגיוס וכלי הסורסינג. מגייסים למדו לכתוב שאילתות Boolean מורכבות, מועמדים למדו לשלב מילות מפתח בקורות החיים, ומערכות די",
+      "url": "https://www.geektime.co.il/ai-recruiting-next-gen-context/",
       "image": "",
-      "publishedAt": "Thu, 23 Jul 2026 06:49:37 +0000"
+      "publishedAt": "Thu, 23 Jul 2026 09:17:39 +0000"
     },
     {
       "category": "ספורט",
@@ -903,16 +930,79 @@
       "publishedAt": ""
     },
     {
-      "category": "מסי",
-      "source": "חדשות מסי",
-      "title": "מסי לחבריו לקבוצה: \"זה יכול להיות המשחק האחרון שלי\"",
-      "summary": "מסי לחבריו לקבוצה: \"זה יכול להיות המשחק האחרון שלי\" &nbsp;&nbsp; סרוגים",
-      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQcHplZURUZ2ZKNEVCb0ZWZzU3VDFwU0taQ1RaQmhoWWNwN0wyQ080bHpMTFkyWUlzdlhBX00tRzZSRTJrRi1aZ2c1YkdodElGckxGZzBNWGplczNhZm9nN0RiRWFWd1N4aS1XalRSLWxfX2JFUXI2S2dyRlJMQWlnQ3hrbGtXaHQ4MTVHa1Y3Xy1QbnpjSjZ0dy1jcHpmRGFFQ29ibnh6T2lCd2w1MXR1T1hUbldxUjkteVZJMlhoWlA3TjZpbk9GN1VNWHEtWTAwUzZDbHFMQWpCUjlfNEg1QUY2R0R6UWVmNTg2NEZ6ZHVoQ1B1SXhOR1BncG1Bb2lXVmF4WVc5Q0pBUkNnQlRvRm52WDhrczBZTzYxNUhFODZFTVdPYjRwU3YwVzcwY3BsWFpRNDJoaWtZT3Nqd2dIdk4zdkk2cnduNVE4?oc=5",
+      "category": "דני אבדיה",
+      "source": "חדשות דני אבדיה",
+      "title": "\"דני אבדיה טוב בכדורסל, כל השאר לא מעניין אותי\"",
+      "summary": "\"דני אבדיה טוב בכדורסל, כל השאר לא מעניין אותי\" &nbsp;&nbsp; היום",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aQ1NCZC1vajZGWHhWWTdNYURXWU9HZk50UmVjUnlmekNQMDJZNjR2MmR3M2U5LWhOUGpJNjRMYnNzWExXMmFPdUtfVU96Z3FwTWowSFNtdDNUbkIydkJmRFhfX3pkQTN0V0pISUFyVjhVT19hNUwtYdIBgAFBVV95cUxQMG84SWJXa0hGLVBYWGFCTEswZmt6Y1pLTDViYWE0c0FHNjJINTBrYXBiaGhuQ0FzbUIxbGNOUGwwa3RqOF9tX2VqUkloQXF4eC1SU2Fqbm5FanhPY3Q5MFBJOGplZVZZc19nUnFqZXZjNmtQZi1XWXVoLUtwZzhnWA?oc=5",
       "image": "",
-      "publishedAt": "Tue, 21 Jul 2026 07:15:50 GMT"
+      "publishedAt": "Thu, 23 Jul 2026 09:55:37 GMT"
     }
   ],
   "flashes": [
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "אשקלון: סיוע באיתור נעדר (בן 4)",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957734.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "העיתונאית אושרת קוטלר: ''למה אנחנו לא לומדים את רבי יהודה? מה עם לימודי הליבה של החילונים?''",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957726.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "הפצוע בפיגוע בשומרון - איתמר כהן, מהמוכרים מבעלי החוות בארץ. נא להתפלל לרפואתו! איתמר בן שולמית",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957729.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "גם עיריית אילת הודיעה על פתיחת מקלטים",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957730.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "המתיחות באיראן עולה מדרגה: מחיר הנפט מתקרב ל-100 דולר לחבית, החוזים על וול סטריט אדומים",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957722.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "נערכים לאפשרות של הסלמה: המקלטים הציבוריים נפתחו בימים האחרונים בשורת ערים ברחבי הארץ, אין שינוי בהנחיות פיקוד העורף",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957733.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "אליעזר משולמסון (62), תושב י-ם נעצר בחשד לעבירות מין בקטינים, המשטרה קוראת לקורבנות להגיש תלונה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957723.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
     {
       "category": "מבזקים",
       "source": "רוטר",
@@ -925,9 +1015,99 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "כך נראית בלבנון הלוויתם של 139 מחבלי חיזבאללה. גופותיהם הוצאו רק עכשיו מההריסות",
+      "title": "אלי גולדשמידט יו''ר סיעת העבודה בזמן הסכמי אוסלו: ''מפלגת העבודה מתה, נדרשת ריבונות ממערב לירדן''",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957646.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957725.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "אמנון שעשוע פורש מתפקידו כמנכ''ל מובילאיי",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957732.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "דיווח: בריטניה שקלה (אשתקד) להשהות את הסכם הסחר עם ישראל",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957701.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "מה יופיע על המסכים בבלינסון? ערוץ 12 או ערוץ 14? בית החולים: ''העברנו את המסכים במרחבים המשותפים לתכני טבע״",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957705.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ד''ר אמיר בוחבוט: איראן עלולה לגלגל פעולה קיצונית של מטחים גדולים כדי להסב נזק אדיר כבר במכת הפתיחה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957696.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "פיגוע דקירה בסמוך לחוות דרך אברהם, פצוע קשה במקום, 2 מחבלים נוטרלו",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957719.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "גוגל תשלם קנס של 890 מיליון אירו - הגבילה מפתחי אפליקציות מהצגת הצעות זולות יותר",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957731.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "מועמדים לרשימת הליכוד חוששים: בכירי המפלגה תומכים בביטול הפריימריז",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957703.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "מרקו רוביו: ''איראן לא מוכנה לחתום על הסכם - ותשלם מחיר כבד''",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957711.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "גרינצייג: יותר מ-5 שנים מאז שהוגש כתב האישום נגד סגן ראש הפלג הצפוני שהסית וגרם לאלימות, נגזר עונשו: 9 חודשי עבודות שירות",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957727.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "בנוסף לעיריית רמת גן- דיווח על פתיחת מקלטים בכרמיאל",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957728.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -943,18 +1123,18 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "ראש עיריית רמת גן הנחה לפתוח את המקלטים בעיר",
+      "title": "כך נראית בלבנון הלוויתם של 139 מחבלי חיזבאללה. גופותיהם הוצאו רק עכשיו מההריסות",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957717.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957646.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "מרקו רוביו: ''איראן לא מוכנה לחתום על הסכם - ותשלם מחיר כבד''",
+      "title": "ראש עיריית רמת גן הנחה לפתוח את המקלטים בעיר",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957711.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957717.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -991,24 +1171,6 @@
       "title": "עקב פגיעות מתמשכות מכטב''מים וטילים רוסיים הופסקה תנועת האוניות לנמלי הים השחור של אוקראינה ע''י חברות הספנות עצמן.",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957714.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "מה יופיע על המסכים בבלינסון? ערוץ 12 או ערוץ 14? בית החולים: ''העברנו את המסכים במרחבים המשותפים לתכני טבע״",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957705.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "דיווח: בריטניה שקלה (אשתקד) להשהות את הסכם הסחר עם ישראל",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957701.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1090,24 +1252,6 @@
       "title": "תוך שני עשורים בלבד: ישראל צנחה מהמקום השלישי ל-20 בשיעור האקדמאים",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957639.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "מועמדים לרשימת הליכוד חוששים: בכירי המפלגה תומכים בביטול הפריימריז",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957703.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "ד''ר אמיר בוחבוט: איראן עלולה לגלגל פעולה קיצונית של מטחים גדולים כדי להסב נזק אדיר כבר במכת הפתיחה",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957696.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
