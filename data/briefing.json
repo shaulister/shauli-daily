@@ -1,6 +1,6 @@
 {
   "date": "2026-07-23",
-  "updatedAt": "2026-07-23T11:25:19.626Z",
+  "updatedAt": "2026-07-23T13:03:27.893Z",
   "stories": [
     {
       "category": "טכנולוגיה",
@@ -723,6 +723,42 @@
       "publishedAt": "Tue, 21 Jul 2026 07:15:50 GMT"
     },
     {
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "טלטלה במובילאיי: אמנון שעשוע פורש מתפקיד המנכ\"ל",
+      "summary": "מייסד Mobileye אמנון שעשוע הפיל היום (ה') פצצה: הוא פורש מתפקיד המנכ\"ל אחרי 27 שנה. \"הרגע הנכון לבסס את ההנהגה לפרק הבא של מובילאיי\" שעשוע הקים את מובילאיי ב-1999 יחד עם שותפו זיו אבירם. החברה החלה את דרכה בירושלים תוך התמקדות בפיתוח מערכות עזר מתקדמות לנהג (ADAS) מבוססות מצלמה וראייה ממוחשבת, שנועד",
+      "url": "https://www.geektime.co.il/amnon-shashua-retires-as-mobileye-ceo/",
+      "image": "",
+      "publishedAt": "Thu, 23 Jul 2026 11:10:42 +0000"
+    },
+    {
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "חוששים ממערכות ה-AI בגיוס? בואו תראו איך זה עובד באמת",
+      "summary": "מאת מרטין גורדון ומאיה אשכנזי במשך כמעט שלושה עשורים עולם הגיוס פעל לפי כלל פשוט: אם רוצים למצוא מועמדים, צריך לחפש את המילים הנכונות. זאת הייתה הנחת היסוד שעליה נבנו כמעט כל מערכות הגיוס וכלי הסורסינג. מגייסים למדו לכתוב שאילתות Boolean מורכבות, מועמדים למדו לשלב מילות מפתח בקורות החיים, ומערכות די",
+      "url": "https://www.geektime.co.il/ai-recruiting-next-gen-context/",
+      "image": "",
+      "publishedAt": "Thu, 23 Jul 2026 09:17:39 +0000"
+    },
+    {
+      "category": "דני אבדיה",
+      "source": "חדשות דני אבדיה",
+      "title": "\"דני אבדיה טוב בכדורסל, כל השאר לא מעניין אותי\"",
+      "summary": "\"דני אבדיה טוב בכדורסל, כל השאר לא מעניין אותי\" &nbsp;&nbsp; היום",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aQ1NCZC1vajZGWHhWWTdNYURXWU9HZk50UmVjUnlmekNQMDJZNjR2MmR3M2U5LWhOUGpJNjRMYnNzWExXMmFPdUtfVU96Z3FwTWowSFNtdDNUbkIydkJmRFhfX3pkQTN0V0pISUFyVjhVT19hNUwtYdIBgAFBVV95cUxQMG84SWJXa0hGLVBYWGFCTEswZmt6Y1pLTDViYWE0c0FHNjJINTBrYXBiaGhuQ0FzbUIxbGNOUGwwa3RqOF9tX2VqUkloQXF4eC1SU2Fqbm5FanhPY3Q5MFBJOGplZVZZc19nUnFqZXZjNmtQZi1XWXVoLUtwZzhnWA?oc=5",
+      "image": "",
+      "publishedAt": "Thu, 23 Jul 2026 09:55:37 GMT"
+    },
+    {
+      "category": "טכנולוגיה",
+      "source": "The Verifier",
+      "title": "ננעלתם מחוץ לחשבון? גוגל משיקה שחזור גישה באמצעות סרטון סלפי קצר",
+      "summary": "נכתב על ידי אלדד מטמון מאתר The Verifier החל מהיום תוכלו לשחזר גישה לחשבון בעזרת תנועות ראש מודרכות, עם הגנה מזיופי AI",
+      "url": "https://theverifier.co.il/80253/google-selfie-account-recovery/",
+      "image": "https://theverifier.co.il/wp-content/uploads/2026/07/Introducing-selfie-for-sign-in-a-new-easy-way-to-access-your-Goo.mp4",
+      "publishedAt": "Thu, 23 Jul 2026 11:31:16 +0000"
+    },
+    {
       "category": "אפל",
       "source": "גאדג׳טי — אפל",
       "title": "אפל מייקרת את מחירי השירותים בעולם - בישראל עדיין ללא שינוי",
@@ -833,16 +869,7 @@
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "\"הגלגל שהניע את המעשה\": הוארך מעצר בן ה-18 שנעצר במעורבות ברצח בניהו רזי",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/criminal/artc-317e4cb4",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "פיגוע הדקירה בשומרון: המחבלים חוסלו, כתר הוטל על הכפר בית פוריק",
+      "title": "פיגוע הדקירה בצפון השומרון: המחבל חוסל, הנדקר במצב קל עם פציעה בידו",
       "summary": "",
       "url": "https://www.i24news.tv/he/news/news/defense-news/artc-92783944",
       "image": "",
@@ -851,28 +878,19 @@
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "שריפת הענק בשומרון: המשטרה בודקת עשרות רכבים שעברו במקום באופן פרטני",
+      "title": "טראמפ מאיים על החות'ים: אם הם יירו שוב על ספינות - נפגע גם באיראן וגם בהם",
       "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/criminal/artc-eec95f01",
+      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-1d322edb",
       "image": "",
       "publishedAt": ""
     },
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "רוביו: המחיר שאיראן תשלם יעלה מדי לילה | עדכונים שוטפים",
+      "title": "טראמפ: עסקת הגרעין עם סעודיה כפופה להצטרפות להסכמי אברהם",
       "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-1d322edb",
-      "image": "https://cdn.i24news.tv/uploads/54/49/c3/c3/ef/32/a2/29/d2/3c/01/7b/96/c9/0f/39/5449c3c3ef32a229d23c017b96c90f39.jpg?width=350",
-      "publishedAt": ""
-    },
-    {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "השכל: נדרשנו לתעד את הצבעתנו למבקר המדינה ולהציג לרה\"מ",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/law/artc-c42a5f35",
-      "image": "https://cdn.i24news.tv/uploads/a6/33/85/30/21/a9/2a/8d/6a/c7/a1/12/67/41/83/2a/a633853021a92a8d6ac7a1126741832a.jpg?width=350",
+      "url": "https://www.i24news.tv/he/news/news/diplomacy/artc-092c457b",
+      "image": "https://cdn.i24news.tv/uploads/c8/ef/8c/0a/60/b2/f2/91/22/91/f1/c4/7e/36/b9/08/c8ef8c0a60b2f2912291f1c47e36b908.jpg?width=350",
       "publishedAt": ""
     },
     {
@@ -881,26 +899,26 @@
       "title": "כתב אישום נגד תושב ירושלים שתקף בסכין ומקל צוות של CNN",
       "summary": "",
       "url": "https://www.i24news.tv/he/news/news/criminal/artc-cecf4517",
-      "image": "https://cdn.i24news.tv/uploads/62/87/f7/dc/db/7b/23/80/ce/cf/c7/15/f4/2a/1a/20/6287f7dcdb7b2380cecfc715f42a1a20.jpg?width=350",
+      "image": "",
       "publishedAt": ""
     },
     {
-      "category": "טכנולוגיה",
-      "source": "גיקטיים",
-      "title": "טלטלה במובילאיי: אמנון שעשוע פורש מתפקיד המנכ\"ל",
-      "summary": "מייסד Mobileye אמנון שעשוע הפיל היום (ה') פצצה: הוא פורש מתפקיד המנכ\"ל אחרי 27 שנה. \"הרגע הנכון לבסס את ההנהגה לפרק הבא של מובילאיי\" שעשוע הקים את מובילאיי ב-1999 יחד עם שותפו זיו אבירם. החברה החלה את דרכה בירושלים תוך התמקדות בפיתוח מערכות עזר מתקדמות לנהג (ADAS) מבוססות מצלמה וראייה ממוחשבת, שנועד",
-      "url": "https://www.geektime.co.il/amnon-shashua-retires-as-mobileye-ceo/",
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "בתצהיר לבג\"ץ: ח\"כ שרן השכל טוענת כי נדרשה לתעד את הצבעתה ולהציג את הסרטון לנתניהו",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/law/artc-c42a5f35",
       "image": "",
-      "publishedAt": "Thu, 23 Jul 2026 11:10:42 +0000"
+      "publishedAt": ""
     },
     {
-      "category": "טכנולוגיה",
-      "source": "גיקטיים",
-      "title": "חוששים ממערכות ה-AI בגיוס? בואו תראו איך זה עובד באמת",
-      "summary": "מאת מרטין גורדון ומאיה אשכנזי במשך כמעט שלושה עשורים עולם הגיוס פעל לפי כלל פשוט: אם רוצים למצוא מועמדים, צריך לחפש את המילים הנכונות. זאת הייתה הנחת היסוד שעליה נבנו כמעט כל מערכות הגיוס וכלי הסורסינג. מגייסים למדו לכתוב שאילתות Boolean מורכבות, מועמדים למדו לשלב מילות מפתח בקורות החיים, ומערכות די",
-      "url": "https://www.geektime.co.il/ai-recruiting-next-gen-context/",
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "שיקלי קורא: \"לסגור מיד את הקונסוליה הטורקית בירושלים\"",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/local/artc-fdce3fc2",
       "image": "",
-      "publishedAt": "Thu, 23 Jul 2026 09:17:39 +0000"
+      "publishedAt": ""
     },
     {
       "category": "ספורט",
@@ -932,20 +950,92 @@
     {
       "category": "דני אבדיה",
       "source": "חדשות דני אבדיה",
-      "title": "\"דני אבדיה טוב בכדורסל, כל השאר לא מעניין אותי\"",
-      "summary": "\"דני אבדיה טוב בכדורסל, כל השאר לא מעניין אותי\" &nbsp;&nbsp; היום",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aQ1NCZC1vajZGWHhWWTdNYURXWU9HZk50UmVjUnlmekNQMDJZNjR2MmR3M2U5LWhOUGpJNjRMYnNzWExXMmFPdUtfVU96Z3FwTWowSFNtdDNUbkIydkJmRFhfX3pkQTN0V0pISUFyVjhVT19hNUwtYdIBgAFBVV95cUxQMG84SWJXa0hGLVBYWGFCTEswZmt6Y1pLTDViYWE0c0FHNjJINTBrYXBiaGhuQ0FzbUIxbGNOUGwwa3RqOF9tX2VqUkloQXF4eC1SU2Fqbm5FanhPY3Q5MFBJOGplZVZZc19nUnFqZXZjNmtQZi1XWXVoLUtwZzhnWA?oc=5",
+      "title": "\"לטום דאנדון אין לאן לעבור עם פורטלנד טרייל בלייזרס\"",
+      "summary": "\"לטום דאנדון אין לאן לעבור עם פורטלנד טרייל בלייזרס\" &nbsp;&nbsp; היום",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aYmxpQWFyZFlwaEdKQnJ6Um11ZE84WldSdDBRR3ZodHlHVFJzbFRkQVhNWGZKZkF1Q2NUWkx0bHZ2SkRtZEtISHJoVGlJdTRUcnZ1QmVtSnZiMzBSTTVOV1oya3pxVUtqY1FaTXByM2NXc0cxX1VRZdIBgAFBVV95cUxOTncwV0tvam1MaFBiZ0dYdGE2dmsxcnl5WkhPOWlBRFF2eTBsdVpoM3ZIRE9ielZxQk5SSUtIdjcxbzZIYnFXSUZLaVdoU2Z6elgtWlpBbUdGRk8yYXU5QW5zOU43WVVyaURVQWQ3aWhCM2VMTDE3QkFadzE1T2lORw?oc=5",
       "image": "",
-      "publishedAt": "Thu, 23 Jul 2026 09:55:37 GMT"
+      "publishedAt": "Thu, 23 Jul 2026 12:25:30 GMT"
     }
   ],
   "flashes": [
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "אשקלון: סיוע באיתור נעדר (בן 4)",
+      "title": "האישה נדהמה: התחתנתי עם שב''ח עזתי. סאהר בריק, בן 29 מדיר אל בלח ''כבש את ליבה'' של ישראלית מאזור הצפון. השניים התחתנו ואף הביאו ילד",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957734.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957737.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "מחמוד חנני הוא אחד מהמחבלים שביצעו את הפיגוע אסיר ששוחרר לפני חודש , הוא ביצע את הפיגוע יחד עם חברו מחמד מליטאת",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957746.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "אליעזר משולמסון (62), תושב י-ם נעצר בחשד לעבירות מין בקטינים, המשטרה קוראת לקורבנות להגיש תלונה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957723.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "טראמפ: החתימה על הסכם הגרעין האזרחי עם סעודיה, רק בכפוף לכניסתה להסכמי אברהם (ובלי העשרה בשטחה)",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957739.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "הפצוע בפיגוע בשומרון - איתמר כהן, מהמוכרים מבעלי החוות בארץ. נא להתפלל לרפואתו! איתמר בן שולמית",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957729.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "צפו: באמצע הקינות צרח הקנאי לרבם של החרדים העובדים: ''סתום ת'פה, מנוול'' (וידאו)",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957735.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "אמנון שעשוע פורש מתפקידו כמנכ''ל מובילאיי",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957732.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "''דייג הנערות'' של אפשטיין מת בנסיבות מסתוריות בביתו ליד פריז - לפני שנחקר",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957699.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ירושלים: אדם אותר ללא רוח חיים בשכונת קטמון | המשטרה חוקרת",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957748.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -961,9 +1051,99 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "הפצוע בפיגוע בשומרון - איתמר כהן, מהמוכרים מבעלי החוות בארץ. נא להתפלל לרפואתו! איתמר בן שולמית",
+      "title": "גאס, אחד ממאובני הטי-רקס הגדולים והשלמים ביותר שנמצאו אי-פעם, נמכר ב-50 מיליון דולר ועורר סערה בעולם המדע",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957729.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957668.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "פיגוע דקירה סמוך לגנים בצפון השומרון. פצוע במקום",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957747.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "יוון אישרה את עסקת הנשק בהיקף של כ־3.5 מיליארד אירו עם ישראל",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957745.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "מועמדים לרשימת הליכוד חוששים: בכירי המפלגה תומכים בביטול הפריימריז",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957703.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "טראמפ: אם החות׳ים ירו שוב על ספינות - האחריות תהיה על איראן ונעניש אותה ואת החות׳ים בעונש צבאי כבד",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957744.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "נערכים לאפשרות של הסלמה: המקלטים הציבוריים נפתחו בימים האחרונים בשורת ערים ברחבי הארץ, אין שינוי בהנחיות פיקוד העורף",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957733.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "*צה''ל ושב''כ חיסלו מחבל שפשט לשטח מדינת ישראל בטבח ה-7 באוקטובר ושני מחבלים נוספים מארגון הטרור חמאס",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957736.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "כלל המקרים שפורסמו השנה בכלי התקשורת - פגיעות מיניות של ערבים ביהודיות",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957716.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "מצטרפת לבריטניה: צרפת מפנה את השגרירות שלה בטהרן",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957743.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "גוגל תשלם קנס של 890 מיליון אירו - הגבילה מפתחי אפליקציות מהצגת הצעות זולות יותר",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957731.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "אשקלון: סיוע באיתור נעדר (בן 4)",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957734.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -988,24 +1168,6 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "נערכים לאפשרות של הסלמה: המקלטים הציבוריים נפתחו בימים האחרונים בשורת ערים ברחבי הארץ, אין שינוי בהנחיות פיקוד העורף",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957733.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "אליעזר משולמסון (62), תושב י-ם נעצר בחשד לעבירות מין בקטינים, המשטרה קוראת לקורבנות להגיש תלונה",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957723.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "בתצהיר לבגץ, ח״כ שרן השכל טוענת: במסגרת סבב ההצבעה החוזר למבקר, נדרשו חברי סיעת תקווה חדשה לתעד את הצבעתם בוידאו ולהציג לנתניהו",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957712.shtml?utm_source=rotter.net&utm_medium=mivzakside",
@@ -1018,15 +1180,6 @@
       "title": "אלי גולדשמידט יו''ר סיעת העבודה בזמן הסכמי אוסלו: ''מפלגת העבודה מתה, נדרשת ריבונות ממערב לירדן''",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957725.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "אמנון שעשוע פורש מתפקידו כמנכ''ל מובילאיי",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957732.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1069,24 +1222,6 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "גוגל תשלם קנס של 890 מיליון אירו - הגבילה מפתחי אפליקציות מהצגת הצעות זולות יותר",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957731.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "מועמדים לרשימת הליכוד חוששים: בכירי המפלגה תומכים בביטול הפריימריז",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957703.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "מרקו רוביו: ''איראן לא מוכנה לחתום על הסכם - ותשלם מחיר כבד''",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957711.shtml?utm_source=rotter.net&utm_medium=mivzakside",
@@ -1108,15 +1243,6 @@
       "title": "בנוסף לעיריית רמת גן- דיווח על פתיחת מקלטים בכרמיאל",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957728.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "כלל המקרים שפורסמו השנה בכלי התקשורת - פגיעות מיניות של ערבים ביהודיות",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957716.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1153,15 +1279,6 @@
       "title": "שומרון: מטוסים הוזנקו לשריפה סמוך לאלון מורה בחוות דרך אברהם",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957715.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "''דייג הנערות'' של אפשטיין מת בנסיבות מסתוריות בביתו ליד פריז - לפני שנחקר",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957699.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1558,24 +1675,6 @@
       "title": "טראמפ מודיע: מעכשיו, נפציץ גשר או תחנת כוח - בכל פעם שאירן תירה לעבר כלי שיט בהורמוז .עמית סגל",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957627.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "גאס, אחד ממאובני הטי-רקס הגדולים והשלמים ביותר שנמצאו אי-פעם, נמכר ב-50 מיליון דולר ועורר סערה בעולם המדע",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957668.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "משפחתו של טל ינון דרדיק הודפת בחריפות את ההאשמות הבזויות",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957641.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     }
