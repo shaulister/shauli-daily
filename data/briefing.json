@@ -1,6 +1,6 @@
 {
   "date": "2026-07-23",
-  "updatedAt": "2026-07-23T17:25:58.296Z",
+  "updatedAt": "2026-07-23T18:47:02.866Z",
   "stories": [
     {
       "category": "טכנולוגיה",
@@ -831,6 +831,33 @@
       "publishedAt": "Tue, 07 Jul 2026 07:00:00 GMT"
     },
     {
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "גוגל מציגה: סלפי במקום שחזור סיסמה מתיש",
+      "summary": "למרות שבשנים האחרונות גוגל דוחפת אותנו לעבר ה-Passkeys, לא כולם מיהרו לאמץ את התקן החדש, מה שאומר שכשהם שוכחים את הסיסמה, וזה יקרה, אם הם לא משתמשים במנהל סיסמאות טוב, הם בבעיה. עכשיו, החברה מציגה אלטרנטיבה נוספת ודי מפתיעה שתחסוך לכם את שחזור הסיסמה המייגע – וכל מה שתצטרכו לעשות זה להדליק את המצלמה",
+      "url": "https://www.geektime.co.il/google-video-selfie-sign-in/",
+      "image": "",
+      "publishedAt": "Thu, 23 Jul 2026 15:55:09 +0000"
+    },
+    {
+      "category": "דני אבדיה",
+      "source": "חדשות דני אבדיה",
+      "title": "מתחיל מחדש: דני אבדיה צפוי לשלם את המחיר הכבד ביותר בפורטלנד",
+      "summary": "מתחיל מחדש: דני אבדיה צפוי לשלם את המחיר הכבד ביותר בפורטלנד &nbsp;&nbsp; היום",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TVllILUhsY2c0TU9ya2JBQ29TWThOLVhQa1RUX2xJYi1scWlvcjg1dEtXUWtlYU5fVmJGMHZkNExvU2lyaWVLbU1aSGhNaTBXWVBTSXZibmowbmsxSWdkcm42SFc0dVhXMC1GMjFCdXJTclgtTHfSAX5BVV95cUxPamEtNnBrdmQyUjR3SktUUEJ1dzg0V2RHTDBIMFgwSnhuN1FfQ3dudHdGb3N1UG03X3h0dDhBY1NSd0dzbTRLUGhYNThXMjN1aWZRZ2pYLVlMaFNFdl9hVnMwZThhZ0p2ZXBGTVAta1FCSnJ4aDBwY1BCZ19mMkE?oc=5",
+      "image": "",
+      "publishedAt": "Thu, 23 Jul 2026 15:18:45 GMT"
+    },
+    {
+      "category": "דני אבדיה",
+      "source": "חדשות דני אבדיה",
+      "title": "הכול מתחיל בדני אבדיה: המפתחות להצלחתו של מאמן הבלייזרס",
+      "summary": "הכול מתחיל בדני אבדיה: המפתחות להצלחתו של מאמן הבלייזרס &nbsp;&nbsp; וואלה ספורט",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5GeHotcldlaGt4aGQtZkc4ZnN3VEZjYnFEd2dNOGxOdm9vLWtmcVd3QzJ6c3ZadENwRnBIQmU0bDlOalBJWHJzQnp4VG9Pa2tM?oc=5",
+      "image": "",
+      "publishedAt": "Thu, 23 Jul 2026 16:27:00 GMT"
+    },
+    {
       "category": "אפל",
       "source": "גאדג׳טי — אפל",
       "title": "דיווח חדש מציגת את מפת הדרכים המלאה של אפל לריענון מחשבי המק",
@@ -950,10 +977,10 @@
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "פיגוע הדקירה סמוך לגנים שבשומרון: המחבל שחוסל - שוטר פלסטיני",
+      "title": "\"המטרות כבר מוכנות\": התנאי שיביא לצירוף ישראל למערכה כוללת באיראן | גיא עזריאל",
       "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-92783944",
-      "image": "",
+      "url": "https://www.i24news.tv/he/news/news/diplomacy/artc-574c5c49",
+      "image": "https://cdn.i24news.tv/uploads/5b/87/30/4a/f7/6a/70/85/18/05/33/21/ea/8a/a6/e6/5b87304af76a708518053321ea8aa6e6.jpg?width=350",
       "publishedAt": ""
     },
     {
@@ -968,18 +995,18 @@
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "ח\"כ בליכוד: \"אנחנו לקראת תקיפה באיראן - אולי בסופ\"ש\"",
+      "title": "השוטר בבוקסר, היצאנית והבריחה: האירוע הביזארי שקרה בתל אביב",
       "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-d04a5492",
-      "image": "https://cdn.i24news.tv/uploads/81/4b/e7/85/80/3f/fa/b2/9c/26/ef/2f/65/84/6e/68/814be785803ffab29c26ef2f65846e68.jpg?width=350",
+      "url": "https://www.i24news.tv/he/news/news/criminal/artc-6ef94822",
+      "image": "",
       "publishedAt": ""
     },
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "\"המטרות כבר מוכנות\": התנאי שיביא לצירוף ישראל למערכה כוללת באיראן | גיא עזריאל",
+      "title": "\"הוא שונא ערבים\": פרטים חדשים מחקירת הצעיר שתכנן לפגוע בבן גביר | לי עייש",
       "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/diplomacy/artc-574c5c49",
+      "url": "https://www.i24news.tv/he/news/news/criminal/artc-e24439d1",
       "image": "",
       "publishedAt": ""
     },
@@ -991,15 +1018,6 @@
       "url": "https://www.i24news.tv/he/news/news/local/artc-c1c65776",
       "image": "",
       "publishedAt": ""
-    },
-    {
-      "category": "טכנולוגיה",
-      "source": "גיקטיים",
-      "title": "גוגל מציגה: סלפי במקום שחזור סיסמה מתיש",
-      "summary": "למרות שבשנים האחרונות גוגל דוחפת אותנו לעבר ה-Passkeys, לא כולם מיהרו לאמץ את התקן החדש, מה שאומר שכשהם שוכחים את הסיסמה, וזה יקרה, אם הם לא משתמשים במנהל סיסמאות טוב, הם בבעיה. עכשיו, החברה מציגה אלטרנטיבה נוספת ודי מפתיעה שתחסוך לכם את שחזור הסיסמה המייגע – וכל מה שתצטרכו לעשות זה להדליק את המצלמה",
-      "url": "https://www.geektime.co.il/google-video-selfie-sign-in/",
-      "image": "",
-      "publishedAt": "Thu, 23 Jul 2026 15:55:09 +0000"
     },
     {
       "category": "ספורט",
@@ -1029,34 +1047,16 @@
       "publishedAt": ""
     },
     {
-      "category": "דני אבדיה",
-      "source": "חדשות דני אבדיה",
-      "title": "מתחיל מחדש: דני אבדיה צפוי לשלם את המחיר הכבד ביותר בפורטלנד",
-      "summary": "מתחיל מחדש: דני אבדיה צפוי לשלם את המחיר הכבד ביותר בפורטלנד &nbsp;&nbsp; היום",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TVllILUhsY2c0TU9ya2JBQ29TWThOLVhQa1RUX2xJYi1scWlvcjg1dEtXUWtlYU5fVmJGMHZkNExvU2lyaWVLbU1aSGhNaTBXWVBTSXZibmowbmsxSWdkcm42SFc0dVhXMC1GMjFCdXJTclgtTHfSAX5BVV95cUxPamEtNnBrdmQyUjR3SktUUEJ1dzg0V2RHTDBIMFgwSnhuN1FfQ3dudHdGb3N1UG03X3h0dDhBY1NSd0dzbTRLUGhYNThXMjN1aWZRZ2pYLVlMaFNFdl9hVnMwZThhZ0p2ZXBGTVAta1FCSnJ4aDBwY1BCZ19mMkE?oc=5",
+      "category": "רונאלדיניו",
+      "source": "חדשות רונאלדיניו",
+      "title": "הפתעה גדולה: בגיל 46, רונאלדיניו חתם בקבוצה חדשה",
+      "summary": "הפתעה גדולה: בגיל 46, רונאלדיניו חתם בקבוצה חדשה &nbsp;&nbsp; ספורט 1",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxTzZqN2w0YXhQWWNXdjRkbjlKeDAtd0phQW8wUmd1SVg3djFxU2NDRzRqQXM5OFBaN1NhdGY0Qnc2WVdKenRnTDlJdzNGbEtlUlBRVEQ3VVVzUFZiOUhoSlRTenZzRHBQ?oc=5",
       "image": "",
-      "publishedAt": "Thu, 23 Jul 2026 15:18:45 GMT"
-    },
-    {
-      "category": "דני אבדיה",
-      "source": "חדשות דני אבדיה",
-      "title": "הכול מתחיל בדני אבדיה: המפתחות להצלחתו של מאמן הבלייזרס",
-      "summary": "הכול מתחיל בדני אבדיה: המפתחות להצלחתו של מאמן הבלייזרס &nbsp;&nbsp; וואלה ספורט",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5GeHotcldlaGt4aGQtZkc4ZnN3VEZjYnFEd2dNOGxOdm9vLWtmcVd3QzJ6c3ZadENwRnBIQmU0bDlOalBJWHJzQnp4VG9Pa2tM?oc=5",
-      "image": "",
-      "publishedAt": "Thu, 23 Jul 2026 16:27:00 GMT"
+      "publishedAt": "Sat, 20 Jun 2026 07:00:00 GMT"
     }
   ],
   "flashes": [
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "גופי מודיעין במערב מעריכים: איראן עשויה לפעול ראשונה נגד ישראל (נדב אייל)",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957790.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
     {
       "category": "מבזקים",
       "source": "רוטר",
@@ -1069,18 +1069,63 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "ירידות חדות בוול סטריט; גוגל וטסלה צונחות; 7% ו13% בהתאמה",
+      "title": "כלל המקרים שפורסמו השנה בכלי התקשורת - פגיעות מיניות של ערבים ביהודיות",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957765.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957716.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "היי חברים, *אזהרה חמורה למי שהולך לים בסופ״ש ובעיקר בשבת* - הגלים מחר בלילה ובשבת יהיו גבוהים מאוד וחריגים לקיץ (עד 2 מטרים). זה אמנם מדהים",
+      "title": "גן העדן שנכבש, הפך לאוטונומיה ערבית ושוחרר: ואדי זרקא שב לידיים יהודיות",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957787.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957792.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "קצין בכיר בצה''ל: בניגוד לשתי המלחמות הראשונות, איראן מוכנה הפעם לשיגורים לעבר ישראל כמעט באופן מיידי בתרחיש של הרחבת המלחמה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957804.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "המניע של המאבטח הערבי להרוג את בן-גביר: נקמה על רצח חברו הערבי על-ידי ערבי אחר",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957781.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "גופי מודיעין במערב מעריכים: איראן עשויה לפעול ראשונה נגד ישראל (נדב אייל)",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957790.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "המחבל קוזו אוקמוטו, שרצח 24 בני אדם בנתב''ג, מת בביירות. שם רשעים ירקב",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957775.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "דובר הליכוד: הפרסום המבקש לא להתבטא בנושא האיראני הוא אינו נכון",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957799.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1096,9 +1141,108 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
+      "title": "זה פשוט מטורף | האחות של המחבל ממלון פארק הייתה מנהלת סניף של רע''מ",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957801.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ביתר ירושלים ניצחה 0-1 את לרנקה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957806.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "טרו קריים ארה''ב: 30 שנה אחרי רצח רובין לורנס, רק גנאולוגית חובבת שהתנדבה לעזור למשטרה, מצאה באמצעות מחקר גניאולוגי במשך 3 שנים את הרוצח",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957784.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "''ישראל הבהירה לאמריקנים שהיא רוצה להיכנס למערכה אחרת - כזו שתפגע בתשתיות של איראן בצורה משמעותית''",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957800.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "מכבי תל אביב חוגגת באירופה: 5-0 על שריף טירספול דקה 80",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957808.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ההיעלמות המסתורית של הילד בן ה-4 באשקלון: המשטרה העבירה לשב''כ את הדיווח והפרטים על היעלמותו. במידה ויעלה משהו שיצריך התערבות של השב''כ",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957802.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ירידות חדות בוול סטריט; גוגל וטסלה צונחות; 7% ו13% בהתאמה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957765.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "גורמים ישראליים המעורים בפרטים: הכוננות והדריכות בישראל נשמרת כמובן גם הערב הזה אבל עדיין לא הגיעה לשיאה. אנחנו בנקודת המתנה להחלטה של טראמפ",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957807.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ערבי ברח מהמשטרה ב-285 קמ''ש אבל נתפס בכל-זאת",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957773.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "מסתמן שנתניהו לא יטוס לארה''ב בשבוע הבא",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957782.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
       "title": "שר הביטחון ישראל כ''ץ בהתייעצות ביטחונית: ''נערכים לכל אפשרות. אם איראן תתקוף את ישראל - היא תספוג מהלומה מוחצת''",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957796.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "היי חברים, *אזהרה חמורה למי שהולך לים בסופ״ש ובעיקר בשבת* - הגלים מחר בלילה ובשבת יהיו גבוהים מאוד וחריגים לקיץ (עד 2 מטרים). זה אמנם מדהים",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957787.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1123,24 +1267,6 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "גן העדן שנכבש, הפך לאוטונומיה ערבית ושוחרר: ואדי זרקא שב לידיים יהודיות",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957792.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "המחבל קוזו אוקמוטו, שרצח 24 בני אדם בנתב''ג, מת בביירות. שם רשעים ירקב",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957775.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "חדשות 12 עתרו לבג''ץ נגד חוק התקשורת - לטענתם החוק יאפשר לרה''מ להשפיע על התוכן",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957793.shtml?utm_source=rotter.net&utm_medium=mivzakside",
@@ -1159,15 +1285,6 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "ערבי ברח מהמשטרה ב-285 קמ''ש אבל נתפס בכל-זאת",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957773.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "הסנאט האמריקאי דחה את הצעת ההחלטה בקונגרס שנועדה להגביל את סמכויותיו של הנשיא להשתמש בכוח צבאי מול איראן.",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957797.shtml?utm_source=rotter.net&utm_medium=mivzakside",
@@ -1177,27 +1294,9 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "מסתמן שנתניהו לא יטוס לארה''ב בשבוע הבא",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957782.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "בליכוד מבקשים מח״כים לא להתבטא בנושא האיראני",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957789.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "המניע של המאבטח הערבי להרוג את בן-גביר: נקמה על רצח חברו הערבי על-ידי ערבי אחר",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957781.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1474,15 +1573,6 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "כלל המקרים שפורסמו השנה בכלי התקשורת - פגיעות מיניות של ערבים ביהודיות",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957716.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "מצטרפת לבריטניה: צרפת מפנה את השגרירות שלה בטהרן",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957743.shtml?utm_source=rotter.net&utm_medium=mivzakside",
@@ -1684,87 +1774,6 @@
       "title": "בנט ב''טור מיוחד לתשעה באב'': לפרק את המדינה החרדית",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957633.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "ארה''ב ממשיכה למשוך נפט ממלאי החירום - בשבוע שהסתיים ב-17/7 נמשכו 5 מיליון חביות, המלאי עומד כעת על כ-311.5 מיליון (הכי נמוך מאז מרץ 1983)",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957689.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "טראמפ מפזר רמזים: איראן מתים לעסקה אבל הם לא מוכנים לזה. הם יהיו מוכנים לזה בקרוב",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957676.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "תוך שני עשורים בלבד: ישראל צנחה מהמקום השלישי ל-20 בשיעור האקדמאים",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957639.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "כתב NYT גונתן סוואן, על טראמפ, ישראל ובחירות 28: למרות הדברים שעלולים לתסכל אותך אצלו, סביר מאוד שלא תקבל נשיא אמריקאי פרו ישראלי יותר אחריו",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957700.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "מהדורות חדשות: רייטינג",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957702.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "תחזית מזג האוויר חם מהרגיל במידה ניכרת",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957695.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "שלמה פילבר מעריך: (הקואליציה)הם בדרך ל-70 מנדטים",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957630.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "300 מיליארד שקל על הכף: ארגוני הפשיעה מסמנים את המכרזים הממשלתיים",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957671.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "התקפת טילים אמריקאית מפתיעה על מעבר הגבול ''שלמצ'ה'' בין איראן לעיראק",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957697.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     }
