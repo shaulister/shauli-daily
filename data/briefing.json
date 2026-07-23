@@ -1,6 +1,6 @@
 {
   "date": "2026-07-23",
-  "updatedAt": "2026-07-22T23:30:53.198Z",
+  "updatedAt": "2026-07-23T03:16:22.767Z",
   "stories": [
     {
       "category": "טכנולוגיה",
@@ -651,6 +651,24 @@
       "publishedAt": "Sat, 11 Jul 2026 07:00:00 GMT"
     },
     {
+      "category": "דני אבדיה",
+      "source": "חדשות דני אבדיה",
+      "title": "בארה\"ב ניתחו: האתגר הגדול של פורטלנד",
+      "summary": "בארה\"ב ניתחו: האתגר הגדול של פורטלנד &nbsp;&nbsp; Sport5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE54TUhxbUlXOUEwS2lHOFJsSmdrMGVIdzIzbHc3Z21MNW12ZU13OVpUcmt6Y3cyMGRHSFhKUERBSTZQMjdQZjFRSnR3VU5VczIzT2ZERGpqM0YtRjhHOEtQekd0RXZjS0djMU14ZlM1ZnJHdw?oc=5",
+      "image": "",
+      "publishedAt": "Tue, 21 Jul 2026 19:51:23 GMT"
+    },
+    {
+      "category": "ארלינג האלנד",
+      "source": "חדשות ארלינג האלנד",
+      "title": "אגדת דשא: ארלינג האלנד הוא נסיכת האינטרנט החדשה",
+      "summary": "אגדת דשא: ארלינג האלנד הוא נסיכת האינטרנט החדשה &nbsp;&nbsp; זמן ישראל",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1lM3pKOFhsYWUtYS1sTUoyMUdKem91aF9raDdYb04wSzhBSU9JcTN0anE1c0lwRGRXWWd3eEdDT3dJQVQ0?oc=5",
+      "image": "",
+      "publishedAt": "Sat, 11 Jul 2026 07:00:00 GMT"
+    },
+    {
       "category": "אפל",
       "source": "גאדג׳טי — אפל",
       "title": "אפל מייקרת את מחירי השירותים בעולם - בישראל עדיין ללא שינוי",
@@ -779,19 +797,19 @@
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "מנכ\"ל נתיבי ישראל: מאות מיליונים מתגלגלים לפרוטקשן",
+      "title": "הקרב על בית הקפה הפתוח בשבת: חברי חוליית ההצתה נעצרו, בהם קטין בן 16",
       "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/criminal/artc-6dd46b00",
-      "image": "https://cdn.i24news.tv/uploads/d6/da/f8/b9/a6/33/4a/b9/f5/36/41/15/f5/d8/e8/e1/d6daf8b9a6334ab9f5364115f5d8e8e1.jpg?width=350",
+      "url": "https://www.i24news.tv/he/news/news/criminal/artc-4f814c66",
+      "image": "",
       "publishedAt": ""
     },
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "בית הקפה הפתוח בשבת: חברי חוליית ההצתה נעצרו",
+      "title": "מנכ\"ל נתיבי ישראל מודה: מאות מיליונים מכספי החברה מתגלגלים לתשלומי פרוטקשן | משה שטיינמץ",
       "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/criminal/artc-4f814c66",
-      "image": "https://cdn.i24news.tv/uploads/84/45/89/fc/31/de/ef/f1/bb/a8/9f/fa/c8/45/06/e2/844589fc31deeff1bba89ffac84506e2.jpg?width=350",
+      "url": "https://www.i24news.tv/he/news/news/criminal/artc-6dd46b00",
+      "image": "",
       "publishedAt": ""
     },
     {
@@ -806,10 +824,10 @@
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "נבחרת הטרור של חמאס: האמת על הכדורגלנים שחוסלו ברצועת עזה",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/local/artc-3403458a",
-      "image": "",
+      "title": "המשטרה בקריאה חריגה לציבור: עזרו לנו לאתר את אביאור ששון, החשוד ברצח בניהו רזי קרא עוד..",
+      "summary": "המשטרה בקריאה חריגה לציבור: עזרו לנו לאתר את אביאור ששון, החשוד ברצח בניהו רזי",
+      "url": "https://www.i24news.tv/he/news/news/criminal/artc-0ea25d2a",
+      "image": "https://cdn.i24news.tv/uploads/c0/2b/64/a4/ad/2b/48/59/0b/3e/12/a4/aa/53/2f/ff/c02b64a4ad2b48590b3e12a4aa532fff.jpg?width=750",
       "publishedAt": ""
     },
     {
@@ -842,23 +860,203 @@
     {
       "category": "דני אבדיה",
       "source": "חדשות דני אבדיה",
-      "title": "בארה\"ב ניתחו: האתגר הגדול של פורטלנד",
-      "summary": "בארה\"ב ניתחו: האתגר הגדול של פורטלנד &nbsp;&nbsp; Sport5",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE54TUhxbUlXOUEwS2lHOFJsSmdrMGVIdzIzbHc3Z21MNW12ZU13OVpUcmt6Y3cyMGRHSFhKUERBSTZQMjdQZjFRSnR3VU5VczIzT2ZERGpqM0YtRjhHOEtQekd0RXZjS0djMU14ZlM1ZnJHdw?oc=5",
+      "title": "\"אם דני אבדיה יעשה את זה, לפורטלנד לא תהיה ברירה\"",
+      "summary": "\"אם דני אבדיה יעשה את זה, לפורטלנד לא תהיה ברירה\" &nbsp;&nbsp; היום",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VTUZaTFZHNE5vX1QwaVlEY1o5ZmNkZlJMR1VDQ2NsRjBMdkdZUzQ1SWppMzd5YVpJVURzTjJHT0xkQ2NoMlFsVUxoeWtNallacjViU2ZVa3czZEdsbnJDbjV3WjlJVUE3ZWc3TXRrQmo4ZFctVjNSV9IBgAFBVV95cUxPanZ0cE04UldsNUxVMXNiUzBxVDRwSDNUWktqbnN2NjhuV0M4SE9mallnUDNMRGJYU2NqY0pXaGktX29XRXdYeFlzTW5zNmdtVkJabjNMRDhxVWJ0RzJYWUxZTFR3clhJXzAzdUZHRnpYUDRZZmN4R3RXX2ZSTHVOOQ?oc=5",
       "image": "",
-      "publishedAt": "Tue, 21 Jul 2026 19:51:23 GMT"
+      "publishedAt": "Tue, 21 Jul 2026 19:50:53 GMT"
     },
     {
       "category": "ארלינג האלנד",
       "source": "חדשות ארלינג האלנד",
-      "title": "אגדת דשא: ארלינג האלנד הוא נסיכת האינטרנט החדשה",
-      "summary": "אגדת דשא: ארלינג האלנד הוא נסיכת האינטרנט החדשה &nbsp;&nbsp; זמן ישראל",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1lM3pKOFhsYWUtYS1sTUoyMUdKem91aF9raDdYb04wSzhBSU9JcTN0anE1c0lwRGRXWWd3eEdDT3dJQVQ0?oc=5",
+      "title": "ארלינג הולאנד הפתיע את כולם אחרי ההדחה מהמונדיאל: \"אין שום סיכוי\"",
+      "summary": "ארלינג הולאנד הפתיע את כולם אחרי ההדחה מהמונדיאל: \"אין שום סיכוי\" &nbsp;&nbsp; ספורט 1",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtVWRjd1hLYWhkNTlNTTJKZDVQV1NWTnBMelVwaVBVUm9rbWFfSi1TRVRwcTVfSjNJSktrR3V4S0ZRaGFVaUlfWlF4RUFXMVAtSl9GT0JuN282eWJVNzV4X1VRaUpoUnNI?oc=5",
       "image": "",
-      "publishedAt": "Sat, 11 Jul 2026 07:00:00 GMT"
+      "publishedAt": "Sun, 12 Jul 2026 07:00:00 GMT"
     }
   ],
   "flashes": [
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "300 מיליארד שקל על הכף: ארגוני הפשיעה מסמנים את המכרזים הממשלתיים",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957671.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "צה''ל חושף: כדורגלנים עזתים שהוצגו לעולם כספורטאים בלבד - היו גם מחבלים בארגוני הטרור ברצועת עזה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957647.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "קהילת המודיעין האמריקנית פתחה בחקירה רגישה במטרה לברר האם רוסיה סייעה לאיראן בתקיפות נגד מתקני ה-CIA במזרח התיכון. תקיפות מדויקות במיוחד",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957688.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "נתניהו מתקשה ליצור קשר ישיר עם הנשיא טראמפ בעשרת הימים האחרונים",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957657.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "משמרות המהפכה מודיעים על פגיעה במיכלית נפט במיצרי הורמוז",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957692.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "טרופר: ''לא אשב עם דרעי שמתגאה בנכדים עריקים; לא אשלים 61 לנתניהו''",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957629.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "השר בן גביר: ערב הצום, ואני מקווה ששתיתם מספיק מים - כי הסיפור הזה, שחושף את מערכת המשפט במלוא קלונה וחרפתה, הולך לגרום לרתוח.",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957640.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "רה״מ שוקל לשריין את אלי אוחנה בליכוד",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957654.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "בנט ב''טור מיוחד לתשעה באב'': לפרק את המדינה החרדית",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957633.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "שלמה פילבר מעריך: (הקואליציה)הם בדרך ל-70 מנדטים",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957630.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "תוך שני עשורים בלבד: ישראל צנחה מהמקום השלישי ל-20 בשיעור האקדמאים",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957639.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "השפלה מתועדת: צעירים ערבים השליכו ביצים על עובדים זרים והפיצו את התיעודים ברשת",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957650.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "איתמר בן גביר לאזרח ערבי שהתעמת איתו: ״תזכור מה שאני אומר לך - אני אזרוק אותך״",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957658.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "אוסטריה: אישה זרה שילמה את חשבונה של משפחה ישראלית",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957617.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "קאליבאף: ביטחון מצר הורמוז תלוי בהיעדר הכוחות האמריקאיים. כבר אמרנו פעמים רבות שמצב המצר לא יחזור להיות כפי שהיה לפני המלחמה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957660.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "198 חברי קונגרס מהמפלגה הדמוקרטית הצביעו נגד הצעת חוק שאוסרת על חברי קונגרס לסחור במניות בזמן כהונתם, כל הרפובליקנים הצביעו בעד החוק.",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957690.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "גם הלילה - הפצצה של בסיס משמרות המהפכה בדרום אהוואז ( צפון מזרחית לכווית)",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957693.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ניו יורק: אדם שהתחזה לעובד חברת החשמל פרץ לבית משפחה חב״דית, שלף אקדח וחנק את האישה. בעלה שמע את זעקותיה דרך המצלמה, חזר לבית ונאבק בתוקף",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957680.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "לראשונה: הגרלת הלוטו האמריקאית Powerball יוצאת מחוץ לארה״ב, ותושבי בריטניה יוכלו להשתתף החל מהיום",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957656.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "דיווח ערבי על תקיפת מכלית נפט בים האדום סמוך לחופי סעודיה. עדכון: החות'ים מודיעים שהם תקפו 2 מכליות נפט של הסעודים",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957685.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
     {
       "category": "מבזקים",
       "source": "רוטר",
@@ -883,42 +1081,6 @@
       "title": "בן-ציון מקלס: מפת רצועת עזה העדכנית על רקע מיקום יישובי גוש קטיף וצפון הרצועה שפונו ב-2005 לפני 21 שנה",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957665.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "198 חברי קונגרס מהמפלגה הדמוקרטית הצביעו נגד הצעת חוק שאוסרת על חברי קונגרס לסחור במניות בזמן כהונתם, כל הרפובליקנים הצביעו בעד החוק.",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957690.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "קהילת המודיעין האמריקנית פתחה בחקירה רגישה במטרה לברר האם רוסיה סייעה לאיראן בתקיפות נגד מתקני ה-CIA במזרח התיכון. תקיפות מדויקות במיוחד",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957688.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "תוך שני עשורים בלבד: ישראל צנחה מהמקום השלישי ל-20 בשיעור האקדמאים",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957639.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "אוסטריה: אישה זרה שילמה את חשבונה של משפחה ישראלית",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957617.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -970,15 +1132,6 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "נתניהו מתקשה ליצור קשר ישיר עם הנשיא טראמפ בעשרת הימים האחרונים",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957657.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "לאחר ששמו של רואי כחלון עלה כמועמד אפשרי לראשות מח''ש, היועמשית חידשה את החקירה בעניינו. היועמשית מכחישה כל קשר בין 2 הדברים",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957625.shtml?utm_source=rotter.net&utm_medium=mivzakside",
@@ -1015,33 +1168,6 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "שלמה פילבר מעריך: (הקואליציה)הם בדרך ל-70 מנדטים",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957630.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "לראשונה: הגרלת הלוטו האמריקאית Powerball יוצאת מחוץ לארה״ב, ותושבי בריטניה יוכלו להשתתף החל מהיום",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957656.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "דיווח ערבי על תקיפת מכלית נפט בים האדום סמוך לחופי סעודיה. עדכון: החות'ים מודיעים שהם תקפו 2 מכליות נפט של הסעודים",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957685.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "סגן שר החוץ האיראני מאיים על מדינות אירופה: מתן אפשרות להשתמש בבסיסים בשטחכן לצורך תקיפה, יהפוך אתכן לצד במלחמה",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957678.shtml?utm_source=rotter.net&utm_medium=mivzakside",
@@ -1069,27 +1195,9 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "רה״מ שוקל לשריין את אלי אוחנה בליכוד",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957654.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "גאס, אחד ממאובני הטי-רקס הגדולים והשלמים ביותר שנמצאו אי-פעם, נמכר ב-50 מיליון דולר ועורר סערה בעולם המדע",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957668.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "איתמר בן גביר לאזרח ערבי שהתעמת איתו: ״תזכור מה שאני אומר לך - אני אזרוק אותך״",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957658.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
