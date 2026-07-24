@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "updatedAt": "2026-07-24T00:07:05.849Z",
+  "updatedAt": "2026-07-24T03:54:27.381Z",
   "stories": [
     {
       "category": "טכנולוגיה",
@@ -779,15 +779,6 @@
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "החיפושים אחר יובל בן ה-4 באשקלון יימשכו לתוך הלילה, במשטרה מבקשים את עזרת הציבור",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/local/artc-c1c65776",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "ישראל",
-      "source": "i24NEWS",
       "title": "טראמפ: \"שוקל ברצינות להורות על מתקפת ענק על איראן\"",
       "summary": "",
       "url": "https://www.i24news.tv/he/news/news/defense-news/artc-1d322edb",
@@ -824,9 +815,18 @@
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "הלילה ה-13 ברציפות: ארה\"ב פתחה בגל תקיפות נוסף באיראן",
+      "title": "דיווח: איראן סירבה להצעה להפסקת אש שהגיש ר\"מ עיראק | עדכונים שוטפים",
       "summary": "",
       "url": "https://www.i24news.tv/he/news/news/defense-news/artc-1a2805b1-89",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "השוטר בבוקסר, היצאנית והבריחה: האירוע הביזארי שקרה בתל אביב",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/criminal/artc-6ef94822",
       "image": "",
       "publishedAt": ""
     },
@@ -862,9 +862,63 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "אכיפה בררנית: לוחם מילואים שהעלה סרטון בעד סמוטריץ' הודח מיד, אחרים כולל הסמח''ט שלו שעשו דבר דומה למפלגות אחרות - ממשיכים כרגיל",
+      "title": "תחזית מזג האוויר הטמפרטורות ירדו מעט ועדיין חם מהרגיל. בשבת התחממות",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957815.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957841.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "אשקלון: סיוע באיתור נעדר (בן 4)",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957734.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "דיווח: מעבר כלי השיט בהורמוז בשפל, אתמול חצתה את המצר רק מכלית אחת",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957843.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "המון דלתות''''באמצע המילואים גילינו שהפכנו פתאום לאויבי הציבור''",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957819.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "וול סטריט ג'ורנל: הנשיא טראמפ מאבד את סבלנותו כלפי איראן ונמצא ב''מצב נקמה''",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957840.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "טראמפ ימסור היום הודעה מהחדר הסגלגל בנושא חדשנות אמריקאית בתחום האנרגיה הגרעינית",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957842.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "סקר מעריב השבועי: הליכוד יורד לשפל של 20 מנדטים, כמוהו לא היה במשך חודשים רבים. גוש מתנגדי נתניהו(ללא מפלגות ערביות) נותר יציב מעל 60 מנדטים",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957836.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -880,9 +934,108 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
+      "title": "ספרד הכריזה על מצב חירום לאומי במדריד ובאזורים נוספים בעקבות התפשטות שריפת יער גדולה ללא שליטה.",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957828.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
       "title": "איראן דחתה הצעת הפסקת אש של טראמפ שהועברה על ידי ראש ממשלת עיראק",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957831.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "גיא פלג: מה שעושים לפצ''רית זה איום ונורא, כל היחידה שלה בפוסט טראומה, היא חלק מהמטה הכללי",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957812.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "העיתונאית אושרת קוטלר: ''למה אנחנו לא לומדים את רבי יהודה? מה עם לימודי הליבה של החילונים?''",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957726.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "המחבל קוזו אוקמוטו, שרצח 24 בני אדם בנתב''ג, מת בביירות. שם רשעים ירקב",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957775.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "אכיפה בררנית: לוחם מילואים שהעלה סרטון בעד סמוטריץ' הודח מיד, אחרים כולל הסמח''ט שלו שעשו דבר דומה למפלגות אחרות - ממשיכים כרגיל",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957815.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "צבא ארה''ב עדכן שגל התקיפות ה-13 על אדמת איראן הושלם (4:31)",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957838.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ד''ר אמיר בוחבוט: איראן עלולה לגלגל פעולה קיצונית של מטחים גדולים כדי להסב נזק אדיר כבר במכת הפתיחה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957696.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "אסף רוזנצוייג: באיראן מאיימים לתקוף בישראל",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957837.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "טרו קריים ארה''ב: 30 שנה אחרי רצח רובין לורנס, רק גנאולוגית חובבת שהתנדבה לעזור למשטרה, מצאה באמצעות מחקר גניאולוגי במשך 3 שנים את הרוצח",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957784.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "''דייג הנערות'' של אפשטיין מת בנסיבות מסתוריות בביתו ליד פריז - לפני שנחקר",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957699.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "צפו: באמצע הקינות צרח הקנאי לרבם של החרדים העובדים: ''סתום ת'פה, מנוול'' (וידאו)",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957735.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -907,24 +1060,6 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "טרו קריים ארה''ב: 30 שנה אחרי רצח רובין לורנס, רק גנאולוגית חובבת שהתנדבה לעזור למשטרה, מצאה באמצעות מחקר גניאולוגי במשך 3 שנים את הרוצח",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957784.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "גיא פלג: מה שעושים לפצ''רית זה איום ונורא, כל היחידה שלה בפוסט טראומה, היא חלק מהמטה הכללי",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957812.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "רע''ן איראן באמ''ן לשעבר: הציפייה האמריקאית שטהראן תשנה כיוון רק משום שוושינגטון מעלה את ההימור הרטורי מעידה על חוסר הבנה של ההנהגה האיראנית",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957821.shtml?utm_source=rotter.net&utm_medium=mivzakside",
@@ -934,27 +1069,9 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "צפו: באמצע הקינות צרח הקנאי לרבם של החרדים העובדים: ''סתום ת'פה, מנוול'' (וידאו)",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957735.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "ניו יורק. דיווח לא מאומת על יהודי שנדקר במברג בידי תוקף שצעק אללה הוא אכבר.",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957813.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "ספרד הכריזה על מצב חירום לאומי במדריד ובאזורים נוספים בעקבות התפשטות שריפת יער גדולה ללא שליטה.",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957828.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -973,15 +1090,6 @@
       "title": "האישה נדהמה: התחתנתי עם שב''ח עזתי. סאהר בריק, בן 29 מדיר אל בלח ''כבש את ליבה'' של ישראלית מאזור הצפון. השניים התחתנו ואף הביאו ילד",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957737.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "אשקלון: סיוע באיתור נעדר (בן 4)",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957734.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1042,15 +1150,6 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "המחבל קוזו אוקמוטו, שרצח 24 בני אדם בנתב''ג, מת בביירות. שם רשעים ירקב",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957775.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "גופי מודיעין במערב מעריכים: איראן עשויה לפעול ראשונה נגד ישראל (נדב אייל)",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957790.shtml?utm_source=rotter.net&utm_medium=mivzakside",
@@ -1081,15 +1180,6 @@
       "title": "קצין בכיר בצה''ל: בניגוד לשתי המלחמות הראשונות, איראן מוכנה הפעם לשיגורים לעבר ישראל כמעט באופן מיידי בתרחיש של הרחבת המלחמה",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957804.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "העיתונאית אושרת קוטלר: ''למה אנחנו לא לומדים את רבי יהודה? מה עם לימודי הליבה של החילונים?''",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957726.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1150,27 +1240,9 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "המון דלתות''''באמצע המילואים גילינו שהפכנו פתאום לאויבי הציבור''",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957819.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "דיווח: ראש ממשלת עיראק תיווך בין איראן לארה״ב והעביר לטהראן הצעה להפסקת אש.",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957818.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "ד''ר אמיר בוחבוט: איראן עלולה לגלגל פעולה קיצונית של מטחים גדולים כדי להסב נזק אדיר כבר במכת הפתיחה",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957696.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1222,7 +1294,7 @@
       "name": "גיקטיים",
       "category": "טכנולוגיה",
       "url": "https://www.geektime.co.il/",
-      "status": "ok"
+      "status": "unavailable"
     },
     {
       "name": "מגזין רכב חשמלי",
