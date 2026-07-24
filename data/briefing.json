@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "updatedAt": "2026-07-24T06:29:01.036Z",
+  "updatedAt": "2026-07-24T09:05:43.515Z",
   "stories": [
     {
       "category": "טכנולוגיה",
@@ -669,6 +669,24 @@
       "publishedAt": "Thu, 23 Jul 2026 12:25:30 GMT"
     },
     {
+      "category": "טכנולוגיה",
+      "source": "גיקטיים",
+      "title": "מוביט מפטרת כשליש מ-200 העובדים שלה",
+      "summary": "Moovit, שעומדת מאחורי אפליקציית הניווט לתחבורה הציבורית ופיתוח של טכנולוגיות מוביליטי שונות, יוצאת בקיצוץ רוחבי במסגרתו תפטר כ-30 אחוזים מכוח האדם שלה. המשמעות היא שכ-60 מתוך 200 עובדי החברה יסיימו בקרוב את תפקידם. עובדים שיושפעו מהמהלך כבר קיבלו זימונים לשימועים אישיים שיתקיימו ביום ראשון הקרוב. הק",
+      "url": "https://www.geektime.co.il/moovit-lays-off-30-percent/",
+      "image": "",
+      "publishedAt": "Fri, 24 Jul 2026 05:32:46 +0000"
+    },
+    {
+      "category": "דני אבדיה",
+      "source": "חדשות דני אבדיה",
+      "title": "חשש לעתידה של פורטלנד, בארה\"ב כועסים: \"שה-NBA לא תדפוק את זה\"",
+      "summary": "חשש לעתידה של פורטלנד, בארה\"ב כועסים: \"שה-NBA לא תדפוק את זה\" &nbsp;&nbsp; וואלה ספורט",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvekFleVlad2tyellqTERTLUViYkt3RjAxRmdqeFcydXZzNGhZQXAwMURBemhEekhNUVF3QUYza1R2UjNrVlVnbm01OGxWTEZv?oc=5",
+      "image": "",
+      "publishedAt": "Fri, 24 Jul 2026 05:12:00 GMT"
+    },
+    {
       "category": "אפל",
       "source": "גאדג׳טי — אפל",
       "title": "דיווח חדש מציגת את מפת הדרכים המלאה של אפל לריענון מחשבי המק",
@@ -779,7 +797,7 @@
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "נמשכים החיפושים אחר יובל כוגן בן ה-4 שנעלם באשקלון",
+      "title": "היעלמות הילד יובל באשקלון: המפכ\"ל הנחה שכל חניכי וצוהרי המכללה לשוטרים ומג\"ב יוקפצו לסייע",
       "summary": "",
       "url": "https://www.i24news.tv/he/news/news/local/artc-abd63b42",
       "image": "",
@@ -788,10 +806,28 @@
     {
       "category": "ישראל",
       "source": "i24NEWS",
-      "title": "הרוג ו-3 פצועים באירוע ירי ליד חוות גלעד בשומרון: פלסטינים חטפו נשק מישראלים",
+      "title": "הנרצח בפיגוע ליד חוות גלעד: רבש\"ץ היישוב, בניהו מלט",
       "summary": "",
       "url": "https://www.i24news.tv/he/news/news/defense-news/artc-d2f0544f",
-      "image": "https://cdn.i24news.tv/uploads/89/f3/56/c4/3a/43/52/81/d6/60/c8/6a/1a/83/e2/23/89f356c43a435281d660c86a1a83e223.jpg?width=350",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "בניהו מלט ז\"ל, חבר כיתת הכוננות בחוות גלעד, נרצח בפיגוע הבוקר",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-1a194721",
+      "image": "https://cdn.i24news.tv/uploads/ac/ad/64/6b/e5/45/2f/25/1e/e9/c1/5b/97/5c/7a/c6/acad646be5452f251ee9c15b975c7ac6.jpg?width=350",
+      "publishedAt": ""
+    },
+    {
+      "category": "ישראל",
+      "source": "i24NEWS",
+      "title": "אונסק\"ו צפוי להגדיר את סבסטיה כאתר מורשת פלסטיני בסיכון",
+      "summary": "",
+      "url": "https://www.i24news.tv/he/news/news/diplomacy/artc-667b43d7",
+      "image": "https://cdn.i24news.tv/uploads/a0/9f/48/00/0c/09/29/e8/37/10/b1/30/00/f7/c2/af/a09f48000c0929e83710b13000f7c2af.jpg?width=350",
       "publishedAt": ""
     },
     {
@@ -800,44 +836,17 @@
       "title": "הובילה את המאבק להשבת בנה: זהבה שאול, אימו של אורון שאול, הלכה לעולמה",
       "summary": "",
       "url": "https://www.i24news.tv/he/news/news/local/artc-5d264fc2",
-      "image": "https://cdn.i24news.tv/uploads/41/1a/96/bd/87/5b/ad/ce/1b/f6/25/75/5d/74/af/95/411a96bd875badce1bf625755d74af95.jpg?width=350",
-      "publishedAt": ""
-    },
-    {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "באיראן מאיימים לתקוף בתל אביב במידה וארה\"ב תפגע בתשתיות לאומיות",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/defense-news/artc-1a2805b1-89",
-      "image": "https://cdn.i24news.tv/uploads/18/ac/63/ca/cf/b1/93/f1/64/cd/31/1f/a7/74/58/b0/18ac63cacfb193f164cd311fa77458b0.jpg?width=350",
-      "publishedAt": ""
-    },
-    {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "תיעוד בלעדי: עשרות ק\"ג סמים אותרו במונית בצפון הארץ | צפו",
-      "summary": "",
-      "url": "https://www.i24news.tv/he/news/news/criminal/artc-25065969",
       "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "ישראל",
-      "source": "i24NEWS",
-      "title": "החיפושים אחר יובל בן ה-4 באשקלון יימשכו לתוך הלילה, במשטרה מבקשים את עזרת הציבור קרא עוד..",
-      "summary": "החיפושים אחר יובל בן ה-4 באשקלון יימשכו לתוך הלילה, במשטרה מבקשים את עזרת הציבור",
-      "url": "https://www.i24news.tv/he/news/news/local/artc-c1c65776",
-      "image": "https://cdn.i24news.tv/uploads/11/6c/40/d5/57/1e/6c/a4/99/10/d2/8d/8f/12/47/d3/116c40d5571e6ca49910d28d8f1247d3.jpg?width=750",
       "publishedAt": ""
     },
     {
       "category": "טכנולוגיה",
       "source": "גיקטיים",
-      "title": "מוביט מפטרת כשליש מ-200 העובדים שלה",
-      "summary": "Moovit, שעומדת מאחורי אפליקציית הניווט לתחבורה הציבורית ופיתוח של טכנולוגיות מוביליטי שונות, יוצאת בקיצוץ רוחבי במסגרתו תפטר כ-30 אחוזים מכוח האדם שלה. המשמעות היא שכ-60 מתוך 200 עובדי החברה יסיימו בקרוב את תפקידם. עובדים שיושפעו מהמהלך כבר קיבלו זימונים לשימועים אישיים שיתקיימו ביום ראשון הקרוב. הק",
-      "url": "https://www.geektime.co.il/moovit-lays-off-30-percent/",
+      "title": "היזם שלא ויתר על האפליקציה ובנה אותה מחדש: \"רציתי להחזיר את המוצר שכולם אוהבים\"",
+      "summary": "לפני יותר מעשור הושקה Trailze, שתוארה אז כ-Waze לטיולי השטח שלכם. למרות דרך ארוכה שכללה השקעות, עשרות אלפי משתמשים, פיצ'רים חדשים ומסלולים, הודיע ב-2021 המייסד שלה על סגירתה בטווח זמן כמעט מיידי. עכשיו, באופן מפתיע, חוזרת האפליקציה מאי-המתים עם חיים חדשים ומיקוד חדש. הסגירה, הבחירה השגויה – והחיים ה",
+      "url": "https://www.geektime.co.il/trailze-comes-back-to-life/",
       "image": "",
-      "publishedAt": "Fri, 24 Jul 2026 05:32:46 +0000"
+      "publishedAt": "Fri, 24 Jul 2026 07:22:00 +0000"
     },
     {
       "category": "ספורט",
@@ -869,23 +878,32 @@
     {
       "category": "דני אבדיה",
       "source": "חדשות דני אבדיה",
-      "title": "חשש לעתידה של פורטלנד, בארה\"ב כועסים: \"שה-NBA לא תדפוק את זה\"",
-      "summary": "חשש לעתידה של פורטלנד, בארה\"ב כועסים: \"שה-NBA לא תדפוק את זה\" &nbsp;&nbsp; וואלה ספורט",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvekFleVlad2tyellqTERTLUViYkt3RjAxRmdqeFcydXZzNGhZQXAwMURBemhEekhNUVF3QUYza1R2UjNrVlVnbm01OGxWTEZv?oc=5",
+      "title": "יככב לצד האקסים של הפועל תל אביב: חברו של דני אבדיה חתם ביורוליג",
+      "summary": "יככב לצד האקסים של הפועל תל אביב: חברו של דני אבדיה חתם ביורוליג &nbsp;&nbsp; היום",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hd0tWc0psZWxPWjloWmt5cmtTQXRRa3RvNFJhUE5UYjM1LXZxeVA1dHVWLWdIQktIRF9NaFBUa1ppSXRlYUVGTllhWUstay1ZZ2Q3QVNqQ3gzN1A2akZlNUlhci1kbG9mZGdSaUt1OThYbTA1WEY1edIBgAFBVV95cUxNaWZYN1BkX1Z1cDVoaTk4RkhpcnVwdG5LR3FvSjU4b0xtOHR4ZFVROXBYRjBZT1o2ZV8yNHd3U3Ntc1JqSUVyOC1IU0NJbjh6LTJJdFZUR0c3YWFlWjZrTk9wXzBWeFVWWXBybVNmcFk0bjN0djB1YVVRR1FzLUllSw?oc=5",
       "image": "",
-      "publishedAt": "Fri, 24 Jul 2026 05:12:00 GMT"
+      "publishedAt": "Sat, 18 Jul 2026 12:37:33 GMT"
+    },
+    {
+      "category": "דני אבדיה",
+      "source": "חדשות דני אבדיה",
+      "title": "\"מרגיש קצת נמוך\": בארה\"ב חזו את הדירוג של דני אבדיה ב-2030",
+      "summary": "\"מרגיש קצת נמוך\": בארה\"ב חזו את הדירוג של דני אבדיה ב-2030 &nbsp;&nbsp; ynet",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Wc3UyOEcydU82S0NJS0RZZGxwZmtZTy0tM3NEUG51bjBZbGljNHdmM0tXUlVPUnRPZDA1Vjg5TF92TzA4a1k1NEFjemdrdmgtbTMwTmpWTG9naWNmZG5RcWZ2MGV4bzc3MWhtWU9TQ2o?oc=5",
+      "image": "",
+      "publishedAt": "Mon, 13 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "category": "דני אבדיה",
+      "source": "חדשות דני אבדיה",
+      "title": "דיווח דרמטי: דני אבדיה ופורטלנד עשויים לעבור לאוקלהומה",
+      "summary": "דיווח דרמטי: דני אבדיה ופורטלנד עשויים לעבור לאוקלהומה &nbsp;&nbsp; היום",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15OXdDbG9oQUNXdldVNXV3TjFURW00cnUxR0tOdGdHRXBONERzZHNjdU1PWkZrZF94akM2VVhmOFBEVzE1WjZFT2tNbUN2QWdnbXBWVmQxa1pXbmptdHJlTXlHekFkY05JMWl6Mnh6OUg3YjFMc2xhWNIBgAFBVV95cUxNcV80YmhNNzFiMmQ2dktYX0gyWWhpdFRmb05oa2FhQzBucUh0OGdHOG9oNnlhQktzOHNLTFlQZzFfRHFjdkVWZTZ2cmNNVlU5MWtTR0I2cDk4UG5PMy1hTHBjME9rTVVkZ0FDbjBRWE5kbkNHZGNyZ2k3NTU5SGhHNQ?oc=5",
+      "image": "",
+      "publishedAt": "Mon, 20 Jul 2026 14:09:54 GMT"
     }
   ],
   "flashes": [
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "חוות גלעד: מחבלים חטפו נשק של רבשצ וביצעו ירי | 3 פצועים באירוע",
-      "summary": "",
-      "url": "https://rotter.net/forum/scoops1/957852.shtml",
-      "image": "",
-      "publishedAt": ""
-    },
     {
       "category": "מבזקים",
       "source": "רוטר",
@@ -898,9 +916,18 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "בית המשפט דחה את בקשת יאיר נתניהו נגד עיתונאי ''הארץ''",
+      "title": "תמונת מצב של 24 השעות האחרונות: חיל האוויר האמריקאי מעביר כמות עצומה של מטוסים וציוד צבאי לכיוון המזרח התיכון.",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957854.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957823.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "דוד זיני: התשקורת רודפת אותי ועשתה לי רצח אופי",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957845.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -916,9 +943,153 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "דוד זיני: התשקורת רודפת אותי ועשתה לי רצח אופי",
+      "title": "לקראת שבת פרשת 'וָאֶתְחַנַּן' והפטרת נַחֲמוּ נַחֲמוּ עַמִּי - נחמה בכפליים, סיבה לאריכות ימים בזכות כיבוד הורים והורדת 10 הדיברות מההר לחיים",
       "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957845.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "url": "http://rotter.net/forum/scoops1/957874.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ראש הממשלה בנימין נתניהו יכנס בעוד זמן קצר את שר הביטחון והרמטכ״ל לדיון בדרכי התגובה לפיגוע הרצחני הבוקר בחוות גלעד",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957864.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "החיפושים אחר יובל קוגן בן ה-4: מפכ''ל המשטרה, רנ''צ דני לוי, הגיע לחפ''ק המשטרה בחוף אשקלון, שם הוא מקיים הערכת מצב",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957872.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ההיעלמות המסתורית של הילד בן ה-4 באשקלון: המשטרה העבירה לשב''כ את הדיווח והפרטים על היעלמותו. במידה ויעלה משהו שיצריך התערבות של השב''כ",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957802.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "סקר מעריב השבועי: הליכוד יורד לשפל של 20 מנדטים, כמוהו לא היה במשך חודשים רבים. גוש מתנגדי נתניהו(ללא מפלגות ערביות) נותר יציב מעל 60 מנדטים",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957836.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "עובדי סניף דואר במושב חשודים בפתיחה סדרתית של מכתבים אישיים",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957873.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "כוחות צה''ל חיסלו את המחבל שביצע את פיגוע הירי מוקדם יותר היום במרחב הכפר תל בחטיבת שומרון",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957869.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "אביו של ג'ארד קושנר עוזב את ניו יורק: ''אנטישמיות בוטה''",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957866.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "בית המשפט דחה את בקשת יאיר נתניהו נגד עיתונאי ''הארץ''",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957854.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "הותר לפרסום: הנרצח בפיגוע בניהו מלט מחוות גלעד",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957867.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "מנחת רוקדים עם כוכבים לוסי איוב: ''המפלגות הערביות הן השעיר לעזעזל''",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957871.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "תחזית מזג האוויר הטמפרטורות ירדו מעט ועדיין חם מהרגיל. בשבת התחממות",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957841.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "ראש מועצת קדומים עוזאל ותיק בעקבות הפיגוע: ''הצבא חייב להיכנס מיד לכפרים ממערב לשכם, בית אחר בית''",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957865.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "בלימת החוק לגירוש בני משפחות מחבלים שמעודדים טרור",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957847.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "עוד פיטורים בהייטק הישראלי: מוביט מקצצת 30% מכוח האדם",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957870.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "התיעוד האחרון של יובל בן ה-4 עם אביו ואחיותיו, כפי שנקלט במצלמות האבטחה",
+      "summary": "",
+      "url": "http://rotter.net/forum/scoops1/957851.shtml?utm_source=rotter.net&utm_medium=mivzakside",
+      "image": "",
+      "publishedAt": ""
+    },
+    {
+      "category": "מבזקים",
+      "source": "רוטר",
+      "title": "חוות גלעד: מחבלים חטפו נשק של רבשצ וביצעו ירי | 3 פצועים באירוע",
+      "summary": "",
+      "url": "https://rotter.net/forum/scoops1/957852.shtml",
       "image": "",
       "publishedAt": ""
     },
@@ -955,15 +1126,6 @@
       "title": "שומרון: ערבי חדר לבית בישוב רחלים הלילה",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957858.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "התיעוד האחרון של יובל בן ה-4 עם אביו ואחיותיו, כפי שנקלט במצלמות האבטחה",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957851.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1024,15 +1186,6 @@
     {
       "category": "מבזקים",
       "source": "רוטר",
-      "title": "ההיעלמות המסתורית של הילד בן ה-4 באשקלון: המשטרה העבירה לשב''כ את הדיווח והפרטים על היעלמותו. במידה ויעלה משהו שיצריך התערבות של השב''כ",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957802.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
       "title": "נמשכים גם כעת החיפושים אחר הילד בן ה-4 באשקלון. עד כה ללא תוצאות",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957832.shtml?utm_source=rotter.net&utm_medium=mivzakside",
@@ -1045,24 +1198,6 @@
       "title": "טראמפ: עד להודעה חדשה, כל נזק שייגרם לאוניות, למטענים או לכל דבר הקשור לכך, ישולם על ידי כסף איראני שברשותה ובשליטתה של ארצות הברית.",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957824.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "בלימת החוק לגירוש בני משפחות מחבלים שמעודדים טרור",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957847.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "תחזית מזג האוויר הטמפרטורות ירדו מעט ועדיין חם מהרגיל. בשבת התחממות",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957841.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1108,15 +1243,6 @@
       "title": "טראמפ ימסור היום הודעה מהחדר הסגלגל בנושא חדשנות אמריקאית בתחום האנרגיה הגרעינית",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957842.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "סקר מעריב השבועי: הליכוד יורד לשפל של 20 מנדטים, כמוהו לא היה במשך חודשים רבים. גוש מתנגדי נתניהו(ללא מפלגות ערביות) נותר יציב מעל 60 מנדטים",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957836.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
@@ -1234,15 +1360,6 @@
       "title": "ניו יורק. דיווח לא מאומת על יהודי שנדקר במברג בידי תוקף שצעק אללה הוא אכבר.",
       "summary": "",
       "url": "http://rotter.net/forum/scoops1/957813.shtml?utm_source=rotter.net&utm_medium=mivzakside",
-      "image": "",
-      "publishedAt": ""
-    },
-    {
-      "category": "מבזקים",
-      "source": "רוטר",
-      "title": "תמונת מצב של 24 השעות האחרונות: חיל האוויר האמריקאי מעביר כמות עצומה של מטוסים וציוד צבאי לכיוון המזרח התיכון.",
-      "summary": "",
-      "url": "http://rotter.net/forum/scoops1/957823.shtml?utm_source=rotter.net&utm_medium=mivzakside",
       "image": "",
       "publishedAt": ""
     },
